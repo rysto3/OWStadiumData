@@ -1,0 +1,29 @@
+name: Fetch Builds from Supabase
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'  # Every day at midnight UTC
+
+jobs:
+  fetch-builds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch builds and update file
+        run: |
+          python3 fetch_builds.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update builds.json from Supabase
+          file_pattern: builds.json
