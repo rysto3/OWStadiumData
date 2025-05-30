@@ -1,11 +1,11 @@
 [
     {
-        "id": "de88b78e-8cff-4c77-a7c9-f101896bade1",
+        "id": "78a9ee49-f333-4744-970d-9260b7f9091e",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
         "round_number": 1,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n- \ud83d\udfe2 **Buy** [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) and [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n- \ud83d\udfe2 **Buy** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)\n  - Make sure you use Quick Melee all the time for self-sustain\n- \ud83d\udfe0 **Buy** [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508)\n\n---\n### \u2694\ufe0f Playstyle\n**Play safe until you find your opening.** You haven't got your wound upgrades yet, so you can't go too crazy. Play patient! Use cover. Fish for an out-of-position squishy with Knife, use Shout to push them, secure the kill, reset Shout, and snowball from there.",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $3500. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Buy** [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n2. **Buy** [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n3. **Buy** one of:\n    - \ud83d\udd3a [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)\n      - Excellent survivability in close-range fights. You'd be surprised how much it helps if you use Quick Melee often!\n      - Great into close-range enemies like [Reinhardt](hero_a3b6ca2c-6cbd-43dc-bb78-a728e42fba49) and [Reaper](hero_0449752f-1c58-487b-b9a0-ca727d784457), but you might struggle to find $1500 of value against enemies who prefer more space, like [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) and [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54)\n    - \ud83d\udd3a [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250)\n      - Very strong synergy with [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508). Enables snowballing \n    - \ud83d\udd38 [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418) \n      - Good for hunting down stragglers and finding [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) procs\n4. **Buy** [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508)\n    - Too strong to leave. Enables you to become a snowballing monster after just one elim\n\n---\n### \u2694\ufe0f Playstyle\n**Play safe until you find your opening.** \n\nYou haven't got your wound or axe upgrades yet, so you can't go too crazy. Play patient! Use cover. Fish for an out-of-position squishy with Knife, use Shout to push them, secure the kill, reset Shout, and snowball from there.",
         "stats": {
             "LIFE": 400,
             "Armor": 0,
@@ -23,44 +23,50 @@
         },
         "round_upgrades": [
             {
-                "id": "f372d53b-2818-48d8-bddf-788c5f7feee7",
+                "id": "7050e2b1-b53f-4f09-a5e9-7acaefb91301",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
             },
             {
-                "id": "78733f08-c6cd-47f5-81e5-bae23e0e90ce",
+                "id": "1ffbd8bf-cb4c-4149-bf43-66cc1d9c13f0",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
             },
             {
-                "id": "07412b87-d384-465a-ab2d-e4c1bb237d00",
+                "id": "61f837e2-bee5-4da9-94c2-4f5af2a3fc45",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
             },
             {
-                "id": "a8dc0ee0-2fd0-4166-917a-2e1ccc945c77",
+                "id": "107e293d-8377-4f18-895a-981f82a3e7f9",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "5f0a793a-edf8-4a03-981d-e4915bf7bfc5",
-                "notes": "Generally good",
+                "id": "a4637a69-9d77-4461-a0e6-26dd9f1d0d68",
+                "notes": "",
                 "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+            },
+            {
+                "id": "150f3784-d39b-4040-8d9c-ae9e673d16d2",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
             }
         ]
     },
     {
-        "id": "a4df0efc-a6ae-4ac9-a981-cda368c98457",
+        "id": "690c5b09-606b-407b-bb3f-63daf897116d",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
         "round_number": 2,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $6000*\n1. \ud83d\udd35 **Buy** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n    - Build full AP for now - this is a big boost to Knife, Axe, and wound damage\n    - Will improve Shout damage once you pick up [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) next round\n    - [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)'s price was increased by $500 on May 20, but it's still worth every penny [^nano_cola_nerf] \n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $3500:**\n  1. **Sell**:\n      - \ud83d\udfe2 [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)\n      - \ud83d\udfe2 [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) *(if you still don't have $5500)*\n  2. \ud83d\udd35 **Buy** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n\n- **Under $3000:**\n  - \ud83d\udfe2 **Buy** [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250)\n    - Replace with [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) if [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) or [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546) are causing issues\n\n---\n### \ud83d\udcc8 Spare cash after core changes?\n- **Over $8000:**\n  1. **Buy** TWO of: \n      - \ud83d\udd35 [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n      - \ud83d\udd35 [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n      - \ud83d\udd35 [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) \n- Don't be tempted to sell [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) in favour of [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) -- keeping it and buying two more blue items gives more, plus some extra buffs, for the same price\n\n- **Under $8000:**\n  1. \ud83d\udd35 **Buy**  [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n  2. Top up with green items as cash allows\n\n---\n### \u2694\ufe0f Playstyle\nSame playstyle as round 1: play safe until your opening with Knife.\n\n---\n#### Footnotes\n[^nano_cola_nerf]: https://overwatch.blizzard.com/en-us/news/patch-notes/live/2025/05/",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $6000. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Buy** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n    - Most heroes won't have enough damage to totally poke you out yet, so you're (mostly) safe to build full AP this round\n    - [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)'s price was increased by $500 on May 20, but it's still worth every penny [^nano_cola_nerf] \n\n---\n### \ud83d\udcc8 Extra cash?\n*Look here if you have spare cash after all core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n\n- **Over $4000:**\n  1. **Buy** as many as you can:\n      - \ud83d\udd3a [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n      - \ud83d\udd38 [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\n      - \ud83d\udd3b [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - Better than [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) and [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) *if* you're confident at hitting Knives, but probably still worse than [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) \n  2. **Buy** as many as you can with any leftover cash:\n      - \ud83d\udd3a [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250)\n        - Very strong synergy with [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508). Enables snowballing\n      - \ud83d\udd38 [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418)\n        - Useful for the movement speed alone, but also for procing [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508)\n        - Take this if you're struggling to proc [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508); take [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) if you're struggling to snowball. If you're doing fine and just need an item, [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) is better\n  3. Don't be tempted to sell [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) and exchange it for something like [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) -- you can get more AP from 3 blue items for the same price\n\n- **Under $4000:**\n  1. **Buy** [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) and/or [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418) (see above)\n\n---\n### \ud83d\udcc9 Missing cash?\n*Look here if you can't afford core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. See *Extra cash?* section and buy from there \n    - Prioritise buying an AP item like [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e), since you're missing out on [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)'s big AP boost\n\n---\n#### Footnotes\n[^nano_cola_nerf]: https://overwatch.blizzard.com/en-us/news/patch-notes/live/2025/05/",
         "stats": {
             "LIFE": 412,
             "Armor": 0,
@@ -78,49 +84,49 @@
         },
         "round_upgrades": [
             {
-                "id": "eddf0f26-e329-4c85-b451-43e8e11954c3",
+                "id": "e6ab24e7-63cd-452b-bd39-42dbedc771f1",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "f9ec7c3a-e9a5-4cc2-8804-5ff88c946e41",
+                "id": "4fbdbfd9-a47e-49a6-87e6-e71ba24c756b",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
             },
             {
-                "id": "7ce61f72-afa8-4019-9fe1-3d0825d0c51e",
-                "notes": "Synergy with Let's Go Win",
-                "action": "optional",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "b8d960c4-d183-4bc1-ab74-43eb76e883e3",
-                "notes": "Generally good",
+                "id": "9b03e2c6-0e59-4ae1-bb32-c6b18418d11d",
+                "notes": "",
                 "action": "optional",
                 "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
             },
             {
-                "id": "f33c57d9-9280-4190-8636-be992243bc77",
-                "notes": "vs. Zarya, Soldier",
+                "id": "86c21baa-6ace-4f17-a949-2f4a9100b589",
+                "notes": "",
                 "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
             },
             {
-                "id": "1a754e9d-5eb4-44c2-bc4d-3135e5602f80",
+                "id": "037c719c-6862-4076-819b-266c77c222be",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "c0acbb75-6f00-4736-9bb9-c144e168f511"
+            },
+            {
+                "id": "00daccb0-3258-4573-b796-edf1c6bb1f9f",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
             },
             {
-                "id": "fe9f49bc-c2dd-4da4-9490-0f9272e6b32d",
+                "id": "77b889a7-65bd-4522-9d41-da78d5b77fe7",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
             },
             {
-                "id": "09005c00-35cc-4931-94f8-f60e3a4cf4bd",
+                "id": "a4f28dc7-0a09-4ace-88ea-e8be6787a6d5",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
@@ -128,90 +134,193 @@
         ]
     },
     {
-        "id": "23a55dca-cc79-4a8a-b492-061f2bafb5ab",
+        "id": "161ef524-9730-46c3-8360-4674abeb95fc",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
         "round_number": 3,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $11000 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) or $10000 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8))*\n1. **Buy** one of:\n    - \ud83d\udfe0 [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) (damage-over-time and self-healing)\n      - This is the core choice for this build. Choose it if you're not having issues with [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f), [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), or [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000)\n    - \ud83d\udfe0 [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) (burst damage and overhealth)\n      - An *excellent* choice in almost all situations, but into [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) / [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) / [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000) (heroes who remove wounds or stop you from healing), it's almost *definitely* better than [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) \n      - Note that [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) is still playable into these heroes if you buy items like [Rebellious Spirit](item_59d3bff2-ca1f-459e-a450-80e011a10fd2), but it's tricky\n      - You're already building AP, so with some small adjustments, both Shout *and* Carnage can be powerhouses at the same time\n2. **Buy** one of:\n    - \ud83d\udfe3 [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) (for [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52))\n      - Note that this item **DOES** extend the range of [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52), despite [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)'s description specifying a static 10 meters\n    - \ud83d\udfe3 [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05) (for [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8))\n      - [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000)'s grenade doesn't stop you gaining overhealth, and two Carnage charges can be enough to burst through [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0)'s bubbles\n    - [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is another option if you have enough cash for it, but don't sell core items for it\n      - On May 20, [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) was nerfed: its price was increased $500 and its AP was reduced by 5. This means *much* worse value for money. IMO, it's no longer the best item to pick here, but it's still an option if you want raw damage or have cash out the wazoo [^champions_kit_nerf]\n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $8500 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) / $7500 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8)):**\n    1. \ud83d\udfe2 **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7), then, if needed, [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n    2. \ud83d\udfe3 **Buy** your purple item from the *Core changes* section\n    3. Top up with green items (see *Over $1500* section)\n\n- **Under $8500 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) / $7500 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8)):**\n    1. \ud83d\udd35 **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) \n    2. Top up with green items (see *Over $1500* section)\n\n---\n### \ud83d\udcc8 Spare cash after core changes?\n- **Over $4000:**\n    1. \ud83d\udd35 **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) \n    2. Top up with green items (see *Over $1500* section)\n\n- **Under $4000:**\n    1. **Buy** as many as you can from: \n        - \ud83d\udfe2 [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) \n        - \ud83d\udfe2 [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n        - \ud83d\udfe2 [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) \n\n---\n### \u2694\ufe0f Playstyle\n- [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52):\n  - Applies wound to all enemies in Shout radius\n  - This changes the playstyle quite a bit. You're not just giving your team speed and overhealth anymore: you're on your way to becoming a wound-applying monster. From now on, it's important to get on top of enemies and *then* use Shout -- the more enemies you hit, the more you heal\n  - Late-game, you'll heal for a *lot* (like, hundreds) when you wound 5 enemies at once. Don't forget that wounds stack, so be sure to be using Carnage and Quick Melee to double up where you can\n- [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8):\n  - Gives Carnage (axe) another charge\n  - This is great for burst damage and for farming overhealth. One Carnage and a melee is sometimes enough to kill a squishy alone, but two in a row will definitely finish the job\n  - **Tip:** hold the Quick Melee button during (and for a moment after) Carnage: this animation cancels and queues a melee to hit at the first available frame\n\n---\n#### Footnotes\n[^champions_kit_nerf]: https://overwatch.blizzard.com/en-us/news/patch-notes/live/2025/05/",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $10000. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Buy** [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8)\n    - An *excellent* choice in almost all situations. It's awesome to have two axes, and it's a very reliable buff (more so than other options like [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52), which falls apart in the face of a counter)\n    - Carnage scales with AP. So does the overhealth it grants. So does the power of its wound, and therefore your self healing. Once you grab some AP, if you can catch even 2 players with an axe, that's a *lot* of damage and a *lot* of healing\n2. **Buy** [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05)\n    - Essential for a bit of survivability to offset the long axe animation. This item is especially cool into [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000), because while her grenade stops healing, it doesn't stop you generating overhealth\n\n---\n### \ud83d\udcc8 Extra cash?\n*Look here if you have spare cash after all core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n\n- **Over $4000:**\n  1. **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) and/or [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) if you need extra space\n  2. **Buy** as many as you can:\n      - \ud83d\udd3a [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n        - Really, really good with [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) -- drastically increases both the damage and sustain from your two Carnage charges, making you an absolute unit for a few seconds\n      - \ud83d\udd38 [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\n      - \ud83d\udd3b [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - Better than [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) *if* you're confident at hitting Knives\n        - If you have high Knife accuracy, this is better than it sounds, since the extra yoink makes a [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) proc much easier\n      - \ud83d\udd3b [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) \n        - Almost essential into a good [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768), since he'll boop you every time you try to use Carnage. Also can be useful into [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) or a [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0) with [Coulder](item_12ad88e8-650a-44ec-b1e1-a39646055d68) \n  3. **Buy** as many as you can with any leftover cash:\n      - \ud83d\udd3a [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250)\n        - Strong synergy with [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) \n      - \ud83d\udd38 [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418)\n        - Useful for the movement speed alone, but also for procing [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508)\n        - Take this if you're struggling to proc [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508); take [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) if you're struggling to snowball. If you're doing fine and just need an item, [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) is better\n\n- **Under $4000:**\n  1. **Buy** [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) and/or [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418) (see above)\n\n---\n### \ud83d\udcc9 Missing cash?\n*Look here if you can't afford core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) and/or [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) (until you reach $10000)\n2. If you now have $10000: buy [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05). Otherwise:\n    1. See *Extra cash?* section and buy from there \n        - [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05) is important for survivability, so you have two options:\n            1. Buy a worse survivability item (choice is yours, none of them are amazing -- focus Ability Lifesteal)\n            2. Buy full AP and try to go absolutely crazy this round, picking up cash to afford important items next round\n                - [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) and [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) are top contenders for securing elims\n\n---\n### \u2694\ufe0f Playstyle changes\n- [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8):\n  - Gives Carnage (axe) another charge. This is great for burst damage and for farming overhealth. One Carnage and a melee is sometimes enough to kill a squishy alone, but two in a row will definitely finish the job\n  - **Tip:** hold the Quick Melee button during (and for a moment after) Carnage: this animation cancels and queues a melee to hit at the first available frame",
         "stats": {
-            "LIFE": 427,
+            "LIFE": 476,
             "Armor": 0,
             "Shield": 0,
             "Max Ammo": 0,
             "Move Speed": 0,
-            "Total LIFE": 427,
+            "Total LIFE": 476,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 30,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 10,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "053c7207-5ae7-4613-ae62-bb3881e3588c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
+            },
+            {
+                "id": "57ea0146-0f0f-47f9-b5fe-ef1973101d35",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6f404c88-210f-473d-a7e6-e03547a074b8"
+            },
+            {
+                "id": "c7eb5beb-d983-41fe-b13b-e100811973c9",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
+            },
+            {
+                "id": "bf87d64e-fb73-4932-ac1e-7d30b623e5a6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "179cbdcc-d2fa-4501-9552-b6009a649e05",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
+            },
+            {
+                "id": "ae2b3987-bddf-4396-9492-fdd4e131fc61",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "abdb41a2-a197-45ff-95f4-c52e5f321ae3",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
+            },
+            {
+                "id": "050551e5-884e-426f-b67f-71f826e993eb",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "c0acbb75-6f00-4736-9bb9-c144e168f511"
+            },
+            {
+                "id": "0519185d-e800-4af4-988a-3da5c15fe964",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "7faf47ed-dec3-4bcb-b193-f2e6cfef29fc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "191c29c6-71a2-4bf0-8f3f-201247984865",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+            },
+            {
+                "id": "51914e3e-1c5c-4c64-9601-0c7c36d60cf3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            }
+        ]
+    },
+    {
+        "id": "9bd6b609-9c2b-4503-9161-9778eaf63a77",
+        "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $10000 - $11000. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1.  **Buy** one of:\n    - \ud83d\udd3a[Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n      - **Buy this 90% of the time! This item is awesome.** Provides crazy survivability, plus a nice damage boost. It's probably my favourite JQ item:\n        - 50 armor is awesome against everyone, but especially high fire rate characters like [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) and [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546) \n        - The armor regenerates whenever you use an ability, and JQ has super low cooldowns with this build, so you can have it active nearly 100% of the time\n        - 15 AP is a nice buff to ability damage, wound damage (and therefore self-healing), and overhealth from Shout\n      - **Note:** the armor regen doesn't stack with itself, but it *does* stack with wound healing, which you'll be getting all the time\n    - \ud83d\udd3b [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) \n      - If, for whatever reason, you have [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) already, pick this up\n      - It might also be okay to pick this up now if: a.) your team is a bit too spread out to benefit from your Shouts *and* b.) you don't need the survivability from [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8). In most cases, though, [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is better\n      - **Note:** despite [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)'s description stating a hard-locked 10m radius, [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) extends it to 15m -- it's possible this is a bug that gets patched in future, but for now we abuse it\n\n---\n### \ud83d\udcc8 Extra cash?\n*Look here if you have spare cash after all core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n\n- **Over $8000:**\n  1. **Sell** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) \n  2. **Buy** [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) \n\n- **Over $2500:**\n  1. **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) \n  2. **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n      - Really, really good with [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) -- drastically increases both the damage and sustain from your two Carnage charges, making you an absolute unit for a few seconds\n  3. If you still have $3000:\n      1. **Sell** one of:\n         - [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) if you want survivability\n         - [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) if you want damage\n      1. **Buy** one of:\n        - \ud83d\udd38 [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\n        - \ud83d\udd3b [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n          - Better than [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) *if* you're confident at hitting Knives, since it makes a [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) proc easier\n        - \ud83d\udd3b [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) \n          - Almost essential into a good [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768), since he'll boop you every time you try to use Carnage. Also can be useful into [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) or a [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0) with [Coulder](item_12ad88e8-650a-44ec-b1e1-a39646055d68) \n\n---\n### \ud83d\udcc9 Missing cash?\n*Look here if you can't afford core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) \n    - **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) if needed\n2. If you still have $3000:\n    1. **Sell** one of:\n       - [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) if you want survivability\n       - [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) if you want damage\n    2. **Buy** one of:\n      - \ud83d\udd38 [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\n      - \ud83d\udd3b [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - Better than [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) *if* you're confident at hitting Knives, since it makes a [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) proc easier\n      - \ud83d\udd3b [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) \n        - Almost essential into a good [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768), since he'll boop you every time you try to use Carnage. Also can be useful into [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) or a [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0) with [Coulder](item_12ad88e8-650a-44ec-b1e1-a39646055d68)",
+        "stats": {
+            "LIFE": 489,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 539,
             "Attack Speed": 0,
             "Weapon Power": 0,
             "Ability Power": 45,
             "Critical Damage": 0,
             "Weapon Lifesteal": 0,
             "Ability Lifesteal": 10,
-            "Cooldown Reduction": 0
+            "Cooldown Reduction": 5
         },
         "round_upgrades": [
             {
-                "id": "b2c4e151-02f3-4156-8376-7fa2fa478633",
+                "id": "eec01172-4bc8-45d6-b61e-e86cd0dbc111",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "9ae574f3-5f78-40c7-817f-6da1ff19ebbd",
-                "notes": "Or Chop Chop",
+                "id": "525f517a-faa0-451d-ba5d-282efeacf0d3",
+                "notes": "",
                 "action": "buy",
-                "upgrade_id": "efe615c6-8b32-4847-9d8f-4f55adaeba52"
+                "upgrade_id": "6f404c88-210f-473d-a7e6-e03547a074b8"
             },
             {
-                "id": "25f4e5c9-b2a4-43d9-8b1a-9dbc072fc5f7",
-                "notes": "vs. Kiriko, Zarya",
+                "id": "8817d684-c2d0-4d23-84d2-dd9dc2d10de6",
+                "notes": "",
                 "action": "optional",
-                "upgrade_id": "59d3bff2-ca1f-459e-a450-80e011a10fd2"
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
             },
             {
-                "id": "8c5d1aea-d16a-4676-acd0-51d832c8642a",
-                "notes": "vs. Orisa, L\u00facio",
+                "id": "bd463cf7-ccf8-404d-8968-9301a595c3ad",
+                "notes": "",
                 "action": "optional",
                 "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
             },
             {
-                "id": "544d45e2-dbc1-460e-86c3-89059942baee",
-                "notes": "Synergy with Let's Go Win",
-                "action": "optional",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "c86696ad-92e4-4be0-b12e-5f1f126f31f1",
+                "id": "3523c699-471c-405e-a85d-a6bce96a9159",
                 "notes": "",
                 "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "2e8a1821-dcaa-4029-9c68-8763b85cb310",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "951106f0-79ee-47c6-85b3-89c33af5fcd8",
+                "notes": "",
+                "action": "optional",
                 "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
             },
             {
-                "id": "2e39edac-b4b5-4c63-ba2c-f101b412ce43",
-                "notes": "If you have Chop Chop",
-                "action": "optional",
+                "id": "6dd1f347-11b9-4eaa-9638-bdf4f2867438",
+                "notes": "",
+                "action": "buy",
                 "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
             },
             {
-                "id": "fff3a450-5a4a-4fa3-a38c-04415c822077",
+                "id": "5f85c8ec-a2fb-4603-abcc-89e95e0c8a83",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
             },
             {
-                "id": "fe83fb98-0489-4574-8089-e453dc0969e0",
+                "id": "1d23919a-d0bc-4bee-9b93-8484d77d5b03",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
             },
             {
-                "id": "2c83c834-5235-4218-9e05-556a8d54574d",
+                "id": "85a126a6-6a71-44c8-9b8e-0836406fc11c",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
             },
             {
-                "id": "a66db8d8-5ce0-4046-8c40-3c2939360c18",
+                "id": "54487c98-e561-45c0-9e92-551e3010cb89",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
@@ -219,22 +328,22 @@
         ]
     },
     {
-        "id": "e5c892b2-bd0c-409a-bd5a-e3e0cca6bf93",
+        "id": "d3dae837-8c89-4b39-aa49-e39fce131d44",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
-        "round_number": 4,
+        "round_number": 5,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $10500 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) / $10000 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8))*\n1.  **Buy** one of:\n    - \ud83d\udfe3 [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) (for [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52))\n      - All abilities (including Shout!) now apply healing reduction, which is incredible\n      - This triggers on every damage tick from Shout, so you apply healing reduction for the entire 3 second duration of [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52), then 3 more seconds after the last tick. One Shout provides *6 seconds* of healing reduction, *and* it resets with [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) \n    - \ud83d\udfe3 [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) (for [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8))\n      - Has a similar effect to [Thrill of Battle](item_80ed7f65-e015-4dbb-ada0-fb8fa9b9b086), which you'll be missing out on with the [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) variant\n      - Replace this with  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) if  [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) or [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546) are causing big issues\n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $8000 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) / $7500 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8)):**\n  1. \ud83d\udfe2 **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7), then, if needed, [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n  2. \ud83d\udfe3 **Buy** your purple item from the *Core changes* section\n\n- **Under $8000 ([Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)) / $7500 ([Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8)):**\n  1. **Buy** as many as you can from the *Over $4000* section\n\n### \ud83d\udcc8 Spare cash after core changes?\n- **Over $4000:**\n  1. **Buy** as many as you can from: \n      - Generally good / snowball:\n        - \ud83d\udd35 [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n        - \ud83d\udd35 [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - \ud83d\udd35 [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2)\n      - Anti-counter items (buy only if specific heroes are causing issues):\n        - \ud83d\udd35 [Rebellious Spirit](item_59d3bff2-ca1f-459e-a450-80e011a10fd2) -- [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f),  [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) (if she has  [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f))\n        - \ud83d\udd35 [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) -- [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85),  [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768)\n        - \ud83d\udd35 [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) -- [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0),  [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546)\n\n- **Under $4000:**\n    1. \ud83d\udfe2 **Sell** [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7), then, if still under $4000, [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n    2. \ud83d\udd35 **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $8500 - $12500. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n1. **Buy** [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)\n    - Makes Shout wound nearby enemies (thereby healing you)\n    - Has great synergy with [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508), allowing for massive wound uptime and therefore massive self-healing\n2. **Sell**  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)\n3. **Buy**  one of: \n    - \ud83d\udd3a [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259)\n      - Provides damage & self-heal through AP and extended [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) range\n      - Choose this if you can't get into melee range of the enemy without exploding, and need a bit of help getting into [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) range\n      - **Note:** despite [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)'s description stating a hard-locked 10m radius, [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) extends it to 15m -- it's possible this is a bug that gets patched in future, but for now we abuse it\n    - \ud83d\udd3a [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) \n      - Provides raw damage (and thereby some self-heal), but you won't benefit from the extended range of [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52)\n      - Choose this if you're already able to get up in the enemy's face (and survive)\n    - \ud83d\udd38 [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) \n      - Experimental\n      - Opens up viability of [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2), [Slicing Spree](item_ca052942-c60b-4103-9c97-bf6c0cb4832f) etc.\n    - \ud83d\udd3b [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) \n      - Strong against teams without mass cleanse, i.e. no [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) or [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) with [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f) \n    - \ud83d\udd3b [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) \n      - Strong against close-range, high-heal comps, e.g. [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1) and [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768)\n\n---\n### \ud83d\udcc8 Extra cash?\n*Look here if you have spare cash after all core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n\n- **Over $3000:**\n  1. **Sell** one of:\n      - [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) if you need survivability\n      - [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) if you need damage\n  2. **Buy** [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n      - Really, really good with [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) -- drastically increases both the damage and sustain from your two Carnage charges, making you an absolute unit for a few seconds\n  3. If you still have $3000:\n      1. **Sell** whichever green item you still have\n      2. **Buy** one of:\n        - \ud83d\udd38 [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\n        - \ud83d\udd3b [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) \n          - Requires [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) \n        - \ud83d\udd3b [Slicing Spree](item_ca052942-c60b-4103-9c97-bf6c0cb4832f) \n          - Requires [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) \n        - \ud83d\udd3b [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n          - Better than [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) *if* you're confident at hitting Knives, since it makes a [Let\u2019s Go Win](item_80df18f3-8530-4e55-8ea3-9ac7a3f12508) proc easier\n        - \ud83d\udd3b [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) \n          - Almost essential into a good [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768), since he'll boop you every time you try to use Carnage. Also can be useful into [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) or a [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0) with [Coulder](item_12ad88e8-650a-44ec-b1e1-a39646055d68) \n\n---\n### \ud83d\udcc9 Missing cash?\n*Look here if you can't afford core changes. (\ud83d\udd3a= great, \ud83d\udd38= ok, \ud83d\udd3b= situational)*\n- **Over $4000:**\n  1. See *Over $3000* section and buy from there\n      - Don't sell green items unless you're upgrading them to blue\n\n- **Under $4000:**\n  1. **Sell** one of:\n      - [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n      - [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n  2. See *Over $3000* section and buy from there\n      - Ignore step 3\n\n---\n### \u2694\ufe0f Playstyle changes\n- [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52):\n  - From now on, try to use Shout on top of a few enemies. Remember that **wounds stack (!!!)**, so hitting Shout, Carnage, and a Knife or Quick Melee will stack three wounds on a single target, which is *huuuuuge* sustain for you \n  - Hit a big Shout followed by a big Carnage (or two!), and you become almost invincible",
         "stats": {
-            "LIFE": 441,
-            "Armor": 0,
+            "LIFE": 477,
+            "Armor": 50,
             "Shield": 0,
             "Max Ammo": 0,
             "Move Speed": 0,
-            "Total LIFE": 441,
+            "Total LIFE": 527,
             "Attack Speed": 0,
             "Weapon Power": 0,
-            "Ability Power": 55,
+            "Ability Power": 60,
             "Critical Damage": 0,
             "Weapon Lifesteal": 0,
             "Ability Lifesteal": 10,
@@ -242,315 +351,224 @@
         },
         "round_upgrades": [
             {
-                "id": "4834332c-e768-42b2-bad4-67707ce2f46b",
+                "id": "e535300f-b46d-476d-8358-4eff74afe608",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "7db21a43-0917-45ee-ac79-5e1eae114126",
-                "notes": "Or Chop Chop",
+                "id": "a3519548-8576-4b63-a03a-22f5dabd6fd5",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6f404c88-210f-473d-a7e6-e03547a074b8"
+            },
+            {
+                "id": "cc1ed4f9-bd01-4a5a-b353-d23a4a4a0205",
+                "notes": "",
                 "action": "buy",
                 "upgrade_id": "efe615c6-8b32-4847-9d8f-4f55adaeba52"
             },
             {
-                "id": "7460b72c-aa64-4c7f-83ce-3820b258e329",
-                "notes": "vs. Zarya",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "2ae579d1-48be-4606-a63a-3c6c3f1e56ef",
-                "notes": "vs. Zarya, Kiriko",
-                "action": "optional",
-                "upgrade_id": "59d3bff2-ca1f-459e-a450-80e011a10fd2"
-            },
-            {
-                "id": "be2f47e4-c62e-4904-b368-b8400fc361a3",
-                "notes": "vs. Orisa, L\u00facio",
-                "action": "optional",
-                "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
-            },
-            {
-                "id": "fc5ff8c5-4317-4d0a-8e1f-5bc8ab9b6c6b",
+                "id": "e594590e-c424-4e01-a34f-6c4f6ea04b78",
                 "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                "action": "sell",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
             },
             {
-                "id": "30d20b50-55cf-4c8d-b825-385a2f408d04",
-                "notes": "If you have Chop Chop",
-                "action": "optional",
-                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
-            },
-            {
-                "id": "a5d2e82c-442c-465f-b6fe-fc0020bd8678",
-                "notes": "If you have Chop Chop",
-                "action": "optional",
-                "upgrade_id": "d0278c35-8006-4c8d-8f02-4fd0217fd3e2"
-            },
-            {
-                "id": "b0a5a8dd-cc77-49aa-98a3-36becfee53cb",
-                "notes": "This item is bugged (this benefits you) - despite what Reckoner's Roar says (that it wounds in a static 10m range), these items DO work together to increase wound range",
+                "id": "baacc256-013f-4d6b-8ec8-0411db6b973a",
+                "notes": "",
                 "action": "buy",
                 "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
             },
             {
-                "id": "d5103b76-9ee5-45b2-8927-d7cb06cd5006",
+                "id": "7d9bb44a-075a-4eba-90b2-6c5f134d2f4b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "b3ca6764-a64e-4de9-a34d-548dacd78e43",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "b6e4671e-481b-45f7-83e8-488e050fc094",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "4a93373b-7079-4ef5-a8c8-96fc1571a5bd",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "79d071f7-f415-4974-aff9-2beaead61fe0",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+            },
+            {
+                "id": "56751c44-2c71-4184-8184-cdc51e45eb64",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "807f2cfa-e8c1-4dcf-a46b-5bd2c86bd229",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "8f6719a3-894c-4d0f-b84c-a066d36cc7f3",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "ca052942-c60b-4103-9c97-bf6c0cb4832f"
+            },
+            {
+                "id": "e3dbf6e8-37a0-4757-8e13-c8b5bc44df89",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
+            },
+            {
+                "id": "a40df461-d3a9-4cf1-8952-7104ec785aac",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "98cdaba8-6856-475a-93ab-5aa8b62ad249",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
+            },
+            {
+                "id": "243b2991-9931-4c42-8534-47560634a1c0",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
             },
             {
-                "id": "51c896a9-9eca-432c-acbc-81240c16b81b",
+                "id": "59a16d98-c4ba-44a8-8f84-50749e65a383",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
             },
             {
-                "id": "11ff8599-1f91-43ff-99d8-92aa2b0f1c25",
+                "id": "457348be-59e3-49e9-8e1a-d66a54214e5f",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-            },
-            {
-                "id": "5f788808-0f4c-4a62-8bbb-e03e39fe1f87",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
             }
         ]
     },
     {
-        "id": "a249c2db-14fe-4fbe-a651-58dd9b72cfdd",
+        "id": "23dec2e1-f8d7-4e4b-9e86-035b07ba5ce4",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
-        "round_number": 5,
+        "round_number": 6,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $12500*\n1. **Buy** one of:\n    - [Reckoner\u2019s Roar](item_efe615c6-8b32-4847-9d8f-4f55adaeba52) if you don't have it yet\n    - [Thrill of Battle](item_80ed7f65-e015-4dbb-ada0-fb8fa9b9b086) otherwise\n2. \ud83d\udfe2 **Sell**  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)\n3. \ud83d\udfe3 **Buy**  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce)\n    - Even though this item was nerfed, I still think it's the best option this round, as otherwise our AP gets a bit stagnant\n    - If you can't afford it but still need damage, buy [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) or [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) \n    - For a tankier build with less damage, buy [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) or [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $11500:**\n    1. \ud83d\udfe2 **Sell** [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) (see above: [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) should already be sold)\n    2. \ud83d\udfe3 **Buy**  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce)\n\n- **Under $11500:**\n  1. **Buy** as many as you can from: \n      - Generally good / snowball:\n        - \ud83d\udd35 [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n        - \ud83d\udd35 [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - \ud83d\udd35 [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2)\n      - Anti-counter items (buy only if specific heroes are causing issues):\n        - \ud83d\udd35 [Rebellious Spirit](item_59d3bff2-ca1f-459e-a450-80e011a10fd2) -- [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f),  [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) (if she has  [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f))\n        - \ud83d\udd35 [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) -- [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85),  [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768)\n        - \ud83d\udd35 [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) -- [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0),  [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546)\n  2. If over $3000 but under $4000: \n      1. \ud83d\udfe2 **Sell** [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n      2. **Buy** another item from the list above\n\n\n### \ud83d\udcc8 Spare cash after core changes?\nSee *Under $11500* section and buy from there.\n\n---\n### \u2694\ufe0f Playstyle\n[Thrill of Battle](item_80ed7f65-e015-4dbb-ada0-fb8fa9b9b086)  makes wounds heal nearby allies. Your ability rotation might look something like this:\n- Get near enemies\n- Shout to apply wounds, which damage enemies, heal you, and heal your team\n- Push your advantage (hard!) to secure an elim and a Shout cooldown reset \n- Shout again (to keep fighting or to back out safely)\n\nIf possible, communicate to your team that they can stay near you for passive healing (especially if you have [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2)).",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $10000 - $13000*\n1. **Sell** [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n3. **Buy**  [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) **OR** [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) \n    - Pick up whichever you didn't buy last round!\n\n---\n### \ud83e\udd14 Other options\n*Spend any spare cash on these items, or replace core items (at your own risk).*\n\n***Filler items should be sold next round to make room for core items.***\n| **Category** | **Options** | **Good against** | **Notes** |\n|---|---|---|---|\n| **Ability** | \u2b50 [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) | [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546), [Genji](hero_31fd201d-2f46-41e4-b125-9fa9e55fed46), etc. (enables Carnage one-shots on squishy, non-flying targets). [Reinhardt](hero_a3b6ca2c-6cbd-43dc-bb78-a728e42fba49), [D.Va](hero_e8e1dc68-45c4-47c2-b421-95e33594e6b6) (very few ways of blocking Carnage) | Sacrifices survivability for huge damage output (which comes with more self-healing from wounds) |\n|  | \u2b50 [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259) | - | Sacrifices damage for higher wound uptime and higher sustain |\n|  | \u2b50 [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) | - | Replaces [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)  |\n|  | [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) | **Teams with NONE of the following:** [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f), [Reaper](hero_0449752f-1c58-487b-b9a0-ca727d784457),  [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0), [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) with [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f)  | Replaces [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) or [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6). Useful against teams that are unable to cleanse Rampage wounds |\n|  | [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) | [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1), [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768), [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546) with a healpad-in-your-backline build | Replaces [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) or [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6). Useful for close-range fights where wounds can constantly apply anti-healing to high sustain team comps |\n| **Survival** | \u2b50 [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) | **Teams with NONE of the following:** [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000), [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) | Replaces [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) or [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259). Heals % life per second; use with other HP items and overhealth generators such as [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) and [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05). Useful when your whole team can't stay alive |",
         "stats": {
-            "LIFE": 433,
-            "Armor": 0,
+            "LIFE": 494,
+            "Armor": 50,
             "Shield": 0,
             "Max Ammo": 0,
             "Move Speed": 0,
-            "Total LIFE": 433,
+            "Total LIFE": 544,
             "Attack Speed": 0,
             "Weapon Power": 0,
             "Ability Power": 95,
             "Critical Damage": 0,
             "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 10,
-            "Cooldown Reduction": 5
-        },
-        "round_upgrades": [
-            {
-                "id": "77695863-ec2b-495f-b304-dd97ca2db918",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
-            },
-            {
-                "id": "9a051012-d579-481b-ae57-959efd799bb0",
-                "notes": "Or Chop Chop",
-                "action": "buy",
-                "upgrade_id": "efe615c6-8b32-4847-9d8f-4f55adaeba52"
-            },
-            {
-                "id": "f98787c6-f61c-44ef-840a-0b613b5de6c5",
-                "notes": "Or Reckoner's Roar if you have Chop Chop",
-                "action": "buy",
-                "upgrade_id": "80ed7f65-e015-4dbb-ada0-fb8fa9b9b086"
-            },
-            {
-                "id": "c62f35a3-6148-48d3-8ed8-129a55ab3bc9",
-                "notes": "vs. Kiriko, Zarya",
-                "action": "optional",
-                "upgrade_id": "59d3bff2-ca1f-459e-a450-80e011a10fd2"
-            },
-            {
-                "id": "0d375344-b71e-4934-afd9-80d8e9931258",
-                "notes": "vs. Orisa, L\u00facio",
-                "action": "optional",
-                "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
-            },
-            {
-                "id": "1ba5f37e-8b65-4639-b09b-c4b9e9eac2e3",
-                "notes": "vs. Zarya",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "ec6e7ab7-150d-401c-a58d-8c46135b28b5",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "90a62db5-9f21-4ddc-902b-b69f86f95b4a",
-                "notes": "For Chop Chop",
-                "action": "optional",
-                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
-            },
-            {
-                "id": "157ebe50-78af-4a5f-afa5-7d537c09bb22",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "24576737-98b5-4e4e-900d-ed54361f6af4",
-                "notes": "For more damage",
-                "action": "optional",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "3c54437d-91fe-4bef-815d-641053f38fb0",
-                "notes": "For more damage",
-                "action": "optional",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "3868b020-e33c-4020-a6f5-8a50633a55b2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "00bdc701-09e5-4e4d-93e5-1c4bf9bd5fbb",
-                "notes": "This item is bugged (this benefits you) - despite what Reckoner's Roar says (that it wounds in a static 10m range), these items DO work together to increase wound range",
-                "action": "buy",
-                "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
-            },
-            {
-                "id": "6b0b02a0-77dc-4fa4-9803-8f818875767b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "bc4272c5-deba-4275-b143-771646227a2a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "5ee7dabf-9775-495c-b77d-d073cc16e959",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-            }
-        ]
-    },
-    {
-        "id": "d3eb389d-6f6f-432b-b966-ceafee1e7734",
-        "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $9000 - $10000*\n1. \ud83d\udfe2 **Sell** [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7)\n2. **Buy** one of:\n    - \ud83d\udfe3 [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) if you need some tankiness (you probably do, we've built full AP so far!)\n      - Other tank options are [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) and [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) \n    - \ud83d\udfe3 [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05) if you have [Chop Chop](item_6f404c88-210f-473d-a7e6-e03547a074b8) and don't already have it\n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $8000:**\n    1. \ud83d\udfe2 **Sell**  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n    2. \ud83d\udfe3 **Buy** one of the purple items listed in *Buys and sells*\n\n- **Under $8000:**\n    1. See *Spare cash after core changes?* section and buy from there.\n\n### \ud83d\udcc8 Spare cash after core changes?\n1. \ud83d\udfe2 **Sell**  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n2. **Buy** as many as you can from:\n      - Generally good / snowball:\n        - \ud83d\udd35 [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n        - \ud83d\udd35 [Bigger Magnet](item_c0acbb75-6f00-4736-9bb9-c144e168f511) \n        - \ud83d\udd35 [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2)\n      - Anti-counter items (buy only if specific heroes are causing issues):\n        - \ud83d\udd35 [Rebellious Spirit](item_59d3bff2-ca1f-459e-a450-80e011a10fd2) -- [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f),  [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) (if she has  [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f))\n        - \ud83d\udd35 [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) -- [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85),  [Lucio](hero_b38c5d54-a585-4545-b0b8-4d4b205b3768)\n        - \ud83d\udd35 [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) -- [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0),  [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546)",
-        "stats": {
-            "LIFE": 445,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 495,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 110,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
             "Ability Lifesteal": 0,
             "Cooldown Reduction": 5
         },
         "round_upgrades": [
             {
-                "id": "2d11eeac-3f3f-4bb0-ab6c-7128cd5087c8",
+                "id": "43e51d0c-2709-4064-b926-54e6e76e42d6",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "57125043-dc88-4208-a3be-d6e09a3b92f6",
-                "notes": "Or Chop Chop",
+                "id": "03d86e12-225f-4422-bd2e-633ae0bfe0ea",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6f404c88-210f-473d-a7e6-e03547a074b8"
+            },
+            {
+                "id": "d83c8cd5-67fc-4e88-83cc-69f8cdc42fe4",
+                "notes": "",
                 "action": "buy",
                 "upgrade_id": "efe615c6-8b32-4847-9d8f-4f55adaeba52"
             },
             {
-                "id": "5c368fd4-e5c4-4773-a4cf-303076a1fd9e",
-                "notes": "Or Reckoner's Roar if you have Chop Chop",
-                "action": "buy",
-                "upgrade_id": "80ed7f65-e015-4dbb-ada0-fb8fa9b9b086"
-            },
-            {
-                "id": "61c72dd3-2f08-4a6f-bc9c-b1081dd3119c",
+                "id": "073c30f6-f6b3-4571-a55d-a722cf0e4f57",
                 "notes": "",
                 "action": "sell",
                 "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
             },
             {
-                "id": "c129c164-0980-4de4-9144-5183fa5bd800",
-                "notes": "vs. Kiriko, Zarya",
+                "id": "1e97e6cb-7174-4fe6-b4ac-33ffaa8f3c9f",
+                "notes": "",
                 "action": "optional",
-                "upgrade_id": "59d3bff2-ca1f-459e-a450-80e011a10fd2"
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
             },
             {
-                "id": "2b425692-fca4-4879-beee-9369f2e60c50",
-                "notes": "vs. Orisa, L\u00facio",
-                "action": "optional",
-                "upgrade_id": "d55fc98b-d014-4383-903c-a7aa1fb7c619"
+                "id": "cb50000b-89f7-42e8-b520-77e5f80c2643",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
             },
             {
-                "id": "17a0975d-e1f6-473d-b3dc-746e7061d12f",
-                "notes": "vs. Zarya",
+                "id": "80764046-c3ab-4661-8404-b337562ed7bf",
+                "notes": "",
                 "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
             },
             {
-                "id": "27524262-2037-4d0f-aa92-6ac672f04963",
-                "notes": "For tankiness",
+                "id": "9c08d126-2fd6-4d19-b184-ca949b34c373",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "03f0ce07-10e0-4728-ae55-099956f16a14",
+                "notes": "",
                 "action": "optional",
                 "upgrade_id": "d0278c35-8006-4c8d-8f02-4fd0217fd3e2"
             },
             {
-                "id": "b52e2c25-c7fc-4a0e-8e58-b3cc3b285fd8",
-                "notes": "For Chop Chop",
-                "action": "optional",
-                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
+                "id": "518584ce-11b7-4245-a8e8-4434e05038fc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
             },
             {
-                "id": "223e345c-3244-4406-a5be-da064314445d",
+                "id": "a8931b82-08e3-439a-8762-e0edf5c84150",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
             },
             {
-                "id": "3f78b469-f82b-4c9e-a718-a2eb1dced1f6",
+                "id": "8b4101db-83d8-485d-a4fd-03183bc79901",
                 "notes": "",
                 "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
             },
             {
-                "id": "dc671b0f-198c-4622-b8cd-f70923508d04",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "35f5ce1c-fccd-4558-a453-2b42c3cb6435",
-                "notes": "This item is bugged (this benefits you) - despite what Reckoner's Roar says (that it wounds in a static 10m range), these items DO work together to increase wound range",
-                "action": "buy",
-                "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
-            },
-            {
-                "id": "8e053ed6-4bb0-4f48-aff1-7e670a616aff",
+                "id": "a193596b-8b10-4e9b-b88a-3bbdaf005a77",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
             },
             {
-                "id": "1aeeac44-630b-407e-9065-e8b48d841634",
+                "id": "5442a06f-6edf-402b-8a4a-46a64e7c8cc3",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
@@ -558,22 +576,22 @@
         ]
     },
     {
-        "id": "7ede5fff-0637-4aba-a3f9-3479bd8b13ee",
+        "id": "21819964-a686-4c21-9196-49838b2f6bf6",
         "build_id": "3bfca61f-5f80-4047-98ab-4897b542c36f",
         "round_number": 7,
         "cash_earned": 0,
-        "created_at": "2025-05-26T03:17:50.656584+00:00",
-        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $9000 - $10000*\n1. **Buy**  one of: \n    - \ud83d\udfe0 **Highly, highly recommended:** [Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) for empowered ultimates (be careful of a [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) with [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) or a [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) with [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f), as they can cleanse your ultimate)\n      - You can offset some of this risk by hard focusing the problem hero while they're stunned by [Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) \n    - \ud83d\udfe0 [Bloodcrazed](item_9ac9b9a7-793d-4f2f-9447-4b55ba7bc3f5) for more overhealth, allowing aggressive plays\n    - \ud83d\udfe0 [Twist the Knife](item_860863ec-dc87-491d-8a7b-087fbf219446) for a safe, simple buff that extends wound duration\n- \ud83d\udfe2 **Sell**  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n- **Buy**  one of:\n  - \ud83d\udfe3 [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) if you're playing [Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) and are managing to stay alive\n    - [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) is okay if you already have [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) and definitely don't need tankiness\n  - \ud83d\udfe3 [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) or [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) if you need tankiness \n  - If you chose [Twist the Knife](item_860863ec-dc87-491d-8a7b-087fbf219446), you have more flexibility - pick any purple item that provides AP, health, or armor (whichever you feel you need)\n\n---\n### \ud83d\udcc9 Can't afford core changes?\n- **Over $9000:**\n    1. \ud83d\udd35 **Sell** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) \n    2. \ud83d\udfe3 **Buy** one of the purple items listed in *Buys and sells*\n    3. \ud83d\udfe2 **Buy** a cheap item to fill up the last slot (probably [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418))\n\n- **Under $9000:**\n    1. \ud83d\udfe2 **Buy** a cheap item to fill up the last slot (such as  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418))\n\n### \ud83d\udcc8 Spare cash after core changes?\n- **Over $4000:**\n    1. \ud83d\udd35 **Sell** [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) \n    2. \ud83d\udfe3 **Buy** a purple item from the *Core changes* section\n\n\n---\n### \u2694\ufe0f Playstyle\n[Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) stuns everyone you hit with Rampage. [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) gives you more Rampages. \n\nFinal rotation looks something like: Knife - Shout - kill - reset Shout, Shout again - snowball. Ult whenever it's available and you have backup.\n\nMake sure to focus cleansers like [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) and [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) while they're stunned, before they have time to use [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) or  [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f)!\n\nGood luck!",
+        "created_at": "2025-05-29T23:04:34.02151+00:00",
+        "notes": "### \ud83c\udfaf Core changes\n*Required cash: $9000*\n1. **Buy**  [Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb)\n    - Rampage now stuns! Be careful of a [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) with [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) or a [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) with [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f), as they can cleanse your ultimate\n      - You can offset some of this risk by hard focusing the problem hero while they're stunned by [Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) \n- **Sell**  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n- **Buy**  [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4)\n\n---\n### \ud83e\udd14 Other options\n*Spend any spare cash on these items, or replace core items (at your own risk).*\n\n***Filler items should be sold next round to make room for core items.***\n| **Category** | **Options** | **Good against** | **Notes** |\n|---|---|---|---|\n| **Power** |  [Bloodcrazed](item_9ac9b9a7-793d-4f2f-9447-4b55ba7bc3f5) | - | Okay for survivability if you need to make aggressive plays |\n|  |  [Twist the Knife](item_860863ec-dc87-491d-8a7b-087fbf219446) | [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0), [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f), [Reaper](hero_0449752f-1c58-487b-b9a0-ca727d784457),  [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0), [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) with [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f) | Possibly a better pick vs. cleanse-heavy teams |\n| **Ability** | [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) | - | Replaces [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) |\n| **Survival** | \u2b50 [Undying Loyalty](item_d0278c35-8006-4c8d-8f02-4fd0217fd3e2) | **Teams with NONE of the following:** [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000), [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) | Replaces  [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) or [Booming Voice](item_d751b552-4c3f-49d6-966b-611096fd2259). Heals % life per second; use with other HP items and overhealth generators such as [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) and [Scav Scraps](item_b24d8c46-7022-49e2-b50d-7cc20a27fb05). Useful when your whole team can't stay alive |\n|  | [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) | - | Experimental |\n\n---\n### \u2694\ufe0f Playstyle changes\n[Bow Down](item_0673e9ed-37dd-4e58-acef-77e0fbe613fb) stuns everyone you hit with Rampage. [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) gives you more Rampages. \n\nFinal rotation looks something like: Knife - Shout - kill - reset Shout, Shout again - snowball. Ult whenever it's available and you have backup.\n\nMake sure to focus cleansers like [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) and [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) while they're stunned, before they have time to use [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) or  [Voidhoppers](item_d4ce0c76-2500-40d6-b066-dca303be097f)!\n\nGood luck!",
         "stats": {
-            "LIFE": 457,
+            "LIFE": 506,
             "Armor": 50,
             "Shield": 0,
             "Max Ammo": 0,
             "Move Speed": 0,
-            "Total LIFE": 507,
+            "Total LIFE": 556,
             "Attack Speed": 0,
             "Weapon Power": 0,
-            "Ability Power": 115,
+            "Ability Power": 100,
             "Critical Damage": 0,
             "Weapon Lifesteal": 0,
             "Ability Lifesteal": 0,
@@ -581,91 +599,85 @@
         },
         "round_upgrades": [
             {
-                "id": "77bd44e1-ac8e-4577-b205-a278c64f2dbc",
+                "id": "01ce9e00-8d50-4f92-859b-38ea1d768adc",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "80df18f3-8530-4e55-8ea3-9ac7a3f12508"
             },
             {
-                "id": "0a88be7b-2d1e-44c6-b538-ac7bb8ea8ba1",
-                "notes": "Or Chop Chop",
+                "id": "45aa20cb-2e06-42fe-bf97-298ce11f122e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6f404c88-210f-473d-a7e6-e03547a074b8"
+            },
+            {
+                "id": "ba549879-c02f-42a4-8cb7-9c8653c05d36",
+                "notes": "",
                 "action": "buy",
                 "upgrade_id": "efe615c6-8b32-4847-9d8f-4f55adaeba52"
             },
             {
-                "id": "e1287367-b146-4e97-9c31-96f2c14a3431",
-                "notes": "Or Reckoner's Roar if you have Chop Chop",
-                "action": "buy",
-                "upgrade_id": "80ed7f65-e015-4dbb-ada0-fb8fa9b9b086"
-            },
-            {
-                "id": "7ab09f6a-8c6b-4bea-86f0-36623743f1e2",
+                "id": "e51c476e-10d7-48c5-836b-49ea5e93515b",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "0673e9ed-37dd-4e58-acef-77e0fbe613fb"
             },
             {
-                "id": "45be8fac-56ce-4fe5-9dde-49db2d5131d8",
+                "id": "d6032e5e-c597-4f3a-8bb0-1c2f9327ad72",
                 "notes": "",
                 "action": "sell",
                 "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
             },
             {
-                "id": "0f839ecf-c2a0-4644-99f1-167ee6bcac4d",
-                "notes": "If you have Bow Down and Catalytic Crystal",
-                "action": "optional",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "ae448f2d-e48c-4385-8f77-be62fa052b37",
-                "notes": "For tankiness",
-                "action": "optional",
-                "upgrade_id": "d0278c35-8006-4c8d-8f02-4fd0217fd3e2"
-            },
-            {
-                "id": "66c4f46a-0038-4d92-ba53-92639d933091",
-                "notes": "For Chop Chop",
-                "action": "optional",
-                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
-            },
-            {
-                "id": "7e0ec9d6-0ae2-4286-ac6e-dcbdc8d569ce",
-                "notes": "For tankiness",
-                "action": "optional",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "2dcdb4e6-83d0-4aa2-83d4-d9fdb58495dd",
+                "id": "8e7a7fa8-dd5a-45c5-aea9-592d218ca5bf",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
             },
             {
-                "id": "30c7da9d-f2d6-4c23-b722-d7d8f7fc6e54",
+                "id": "e76d9fb0-f61b-4c14-a7e2-83b973ebc419",
                 "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                "action": "optional",
+                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
             },
             {
-                "id": "54af7d8f-6c78-4e99-ba6f-67da3217be3d",
+                "id": "5854a986-0e9f-457b-b7a0-47d1ad0f10f9",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "d0278c35-8006-4c8d-8f02-4fd0217fd3e2"
+            },
+            {
+                "id": "53021b09-8279-4620-afe0-362f03775beb",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+            },
+            {
+                "id": "3a183e0e-5cae-459e-8e83-64fea36f5726",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
             },
             {
-                "id": "5ef4be70-c8dc-4eca-aa1e-0c605a86e802",
+                "id": "8a82b7cc-938a-4b04-b2d2-9661553460f1",
                 "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "7fa38356-4b97-45a4-b4cd-62cc91605c1b",
-                "notes": "This item is bugged (this benefits you) - despite what Reckoner's Roar says (that it wounds in a static 10m range), these items DO work together to increase wound range",
                 "action": "buy",
                 "upgrade_id": "d751b552-4c3f-49d6-966b-611096fd2259"
             },
             {
-                "id": "85edc374-16d5-4e7d-b86a-2e2efdf8822e",
+                "id": "2a6ed6c4-45f4-46ab-b624-fd46eb120732",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "5f1ec779-a758-49e6-aa51-7c58c7aed341",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b24d8c46-7022-49e2-b50d-7cc20a27fb05"
+            },
+            {
+                "id": "8f8d6f1e-8d10-4038-a65a-bb8ba3ed1c6f",
                 "notes": "",
                 "action": "buy",
                 "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
