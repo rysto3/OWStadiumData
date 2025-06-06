@@ -2,12 +2,14 @@ import json
 import requests
 import os
 import time
+from pathlib import Path
 
 # --- Configuration ---
-INPUT_JSON_FILE = 'builds.json'
+SCRIPT_DIR = Path(__file__).resolve().parent
+INPUT_JSON_FILE = SCRIPT_DIR.parent / "builds.json"
 # The base URL template for fetching round data
 BASE_URL = 'https://qkdvetofbsoynkfprlos.supabase.co/rest/v1/rounds?select=*,round_upgrades(id,upgrade_id,action,notes)&build_id=eq.{build_id}&order=round_number.asc'
-OUTPUT_DIRECTORY = 'build_rounds_data'  # Directory to save the output JSON files
+OUTPUT_DIRECTORY = SCRIPT_DIR / 'build_rounds_data'  # Directory to save the output JSON files
 # Headers for the request (Supabase requires an API key)
 # IMPORTANT: Replace 'YOUR_SUPABASE_ANON_KEY' with your actual Supabase anonymous API key.
 # You can usually find this in your Supabase project settings under API.
@@ -17,6 +19,13 @@ HEADERS = {
     'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrZHZldG9mYnNveW5rZnBybG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3Mjc0NDEsImV4cCI6MjA2MTMwMzQ0MX0.Moy2MzlEQ0w1cqvnMs3qAV6Mzdm8R1v_YSo7Zw93mG8' # Replace with your actual anon key
 }
 REQUEST_DELAY_SECONDS = 0.1 # Delay between requests to avoid overwhelming the server (adjust as needed)
+
+def get_existing_build_ids(directory):
+    """Return a set of build ids that already have round data downloaded."""
+    directory = Path(directory)
+    if not directory.exists():
+        return set()
+    return {f.stem for f in directory.glob('*.json')}
 
 def load_build_ids(filepath):
     """Loads build IDs from the specified JSON file."""
@@ -67,17 +76,18 @@ def fetch_round_data(build_id):
 
 def save_data_to_json(data, filename, directory):
     """Saves the given data to a JSON file in the specified directory."""
-    if not os.path.exists(directory):
+    directory = Path(directory)
+    if not directory.exists():
         try:
-            os.makedirs(directory)
+            directory.mkdir(parents=True)
             print(f"Created directory: {directory}")
         except OSError as e:
             print(f"Error creating directory {directory}: {e}")
             return
 
-    filepath = os.path.join(directory, filename)
+    filepath = directory / filename
     try:
-        with open(filepath, 'w') as f:
+        with filepath.open('w') as f:
             json.dump(data, f, indent=4)
         print(f"Successfully saved data to '{filepath}'")
     except IOError as e:
@@ -104,12 +114,14 @@ def main():
         # For this example, we'll proceed but print a prominent warning.
 
     build_ids = load_build_ids(INPUT_JSON_FILE)
+    existing_ids = get_existing_build_ids(OUTPUT_DIRECTORY)
+    build_ids = [bid for bid in build_ids if bid not in existing_ids]
 
     if not build_ids:
         print("No build IDs to process. Exiting.")
         return
 
-    print(f"Found {len(build_ids)} build IDs to process.")
+    print(f"Found {len(build_ids)} new build IDs to process.")
 
     for i, build_id in enumerate(build_ids):
         print(f"\nProcessing build {i+1}/{len(build_ids)}: ID {build_id}")

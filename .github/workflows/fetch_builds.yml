@@ -21,12 +21,16 @@ jobs:
         run: |
           pip install requests
 
-      - name: Fetch builds and update file
+      - name: Fetch builds index
         run: |
           python3 fetch_builds.py
+
+      - name: Download new build rounds
+        run: |
+          python3 builds-download/scrape-builds.py
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update builds.json from Supabase
-          file_pattern: builds.json
+          commit_message: Update build data from Supabase
+          file_pattern: 'builds.json builds-download/build_rounds_data/*.json'
