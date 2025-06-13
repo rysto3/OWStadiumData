@@ -1,0 +1,507 @@
+[
+    {
+        "id": "90671511-53fb-4462-8d62-2c7f6b0d9f08",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 1,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "Your starting round is a regular melee build round in terms of strategy, but when it comes to buy, I will try to demonstrate why building survival is mathematically superior. Genji has 250 hp by default, which means two 25 hp survival items increase his hit points by 20%. Meaning that there are very few ways for people to outpace your increase in HP percentage-wise. I think few exceptions are  [Impact Burst](item_01fa37d8-4355-4ec2-a9af-59bf030e2882)  with  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)  which is a 25% increase in damage,  [Cratered](item_5bb876bf-52b5-496c-a9ea-b68e72ed3be1)  with AP scaling or Juno's  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4)  with AP within falloff range. This means your hp increase makes it so the relative TTK between you and most enemies is slightly in your favour. This TTK becomes even more favourable for you with all the sustain and self-heal you have. Your prime targets should be low mobility heroes like [Soldier: 76] or  [Cassidy](hero_3dd63854-7558-4344-86e4-b506f807129b)  and you need to focus on making money first round. The best outcome is if you can afford  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7)  on the next round without selling any items.",
+        "stats": {
+            "LIFE": 275,
+            "Armor": 25,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 306,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "f202bff2-c97e-4a38-ba3d-5eef22f560bd",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "f2c4a480-93af-4707-8611-b6a655eaec42",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            },
+            {
+                "id": "e802c2d1-0268-4692-8939-2a9801b12bb2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            }
+        ]
+    },
+    {
+        "id": "c5fd0318-5106-4584-b552-f22595fbc811",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 2,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "This round it is crucial to have  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) for obvious reasons. If you have additional money,  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) are you next best pick. The idea is the same: outpace the enemy damage with your sustain, for which you have restoration of 79 hp with a melee that deals approximately 75 damage at this stage. Farm as much money as you can and brawl, focusing on low mobility targets or tanks.",
+        "stats": {
+            "LIFE": 298,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 10,
+            "Total LIFE": 348,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "d6111482-5175-4e60-98ae-554aa6c90431",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "9d07d277-eb7a-48d6-bdfc-c008f096f063",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "06571177-eec3-4d88-8518-5de770dffa87",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+            },
+            {
+                "id": "cbf0f938-3c06-4f5d-9039-19a292b245ce",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            }
+        ]
+    },
+    {
+        "id": "0226e8eb-a11e-4ce7-9f6d-6e93c97aee3f",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 3,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "This is the round where we start double scaling. Our first item should be  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) and if you have enough money,  [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b). It will give you some hp but most importantly, it will boost your damage significantly. First off, we now have 310 hp. Now, let's calculate the damage one blade swing does at this stage. Initial damage is 110, we add 25 flat multiplied by 1.35 which is 33.75 so that total flat damage of the blade is 143.75 which is then multiplied by 1.45 for the total of 208.44 damage. Then the dash deals 50 times 1.35 which is 67.5. In total on round 3 we can:\n- kill a 250 hp target with a slash and dash\n- kill a 275 hp target with right click-dash-melee\n- kill a 300 hp target with slash-dash-melee\n- build 6% of ult charge per each target we hit with a blade swing\n- lifesteal 80 hp per each target we hit with a blade swing\n\nYour game plan should involve searching for a target you can reliably kill with breakpoints we mentioned. Primary targets are low mobility heroes or heroes around 250 hp mark since we can reliably kill them. If you have some form of damage boost, it becomes even easier.\n\nShould you have extra cash.  [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) is the cheapest item that can boost your damage and  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) are always a consideration. If you are having a really good game, focus on maximizing the sum of AP and WP to the highest number possible.",
+        "stats": {
+            "LIFE": 317,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 317,
+            "Attack Speed": 0,
+            "Weapon Power": 10,
+            "Ability Power": 10,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "725f37d9-811c-4812-8de4-383c7f39a856",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "cad3aa26-6de8-46f2-8555-ee4ae800ca16",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+            },
+            {
+                "id": "92d8d402-111b-4322-9b07-d38718600549",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            },
+            {
+                "id": "63a3f442-5f29-4929-bb2c-ec756a841c9d",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+            },
+            {
+                "id": "08cd421f-d694-4f61-bef7-2377c5ecf2f9",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "3382c1d7-653d-4c23-822e-2072845bf65a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "1078c9bd-8dd9-4c81-8500-a7165ed22e8a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "a288626f-9094-4af2-9c47-5a247583e3c6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "4111a590-4140-4f34-8697-fa960f720623",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            }
+        ]
+    },
+    {
+        "id": "3484565f-cea9-4376-853a-5f4c9796aac2",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "This round we are focusing on scaling combined AP and WP with  [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2), [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) and  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418). At this point at max  [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) stacks we:\n- kill a 250hp target with a slash\n- kill a 275 hp target with a right click melee and a dash\n- kill a 300 hp target with a slash and dash\n- restore 100 health per target of the slash\n- build 8% ult charge per target of the slash\nAlternatively we can buy  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) to get 121 lifesteal per target of the slash but it will reduce our damage by 25%. As always,  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) are a consideration.\nYour gameplan should involve picking out high priority targets and building blade as fast as you can by participating in the frontline trade. You are surprisingly durable and have very high sustain.",
+        "stats": {
+            "LIFE": 336,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 336,
+            "Attack Speed": 0,
+            "Weapon Power": 15,
+            "Ability Power": 40,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "bdf17db5-d4f5-46ee-8556-5b0edebe47fb",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "9f04b55d-07dc-4a93-82c1-7549e4c65b45",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+            },
+            {
+                "id": "1ba05e56-07f4-4077-b8cd-c71efc0b5629",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "2960967e-e3f3-46f3-8578-08fd8282a07a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "1cd75095-3f29-47ca-967a-c04464648eed",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            },
+            {
+                "id": "bc37ae97-7fa9-4008-ac2b-8db2b55d8944",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "362793eb-8d8c-43fa-883d-317ef7a72e77",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            }
+        ]
+    },
+    {
+        "id": "e67c0e4a-cd76-4da1-8245-1430c1e10384",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 5,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "This is the round when our neutral becomes even scarier. We are picking up  [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) and  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) for various reasons. First one being, again, double scaling. It adds damage to our blade which gets scaled off of AP and WP and  it also adds damage to our shurikens that are scaling with WP. Some numbers to account for at max superflexor stacks (btw those stacks can be acquired in one right click now with Hashimoto's Bane):\n- dash-right click-melee will kill a 300 hp target, it will also build 11% of ult charge\n- slash and dash will also kill 300hp target\n- slash-dash-right click-melee kills a 550 hp target\n- one slash builds 9% of ult charge per target it hits\n- one slash restores 91 hp per target it hits\n- right click empowered with  [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) and  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) builds 4% ult charge and deals almost 200 damage if all shurikens hit. \n\nYour neutral is very scary and you build ult crazy fast while having good sustain both on your blade swing and your melee. Your game plan is still searching targets that suit your breakpoints prioritizing low mobility or lower hp heroes, and if that is not an option, you can brawl it with the tanks and build blades. I would also recommend using your empowered right click as much as possible and if there are no good targets, again, participate in the frontline exchange. \n\nAs always,  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) are the first consideration, alternatively you can try to boost your damage as much as possible except now I'd advise prioritizing WP over AP. \n\nYou also have 348 hp and are very durable in most situations",
+        "stats": {
+            "LIFE": 355,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 355,
+            "Attack Speed": 10,
+            "Weapon Power": 15,
+            "Ability Power": 50,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "31402f93-c3c1-4088-99a6-d3a35e9cc201",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "355aba94-28d3-4cf4-bdb5-a2de25e51a82",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+            },
+            {
+                "id": "bc3f9a09-f2c6-4e8b-a991-c9f330f46418",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+            },
+            {
+                "id": "a9f99608-41eb-49aa-87b3-0a843770eb6a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "e3612220-7db0-49d9-890d-d5e1bebc34e0",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "b701b4ac-c754-4a66-8b37-1b7ce374a9ed",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "cc2cf339-b7af-467e-b0b9-0bedd480d0aa",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+            },
+            {
+                "id": "64a50e62-7c4b-4fff-8ec1-1aaf2ad04f82",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "b88af8dc-ba8e-4bfc-9940-84c2fa0674ca",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "ceee819b-243f-45e7-aa99-5a3f3613af61",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "82571966-0792-4d1a-bbd8-3377d66a3322",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            }
+        ]
+    },
+    {
+        "id": "bf791851-558a-4d3e-bd50-13a22ec4392c",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 6,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "This is the round where we step more in the direction of blade building as we pick up  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) . It will add some WP but more importantly it will make our blades a little more efficient as we now have 20% extra attack speed. I will not list all the breakpoints as they are largely the same but your game plan now can be either going for assassinations or building blade on tanks and blading as much as you can. Also now our hp is 394 and we are more than durable enough to play anywhere we want. The only hero you should avoid is probably  [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) but there the recommendation is the same as usual: pressure her from distance till the bubbles are used then kill her as she is very squishy without them and you deal a lot of damage to tanks.",
+        "stats": {
+            "LIFE": 375,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 375,
+            "Attack Speed": 10,
+            "Weapon Power": 25,
+            "Ability Power": 50,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "3ccfc310-8f54-4015-91bf-2c3975f18ad8",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "ebc6c80e-1175-4e87-a646-0dd7ccdaf095",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+            },
+            {
+                "id": "e2aec551-f39c-41be-9551-2b23db9272df",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+            },
+            {
+                "id": "6976bdde-cca7-4b06-822f-1daa3c004971",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+            },
+            {
+                "id": "6a690979-d9f1-4ed9-b932-05a09feacc3d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "c69e855d-09ea-4336-aeea-9f63380f7d0a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "9da0a6ba-aafb-416f-9e31-24e27ae093b8",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "53c15642-e629-49fd-98ca-e8eca3ee9a90",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "ed98bc9f-95ee-48dd-9878-652fb2e4e66d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            }
+        ]
+    },
+    {
+        "id": "0b555900-6202-4fbc-84f9-40e27f98b5b3",
+        "build_id": "5784f863-db79-46b3-9830-0ae80d6f9171",
+        "round_number": 7,
+        "cash_earned": 0,
+        "created_at": "2025-06-12T23:37:03.012788+00:00",
+        "notes": "Game probably won't go this far either way but in case it does, this is the final set of items we should have:  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) ,  [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) ,  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429),  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) ,  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) and  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643). We also picked up  [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) and it has many synergies with our  [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) and superflexor since if you do have Hashimoto's bane up one right click instantly builds up  [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) and stacks up  [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) to full. Now our hp is 464 (564 with full overhealth which we will frequently have). I will be honest I wasn't able to calculate the exact number of hp we recover per blade swing but it is way over 150. Additionally, our numbers look as follows: \n- right click-slash-dash-right click-melee will kill 775 hp target; it will also build around 20% of ult charge (I wasn't able to pinpoint the exact number)\n- fully empowered right click- dash kills 300 hp target\n- slash-dash-right click-melee kills 700 hp target if it has at least 700 hp\n\nWe can choose our playstyle, we can assassinate, brawl, bladebot or frontline with this build. There shouldn't be a target you cannot kill and we can dabble in as a tank and make our own space. Most importantly, even if the enemy does not rely on aim-based damage, we can survive it and brawl it out. Heroes like  [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54) or  [Mei](hero_36fd67f0-19df-4c50-add9-709cfb147cb0) who with respective AoE builds are a nuisance are now your targets. If you do experience problems I can suggest taking  [Dragon's Breath](item_32dc8374-7541-46fb-9891-29b7fbe9ed4d) which can be a good alternative if you have a hard time reaching your opponents or if they play grouped up. Hope you have fun with Genji!",
+        "stats": {
+            "LIFE": 396,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 446,
+            "Attack Speed": 10,
+            "Weapon Power": 30,
+            "Ability Power": 45,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 15,
+            "Ability Lifesteal": 15,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "a931500a-bb12-40fe-891b-3981c6519501",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+            },
+            {
+                "id": "c9c8a8ce-d663-432e-9279-7ee9ab2b2e28",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+            },
+            {
+                "id": "826e2ece-5301-4506-b4ef-310079220c53",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+            },
+            {
+                "id": "ebddc54b-ca47-4d94-8e88-aa26cd764d90",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+            },
+            {
+                "id": "a4c428c8-b3b3-4903-838a-50c9750ace6b",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "36e23573-95b7-4531-9b3b-9557e8c7d050",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "1ff6184d-f072-4c08-8f22-caff31ee4f5a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "647101af-e2f2-4585-9d41-d53830367056",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+            },
+            {
+                "id": "20c5c644-3a04-40f2-94b4-5791ed5924fd",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+            },
+            {
+                "id": "d4ee9ebf-d8a0-41b2-a154-98c3ca9af648",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "139167f7-97ab-4229-8f13-32e7220db780",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "6ed43a44-81ff-4349-87c2-4f327f4cd6d8",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            }
+        ]
+    }
+]
