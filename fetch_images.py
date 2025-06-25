@@ -25,6 +25,7 @@ for item in items:
         skipped += 1
         continue
     filename = get_filename_from_url(url)
+    filename = filename.lower()
     dest_path = os.path.join(PICTURES_DIR, filename)
 
     # Skip if file already exists
