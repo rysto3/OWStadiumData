@@ -1,0 +1,615 @@
+[
+    {
+        "id": "d41789c3-005d-493b-88d4-33582c7f5cbf",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 1,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "### Hover over the item icons (not hyperlinks) to read additional information!\n\nAlways buy  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) and  [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da).\nExtra HP allows you to earn more money\n\nIn the first two rounds, your job is to simply survive and deal damage, getting assists and eliminations for participating in the fight. If you take a lot of risks to get solo kills without having extra hp and die, you will not only spend more time running from the respawn to the action (and therefore earn less), you will also give money to your opponents.\n\nThe exception would be if you have a pocket Mercy. Not some random guy on your team, but a person who will definitely boost your damage. The bonus from Mercy is multiplicative, and together with 10% AP you will deal up to 165.9 damage from a rocket explosion versus 150.8 without an AP item. Without Mercy, who buffs your bullets, not only 15 damage, but even 30 damage is not worth neglecting survival, but with a constant damage boost, it becomes the difference between \"target is killed\" and \"target goes around the corner and they get healed.\"\n\nIf you want to understand exactly how the Helix Rockets work, and how Powers works with them, then read my post: \n[click](https://www.reddit.com/r/Overwatch/comments/1kj4yp9/soldier_76s_rockets_in_stadium_what_you_need_to/)",
+        "stats": {
+            "LIFE": 250,
+            "Armor": 25,
+            "Shield": 25,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 306,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "a627783c-6826-43f0-ac99-cee81a9d83bc",
+                "notes": "Without any items, you can deal 251 damage with a direct hit from a rocket and 5 bullets. With +5% weapon power and +10% ability power items, you can kill a 250 HP target with a direct hit from a rocket and 4 bullets. Is -1 bullet worth 25 of your armor when you don't have pocket Mercy?",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "572212a6-02f9-4e60-bab7-d77391c76506",
+                "notes": "The reason Soldier has 19 damage per bullet instead of 19.5+ is because 25 armor is enough to reduce the damage of his first three bullets to 12. +5% WP gives Soldier +7 damage with his third bullet against a hero who has bought 25 armor. But since the rockets exploding under the enemy's feet only deal 127 damage at +10% AP, you'll have to shoot for too long before that +7 damage from the third bullet will lead to anything.",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "c947c4b4-74fa-425a-b64d-565e83333d55",
+                "notes": "Shields on top of armor will not work as armor! Armor will only start reducing damage when everything on top of it (shields and overhealth) is gone.",
+                "action": "buy",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "d6b5320d-303c-43ac-bee8-f2644c5871c7",
+                "notes": "If you play with Mercy, then take both +5% WP and +10% AP, so that you can kill enemies with 300 HP, 50 of which is armor, with one Helix and 5-6 bullets after.",
+                "action": "optional",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "7962ca7d-ba63-485d-a32c-62cdc99d8a86",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            }
+        ]
+    },
+    {
+        "id": "9ca7ccc1-e6d8-4991-961b-3b9b0913f94e",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 2,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "If you have a lot of money, you can get [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) for an extra 10% ability power. \n\nAlso note that I'm not selling survival items because you won't have enough rocket damage until round 3 for the extra 10% ability power to matter.\n\nBut if you play with pocket Mercy, you can take a risk if you are just a little short of another +10% AP item. This will add 6 to 13 damage to your rockets under the blue beam, depending on whether you hit direct or somewhere nearby. Whether it is worth it or not - decide for yourself.\n\nThe third option is if you get a map with good high grounds, then you can take  [Bomb Diffusal Boots](item_c555901e-1b69-4040-8420-ee81cbaf6d90) because a strong position and mobility will be better than a small bonus to damage or survival.",
+        "stats": {
+            "LIFE": 270,
+            "Armor": 25,
+            "Shield": 25,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 320,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 30,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "a70418b1-d61d-4cef-bc30-943b4bcb325a",
+                "notes": "It's very rare when I play with a pocket Mercy that I'll be able to save up enough for two +10% AP blue items, one +20% item, and one +10% green item by round 2. But when that happens, I almost always take them at the expense of survivability so I can continue snowballing. Keep in mind that Mercy often provides more value to the team when she revives someone and activates Valkyrie, so your goal is simply to not die in bad spots and maximize your damage advantage.",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "fe7d4a77-5744-4149-aefd-1db915fb6814",
+                "notes": "+30% AP will give you up to 150.8 damage from rocket explosions and 202.8 from a direct hit. +40% AP will give 162.4 and 218.4. Now add Mercy's boost to this (multiply by 1.3) and it will become clear why such a Soldier can already start to dominate in the second round.",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "5f4f1b35-3ede-4647-baec-a214d97e9cfa",
+                "notes": "Genji, Reaper, Mei, Queen, Lucio, Moira - all of these heroes can be a big problem for Soldier in the early game because he has no escape. This item gives both escape and vertical mobility. Sometimes this item means the difference between \"can't play\" and \"contributing a little and making money\".",
+                "action": "optional",
+                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+            },
+            {
+                "id": "fafc3fec-2479-4647-aec5-3b5dcd434e98",
+                "notes": "5% WP can be surprisingly useful against armor, but only when the target has at least 100 of it and you're ready to fire a lot of bullets. 100 armor can be removed with 9 Soldier bullets, which will deal 108 damage (12x9). But with +5% WP the damage will be 123.5 (12.95 x 8 = 103, after which the armor stops working and the ninth bullet deals 19.95). However, in this build, even 100 armor on squishies is not important, because you have two sources of large portions of damage: Helix and MotK",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "5ec21f41-a3ed-4810-aa57-b0393165f166",
+                "notes": "A small boost to survivability will be more important than weapon power percentages or attack speed",
+                "action": "optional",
+                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+            },
+            {
+                "id": "53edb41d-396b-48a5-b003-ec0bc0be62cb",
+                "notes": "If you have 350 HP in 2nd round then you will die only because of your mistakes. This option is good when the team is strong and you can simply help with your damage and earn money for participation. I would call this the greediest and safest option.",
+                "action": "optional",
+                "upgrade_id": "086a91da-b65d-4047-8fc7-28a992078b1d"
+            },
+            {
+                "id": "30f9e913-4a4c-4dd0-9428-15226de3f5df",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "df42a06e-9cb9-46b3-9d30-611f503eb972",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "c6816154-b79b-40e1-8488-838c0345936e",
+                "notes": "Shields on top of armor will not work as armor! Armor will only start reducing damage when everything on top of it (shields and overhealth) is gone.",
+                "action": "buy",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "bdeb451e-57e1-4cf0-9f81-46578e1450ee",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            }
+        ]
+    },
+    {
+        "id": "62925f7e-f8fc-4b36-9d90-16a0fb0a2055",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 3,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "In the third round you have to choose between two options (or build paths).\n\n1) maximizing AP and survivability - if money is an issue or the game is not easy \n**OR** \n2) rushing MotK and TTT - if you have enough money, and the enemy heroes cannot easily counter your rockets or kill you. \n\nIn fact, both options come together in round 5, when you can have the necessary items, and Helix damage, and survivability, so in round 3 you just need to choose what to start with.\n\n### The first option is used by default in this build. \nThis build path is good when you do not have enough money or when you need to deal maximum damage with rockets to guarantee a quick frag. Against heroes like Moira, Kiriko, Mercy, Cassidy, Reaper, that is, who have the ability to reduce the damage from rockets or avoid it, it is sometimes advantageous to catch the right moment and start with a good Helix hit, and then finish the target with bullets.\n\nBecause of how popular Genji, Freya, and Cassidy are right now, I play this variant most often. [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7) gives a good HP increase and good healing, and if no one can oneshot you, you can skip any survival items this round. Try to use Biotic Field actively, that is, right before you attack the enemy.\n\n\n### The second option gives a little more damage per combo and requires the purchase of two items:\n\n[Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) (MotK)  \nThe damage from this item scales off your AP, which is perfect for a Helix Rockets build. But that's not all! This damage is dealt separately and counts as another bullet, allowing MotK to activate items like TTT. Additionally, the bonus damage for your next hit on an enemy does not expire over time, so you can prime MotK early by using either Helix or Biotic Field.\n\n[Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) (TTT)  \nLike the previous item, the bonus damage is dealt in a separate instance, but is no longer counted as a bullet and depends only on the enemy's max HP. In the 3rd round, your opponents will have about 300-350, which means one TTT trigger will give you up to 31.5 damage or one and a half extra bullets. Just like with MotK, you can prime this effect in advance.\n\nSince you only need 2 hits after casting the ability to fully utilize both items, let's calculate how much damage you'll do with just these two items for 2 bullets + Helix + 2 bullets on a 300HP target:\n\nWhen you do max damage from Helix explosion: (19+9+30+9+19+9) + 139.2 + (19+9+30+9+19+9) = 329.2\n\nWhen min damage from Helix: (19+9+30+9+19+9) + 84 + (19+9+30+9+19+9) = 274\n\nIn the second case, you only need 2 more bullets before or after Helix to finish off the target.\n\nThis is why you should take [Track and Field](item_b3750fe4-e416-42b6-ad9e-fe92c7dcffc5) as your second power with this build path instead of [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7) \n\nFirst, it allows you to use BF to prime MotK and TTT early. Second, you can use the reverse sequence when dueling heroes like Moira, Reaper or Genji: first Helix and a few bullets, and when the enemy uses fade/wraith/deflect, you turn on BF and finish them off.\n\n [Cratered](item_5bb876bf-52b5-496c-a9ea-b68e72ed3be1) is not used after the nerf because it will increase damage only by 16.6 (at maximum explosion damage). This is not enough even for the third round, not to mention the following ones. And the increase in the explosion area is not as big as it might seem from the description - read my article about Helix Rockets in Stadium: [CLICK](https://www.reddit.com/r/Overwatch/comments/1kj4yp9/soldier_76s_rockets_in_stadium_what_you_need_to/)",
+        "stats": {
+            "LIFE": 287,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 287,
+            "Attack Speed": 0,
+            "Weapon Power": 5,
+            "Ability Power": 60,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 10,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "dfe9f801-59d7-4e58-a7b6-252f284ccabd",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "ff254eaa-4006-484f-8628-49cb19a41414",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "8cee838e-dfe8-4c49-a341-b00030937728",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "8b000f94-817c-4dc2-a117-36a5f87c5231",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5ff8a68c-8f07-4531-9050-5cc5d9128b77"
+            },
+            {
+                "id": "2703e5f7-c79a-4109-a211-d6653937a684",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "aed688aa-1df0-4e37-a9b1-4895402b16dc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "103c8948-3a3f-4d76-a3a9-54da17782102",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "40e5bada-cf28-4156-aae7-c01e1bf7a281",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            },
+            {
+                "id": "03d454d8-6831-4a43-9310-c6cf8b554295",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+            }
+        ]
+    },
+    {
+        "id": "d0c3b4fa-93fd-4364-923a-ae0137d03bcc",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "### Because of the way items work in this build, Soldier has a combo that is meant to optimize your Time To Kill, as well as a benchmark for measuring your burst damage.\n\n**Combo: 3 bullets - Helix - 3 bullets**\n\nThere are three reasons for three bullets instead of two or four: 1) it feels natural: it's easier for you to catch the rhythm of the shots and it's easier to hold the button down for 330ms instead of 220 or 440 2) there are enough bullets in such a combo that increasing WP in the late game or in other build variants makes sense 3) this amount of bullets together with the damage from Helix should be enough for you to kill a non-tank who does not buy more than one survival item.\n\nTo perform this combo, you must first prime MotK and TTT, using the ability: either Biotic Field or Helix Rockets. The second is most beneficial (if you have time for it), because then you will have BF ready to either start a new combo in 5 seconds, or hold the position / heal yourself.\n\nBut why should the combo end at 3 bullets? What to do if your enemy is not dead?\n\nSimple answer: keep shooting, because it's better in terms of DPS than activating BF to get new bonuses from items. BUT! There are two situations when you need to use a long combo 3+H+3+BF+3 (or 3+BF+3+H+3).\n\nThe first is when your target is further than 30m away from you, and your bullets do less damage, Double Helix's auto-lock does not work and rockets are unlikely to do any damage (because they will be dodged). Since the bonus damage from items does not fall off with distance, you can pressure some Ashe or Ana from afar, and at the same time use BF to heal. Similarly, in duels with Cassidy at a long distance, because you will have an advantage in sustain and damage.\n\nThe second (3+BF+3+H+3) is when your target has a lot of HP, and it is beneficial for you to activate BF early in the duel so that it can bring as much extra hp through healing as possible. This is simply an optimization of both damage and sustain, because if you use BF before the duel starts, you will either leave it behind or it may end too early.\n\nAnd here's another thing about combos. Should you always try to use them?\n\nNo. If you can do enough damage with bullets to be sure to finish off the enemy with Helix, and you need some time to aim your rockets, then just do it. And vice versa, as in regular Overwatch, there are often situations where it is better to launch Helix rockets right away and then start shooting (if the enemy does not know about you, and especially when they are far away but barely moving). You just need to remember that your abilities activate items.\n\n### Now about the new items for round 4\n\nIf you follow the default path, you need to buy  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) and to do this you may need to sell something, but so that you have at least +50% AP left. Then the bullets charged with MotK will deal an additional 37.5 damage, and Helix - up to 174. The combo will deal 363 damage. At 60% AP, the numbers will be a little higher: 40 MotK and up to 185.6 from Helix, combo for 379.6.\n\nIf you chose the second option in the last round, that is, rushing into key items, then your task is simply to maximize AP. You can also compensate for the lack of survivability with [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0).\n\nBut there are other options for different situations. Read the notes on the items.",
+        "stats": {
+            "LIFE": 301,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 301,
+            "Attack Speed": 0,
+            "Weapon Power": 5,
+            "Ability Power": 60,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "b31102b7-f2fa-4876-8af9-57311b9b7b24",
+                "notes": "Your ult becomes a strategic resource with which you can win the round. Because of this, you need to choose your positions carefully so that your teammates get overhealth. If you don't have a Mercy pocket, then you don't need to run like a headless chicken looking for a target and shoot 100% of the time, because without WP and AtkSpd your ult is quite weak by round 4. You can also save Helix to guarantee a kill with your combo during Ult.",
+                "action": "optional",
+                "upgrade_id": "1220eaec-f913-4de2-816c-0dc070b285d0"
+            },
+            {
+                "id": "eaf792d0-2afa-4ece-9578-6d43fc04dfe8",
+                "notes": "will give you: +17.1 bullet damage per combo, but the benefit is that you will deal more damage outside of the combo. When the enemy is not using armor, this is a good option. In round 4, you can start to switch to a hybrid build in which you will have both AP and WP, if it will be more logical or easier for you to shoot from afar than to play an assassin and a flanker in this game.",
+                "action": "optional",
+                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+            },
+            {
+                "id": "a7e8fbab-3c1d-4b46-b4dc-81fbfefc3adc",
+                "notes": "will give you survivability, because Double Helix counts as using two abilities in a row, that is +50 overhealth.",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "d7615d7a-edac-4206-b33c-d0c095c0e3f6",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "f9c50822-cabe-45f2-8a89-e61984906883",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "db223067-5f64-4da5-a508-026ac8069b97",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "def7613a-194a-452d-9124-d5f3a7ab48f2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5ff8a68c-8f07-4531-9050-5cc5d9128b77"
+            },
+            {
+                "id": "c871abd8-9093-4927-b444-2ba5c9197b5b",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "c7143184-0823-4428-a43a-13d82ff118b6",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "3d4beff1-4aad-4bc4-9984-0d93c880c809",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            },
+            {
+                "id": "8ac22f59-4263-4ea1-be0c-2f5a23c5931a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+            }
+        ]
+    },
+    {
+        "id": "3757233a-25a6-47f6-8e84-1b71fd8e7d0d",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 5,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "If you went the default route, then choose  [Track and Field](item_b3750fe4-e416-42b6-ad9e-fe92c7dcffc5) and buy  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\nOtherwise, choose  [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7)  and continue to maximize AP.\n\nBy this round, all your weak points will be covered, because you have three necessary powers and two key items. If before you had to choose a good moment to use BF, now you can try your luck with a full combo every 6-7 seconds.  Just remember to use Sprint to reduce the BF cooldown.\n\nIn addition, you are now self-sufficient and practically do not need the attention of your supports, which not only minimizes your downtime between attempts to kill someone, but also allows other players to be more active and deal more damage.\n\nThe best item for survival is  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) , and if there is not enough money, then  [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)",
+        "stats": {
+            "LIFE": 312,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 312,
+            "Attack Speed": 10,
+            "Weapon Power": 5,
+            "Ability Power": 60,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "9869ca61-2cfa-4e7b-8c60-026f9cca4fd0",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5ff8a68c-8f07-4531-9050-5cc5d9128b77"
+            },
+            {
+                "id": "bb85cf16-7ace-4772-a7c0-e410af45f846",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "0ab7c149-e85d-4e4f-b7e2-38ce95de52a3",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "487c4166-ab1f-4ffc-922d-66365e194719",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "7a393221-58bc-4322-aee4-81fee4779403",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "85690856-18c1-4c42-a2f5-a7d999a1d0e8",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "1f8caf2c-1f4e-4dbd-979e-7dc58140c027",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "c4592aa4-3648-4dad-b0c2-a9bdb7b48884",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            },
+            {
+                "id": "5b994c09-ca0d-47bd-9c35-a6759db1dc62",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+            },
+            {
+                "id": "2d6ea268-6d24-4a09-8b6d-e56cb921ca91",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b3750fe4-e416-42b6-ad9e-fe92c7dcffc5"
+            }
+        ]
+    },
+    {
+        "id": "dcff1f2d-88da-4f55-ad40-3af85add5a71",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 6,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "Nothing changes in strategy. Maximize AP and survivability.\n\n[Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) is a good item when you have too much money. There is no point in taking it until round 6-7, when you will definitely have all the components of the build. Read the note in the item.\n\n\n### What you shouldn't buy:\n- [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)\nonly 2s of debuff after damage from Rockets is not enough, and if the target gets a lot of healing, it won't help you anyway. It's better to deal more damage at once by increasing AP.\n- [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98)\nyou are not a support, and your rockets are needed to guarantee kills, not to put debuffs on tanks\n- [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4)\nyour ult is pretty weak, especially in the late game\n- [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f)\nthis item will not work for half of the round, and even when it does, only AP and HP are important to you. In addition, even if your ult is weak, it makes sense to use it at the right moment or against Mercy, Juno or Lucio, because they are the hardest for you to kill.\n- [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b)\nyour targets have less than 30% HP only after the rockets explode, and therefore increasing the damage from your shots will not change much. This item is simply not worth the money in this build ruote until round 7, when you can change playstyle again.",
+        "stats": {
+            "LIFE": 328,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 328,
+            "Attack Speed": 10,
+            "Weapon Power": 5,
+            "Ability Power": 75,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "99cfa5e5-ecb5-43e3-bc6f-ce06a5694422",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "e7d0ffee-c51b-47e0-8e0d-889f2a3ce257",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "d373ef41-58fa-4d6f-8a77-fe7d159e9ee7",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "bd3ba30a-de95-4186-b15e-50e0694fefdd",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5ff8a68c-8f07-4531-9050-5cc5d9128b77"
+            },
+            {
+                "id": "3391c0a4-56a0-418a-9a90-084dc28b7314",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "917a50f9-70c8-4e7c-b3c0-ee03423080ab",
+                "notes": "Since the additional damage from MotK is considered as another bullet, then for three hits on the enemy you will get four stacks of the SF bonus, that is +20% AP. In addition, the damage from MotK comes after the first bullet and gets +5% AP from SF. If we talk about combos, then after Helix, the next bullet will give you the fifth stack of SF, and the additional damage from MotK will increase by 5. In total, this item gives 35.15 damage for combo (taking into account +10% WP).",
+                "action": "optional",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "82545c29-b9c6-4769-93cc-3695081b05ef",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "92cac94c-51ea-418b-b155-8be8ba8b1b23",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "77b788af-5e13-4d2c-9056-c3086036e6c6",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "bca213c2-c89d-435c-a6ee-9486e828f473",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "a7627cfb-9857-48bf-8ca3-5ae6513156a2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            },
+            {
+                "id": "7e1b740e-3832-46f1-aaca-47ce20392518",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+            },
+            {
+                "id": "85ff26d7-9260-4d7a-a11e-58d215c1233a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b3750fe4-e416-42b6-ad9e-fe92c7dcffc5"
+            }
+        ]
+    },
+    {
+        "id": "a03a5484-e16d-4c58-adda-1d02a613e41b",
+        "build_id": "0993cbfb-96c5-4477-ae60-2af50602eafd",
+        "round_number": 7,
+        "cash_earned": 0,
+        "created_at": "2025-06-25T19:05:34.832915+00:00",
+        "notes": "In addition to [Frontliners](item_20863047-0978-4bcd-b75f-499fac432ff0) giving you even more survivability, it will also allow you to save your teammates. Technically, thanks to high AP and [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7) you could help with your heals before, but without the burst heal, Soldier works much more effectively solo and as a flanker. Now you can give your teammates 115 or more overhealth instantly, which makes you not just a Soldier, but a Universal Soldier! xD\n\nHere are two more interesting items:\n\n[El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100) - if no one in the team takes anti-heal, this might come in handy.\n\n[Endgame Equalizer](item_a2143111-8fa0-4e3b-bbcf-12ed54587234) - can be chosen solely for the ability to reset the cooldown of Helix Rockets in a decisive fight. The first rockets - before the ult, the second - immediately after its activation, the third - closer to the end of the ultimate. By the way, the ult is considered an ability, so it activates MotK and TTT. Do not forget to shoot 2-3 bullets at your target before launching Helix.\n\nReward for those who read to the end: 7JRMA\nThis is the code for a custom stadium practice range with additional features (hold the interaction button to bring up the menu)",
+        "stats": {
+            "LIFE": 341,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 391,
+            "Attack Speed": 10,
+            "Weapon Power": 0,
+            "Ability Power": 80,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "194f6d2c-f1bd-463d-b00b-725b53e4412f",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "26389991-e56b-4b87-a0fd-db26e77fe847",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+            },
+            {
+                "id": "dfd288eb-6663-4080-9e30-5dd16dd7fb1e",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "a2143111-8fa0-4e3b-bbcf-12ed54587234"
+            },
+            {
+                "id": "20047928-ddeb-4f6f-a00f-2e67dc7d7ea2",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+            },
+            {
+                "id": "d129209f-7f88-442f-a647-e91d485dad88",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "c7f05268-7fe3-4f21-a8ef-183685d1c4e6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "4a309e3e-dfc3-4b7e-8441-9c371defe25b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "0636b2cf-86ab-47b4-8236-2f869f700815",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "55dccf29-c8ba-4a0c-a2cf-4ba9a6c5012c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "3b244c3a-a6ff-437d-9ebc-bcf94d281950",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "cae215f2-e989-492d-b9e5-bd9816874312",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "226cd35f-17d5-4abe-8b5e-a37bbb0b7bd2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+            },
+            {
+                "id": "0eed5227-e58b-46c3-a649-6aa03ad217dc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+            },
+            {
+                "id": "8bad6089-c20e-48f0-bb25-f94e43165f1c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "b3750fe4-e416-42b6-ad9e-fe92c7dcffc5"
+            },
+            {
+                "id": "616f1ded-e7a3-49a3-b006-d8811f72c709",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "20863047-0978-4bcd-b75f-499fac432ff0"
+            }
+        ]
+    }
+]

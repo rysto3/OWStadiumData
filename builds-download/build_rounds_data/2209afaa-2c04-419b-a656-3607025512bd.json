@@ -1,0 +1,669 @@
+[
+    {
+        "id": "db2c4887-ecc5-45f1-b5ad-56bef913bd83",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 1,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Format for Power/Item Priority\n\n\ud83d\udd0a = Core (Must haves)\n\n\ud83d\udd09= Okay (Depends on preference)\n\n\ud83d\udd08= Situational (Mostly for counter building and/or specific maps)\n\n**tl;dr versions of item priorities will be in their individual notes. You can read them if you don't wanna see me ramble (as I do that a lot.)**\n\n# Powers\n\n## \ud83d\udd0a =  [Crowd Pleaser](item_ae569e40-3194-4681-b1da-c664d0fa982c) \nThe bread and butter of this build. This gives you more survivability, more utility since you can heal while peeling for your teammates and heal yourself when diving a target, but most importantly, **it. gets. you. *MONEY*.** This will be the main money maker for the starting rounds.\n\n# Items\n\n# Buy\n\n## \ud83d\udd0a =  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) \nThis build focuses on AP so you'll need as much AP as you can get. This will be the starting point.\n\n## \ud83d\udd0a =  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) \nThis item is just to squeeze out any extra damage to help with getting elims. Plus, assists and elims gets you stadium cash and you want more cash. This also helps a little with poking the enemy and putting a little pressure on them.\n\n## \ud83d\udd09 =  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \nFor extra survivability. Armor reduces damage taken so you can live longer. If you're worried about their burst, you can use this.\n\n## \ud83d\udd09 =  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) \nFor a tad bit extra dps, if survivability isn't something you're worrying about, you can use this instead.\n\n## \ud83d\udd09 =  [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) \nFor extra survivability. Shields regen over time and goes alongside the global passive regen. It's inferior to armor since it doesn't reduce damage, but this item does reduce the time it takes for the passive regen to start which can be great for Lucio since it'll help him heal himself back up quicker. \n\n## \ud83d\udd08 =  [Field Rations](item_46ae6709-1166-426f-bca3-97a538d3f089) \nThis can really only work if you're mostly going to stay on the point like on **control** or **clash**. This limits your movement to mostly being on the *objective*, so I don't recommend this one much unless you know you and your team will turtle on the point most of the round.\n\n# Overall Gameplay Notes\n\nFor round 1 and the early rounds in general, you want to generate as much stadium cash as possible. Stick by your team, use boop off cool-down to heal them, amp up the heals to build up assists. Don't try to be too aggressive for kills...*yet*, that'll be for later.\n\nA lot of times, the heals and the assists will help in getting you MVP for the sweet bonus cash ~~(unless someone on your team gets a pop off moment.)~~ You really just want to be a bit of a healbot and only take opportunities to be aggressive when you KNOW you can secure the kill.\n\nBuild up that money, your time to destroy the enemy using your boops will be soon...",
+        "stats": {
+            "LIFE": 250,
+            "Armor": 25,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 282,
+            "Attack Speed": 0,
+            "Weapon Power": 5,
+            "Ability Power": 10,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "aa4eddfc-5eb8-481d-96ec-5bc4f838eacb",
+                "notes": "Must have, you want as much AP as possible.",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "3eb4e003-1199-4675-845d-7861d45cd71b",
+                "notes": "Used to squeeze in extra damage.",
+                "action": "buy",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "ba39574e-fcc5-42ed-b63d-1c02b3633c74",
+                "notes": "Extra survivability if needed.",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "4485f953-7008-4ea2-a116-6aef3c8081d7",
+                "notes": "You can replace armored vest if wanting more damage.",
+                "action": "optional",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "4453cdfd-d94e-428e-b15b-1904e1073973",
+                "notes": "Only for control/clash, very situational.",
+                "action": "optional",
+                "upgrade_id": "46ae6709-1166-426f-bca3-97a538d3f089"
+            },
+            {
+                "id": "5f4f6c92-9b3d-471c-b20f-a56699aefe17",
+                "notes": "Shields is great but armor is better. Mostly for faster regen.",
+                "action": "optional",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "cffe1114-f2aa-4bb7-9da3-58906ac8cc2f",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            }
+        ]
+    },
+    {
+        "id": "462d1ac1-6d31-4d09-adc2-ed6b83d67590",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 2,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 11k - 16k\n\nOf course, this is dependent on how much you healed, helped with elims, and if you earned MVP or not. For each round, I'll be assuming certain averages based on my games, but also give options if you earned more or less than that range. For this instance, I'll be assuming about *13k*. The optional items are ones to pick up if you have extra cash or less cash, with their individual notes mentioning how much cash you'll need as well as why you'll get them.\n\n# Items\n\n# Buy\n\n## \ud83d\udd0a =  [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\nThis is for even more AP, put simply. Again, you need as much power on your boop as possible. Straight 20% flat AP is great to continue stacking it up.\n\n## \ud83d\udd0a =  [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)\nEven more AP, see the pattern I'm getting at here? Although for this item specifically, not only does it give you more AP but it also lessens the cooldown of your boop very slightly. So you can boop more frequently to get more healing done and get more cash.\n\n# Sell\n\n##  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)\nOut of all of the items, you can most comfortably sell armored vest if needed in order to get other items. Although if you feel like you're taking too much damage, you can keep it. Although you would have to sell  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) in order to have that extra armor.\n\n# Overall Gameplay Notes\n\nYour game plan will be the same as the last round, build up that cash and keep your team up. Thanks to the steadily increasing AP, you can afford to try to be a bit more aggressive against enemies that are out of position. You\u2019ll be doing good damage with your boop here, just be careful not to overdo it, you\u2019re not THAT strong yet. But try targeting weak squishies you know you have a chance at beating/forcing key cooldowns out of, like [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546) and his healing field,  [Kiriko](hero_70a0ac5c-2a55-4fab-beeb-2f570886426f) with her suzu/teleport,  [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000) with her sleep/nade, etc. \n\nAlso if you\u2019re going against  [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1), be very careful if she equipped [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619)! This will completely make her a super low priority target, as booping her will not only be less effective but also buff her as well. So avoid her at all cost if possible. You do *NOT* want a very speedy queen rush you or your team.",
+        "stats": {
+            "LIFE": 275,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 275,
+            "Attack Speed": 0,
+            "Weapon Power": 5,
+            "Ability Power": 40,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "2f9d9a7e-cc22-4311-b131-253518101751",
+                "notes": "Sell if you don't need extra survivability. If needed, replace compensator.",
+                "action": "sell",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "fd010c64-b3e2-4c0f-9717-8a71bea004af",
+                "notes": "If you have enough money (15250) get this and sell compensator. You'll keep the amount of WP compensator would give you but also get even more AP, the main stat you want.\n\nAlternatively, you can use this as a substitute to multi-tool if you don't have the cash for it after getting Nano Cola.",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "d0e975bc-62d1-4c7c-8aac-957f8b8d1859",
+                "notes": "If 13.5k, this can round it out. Thanks to crowd pleaser, you'll be getting beat faster. The condition for ult will be fulfilled much more easily.\n\nDon't worry if you don't have enough for this, this item is just a cherry on top.",
+                "action": "optional",
+                "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+            },
+            {
+                "id": "f9256e66-b959-4890-a6e6-fb9c43edec05",
+                "notes": "Core, you need that AP.",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "af09da1a-103f-42d1-8326-f448671bdea1",
+                "notes": "More AP more boops!",
+                "action": "buy",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "b9d3a53f-c45b-4536-8f54-0b3087d3e379",
+                "notes": "Keep, you need that AP.",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "4f82978f-8bb8-4417-be0b-af0eb684207c",
+                "notes": "Keep, free extra damage. If not enough money for the two rares, sell.",
+                "action": "buy",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "b7dd9766-4e09-41de-b8fd-6e6db228c6f4",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            }
+        ]
+    },
+    {
+        "id": "b70c27af-fc5f-4a2e-a728-dc0f28529fdf",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 3,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 17k - 24k\n\nI\u2019ll be assuming ***21.5k***\n\n# Powers\n\n## \ud83d\udd0a =  [Reverb](item_c973a6d8-47ee-4846-adb4-78f40c1b6a9f)\n\nHow can this be a boop build without the power that gives you ***TWO*** boops? This has amazing synergy with crowd pleaser, allowing you to heal your team (and yourself) more to survive against damage. This also gives you more damage as you can boop twice with the increased AP. This all translates to more survivability, more *cash,* and more dps.\n\n## \ud83d\udd0a =  [Let\u2019s Bounce](item_2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b)\n\nNow this is only if you want the real fun to begin early. I personally prefer having two boops, but thanks to the amount of AP you'll have, you'll be able to burst unsuspecting enemies down.\n\n# Items\n\n# Buy\n\n## \ud83d\udd0a =  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n\nAn excellent item that gives you armor, and restores armor each time you use an ability and gives *15%* AP. This can save you in some duels and give you a way to tank some damage better, since your boops help restore your armor.\n\n## \ud83d\udd0a =  [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4)\n\nYou'll be doing a lot of AP damage with boop, plus, good healing with it too. If you feel like your team needs better defense, then this can definitely help get you beat faster.\n\n## \ud83d\udd09 =  [Biotech Maximizer](item_01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4)\n\nThis lessens the cooldown of your boop each time you heal your team with it. This can also help if you're assisting a teammate on an angle or flank. Healing them while also damaging the enemy or in a brawly team fight where you're booping for your team and to hit the enemy. I honestly use this the least compared to the other two, as it gives you 10% AP rather than 15% and the effects of the other two is a tad bit better.\n\n## \ud83d\udd08 =  [Nano Boop](item_892a8289-905b-4a99-8bf9-f8e823741853)\n\nIs this item completely useless on some maps? Yes. Even on some of the maps it'll be good on, will it be consistent? No. If you do get the boop off the map, will it be extremely funny? Definitely. This item will only be useful on maps like Throne of Anubis, Redwood Dam, Hanaoka, and Arena Victoriae. Pretty much maps where you're more likely to get the boop kills. If you want good laughs on those maps, this item could be worth picking up. (You may be sacrificing  [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) or one of your epic items.) Also saying \"Boop of the day\" apparently helps in getting those environmental kills.\n\n# Sell\n\n##  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0)\n\nNo real need to keep this item, WP doesn't mean too much here. Besides, there's a better item that gives you WP while also amplifying AP...try to guess what item I'm hinting at!\n\n# Overall Gameplay Notes\n\nThis is where the fun begins. You got the heals, you got the consistent boop damage, you got max disruption. The amount of damage you'll deal with boop at this point can be a bit unbelievable to some foes which allows for some sneaky flanks to burst them down.\n\nIf they have any supports that you can dive on, find opportunities to do so. At worst, you'll force out their abilities and run away. At best, that's another elim on the stat card. You can afford to be a little more aggressive now since you have two boops (or an even powerful boop with  [Let\u2019s Bounce](item_2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b)) which can give you more survivability and allows you to deal more damage. Though you still can always come back to the team and clutch with boop heals too.\n\nUltimately, this leads you down multiple playstyles. Aggressive duelist, supportive healer, or balanced between the two.",
+        "stats": {
+            "LIFE": 293,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 343,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 55,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "2d554273-d165-436e-aaa5-b0c8467a6f74",
+                "notes": "More AP, more armor, more power, more survivability.",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "1fc13dac-2434-413a-b630-c9e071df9e8e",
+                "notes": "Boop can heal so now you'll get more boops. Can replace fusion drive.",
+                "action": "optional",
+                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+            },
+            {
+                "id": "8598454f-2fab-4300-b0ca-02993ee8a77b",
+                "notes": "A bit more defensive, allowing more beats. Can replace fusion drive.",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "311d4234-1da3-4216-80ec-676410055132",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "db541965-e1ee-4330-ae1b-52adca306aa3",
+                "notes": "Very situational, but also very funny.",
+                "action": "optional",
+                "upgrade_id": "892a8289-905b-4a99-8bf9-f8e823741853"
+            },
+            {
+                "id": "992a014e-e2d0-4c8c-9d71-1cde957a67cb",
+                "notes": "Gives more AP as a budget option if you don't have enough cash. Can fill one of the two possible rare slots you have.",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "fb862139-6fc4-470c-aeba-a70fbe6964fa",
+                "notes": "More so if you don't have the cash for an epic. You can fill two rare slots, this can be one of the items.",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "14121906-0c71-49f0-8cb2-d62132298654",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "15c40539-7e21-41f7-b94c-6c383194647b",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "2f0ecdc1-77fd-4b8f-be17-459b72d4a4ac",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "c4096af9-d7d0-4b06-8ae6-32c60363dc30",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            },
+            {
+                "id": "cc80c87e-03e3-4bfc-bea2-b8b91bce029b",
+                "notes": "Even more boops, what else is there to say? Core.",
+                "action": "buy",
+                "upgrade_id": "c973a6d8-47ee-4846-adb4-78f40c1b6a9f"
+            }
+        ]
+    },
+    {
+        "id": "a3ae8003-d1c3-4b8d-907c-5be18b5d8081",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 28k - 36k\n\nI'll be assuming ***31.5k***\n\n# Items\n\n# Buy\n\n## \ud83d\udd0a = [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b)\nThis is where the fun REALLY begins. This amplifies your boop power immensely, up to 80% after hitting one full burst of your primary and a single shot. Which means you can poke the tank over and over to keep your stacks up then find a target you can jump on and annihilate them with your two boops, OR heal up your team nicely with amp heals and boop heals. Also in duels this can help too as after one boop, you can aim your shots where you boop them to get some precise shots then BOOP, even more power and they're gone. WP doesn't really strengthen this build much, but it does help a little when you're trying to burst down a squishy.\n\n## \ud83d\udd09 =  [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) \nThis item returns as a more defensive option! Yes, I mostly explained its use last round but I'll explain it slightly again. It's just to get more beats faster. If your team is struggling to stay alive and you see yourself healing your team more often than going to pick off targets, then this is a good choice over Superflexor.\n\n## \ud83d\udd08 =  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) \nThis item is mainly when you go against comps that use a lot of healing. Since you have two high powered boops, you'll nuke them and also lower the amount of healing they do. I really only use this as a counter option OR if I want to increase cool-down reduction.\n\n## \ud83d\udd08 =  [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)/[Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2)\nFiller options if you cannot get a second epic. For Custom Stock specifically, you can use it to alternatively replace [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) to have 15% weapon power if you use it with Superflexor.\n\n# Sell\n\n##  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\nYou'll have enough money to where you might not have to run this anymore and potentially replace it with a rare like [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) or [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e). That or selling it to afford the second epic if needed. Though if you won't have enough money for either option, or if you have enough money for the second epic and maybe have a tiny bit extra left...you can still keep it, like I have in this example.\n\n# Overall Gameplay Notes\n\nThis round definitely allows you to be a lot more aggressive and put down extreme amounts of pressure onto the enemy backline and take more duels, even against dps heroes by building up a lot of AP with your shots then finishing them off with your boops. Of course, if you're a lot more passive, this still gives you more healing power to your team via spamming shots, amplifying AP with [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b), then booping to give a lot more heals.\n\nFocus on getting max stacks for Superflexor, this will push your boops to their full potential! Easiest way is spamming shots at tanks thanks to their big bodies!",
+        "stats": {
+            "LIFE": 338,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 388,
+            "Attack Speed": 0,
+            "Weapon Power": 10,
+            "Ability Power": 55,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "99603cd7-490f-4694-9280-ae9cad92a0f2",
+                "notes": "Spam damage into massive boop damage.",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "54de1bf1-4311-44b7-b427-ca99e6538665",
+                "notes": "Can be used as an option instead of superflexor if the enemy has a bunch of healing.",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "69b01fdf-b1dc-4158-8121-2e450e9e8aa8",
+                "notes": "If not enough cash for a second epic, fill in with rares. This is an option.",
+                "action": "optional",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "f260c871-fea8-4bad-bad8-0666d2f1883e",
+                "notes": "If not enough cash for a second epic, fill in with rares. This is an option.",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "0404dfa5-ede2-482a-b994-a8f87e49cba7",
+                "notes": "If you want more beats rather than more boop damage.",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "5127e853-412c-49d4-8231-0f95e8115a36",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "94077cb1-bab9-475c-8946-f24f1155cefe",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "0ebd1ca1-a69a-4268-b626-701bbf6f76c3",
+                "notes": "You could swap this out with custom stock to keep the AP and also be at 15% WP.",
+                "action": "buy",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "bd97bf7d-9654-4ad8-a729-b4695f3fe139",
+                "notes": "Keep, but if needed, sell for the second epic or to replace it with the cheaper rare options.",
+                "action": "buy",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "dc457324-1e8c-44a1-a8ec-c84dd57f8852",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            },
+            {
+                "id": "c1585b28-5ad2-40bd-9a04-4dd3c2d2c042",
+                "notes": "Even more boops, what else is there to say? Core.",
+                "action": "buy",
+                "upgrade_id": "c973a6d8-47ee-4846-adb4-78f40c1b6a9f"
+            }
+        ]
+    },
+    {
+        "id": "89231c63-8d07-4bce-89fc-8930d90b5c8c",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 5,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 43k - 50k\n\nI'll be assuming ***45.3k***\n\n# Powers\n\n## \ud83d\udd0a = [Let\u2019s Bounce](item_2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b)\n\nThe build is pretty much complete now with this. You have two supercharged boops and if you knock someone into a wall, they're gonna die. If they don't die from one wall boop, kill them harder to death with the second wall boop. If you got this power at round 3, then you'll be getting [Reverb](item_c973a6d8-47ee-4846-adb4-78f40c1b6a9f).\n\n# Buy\n\n## \ud83d\udd0a= [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) \n\nOkay now hear me out, the **effect** of this weapon is, well, kind of *garbage* given that Lucio's ult already gives him a bunch of decaying overhealth. *But*, this gives both 20% AP AND gives 10% **cool-down reduction.** This, alongside [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) (and [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) if you use it) will give you a whopping ***20%*** reduction, you're getting boops very often!\n\n## \ud83d\udd0a= [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98) \n\nThis item slows people down after every boop, allowing you to hit shots after easily to finish people off but also for that boop of the day you've been searching for all match. Also, this very *slightly* helps when you're going against a [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1) using [Dez\u2019s Damage Dampeners](item_d55fc98b-d014-4383-903c-a7aa1fb7c619) by lowering the amount of bonus speed she gains by a bit.\n\n## \ud83d\udd0a= [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2)\n\nThis is simply a replacement for [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418), keeping the 10% AP while also giving the 5% WP to bring you up to 15% WP alongside [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b). Good for finishing off booped targets and softening them up for the finishing boop.\n\n# Sell\n\n## [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n\nBy this point, you should have more than enough cash to replace this with a rare alternative. [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) is my personal choice to squeeze in some WP alongside the AP but any AP giving rare is good enough as a replacement.\n\n# Overall Gameplay Notes\n\nWith this, the build is as complete as it's ever gonna get. Everything you'll pick up pass this point isn't gonna be super important and more-so optional to strengthen your boops further. During this round you can be even MORE aggressive thanks to [Let\u2019s Bounce](item_2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b) giving more opportunities to burst people down. Flank them and bully targets into the wall, but don't forget to run back and heal up the team if you notice that they're critical. You're also still gonna focus on getting those sweet [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) stacks.",
+        "stats": {
+            "LIFE": 365,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 415,
+            "Attack Speed": 0,
+            "Weapon Power": 15,
+            "Ability Power": 75,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 15
+        },
+        "round_upgrades": [
+            {
+                "id": "ab05a640-587c-4922-be06-b36a31b7816a",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "036db0ff-1c15-41c0-9d4f-75db1f4bed51",
+                "notes": "20 AP and faster boops!",
+                "action": "buy",
+                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+            },
+            {
+                "id": "3965262e-8c23-4c6f-9348-515af6d5a799",
+                "notes": "Alternative for Iridescent Iris, easier shots after boops.",
+                "action": "optional",
+                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+            },
+            {
+                "id": "cd5bb776-74a0-446e-84fb-005de69c59f1",
+                "notes": "Alternative for Iridescent Iris",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "6c41629d-410f-4e7e-b061-ce47ca9ec1cc",
+                "notes": "Alternative for Iridescent Iris",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "b9fb3c2c-81e7-41f5-b5c4-50c034cd5a03",
+                "notes": "Alternative for Iridescent Iris",
+                "action": "optional",
+                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+            },
+            {
+                "id": "437af2c2-e06e-448d-9825-66e261981522",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "bc68d209-ada3-42e4-871e-30f28b606b5c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "7aaa088a-2ac2-4d85-bd23-08548a80dbe7",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "4897693f-51de-4867-b3d0-67456eb627c3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "223684f8-6521-4811-b93b-8d3f41bcc11c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "85b325d6-3bd6-455d-9e43-446414eba8f4",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            },
+            {
+                "id": "53905c85-4c83-4f40-a282-eb0edfc7797a",
+                "notes": "Even more boops, what else is there to say? Core.",
+                "action": "buy",
+                "upgrade_id": "c973a6d8-47ee-4846-adb4-78f40c1b6a9f"
+            },
+            {
+                "id": "f04df963-16d5-40a9-8e27-8868cc2d2352",
+                "notes": "You were gonna get this sooner or later. More damage? Definitely core.",
+                "action": "buy",
+                "upgrade_id": "2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b"
+            }
+        ]
+    },
+    {
+        "id": "01bb240e-536d-4202-9956-cc0caeaa7d1c",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 6,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 52k - 59k\n\nI'll be assuming ***54.8k***\n\nUp to this point, there isn't any real MUST haves (outside of [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce)), so go with what you think will help out the team or what would help you get picks and effectively make their team be worse.\n\n# Buy\n\n## \ud83d\udd0a= [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) \n\nRaw 35% AP, what else is there to say? Of course I'd recommend juicing up your AP for those powerful boops.\n\n## \ud83d\udd0a= [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb)\n\nEven though I said there aren't really any must haves, [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) becomes really good thanks to your 90 ability power alongside [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) if you have the cash to have both of them (after selling [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)). If not, then you'll pick it up at round 7.\n\n# Overall Notes\n\nNothing too special to say here. If you won the last round, do the same thing you did that round, if not, then get items that can lessen the enemy team's strengths and strengthen your own team. Remember, this build is rather flexible in what items you can have so use it to your advantage.",
+        "stats": {
+            "LIFE": 384,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 434,
+            "Attack Speed": 0,
+            "Weapon Power": 15,
+            "Ability Power": 90,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "c56a45cf-3071-48f5-9037-7839789a17bd",
+                "notes": "Even more AP!",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "e5d5494d-72d7-45f1-9f10-418ca6290678",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+            },
+            {
+                "id": "60d9c56b-986e-4f12-afc6-1f8ad4b8d95b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+            },
+            {
+                "id": "6aace13f-c8ff-473f-8b52-e39c77faceb9",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "72b3ef70-bea5-4f91-b4e3-9924079cd374",
+                "notes": "Bonus AP damage with a lot of AP",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "d9601d73-4192-4d4b-abc9-c8969160e906",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "45dc140a-fc9e-46b8-8cb4-82cb160a00e9",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "0eca609c-62ff-4261-a9ef-bd53668dbba6",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "a9b32154-2fc8-4beb-822f-404f35c3712b",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "b0c2fff1-2e15-4575-8fc0-5d83cebf5c20",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            },
+            {
+                "id": "8cf72545-5a8a-4cf8-b7b0-7bf9bea937d5",
+                "notes": "Even more boops, what else is there to say? Core.",
+                "action": "buy",
+                "upgrade_id": "c973a6d8-47ee-4846-adb4-78f40c1b6a9f"
+            },
+            {
+                "id": "aeb3cfbc-478e-4225-8ca8-0e56b94b6e96",
+                "notes": "You were gonna get this sooner or later. More damage? Definitely core.",
+                "action": "buy",
+                "upgrade_id": "2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b"
+            }
+        ]
+    },
+    {
+        "id": "34d8a54e-93f8-4eb7-a215-80a225a86f0a",
+        "build_id": "2209afaa-2c04-419b-a656-3607025512bd",
+        "round_number": 7,
+        "cash_earned": 0,
+        "created_at": "2025-07-01T23:57:56.050828+00:00",
+        "notes": "# Average Round Cash: 60k+\n\n# Powers\n\n## \ud83d\udd0a = [Signature Shift](item_665f2250-6c78-439a-8ea8-6d5c8124e73c)\n\nYour shots get much bigger after each boop, making it much easier to get follow-ups after a boop for easier damage. Plus you get 2 boops which means you'll have about 12 bigger projectiles to fire (and if you are running more cool-down reduction, you'll have access to these bigger shots more often.\n\n## \ud83d\udd09= [Sonic Boom](item_e0a58a96-c17f-4c99-ba06-8daaa5fd5508)\n\nThis is another source of healing for yourself and your team. It won't be *as* effective since it only takes damage from your primary fire instead of your abilities. But if you're constantly hitting shots, then this can be used.\n\n## \ud83d\udd09= [Beat Drop](item_d3d5876b-bd40-4bd9-9954-c65e2295cc2d)\n\nFaster beats, nothing much more to say. *Although* thanks to your ridiculous amount of AP, you're pretty much guaranteed to one shot anyone unfortunate enough to be goomba stomped with your ult. Even if you don't land on their heads, you'll still do a lot of damage if you do it near enemies...just be careful not to Ajax.\n\n# Buy\n\nHonestly, anything you want. The build, like I mentioned in the last round, doesn't change too much past that point. I put all the items you could mix and match in the optional tabs. Sacrifice some AP for survivability if needed, replace the rares if you're able to with enough cash if wanted, the choice is yours.\n\n# Overall Round Notes\n\nThis is the final round, lock in and bring home the win! You got this, even if it's been a back and forth win and loss, your team on the way to reverse sweeping, or if the enemy team is attempting a reverse sweep. Take a deep breath, focus up, and push through. I believe in you!\n\nGet their backline, heal up the team, get those isolated targets. Do everything you can and most importantly; have fun.",
+        "stats": {
+            "LIFE": 384,
+            "Armor": 50,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 434,
+            "Attack Speed": 0,
+            "Weapon Power": 15,
+            "Ability Power": 90,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "08953ad0-a795-42e8-a14a-f4fd24f656b3",
+                "notes": "Faster beats!",
+                "action": "optional",
+                "upgrade_id": "d3d5876b-bd40-4bd9-9954-c65e2295cc2d"
+            },
+            {
+                "id": "915ae296-5b40-4ff5-b127-4357c90b84a4",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "7e33b7e7-4f7a-4f9f-bc25-39ce2a8f56b2"
+            },
+            {
+                "id": "4df72f67-4942-4aea-98b1-449024379e73",
+                "notes": "You're doing a lot of damage so even more healing",
+                "action": "optional",
+                "upgrade_id": "e0a58a96-c17f-4c99-ba06-8daaa5fd5508"
+            },
+            {
+                "id": "af1094e8-e0a4-488d-80ed-b45ac0cf5f51",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+            },
+            {
+                "id": "43887d80-6144-4f93-8170-817bdd710a2b",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "0a36ead7-d11f-4fbf-8642-b27779c477a0",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+            },
+            {
+                "id": "dc354e59-d731-46f1-86d8-acfa4f80c9ca",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+            },
+            {
+                "id": "3a4528f6-2871-4aea-9877-bdbc3dbd9276",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "a56ac330-97de-47fe-83dd-1193e5a77b81",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "4fd55676-22f4-4774-a1ac-f5ee8592b366",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "b77c753d-4dc7-4fe3-bab2-c72190048efb",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+            },
+            {
+                "id": "80a9270b-b53e-4cd3-b2a5-6502641f8285",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "21c89a20-ef79-4cc2-8899-744df68bb99c",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+            },
+            {
+                "id": "04f43798-c8ef-4d8c-8981-d81f8ea94958",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+            },
+            {
+                "id": "29adb1bf-1751-4516-beb1-9d8abccf1e26",
+                "notes": "Core, gives more utility and is the money maker.",
+                "action": "buy",
+                "upgrade_id": "ae569e40-3194-4681-b1da-c664d0fa982c"
+            },
+            {
+                "id": "bf7db1d6-ec4e-4dd1-bd13-398a4534a737",
+                "notes": "Even more boops, what else is there to say? Core.",
+                "action": "buy",
+                "upgrade_id": "c973a6d8-47ee-4846-adb4-78f40c1b6a9f"
+            },
+            {
+                "id": "73ffcbc7-6cff-44a7-81c8-3a50f8c3cd4f",
+                "notes": "You were gonna get this sooner or later. More damage? Definitely core.",
+                "action": "buy",
+                "upgrade_id": "2d846a6e-ff59-4ccc-ae90-c78fad3b4d9b"
+            },
+            {
+                "id": "a906a929-a0f3-4204-af8d-1e426dd95fed",
+                "notes": "Easier to land shots after boops.",
+                "action": "buy",
+                "upgrade_id": "665f2250-6c78-439a-8ea8-6d5c8124e73c"
+            }
+        ]
+    }
+]

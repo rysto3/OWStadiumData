@@ -1,0 +1,813 @@
+[
+    {
+        "id": "997a7dba-71f7-4cf4-8d13-882e9841d81e",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 1,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**1st Power: Aim for something that helps earn cash quickly.**\n\n- [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) \nPick if: Enemy tank is Zarya or Orisa (easy headshots from the front); your team has Zarya or Junker Queen (easy healing headshots from behind). Only take if your aim is good.\n\nAvoid if: Your team has Reinhardt, Orisa, or D.Va (unreliable healing headshots from behind).\n\n- [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40) \nPick if: The other support is Mercy or Ana (you can outpace their single-target healing for more cash).\n\n- [Pulsar Plus](item_4795ae1f-580d-47ec-a01d-0933cba56212) \nPick if: The map preview shows good torpedo maps like Throne of Anubis, Colosseo, or Redwood Dam (especially Redwood), where you can use Torpedo effectively\n\n- [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90) \nPick if: Enemy tank is Rein, D.Va, or Orisa; enemy DPS includes Genji or Cassidy (helps escape high-threat situations, like Orisa's ult).\n\n---\n\n**Must Pick:**\n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6): Consistent and valuable.\n\n**Pick 2 of the Following 3 Options:**\n- [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0): A full burst is 90 damage (12 bullets x 7.5), healing is 72 (12 x 6). This adds ~4.5 extra damage or ~3.6 extra healing per burst.\n- [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf): Increases rate of fire from 1.29 bursts/sec to ~1.35 bursts/sec. Reload speed (1.8s) remains unchanged.\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418): Pick only if the map favors torpedoes or you took Medicinal Missiles as your first power.",
+        "stats": {
+            "LIFE": 78,
+            "Armor": 25,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 253,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "b12dd8a9-9b75-412f-ac95-5ef0dde28872",
+                "notes": "A full burst is 90 damage (12 bullets x 7.5), healing is 72 (12 x 6). This adds ~4.5 extra damage or ~3.6 extra healing per burst.",
+                "action": "optional",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "8cf0a7ab-acc6-44b5-ad55-590c6c52dbb2",
+                "notes": "Increases rate of fire from 1.29 bursts/sec to ~1.35 bursts/sec. Reload speed (1.8s) remains unchanged.",
+                "action": "optional",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "d84fa073-9126-411b-b441-626167abf2f0",
+                "notes": "Pick only if the map favours torpedoes or you took Medicinal Missiles as your first power.",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "24b75c4a-f770-43cc-b1bc-cb2b268638ef",
+                "notes": "Consistent and valuable.",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "2516d61c-8d79-4b37-8cd2-ed347fd3703e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            }
+        ]
+    },
+    {
+        "id": "62c71900-68c1-48f9-a3c5-f42d876a1f8b",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 2,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**Case 1: You\u2019re Dying Too Much (Dove or Sniped):**\nIf divers (Genji, Reaper, Moira) or hitscan (Cassidy, Ashe) are focusing you, prioritize survival.\n\nMust Buys:\n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)\n- [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) \n- [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69) \n\nThis provides +75 bonus HP, plus ~25 base health from cash scaling, effectively ~100 extra HP, bringing baseline HP to around 325 (a 44% increase).\n\n**Pick One Situational Item:**\n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0): Synergizes with [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90). Timed well, 4 dashes + ring + torpedoes can create 150 overhealth. Great for enemy with damage overtime.\n- [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689): Synergizes with [Pulsar Plus](item_4795ae1f-580d-47ec-a01d-0933cba56212). Two torpedoes grant 75 overhealth baseline.\n- [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214): Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.\n- [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09): Take against weapon damage heavy heroes.\n- [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03): Take against headshot heavy heroes (Cassidy).\n\n---\n\n**Case 2: If you're not being targeted:**\nMaybe enemy target your other support, focus on damage and group healing via torpedoes.\n\n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) \n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) \n- [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0)\n- [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) if you can afford it (Optional).\n- If you took [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) consider taking  [Vantage Shot](item_6d7a0598-07cf-45ea-bbf5-c7e7b975e07a).\n\nThis results in +30 AP. This loadout helps secure kills or save allies during burst windows.",
+        "stats": {
+            "LIFE": 78,
+            "Armor": 25,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 253,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "42a5c0d6-0e7a-4b96-84b2-e9f9e96481e2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "a14946bb-af0c-4230-96a0-7ab682c7e500",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "74e3ed8d-a6dc-4832-8cb5-1fa06e9ab6e8",
+                "notes": "Synergizes with Blink Boosts. Timed well, 4 dashes + ring + torpedoes can create 150 overhealth. Great for enemy with damage overtime.",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "c345dc2f-c160-4832-b272-bcee5af4c40c",
+                "notes": "Synergizes with Pulsar Plus. Two torpedoes grant 75 overhealth baseline. With First Aid Kit +25 shield, you gain an extra 12.5 (50% efficiency). Wait briefly before launching to maximize shield bonus if enemy is shooting at you. Total overhealth: ~175.",
+                "action": "optional",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            },
+            {
+                "id": "7c11c2b4-00e8-43d4-ba1c-1d726676b859",
+                "notes": "Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.",
+                "action": "optional",
+                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+            },
+            {
+                "id": "6fb9866d-23a8-4985-b6fd-79bd3180fd1e",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "748af026-2361-48a8-b8f7-c7b2de31d919",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "e5e73702-d6ba-4984-a137-7c369633a306",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "61cc865a-c712-4634-a3b6-961104b637a6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+            },
+            {
+                "id": "ded8939c-aff1-4990-9be1-35d3abc0fd38",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "10135aad-5059-40a5-aea4-074b0f942978",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+            },
+            {
+                "id": "1bab52d0-8522-4ffc-be6b-1cc256aad9b5",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+            },
+            {
+                "id": "406cc2ac-1adc-4d27-97aa-b2b0b9f4c7a8",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d7a0598-07cf-45ea-bbf5-c7e7b975e07a"
+            },
+            {
+                "id": "39b5e1de-dc60-455e-a5a3-d5cc71742628",
+                "notes": "Consistent and valuable.",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            }
+        ]
+    },
+    {
+        "id": "2f7e435f-0c1b-4770-852f-4d86c346b5e7",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 3,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**2nd Power: This choice is situational, based on the match's progression.**\n\nIf you took [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90) or [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) first:\n- Consider [Pulsar Plus](item_4795ae1f-580d-47ec-a01d-0933cba56212) if you're not under pressure and landing crits safely, to boost cash gain.\n- Consider [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40) if your team is struggling to stay alive.\n\nIf you took [Pulsar Plus](item_4795ae1f-580d-47ec-a01d-0933cba56212) or [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40):\n- Take the opposite of these two together, as they synergize well for high healing and cash generation.\n\n[Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4):\n- Useful against long-range enemies (DoT ignores range drop-off and armor, delays enemy self-regen). You can spread this to multiple enemy at long range to get cash fast.\n- Strong synergy with [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) (item providing +25 AP to next shot after ability). With 30 AP, [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6), and [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4), a combo can yield significant burst: Torpedo (110) + Stinger (13) + [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) bonus (32) + Primary (135, all headshots) \u2248 290 damage. Even with no head shots, ~245 damage is possible.\n\n---\n\n**Core:**\n- [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb)\n-  [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689)\n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)\n\n---\n\n**Add one of the below defensive or offensive items depending on the situation and what you can afford**\n\n**Defensive:**\n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0): Synergizes with [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90). Timed well, 4 dashes + ring + torpedoes can create 150 overhealth. Great for enemy with damage overtime.\n- [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214): Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.\n- [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09): Take against weapon damage heavy heroes.\n- [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03): Take against headshot heavy heroes (Cassidy).\n\n**Offensive:**\n- [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n- [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n\nDon't buy [Pulsar Destroyers](item_707ad8c7-a153-4140-b4bc-1f23f7d7a648) (+20 damage to torpedo; post-nerf).\n- The added damage is only ~23% of the base torpedo damage 85. While this can chain damage if enemies are clustered, torpedoes should be treated as single-target burst damage (offensively) and multi-target heals (defensively).\n- The value lies in burst kill potential, not random AoE, which only feed enemy support's cash.\n- The 4 item - 9000 cash loadout is better than [Pulsar Destroyers](item_707ad8c7-a153-4140-b4bc-1f23f7d7a648)\n\n**Filler:**\n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) \n- [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0)\n- [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) if you can afford it (Optional).",
+        "stats": {
+            "LIFE": 108,
+            "Armor": 25,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 283,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 20,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "dbadbf28-fdd0-4372-8773-239bfa33847f",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "b740b41c-8b21-43d4-8575-e889538d5823",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+            },
+            {
+                "id": "dabc3dff-5d7e-4d85-a5cd-060bf0eae897",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "9c3638f6-f726-45b4-93f8-8193d3afa412",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "9b31b655-bc76-491d-b646-2930d8ceb920",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "63c7f102-4f39-4548-9dd9-dd11d21e928d",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+            },
+            {
+                "id": "ff1c8922-ceba-499b-8e77-1d72f2fd780d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "7e86f848-1fb1-4185-a5c3-10c33a90f5f3",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "a5bbe8d3-ad29-4e9e-9fe9-1ce7c3e24b99",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "0fbef1de-7e01-486e-8cf2-bfdeb646d645",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+            },
+            {
+                "id": "e31ec41a-cc75-4e2d-816a-6cf5eeaba8e7",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+            },
+            {
+                "id": "a4f1c36b-0ffd-48b9-939d-2c556b7bf764",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            },
+            {
+                "id": "39563acc-b809-498a-b7d2-18c0f3bb238f",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            }
+        ]
+    },
+    {
+        "id": "3836be3b-d22e-4784-a770-06fca3b82129",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**Core:**\n- [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb)\n-  [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689)\n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)\n- [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)\n\n---\n\n**Add one of the below defensive or offensive items depending on the situation and what you can afford**\n\n**Defensive:**\n- [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214): Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.\n- [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09): Take against weapon damage heavy heroes.\n- [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03): Take against headshot heavy heroes (Cassidy).\n\n**Offensive:**\n\\- [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n- [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n\n---\n\n**If you can afford it after buying one of the above, also pickup either:**\n- [El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100)\nOR\n- [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)\n\nAvoid [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) if you have [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6). Only take if you're having trouble getting hits with your primary fire or your aim is bad.\n\n**Filler Items:**\n\\- [Vishkar Condensor](item_086a91da-b65d-4047-8fc7-28a992078b1d)\n\\- [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016)\n\\- [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69)\n\\- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)",
+        "stats": {
+            "LIFE": 116,
+            "Armor": 25,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 291,
+            "Attack Speed": 0,
+            "Weapon Power": 0,
+            "Ability Power": 20,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "31f1e40a-4731-42d6-bc28-51f4e60c2194",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "349487a1-87f5-4b3a-a438-0234d0e78d33",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+            },
+            {
+                "id": "fd15a467-57da-414a-8905-da79c0c85919",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+            },
+            {
+                "id": "bcd77b20-4637-4af6-91fd-139c3f7db91a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+            },
+            {
+                "id": "34db0085-8568-4991-82ab-d34b901ebead",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "07e86112-ece6-42e3-b50f-99e5d2a8657a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "086a91da-b65d-4047-8fc7-28a992078b1d"
+            },
+            {
+                "id": "60090e75-6dda-4787-95bb-254c2f5e4e37",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+            },
+            {
+                "id": "60d8ee7c-7b4b-4083-b383-e7ec0f2afd95",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+            },
+            {
+                "id": "be40ccdb-fbbd-475b-8462-7fe242a14e39",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "9e474ada-8c77-4c4a-86ac-6072bc2247c9",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "3b3e9156-02b6-4cc4-bbe2-86faa513c7c9",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+            },
+            {
+                "id": "f332b554-2218-46a3-9bdd-e2063b7c947a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+            },
+            {
+                "id": "ea1cb136-aa2e-4054-a60f-017d37862dbf",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "c411208b-9bd1-4c75-b334-39c8f139395d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "eaac7fef-d756-4c4d-9926-4775e8aaa6fc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            },
+            {
+                "id": "1917cc39-ef06-4325-92b5-167e2a7f019f",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            }
+        ]
+    },
+    {
+        "id": "6dd3519d-83fb-4e50-a683-d0c039dcfda3",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 5,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**3rd Power: Choose based on your evolving build and the enemy composition.**\n\n- [Hyper Healer](item_108336b3-54d2-4d69-8ea4-c2da5affb7ca)\nPick if: You're on an AP build. With ~75 AP, Hyper Ring grants 87 Overhealth (50 x 1.75), which can refresh by touching the ring. Excellent for tank survival, especially for countering Reinhardt and Junker Queen ultimate\n\n- [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40)\nPick this now if you haven't already. Enemy damage scales hard by this round, and the burst healing is crucial. Even if you have not picked up Pulsar Plus, I still recommend this since the burst healing is so strong.\n\n-  [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90): If you're being dove or need more mobility.\n\n- [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4) OR  [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6): If there's less pressure on your tank and you're finding time to shoot the enemy. Only take [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) if your tank and enemy have easy to hit head hitboxes.\n\n---\n\n**Core:**\n- [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb)\n- [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\n-  [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689)\n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)\n\n**If you can afford it:**\n- [El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100)\nOR\n- [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)\n\nAvoid [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) if you have [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6). Only take if you're having trouble getting hits with your primary fire or your aim is bad.\n\n---\n\n**Situational:**\n\n**Defensive:**\n- [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214): Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.\n- [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09): Take against weapon damage heavy heroes.\n- [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03): Take against headshot heavy heroes (Cassidy).\n\n**Offensive:**\n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n- [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e)\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)\n\n- [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27): Against armour\n\n**Filler Items:**\n- [Vishkar Condensor](item_086a91da-b65d-4047-8fc7-28a992078b1d)\n- [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016)\n- [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69)\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418)",
+        "stats": {
+            "LIFE": 132,
+            "Armor": 0,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 282,
+            "Attack Speed": 10,
+            "Weapon Power": 0,
+            "Ability Power": 30,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "dab5bdea-a2e9-4bc7-b071-a2323e3101c1",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+            },
+            {
+                "id": "db607430-96af-481a-8b35-deef1b9235f4",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+            },
+            {
+                "id": "22a0581d-98f9-4e3c-9328-e617ed14ede7",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "086a91da-b65d-4047-8fc7-28a992078b1d"
+            },
+            {
+                "id": "60fb3579-9a36-4fc7-9e68-fd251786b878",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+            },
+            {
+                "id": "75d56f3c-d30a-4d25-8e5d-426feb527b51",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+            },
+            {
+                "id": "72a3e518-627c-4aa2-bb7e-a318fdb4a92d",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+            },
+            {
+                "id": "353ae36a-4fb0-486f-ba1d-459b893e7abd",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+            },
+            {
+                "id": "1b1c66b9-4d3c-476d-911c-0f13e906d174",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "057b078a-b7ae-4de9-94dc-13cb13c6c06b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "608158e8-e743-4454-abbd-a35cdba9ff57",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+            },
+            {
+                "id": "37fff797-d6d4-482a-a117-343bf6d1b392",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "0619b63b-04d7-4d85-9977-d2f8393edce9",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "7c11b84d-4913-42dd-94e3-0578ee97486e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "f5421dec-d3a2-428d-aeb8-f30371b6c80b",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            },
+            {
+                "id": "89a222d0-3810-4ba4-9c73-c60d2e3aa250",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "3bfaea68-c1b0-496f-9ae2-46bb60f5ce31",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+            },
+            {
+                "id": "60aa241d-5cf2-464d-bc3c-296a2e54b824",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+            },
+            {
+                "id": "37981381-26a1-4960-9683-79f63b2bc823",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "6b270ad6-4132-4f39-97fb-b9ae34a641d2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "a89c5c6d-5a3f-40d9-8b93-725e1fa78696",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+            }
+        ]
+    },
+    {
+        "id": "6369a429-dbe6-4fae-abde-179cb89a695b",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 6,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**Core:**\n- [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb)\n- [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\n-  [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689)\n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)\n\n- [El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100)\nOR\n- [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)\n\n---\n\n**Offensive:**\n- [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce)\n- If you can't afford go for [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) and/or [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e).\n\n---\n\n**Defensive:**\n- [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214): Adds +25 shield and reduces ability damage by 15%. Good against Soldier rockets, Ashe dynamite, Rein fire strike, or another torpedo Juno.\n- [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09): Take against weapon damage heavy heroes.\n- [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03): Take against headshot heavy heroes (Cassidy).\n\n**Situational:**\n- [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27): Against armour",
+        "stats": {
+            "LIFE": 159,
+            "Armor": 0,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 309,
+            "Attack Speed": 10,
+            "Weapon Power": 0,
+            "Ability Power": 70,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 5
+        },
+        "round_upgrades": [
+            {
+                "id": "61455002-4755-431f-bc6a-3754a480535d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "e7be96b5-b97d-4616-97b6-790d39a22acc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+            },
+            {
+                "id": "760c1f8b-1993-4819-b26e-da4efc867591",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+            },
+            {
+                "id": "be931e37-c31a-43b0-8dab-982c20f3b754",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "db392413-a1c7-4cf3-a36a-d5f300d4b2a6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+            },
+            {
+                "id": "72923a5f-79d5-4b74-a1fa-4fee402e686f",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "5387ecbb-3f75-49a0-a442-545c5085668d",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+            },
+            {
+                "id": "5407b185-f95a-470d-80ac-67e5d346d177",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+            },
+            {
+                "id": "0a332aa6-4372-4367-804c-6edaa997445b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+            },
+            {
+                "id": "b0ed8505-f9db-49eb-8c31-19a723722ac5",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+            },
+            {
+                "id": "ca008338-77d3-4f49-8cf3-516bda67a379",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+            },
+            {
+                "id": "17373757-0a0d-4dfa-ac9a-5b63a0bc86cc",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+            },
+            {
+                "id": "0920ce91-181e-4cbb-ad45-4fbd6e2f9096",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6557a6d1-9c94-4635-9619-67257e26683e"
+            },
+            {
+                "id": "a45923f5-cb77-4a86-a7a3-f0cb92ca78b5",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "776fed10-ba5e-4e32-819f-9c9da17dc872",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "3d0c2417-60c5-4072-b2f7-c3337fba8860",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "03c75b4e-d2ec-437b-ba34-0c039e60aab1",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            }
+        ]
+    },
+    {
+        "id": "0af6572e-dfa0-4398-b106-fa0fe9ee9396",
+        "build_id": "ec86fba6-8d81-44f0-8e24-0ba0afa759a7",
+        "round_number": 7,
+        "cash_earned": 0,
+        "created_at": "2025-05-19T02:47:02.710109+00:00",
+        "notes": "**4th Power: Final picks for closing out fights or surviving high pressure.**\n\n- [Black Hole](item_d9edbd0b-d1e2-4103-b8d4-6e1dc8124894):\n\nPick if: Enemy has Rein, Junker Queen, Lucio, or Mei. The 35% slow is very noticeable and helps secure kills, even affecting abilities like D.Va Booster and Lucio Speed. The slow feels like it reapply if enemies remain in the ring (but I cannot confirm this).\n\n- [Hyper Healer](item_108336b3-54d2-4d69-8ea4-c2da5affb7ca)\nPick if: You're on an AP build. With ~75 AP, Hyper Ring grants 87 Overhealth (50 x 1.75), which can refresh by touching the ring. Excellent for tank survival, especially for countering Reinhardt and Junker Queen ultimate\n\n- [Blink Boosts](item_9bac3119-781b-4dc0-94fa-9c293c02dc90): If you're being dove or need more mobility.\n\n- [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4) OR  [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6): If there's less pressure on your tank and you're finding time to shoot the enemy. Only take [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) if your tank and enemy have easy to hit head hitboxes.\n\n- [Cosmic Coolant](item_5584169d-94af-4efa-955c-263353a75553) or  [Torpedo Glide](item_b04180a3-c2b2-409c-959e-77e3af6bc7d8): If there's low pressure on you and the enemy lacks barriers (i.e. you're hitting the enemy regularly and safely).\n\n---\n\n**Core:**\n- [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce)\n- [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429)\n- [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) \n- [El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100) OR  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) \n- [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n- [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689)\n\nIf you don't need the extra defences, take [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) instead of [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689).\n\n**Situational:**\nIf you can afford it, instead of [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689) take:\n- Against heavy armour team take [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27).\n- Consider [Pulse Spike](item_6557a6d1-9c94-4635-9619-67257e26683e) if you took  [Medimaster](item_a04e1041-01c1-46ed-801e-d0590003e9b6) or  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4).\n- Consider [Pulsar Destroyers](item_707ad8c7-a153-4140-b4bc-1f23f7d7a648) or [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) if you took either [Cosmic Coolant](item_5584169d-94af-4efa-955c-263353a75553) or [Torpedo Glide](item_b04180a3-c2b2-409c-959e-77e3af6bc7d8) and are hitting lots of torpedoes safely.\n\n---\n\n**Defensive:**\nIf you need a defensive item, sell [Lock-On Shield](item_220287f8-1dc5-4a6c-9e86-c14cf970b689) and take one of the below depending on situation (if you can't afford 6, take the defensive item instead of [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)):\n- [Divine Intervention](item_b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c): If enemy has burst damage.\n- [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8): If enemy has more consistent damage.\n- [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d): If enemy has good beam damage (Soldier, Zarya, Mei).\n- Consider [Solar Shielding](item_804fd8cd-78bd-46ee-a89f-20a6c9cccdcc) if you took [Hyper Healer](item_108336b3-54d2-4d69-8ea4-c2da5affb7ca).",
+        "stats": {
+            "LIFE": 171,
+            "Armor": 50,
+            "Shield": 150,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 371,
+            "Attack Speed": 10,
+            "Weapon Power": 0,
+            "Ability Power": 85,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "955c906c-e98a-4826-ba0d-af08bd11398a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "4795ae1f-580d-47ec-a01d-0933cba56212"
+            },
+            {
+                "id": "4fa52936-51ee-4fad-8102-55c7107b8f12",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+            },
+            {
+                "id": "786b30d2-f12a-45d0-9657-bb527158166d",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+            },
+            {
+                "id": "7b896d16-fb8c-4e3c-a2b9-145ef6056e5e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "d9edbd0b-d1e2-4103-b8d4-6e1dc8124894"
+            },
+            {
+                "id": "e054338f-d917-41c7-83b4-a390d7a28079",
+                "notes": "",
+                "action": "sell",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "b42c84b1-e050-4123-9c8c-068679082434",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+            },
+            {
+                "id": "ea9e49cb-fec1-4deb-9344-3a2b0f54e274",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+            },
+            {
+                "id": "4bb91239-c70f-4159-a63d-671f1697e961",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+            },
+            {
+                "id": "ab775222-ff0a-41d6-ba48-c510c140c3d6",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+            },
+            {
+                "id": "3abc9690-2471-4f88-be68-b2f96d54ebe2",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+            },
+            {
+                "id": "45e81c86-f2f5-446b-a323-ef896434a861",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+            },
+            {
+                "id": "68bef34d-cf3b-4f8c-8736-90fe46ad457a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+            },
+            {
+                "id": "45b469f4-22bb-4075-9ba6-ca1e29d8fa6c",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+            },
+            {
+                "id": "61f23283-0261-46e1-b771-f3d05abe4ed0",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "804fd8cd-78bd-46ee-a89f-20a6c9cccdcc"
+            },
+            {
+                "id": "d18de789-ee09-4cf0-9e0f-0367547f3a4c",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+            },
+            {
+                "id": "8b9d21b1-1e60-42a1-9d8d-a2e3231cbb6d",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "6557a6d1-9c94-4635-9619-67257e26683e"
+            },
+            {
+                "id": "ac7ba1a5-72b7-4e92-8b2a-7a81756be432",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "707ad8c7-a153-4140-b4bc-1f23f7d7a648"
+            },
+            {
+                "id": "70af5501-a767-4461-a0fd-2318b4f1f134",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+            },
+            {
+                "id": "cf6e8411-cd12-4ef2-81ff-dd14c43ee7f2",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+            },
+            {
+                "id": "44aa51d6-28a1-4fd1-bb82-753dfd83d294",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+            },
+            {
+                "id": "e24c19f7-5a04-44c7-b933-0b25be6b1b77",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "220287f8-1dc5-4a6c-9e86-c14cf970b689"
+            }
+        ]
+    }
+]
