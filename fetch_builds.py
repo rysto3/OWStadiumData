@@ -19,7 +19,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROUND_DATA_DIR = os.path.join(BASE_DIR, "builds-download", "build_rounds_data")
 DB_PATH = os.path.join(BASE_DIR, "builds.db")
 # Brotli compression level (1=lowest, 11=highest)
-COMPRESSION_LEVEL = 6
+COMPRESSION_LEVEL = 9
 
 def fetch_all_builds():
     all_builds = []
