@@ -33,4 +33,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update build data from Supabase
-          file_pattern: 'builds.json builds-download/build_rounds_data/*.json'
+          file_pattern: 'builds.json builds-download/build_rounds_data/*.json builds.db'
