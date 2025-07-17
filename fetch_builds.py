@@ -3,6 +3,7 @@ import json
 import sqlite3
 import os
 from glob import glob
+import brotli
 
 API_URL = "https://qkdvetofbsoynkfprlos.supabase.co/rest/v1/rpc/filter_builds_advanced"
 API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrZHZldG9mYnNveW5rZnBybG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3Mjc0NDEsImV4cCI6MjA2MTMwMzQ0MX0.Moy2MzlEQ0w1cqvnMs3qAV6Mzdm8R1v_YSo7Zw93mG8"
@@ -17,6 +18,8 @@ LIMIT = 1000
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROUND_DATA_DIR = os.path.join(BASE_DIR, "builds-download", "build_rounds_data")
 DB_PATH = os.path.join(BASE_DIR, "builds.db")
+# Brotli compression level (1=lowest, 11=highest)
+COMPRESSION_LEVEL = 6
 
 def fetch_all_builds():
     all_builds = []
@@ -40,9 +43,10 @@ def fetch_all_builds():
     return all_builds
 
 
-def create_sqlite_database(builds):
-    """Create or update the SQLite database with build index and round data."""
-    conn = sqlite3.connect(DB_PATH)
+def create_sqlite_database(builds, compression_level: int = COMPRESSION_LEVEL):
+    """Create the SQLite database and save it compressed with Brotli."""
+    temp_db = DB_PATH + ".tmp"
+    conn = sqlite3.connect(temp_db)
     cur = conn.cursor()
 
     # Tables: one for the index, one for per-build round data
@@ -73,6 +77,14 @@ def create_sqlite_database(builds):
 
     conn.commit()
     conn.close()
+
+    # Compress the database using Brotli
+    with open(temp_db, "rb") as f:
+        db_bytes = f.read()
+    compressed = brotli.compress(db_bytes, quality=compression_level)
+    with open(DB_PATH, "wb") as f:
+        f.write(compressed)
+    os.remove(temp_db)
 
 if __name__ == "__main__":
     builds = fetch_all_builds()
