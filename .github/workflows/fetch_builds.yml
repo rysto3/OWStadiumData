@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
       - name: Install Python dependencies
         run: |
-          pip install requests
+          pip install requests brotli
 
       - name: Fetch builds index
         run: |
