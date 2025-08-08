@@ -1,0 +1,633 @@
+[
+    {
+        "id": "ca29edf8-86f6-4ded-a14d-cb4c97fdc4a7",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 1,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "",
+        "stats": {
+            "LIFE": 225,
+            "Armor": 0,
+            "Shield": 25,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 250,
+            "Attack Speed": 5,
+            "Weapon Power": 5,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "1de7e571-56ab-42ed-994d-20004aa70ecc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "6188cde9-e2cb-4e32-b9f2-4fe2ac90ed48",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "11a2ec6b-79fd-4299-8a3d-8acd216b1989",
+                "notes": "Armored Vest is supposedly better but I like to have this to more quickly rejoin fights after falling back to recover HP",
+                "action": "buy",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "664bae90-0c2e-4bd2-8e26-6e404b51ad87",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "53ebed38-360f-4a44-b8dd-cb15f61e90b7",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            }
+        ]
+    },
+    {
+        "id": "3af2389a-affd-4e8f-ad44-be8126136884",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 2,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "Keeping  [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e)'s extra 10% AS in mind, I try to balance WP and AS as much as possible as this is better than just building WP.",
+        "stats": {
+            "LIFE": 244,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 5,
+            "Total LIFE": 244,
+            "Attack Speed": 15,
+            "Weapon Power": 10,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "46e48f57-0ec1-4474-b8a7-969905fe4cd7",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "8badef86-7727-4419-ba36-df9f2e9784eb",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "a5056bcd-2c6c-4ded-9403-c2730d6e8734",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "cc3edd2a-d0fc-497e-8210-b90333a00872",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+            },
+            {
+                "id": "4c0cc617-85c8-4d9f-8c43-7675bac770d8",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "760c1441-8cfa-426c-885d-8d0dec32e145"
+            },
+            {
+                "id": "336b2b80-4fb3-4852-bf01-6b59901b770e",
+                "notes": "Particularly useful if you keep dying to dynamite or other debuffs and tick damage",
+                "action": "optional",
+                "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+            },
+            {
+                "id": "caad0943-d7fa-466e-99be-d696ae889975",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+            },
+            {
+                "id": "957a99eb-a7f5-44d5-9d56-a6d0b7d488e3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "6fe96655-9ea5-424f-ab4b-acf2dbf6b93c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "f6ecbcb9-ee1b-4c63-afdb-44b0cc09c5f1",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            }
+        ]
+    },
+    {
+        "id": "a1d0980d-a044-4a78-be5e-a99457e848d5",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 3,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "Same as Round 2, keep building WP and AS together. I find more WP value filling up on Greens/Blues rather than taking a Purple",
+        "stats": {
+            "LIFE": 256,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 5,
+            "Total LIFE": 256,
+            "Attack Speed": 15,
+            "Weapon Power": 25,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "a790abba-ece8-484d-9ef7-7d087a1dee87",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "441df372-2d9c-44d3-98cb-4e9b34c1ee6e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "7d3cf173-b34a-47ac-a81d-0ab23939e1a9",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "a7871373-021c-4a9a-b7cf-74a73019d96a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "56a4eaa1-96b5-479d-b7a5-9da7bbe09ba8",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "760c1441-8cfa-426c-885d-8d0dec32e145"
+            },
+            {
+                "id": "5d173032-db84-439f-8254-ba24273dce36",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+            },
+            {
+                "id": "c816994b-a140-41fb-b899-b602d2c718ea",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+            },
+            {
+                "id": "d0dfea08-ef0b-49b0-b314-002ecf439527",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+            },
+            {
+                "id": "16cb0ca2-02dd-4b58-8098-fd40c7ab2320",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+            },
+            {
+                "id": "99af3a60-8d1a-4b4c-ac04-f6c3548b3c5f",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+            },
+            {
+                "id": "a7a0e90a-9ff0-4c41-a1fa-10afab648b40",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            },
+            {
+                "id": "6963f75f-c052-4b7d-8e16-ea9c3816e11e",
+                "notes": "Even though you might feel like you've been nano'ed from this, make sure you stay alive during ult. If I feel endangered while shooting, I like to slingshot myself back to safety quickly with the setting \"Guardian Angel  Target Priority\" to \"Prefer Facing Target\" - that way I'm still slung back to safety even when looking at enemies",
+                "action": "buy",
+                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+            }
+        ]
+    },
+    {
+        "id": "84c2767a-7cf2-4506-9bde-a2add9f0ae04",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 4,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "Usually will have enough money to switch out Blues for both  [Amari's Antidote](item_67e0b1c5-3bcb-4ab5-b818-5082e5706124) and   [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) by now.",
+        "stats": {
+            "LIFE": 309,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 5,
+            "Total LIFE": 309,
+            "Attack Speed": 30,
+            "Weapon Power": 20,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "b02155a7-18f9-4216-96da-b9050fa323f3",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+            },
+            {
+                "id": "9e1df944-04ba-4f82-8b65-470c24665266",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+            },
+            {
+                "id": "4f01e3fa-201e-4f17-87d3-1911c08ff665",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+            },
+            {
+                "id": "09483db9-6c13-4646-b4a5-a817b180998f",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+            },
+            {
+                "id": "2ab63330-58cf-4aea-becf-9be05529538e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+            },
+            {
+                "id": "5021120b-f4d4-4dbb-ac64-57e274f34764",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+            },
+            {
+                "id": "4e13796f-8f57-4ef8-b4d3-bbd43e87a5ae",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "a8e0e6c7-df1f-44af-9202-6095088fc837",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "d826b9db-5647-4921-8a3d-6b80ce65a2f6",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            },
+            {
+                "id": "5ecece86-fae7-4498-bea2-75b441029f2c",
+                "notes": "Even though you might feel like you've been nano'ed from this, make sure you stay alive during ult. If I feel endangered while shooting, I like to slingshot myself back to safety quickly with the setting \"Guardian Angel  Target Priority\" to \"Prefer Facing Target\" - that way I'm still slung back to safety even when looking at enemies",
+                "action": "buy",
+                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+            }
+        ]
+    },
+    {
+        "id": "99822d86-184d-4f0a-943e-00aa0f92ca81",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 5,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "Take either  [Caduceus Ex](item_9e7965ea-2abc-44a7-b042-950c6ad2fce7) or a survival purple if you're struggling to live. Will usually go for  [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) or  [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) if I can afford it. Otherwise  [Overdrive Core](item_a2a8dba1-5f2f-4da1-9445-b08f49162121) if great if you're being burst-damaged/oneshot, or  [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d).  [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931) is good for escaping but can also mess up your GA timings.",
+        "stats": {
+            "LIFE": 329,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 5,
+            "Total LIFE": 329,
+            "Attack Speed": 30,
+            "Weapon Power": 30,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "f9990e15-6f8c-4620-8b09-c003664ecaa7",
+                "notes": "If you're low HP or dying a lot take this over Renaissance",
+                "action": "optional",
+                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+            },
+            {
+                "id": "8d4a44ef-6cc6-44c2-80c5-fcdef265633a",
+                "notes": "Despite being under \"Weapon\", it's great for survival as it means you can peek from safer angles and distances",
+                "action": "buy",
+                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+            },
+            {
+                "id": "be551294-4a41-4fae-ba81-21daf2333463",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+            },
+            {
+                "id": "6b950081-9ed1-4f12-b765-4d1b35f8b535",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+            },
+            {
+                "id": "2f407623-34d6-4580-8b5a-c7fbf78f1a6a",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "71e0664d-fc4e-429c-8976-efc96807d767",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+            },
+            {
+                "id": "0eeefafc-b9c0-4918-ac75-7962a88587dc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "29c3b21e-f5f6-4d84-9d19-3b80e6536f41",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+            },
+            {
+                "id": "cd15218a-239c-4d97-be71-4dbfec205b12",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "a2a8dba1-5f2f-4da1-9445-b08f49162121"
+            },
+            {
+                "id": "8db15715-aa75-4706-b784-31e0cab9f271",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+            },
+            {
+                "id": "f3d361f2-a895-477b-9cee-5dcdbad4e960",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            },
+            {
+                "id": "df9ec67d-7582-4e12-8825-59f0e5f87e72",
+                "notes": "Even though you might feel like you've been nano'ed from this, make sure you stay alive during ult. If I feel endangered while shooting, I like to slingshot myself back to safety quickly with the setting \"Guardian Angel  Target Priority\" to \"Prefer Facing Target\" - that way I'm still slung back to safety even when looking at enemies",
+                "action": "buy",
+                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+            },
+            {
+                "id": "343ea84b-2693-46b7-aa96-b548f5c731f7",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+            }
+        ]
+    },
+    {
+        "id": "a1ae6fa1-b067-4158-8dd0-1d82707adda7",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 6,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "",
+        "stats": {
+            "LIFE": 401,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 5,
+            "Total LIFE": 401,
+            "Attack Speed": 30,
+            "Weapon Power": 35,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "c23bbab0-b2ff-40f1-b3cc-cc973d854fbe",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+            },
+            {
+                "id": "629b1521-d904-4c53-878e-7399aa0b6dbe",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+            },
+            {
+                "id": "2d9ea7eb-cbfa-4fbf-a6d1-d5eb099958fc",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "98baec01-8c98-47e7-ad4d-7d8a576b8c79",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+            },
+            {
+                "id": "9d361cdc-cfa9-455f-a188-58df4ce8d827",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "17a4a14a-e880-410b-aa3e-031a993e0f2e",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+            },
+            {
+                "id": "9c090cd5-5dba-4972-8055-8462ee33ee72",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            },
+            {
+                "id": "d479c58a-c54a-4079-b149-361ea892521a",
+                "notes": "Even though you might feel like you've been nano'ed from this, make sure you stay alive during ult. If I feel endangered while shooting, I like to slingshot myself back to safety quickly with the setting \"Guardian Angel  Target Priority\" to \"Prefer Facing Target\" - that way I'm still slung back to safety even when looking at enemies",
+                "action": "buy",
+                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+            },
+            {
+                "id": "858cebee-e558-4f6e-be7d-f0634ae6a157",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+            }
+        ]
+    },
+    {
+        "id": "52d6685f-b292-4dcb-80b4-7d776084cdfd",
+        "build_id": "6ba34ad2-d140-4efb-a6d9-f60558f20a04",
+        "round_number": 7,
+        "cash_earned": 0,
+        "created_at": "2025-08-07T14:49:39.945293+00:00",
+        "notes": "Generally will have lots of money to stack WP with  [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b). Buy another survival purple if needed. Sometimes will take  [Aerial Distresser](item_0fcb9020-c729-49b9-b398-3223797b6204) if they have [Freja](hero_e80840a1-845d-4008-966c-585b7cb4a424),  [Mercy](hero_0e213bfc-3ca9-49c6-9036-e7f344b752da),  [Juno](hero_035c63b7-084c-4abd-9de5-c9a00e9b6a18), or any other flying character to help pressure them during ult.",
+        "stats": {
+            "LIFE": 422,
+            "Armor": 0,
+            "Shield": 0,
+            "Max Ammo": 0,
+            "Move Speed": 0,
+            "Total LIFE": 422,
+            "Attack Speed": 20,
+            "Weapon Power": 60,
+            "Ability Power": 0,
+            "Critical Damage": 0,
+            "Weapon Lifesteal": 0,
+            "Ability Lifesteal": 0,
+            "Cooldown Reduction": 0
+        },
+        "round_upgrades": [
+            {
+                "id": "ff87d225-47c2-4def-967f-7fe40a363bb9",
+                "notes": "Great when you actually have time to damage boost or if a teammate is performing exceptionally well",
+                "action": "optional",
+                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
+            },
+            {
+                "id": "a0573b3e-b624-4983-b436-a3bea767ad19",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+            },
+            {
+                "id": "37b43a1b-2bbd-48ff-a5d1-9da4e9296ae3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+            },
+            {
+                "id": "4c5f4064-f7a4-4c55-baa1-5c8995e36fd5",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
+            },
+            {
+                "id": "55655d14-ff12-4a4a-af3f-4e9ce0ac5845",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+            },
+            {
+                "id": "ea212eda-19e0-4ed2-93d5-60a4e4fd2d87",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+            },
+            {
+                "id": "6bb45e4b-7aa9-41e0-b128-882e194b0af3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+            },
+            {
+                "id": "4f3d6adb-47ae-4ae3-9ee3-caeedae449b3",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+            },
+            {
+                "id": "e071d919-2e9a-447b-982f-13c60c293c0b",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+            },
+            {
+                "id": "e7df5ce7-cd28-4fc8-bcb0-7306d7573814",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+            },
+            {
+                "id": "7b17705b-e363-488a-b9ca-8063d9243d58",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+            },
+            {
+                "id": "3a6998bc-77a5-42a8-9e77-41735d6bd7f7",
+                "notes": "Will only take if feeling particularly confident with aim or a bit silly hehe",
+                "action": "optional",
+                "upgrade_id": "ccd0edff-4d57-4ac2-83a7-bab6ff0ffb2f"
+            },
+            {
+                "id": "dd5c651e-364e-4d51-8a33-6bf51885b90a",
+                "notes": "",
+                "action": "optional",
+                "upgrade_id": "396c0970-daa8-47e3-8049-e65f03fe5cec"
+            },
+            {
+                "id": "e25eb328-47f5-4193-b4dc-acb0d88f17c0",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+            },
+            {
+                "id": "822ec005-2955-44e6-bf62-e451b303ea5b",
+                "notes": "Even though you might feel like you've been nano'ed from this, make sure you stay alive during ult. If I feel endangered while shooting, I like to slingshot myself back to safety quickly with the setting \"Guardian Angel  Target Priority\" to \"Prefer Facing Target\" - that way I'm still slung back to safety even when looking at enemies",
+                "action": "buy",
+                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+            },
+            {
+                "id": "b81e7f8f-9954-4834-8b22-74865005af4c",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+            },
+            {
+                "id": "eaaa7930-0911-43a9-953e-98703e3fb6eb",
+                "notes": "",
+                "action": "buy",
+                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+            }
+        ]
+    }
+]
