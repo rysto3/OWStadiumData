@@ -1,573 +1,576 @@
-[
-    {
-        "id": "caf2aac1-239b-4300-9353-8421a8753dde",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "build beam reduc vs zariah",
-        "stats": {
-            "LIFE": 425,
-            "Armor": 300,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 725,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-18T17:54:02.828153+00:00",
+    "rounds": [
+        {
+            "id": "caf2aac1-239b-4300-9353-8421a8753dde",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "build beam reduc vs zariah",
+            "stats": {
+                "LIFE": 425,
+                "Armor": 300,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 725,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "d156955a-f333-4849-8d4d-3de75ec301b8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "901585f3-f128-4ce7-8d9c-e2630c89c4cd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "86fa2903-b00b-4d1a-b9b6-3132b8d4eef7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
+                },
+                {
+                    "id": "b367e872-a681-4a98-920e-0feac74745b1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "a9b27d0a-16bf-46ea-b461-188ad49d2ab9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d156955a-f333-4849-8d4d-3de75ec301b8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "cf1cf8ae-f673-4db9-a877-83745beecb2f",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "Prioritize raw stats if rich (likely to be rich), take melee item if in a matchup where you are hard to kill. Lethality  Survivability early in matchups where they can burst you (zen, cass, etc.)",
+            "stats": {
+                "LIFE": 480,
+                "Armor": 300,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 780,
+                "Attack Speed": 20,
+                "Weapon Power": 15,
+                "Ability Power": 5,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "901585f3-f128-4ce7-8d9c-e2630c89c4cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "86fa2903-b00b-4d1a-b9b6-3132b8d4eef7",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
-            },
-            {
-                "id": "b367e872-a681-4a98-920e-0feac74745b1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "a9b27d0a-16bf-46ea-b461-188ad49d2ab9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            }
-        ]
-    },
-    {
-        "id": "cf1cf8ae-f673-4db9-a877-83745beecb2f",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "Prioritize raw stats if rich (likely to be rich), take melee item if in a matchup where you are hard to kill. Lethality  Survivability early in matchups where they can burst you (zen, cass, etc.)",
-        "stats": {
-            "LIFE": 480,
-            "Armor": 300,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 780,
-            "Attack Speed": 20,
-            "Weapon Power": 15,
-            "Ability Power": 5,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "9e531b6b-f24e-464e-b446-50686d8cadcc",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "458d8924-0ec3-4751-ada4-8912d5ca2c1a",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "c28289b3-a980-4210-8970-d3a9bf9765fe",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "f38b167b-b47c-4566-a8d3-cb7ed597d34b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "ce738bc5-5061-4a59-aa45-0583feb4126b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "1885691c-9ceb-4f70-b720-5d30d96cde58",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "2cddc2b5-ccf9-4b7f-ae84-f7320f31fd71",
+                    "notes": "vs zariah",
+                    "action": "optional",
+                    "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
+                },
+                {
+                    "id": "ca770ff5-4a63-4770-bf28-5f074b7c2d92",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "dcf46784-4a37-4c3f-a4c2-55d75c54a556",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "9e531b6b-f24e-464e-b446-50686d8cadcc",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "4f56ab13-54c7-42c4-9adb-424d5f2ac3fd",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 536,
+                "Armor": 350,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 15,
+                "Total LIFE": 886,
+                "Attack Speed": 20,
+                "Weapon Power": 10,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "458d8924-0ec3-4751-ada4-8912d5ca2c1a",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "c28289b3-a980-4210-8970-d3a9bf9765fe",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
-            },
-            {
-                "id": "f38b167b-b47c-4566-a8d3-cb7ed597d34b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "ce738bc5-5061-4a59-aa45-0583feb4126b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "1885691c-9ceb-4f70-b720-5d30d96cde58",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "2cddc2b5-ccf9-4b7f-ae84-f7320f31fd71",
-                "notes": "vs zariah",
-                "action": "optional",
-                "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
-            },
-            {
-                "id": "ca770ff5-4a63-4770-bf28-5f074b7c2d92",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "dcf46784-4a37-4c3f-a4c2-55d75c54a556",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            }
-        ]
-    },
-    {
-        "id": "4f56ab13-54c7-42c4-9adb-424d5f2ac3fd",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 536,
-            "Armor": 350,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 15,
-            "Total LIFE": 886,
-            "Attack Speed": 20,
-            "Weapon Power": 10,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "18f8d60c-5f36-4dfc-8f95-bc2a20bb7226",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "49144260-0acc-4c87-89ac-be334aa8cd5f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "98335a95-595d-4e31-8b81-a8728a85020e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "737ce421-bab9-4cbf-beb3-aa9fb7d85e90",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "8056795c-bf0d-41a3-bdb1-077c8acf8a79",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "e431e257-4ff3-4df0-af50-20d2117f7cd4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "977eb9b7-3f16-48db-9c2f-366645d480ce",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                },
+                {
+                    "id": "79244f6c-d242-42be-8947-6f3e73903ef6",
+                    "notes": "v zariah",
+                    "action": "optional",
+                    "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
+                },
+                {
+                    "id": "4f7eeb3d-1ee7-4d0e-98b7-5cfdccb50f79",
+                    "notes": "v zariah",
+                    "action": "optional",
+                    "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
+                },
+                {
+                    "id": "953e4fa0-6fd3-4ca1-a3c1-fba3772351ac",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "b5ebb4be-1a91-4b26-9430-034f5c55d9a0",
+                    "notes": "buy matrix heals and matrix dmg reduc vs zariah",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "18f8d60c-5f36-4dfc-8f95-bc2a20bb7226",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+        {
+            "id": "474ddbfc-9861-4683-9c51-f6303bb5e2dd",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 683,
+                "Armor": 350,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1033,
+                "Attack Speed": 20,
+                "Weapon Power": 30,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "49144260-0acc-4c87-89ac-be334aa8cd5f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
-            },
-            {
-                "id": "98335a95-595d-4e31-8b81-a8728a85020e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "737ce421-bab9-4cbf-beb3-aa9fb7d85e90",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "8056795c-bf0d-41a3-bdb1-077c8acf8a79",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "e431e257-4ff3-4df0-af50-20d2117f7cd4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "977eb9b7-3f16-48db-9c2f-366645d480ce",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
-            },
-            {
-                "id": "79244f6c-d242-42be-8947-6f3e73903ef6",
-                "notes": "v zariah",
-                "action": "optional",
-                "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
-            },
-            {
-                "id": "4f7eeb3d-1ee7-4d0e-98b7-5cfdccb50f79",
-                "notes": "v zariah",
-                "action": "optional",
-                "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
-            },
-            {
-                "id": "953e4fa0-6fd3-4ca1-a3c1-fba3772351ac",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "b5ebb4be-1a91-4b26-9430-034f5c55d9a0",
-                "notes": "buy matrix heals and matrix dmg reduc vs zariah",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "474ddbfc-9861-4683-9c51-f6303bb5e2dd",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 683,
-            "Armor": 350,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 1033,
-            "Attack Speed": 20,
-            "Weapon Power": 30,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "65531ef5-76d6-40aa-90c5-a13bce9902b6",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "acac2a97-c8aa-489b-b77d-fafb75bb70d2",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "9c18434f-5188-4aff-903e-ef018fdff358",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "86e1bcf5-21b0-4686-8808-2f58a311911f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
+                },
+                {
+                    "id": "e20b8861-5c2f-4f8c-b642-ce813ba89aec",
+                    "notes": "buy after everything else here, spam melee on squishies to instantly remech. If they're stopping your remech with discord or suzu, then sell and prio mech survivability / lethality",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "7381c224-5f33-4136-b198-1e82e089f931",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "33f07441-f8bf-472a-95e9-7805fc788c16",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "1a4fe66a-8645-4059-9429-30f07fd54e74",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "2f8b356a-7926-4a9b-a0cd-efb1f01a682e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "4ef2320e-73c1-4a34-9198-1e2dc5359b93",
+                    "notes": "buy matrix heals and matrix dmg reduc vs zariah",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "65531ef5-76d6-40aa-90c5-a13bce9902b6",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+        {
+            "id": "0c4d090a-e30e-4d74-9e08-56a451b8cb55",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "Read individual notes on powers/items but basically once again you want to prio DM items vs zariah *ALWAYS TAKE BEAM REDUC DM & DM HEAL AND NEVER SELL*\nIf Heal DM is useless in the matchup (melee heavy enemies like rein, jq, genji, etc.) then you take micromissile power or self destruct (I prefer MM)",
+            "stats": {
+                "LIFE": 723,
+                "Armor": 350,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1073,
+                "Attack Speed": 20,
+                "Weapon Power": 30,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "acac2a97-c8aa-489b-b77d-fafb75bb70d2",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "9c18434f-5188-4aff-903e-ef018fdff358",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "86e1bcf5-21b0-4686-8808-2f58a311911f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
-            },
-            {
-                "id": "e20b8861-5c2f-4f8c-b642-ce813ba89aec",
-                "notes": "buy after everything else here, spam melee on squishies to instantly remech. If they're stopping your remech with discord or suzu, then sell and prio mech survivability / lethality",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "7381c224-5f33-4136-b198-1e82e089f931",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "33f07441-f8bf-472a-95e9-7805fc788c16",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "1a4fe66a-8645-4059-9429-30f07fd54e74",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "2f8b356a-7926-4a9b-a0cd-efb1f01a682e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "4ef2320e-73c1-4a34-9198-1e2dc5359b93",
-                "notes": "buy matrix heals and matrix dmg reduc vs zariah",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "0c4d090a-e30e-4d74-9e08-56a451b8cb55",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "Read individual notes on powers/items but basically once again you want to prio DM items vs zariah *ALWAYS TAKE BEAM REDUC DM & DM HEAL AND NEVER SELL*\nIf Heal DM is useless in the matchup (melee heavy enemies like rein, jq, genji, etc.) then you take micromissile power or self destruct (I prefer MM)",
-        "stats": {
-            "LIFE": 723,
-            "Armor": 350,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 1073,
-            "Attack Speed": 20,
-            "Weapon Power": 30,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "108313da-6a58-4c80-a134-203f9c0d790b",
+                    "notes": "ONLY SELL WHEN YOU HAVE ALL PURPLE. Insane survivability item for meka punch",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "6826d225-430e-4b5e-9d04-60bfdf07fd69",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "38e14372-d0d3-43cf-88f3-4c9e1b90b31d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "18e76118-73f1-46ef-b8ba-22099ef0c40c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "394c24a8-87f3-4bf8-9acb-b56d318f5446",
+                    "notes": "if matrix is useless replace with raw stats (both the 14000+ wp items)",
+                    "action": "buy",
+                    "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
+                },
+                {
+                    "id": "11f87dbc-f696-4f33-8778-98ab1a4fedae",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "c967c2ee-dc9f-4f5f-ac7b-deee4e5d57c6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "93b840a7-c4c0-421a-bd73-e432499f225c",
+                    "notes": "usually take this round, if enemy has a ton of dm pierce (v JQ, melee genji, melee zen, etc.) then take micro missile perk",
+                    "action": "optional",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                },
+                {
+                    "id": "95a1100b-87e5-4d1c-91dd-2fb709013e7a",
+                    "notes": "Take if you already took healing matrix v zariah",
+                    "action": "optional",
+                    "upgrade_id": "d3ef725b-3183-417c-bc5a-76bfa21c6cc5"
+                },
+                {
+                    "id": "ce60b181-9eff-4b49-8e49-630c094a37e6",
+                    "notes": "Take if you can infinitely remech off nano baby or if DM isnt useful in matchup",
+                    "action": "optional",
+                    "upgrade_id": "d6b946fd-0fd8-4ba1-85d0-601995136eb6"
+                },
+                {
+                    "id": "d4e198ee-da6e-4cb5-ba0b-6cb5159ee1f2",
+                    "notes": "vs zariah instead of nano baby dva. NEVER SELL THIS VS ZARIAH YOU HEAL INFINITE OFF OF HEAL MATRIX",
+                    "action": "optional",
+                    "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
+                },
+                {
+                    "id": "b3eebe4c-2bc9-44ab-bc7b-5cbaa547ebee",
+                    "notes": "If you need lethality in some matchups. You probably replace flux with this",
+                    "action": "optional",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "77c54d75-450b-4955-ad80-b8718228d46c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "cdb7acbb-b6a9-45e3-9868-dc27a47b9d58",
+                    "notes": "buy matrix heals and matrix dmg reduc vs zariah",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "108313da-6a58-4c80-a134-203f9c0d790b",
-                "notes": "ONLY SELL WHEN YOU HAVE ALL PURPLE. Insane survivability item for meka punch",
-                "action": "optional",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+        {
+            "id": "850fa49a-5429-4e5c-b5da-4b3c5a365923",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 723,
+                "Armor": 350,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1073,
+                "Attack Speed": 20,
+                "Weapon Power": 30,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "6826d225-430e-4b5e-9d04-60bfdf07fd69",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "38e14372-d0d3-43cf-88f3-4c9e1b90b31d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "18e76118-73f1-46ef-b8ba-22099ef0c40c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "394c24a8-87f3-4bf8-9acb-b56d318f5446",
-                "notes": "if matrix is useless replace with raw stats (both the 14000+ wp items)",
-                "action": "buy",
-                "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
-            },
-            {
-                "id": "11f87dbc-f696-4f33-8778-98ab1a4fedae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "c967c2ee-dc9f-4f5f-ac7b-deee4e5d57c6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "93b840a7-c4c0-421a-bd73-e432499f225c",
-                "notes": "usually take this round, if enemy has a ton of dm pierce (v JQ, melee genji, melee zen, etc.) then take micro missile perk",
-                "action": "optional",
-                "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
-            },
-            {
-                "id": "95a1100b-87e5-4d1c-91dd-2fb709013e7a",
-                "notes": "Take if you already took healing matrix v zariah",
-                "action": "optional",
-                "upgrade_id": "d3ef725b-3183-417c-bc5a-76bfa21c6cc5"
-            },
-            {
-                "id": "ce60b181-9eff-4b49-8e49-630c094a37e6",
-                "notes": "Take if you can infinitely remech off nano baby or if DM isnt useful in matchup",
-                "action": "optional",
-                "upgrade_id": "d6b946fd-0fd8-4ba1-85d0-601995136eb6"
-            },
-            {
-                "id": "d4e198ee-da6e-4cb5-ba0b-6cb5159ee1f2",
-                "notes": "vs zariah instead of nano baby dva. NEVER SELL THIS VS ZARIAH YOU HEAL INFINITE OFF OF HEAL MATRIX",
-                "action": "optional",
-                "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
-            },
-            {
-                "id": "b3eebe4c-2bc9-44ab-bc7b-5cbaa547ebee",
-                "notes": "If you need lethality in some matchups. You probably replace flux with this",
-                "action": "optional",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "77c54d75-450b-4955-ad80-b8718228d46c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "cdb7acbb-b6a9-45e3-9868-dc27a47b9d58",
-                "notes": "buy matrix heals and matrix dmg reduc vs zariah",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "850fa49a-5429-4e5c-b5da-4b3c5a365923",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 723,
-            "Armor": 350,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 1073,
-            "Attack Speed": 20,
-            "Weapon Power": 30,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "e53ff100-4173-41f9-be47-ed33f575aab5",
+                    "notes": "v zariah",
+                    "action": "optional",
+                    "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
+                },
+                {
+                    "id": "c4a238cb-2cd4-4196-a495-caf8d401fa62",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "7373e4c0-bb61-45dc-82f4-6337f55d030f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "e52c15dd-de0c-40dc-bb26-b6929c653765",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "a7260ba2-bee3-4777-ad1a-0e839ed7c4c5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
+                },
+                {
+                    "id": "a6d763bb-8491-4433-93a2-087d98770860",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "dfec29d1-8b0a-4467-af65-92cfa6ccc739",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "246e9d3c-012a-4026-9819-da9eefd5ca05",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "e0d4d853-5342-4e4a-8641-d79fd4d25312",
+                    "notes": "buy matrix heals and matrix dmg reduc vs zariah",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e53ff100-4173-41f9-be47-ed33f575aab5",
-                "notes": "v zariah",
-                "action": "optional",
-                "upgrade_id": "a2c2f7c3-761d-42d2-a11c-28980f027c8f"
+        {
+            "id": "2aaf230d-ff49-4875-9b76-de777d83f1c7",
+            "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-18T17:54:02.828153+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 723,
+                "Armor": 350,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1073,
+                "Attack Speed": 20,
+                "Weapon Power": 30,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "c4a238cb-2cd4-4196-a495-caf8d401fa62",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "7373e4c0-bb61-45dc-82f4-6337f55d030f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "e52c15dd-de0c-40dc-bb26-b6929c653765",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "a7260ba2-bee3-4777-ad1a-0e839ed7c4c5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
-            },
-            {
-                "id": "a6d763bb-8491-4433-93a2-087d98770860",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "dfec29d1-8b0a-4467-af65-92cfa6ccc739",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "246e9d3c-012a-4026-9819-da9eefd5ca05",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "e0d4d853-5342-4e4a-8641-d79fd4d25312",
-                "notes": "buy matrix heals and matrix dmg reduc vs zariah",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "2aaf230d-ff49-4875-9b76-de777d83f1c7",
-        "build_id": "e4bb469b-6229-4b3c-b7b5-111614236b48",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-08-18T17:54:02.828153+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 723,
-            "Armor": 350,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 1073,
-            "Attack Speed": 20,
-            "Weapon Power": 30,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "ab0fbb2d-b6cd-4c6c-acc3-3a3916025ac6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "27eed2c3-63cc-4689-bb9d-597e2179fe10",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "9f4094c7-8da0-4e71-882b-c7ad9cc057b3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "2ac92748-51e6-4e9d-8a24-61cdb413c7a7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
-            },
-            {
-                "id": "d648d234-675d-4c84-9222-80ba28ed122b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "9116dfac-3c38-4cde-96a9-6192b6845883",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "9e57a932-bb27-44be-ac60-e8e2af9b730a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "c1fc8d67-5ed6-4e69-8e46-376e9be9b23b",
-                "notes": "buy matrix heals and matrix dmg reduc vs zariah",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "ab0fbb2d-b6cd-4c6c-acc3-3a3916025ac6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "27eed2c3-63cc-4689-bb9d-597e2179fe10",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "9f4094c7-8da0-4e71-882b-c7ad9cc057b3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "2ac92748-51e6-4e9d-8a24-61cdb413c7a7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "40997c0f-a8e3-46ba-b312-34c0790d0e87"
+                },
+                {
+                    "id": "d648d234-675d-4c84-9222-80ba28ed122b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "9116dfac-3c38-4cde-96a9-6192b6845883",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "9e57a932-bb27-44be-ac60-e8e2af9b730a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "c1fc8d67-5ed6-4e69-8e46-376e9be9b23b",
+                    "notes": "buy matrix heals and matrix dmg reduc vs zariah",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
+        }
+    ]
+}

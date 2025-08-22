@@ -1,585 +1,558 @@
-[
-    {
-        "id": "c9dc45fe-e07b-4c03-8555-670c7ee6a45a",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "To get the most of round 1's $3500 limit I find getting beefier to stay alive and in fights longer works the best here. Any weapon or ability power we add is minimal. Taking 25 armor, 25 shields and life regen starting 33% faster is the play.",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 25,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 281,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-16T22:53:32.836687+00:00",
+    "rounds": [
+        {
+            "id": "43884f16-5bc7-4095-b910-157d56c097d2",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "To get the most of round 1's $3500 limit I find getting beefier to stay alive and in fights longer works the best here. Any weapon or ability power we add is minimal. \n\nTaking 25 armor, 25 shields and life regen starting 33% faster is the play.\n [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da)",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 25,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 275,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "b35b6d76-6f04-4823-87aa-323290ff66dd",
+                    "notes": "round 1 only, sell after",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "81c1e13b-858b-412e-a2f7-ceab6c562728",
+                    "notes": "round 1 only sell after",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "f40e303e-a068-42b8-8d63-490af5f75197",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1f667feb-6d2f-478d-9c52-30963e4dea62",
-                "notes": "round 1 only, sell after",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "19099a5e-1f9b-4ed0-b9e2-c6c88ab46c2d",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "Round 2 we pickup our cheap but important  [Smart Orbs](item_47f5985c-9b63-40d2-938b-63a22154b9be) giving them much more value.\n\nOur other pickup, assuming we have atleast $8000 total is  [High Capacity Tubing](item_d4779a06-a19c-425d-80ff-159fde15a3f2). While we are still in early rounds, ability power and orb usefulness is lower. Picking up HCT allows our primary weapon to be more impactful until we have enough money to transition to full orbs in Round 3.\n\nAny extra money can be spent on green +Ability Power +Weapon Power and/or Increase Health/Armor/Shields depending on your observations from Round 1.",
+            "stats": {
+                "LIFE": 241,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 241,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 5,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "67facfad-0954-4549-989f-0d7b0eb1cb3e",
-                "notes": "round 1 only sell after",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "69119060-3de4-4634-a07b-d7c752b599db",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            }
-        ]
-    },
-    {
-        "id": "5b8893ba-0f5d-48ec-9b9f-d99d35b1713a",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "Round 2 we pickup our cheap but important Smart Orbs giving them much more value.\n\nOur other pickup, assuming we have atleast $8000 total is High Capacity Tubing. While ability power and orb useful is lower we need our primary weapon to perform better.\n\nAny extra money can be spent on green +Ability Power +Weapon Power and/or Increase Health/Armor/Shields",
-        "stats": {
-            "LIFE": 241,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 241,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 5,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1aaa06c1-508a-4a65-ba72-ccde1ef6c34d",
+                    "notes": "sell in round 2",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "fc626c0d-38bb-4fb8-a3bc-206d183cc652",
+                    "notes": "sell in round 2",
+                    "action": "sell",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "867d5069-4e42-4c6e-83d9-7874fe701409",
+                    "notes": "slow orbs have more value for their duration, will keep for every round.",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "02fb5661-19bc-439f-b4e2-d336b0ec9492",
+                    "notes": "adding more healing output and damage to your Biotic Grasp. This allows you to perform better in between cooldowns. takes your total energy pool to 150.",
+                    "action": "buy",
+                    "upgrade_id": "d4779a06-a19c-425d-80ff-159fde15a3f2"
+                },
+                {
+                    "id": "f7c49a8c-fa63-44cf-8424-0ebb9c4925b8",
+                    "notes": "can be taken in place of High Capacity Tubing depending on playstyle and composition",
+                    "action": "optional",
+                    "upgrade_id": "fc8b5d34-98ab-412f-9e01-768d1986507f"
+                },
+                {
+                    "id": "bf7c6f29-8ff9-40f1-b5a4-ff2b05689339",
+                    "notes": "If you have over $9000 you can buy this.",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "a7a597bd-d56a-40f1-844b-a5d154b9d03f",
+                    "notes": "If you have over $9000 you can buy this.",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "70d6ddd1-8cdf-4a99-a182-7401d6ff4848",
+                    "notes": "If you have over $12750 buy this.",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "460bbe99-5311-420a-a196-c4097a019798",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "532431ce-d55f-4ead-a5dd-8f14346b993d",
-                "notes": "sell in round 2",
-                "action": "sell",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "a372065a-23b0-4c53-9227-6e81f961f7ea",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "Depending on how the first 2 rounds go I imagine you'll have this much money:\n\nStarting money - $3500\nRound 1-2 - $7000-$10000\nRound 2-3 - $7000-$10000\nPresent start of round 3 = $17500-$23500\n\nPower:  [Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) allows us to apply future debuffs and adds more value to Orb ability usage.\n\nItem:  [Extendrils](item_138e73a2-6915-4ffc-bd89-029a85bf94b8)  is an important pickup here. Paired with  [Smart Orbs](item_47f5985c-9b63-40d2-938b-63a22154b9be) orbs now have full value also paired with your 2 powers.\n\nFill with what extra money you can get out of +Ability Power.\n*consider  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) if you choose to keep High Capacity Tubing",
+            "stats": {
+                "LIFE": 259,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 259,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "c9bbaef9-04ff-4bea-8574-e5cd912260cc",
-                "notes": "sell in round 2",
-                "action": "sell",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "d1bbfdbe-a8f6-406d-ad42-a125812ae815",
-                "notes": "slow orbs have more value for their duration, will keep for every round.",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "92f29468-6f51-48f2-9ea5-4e0191fac3f8",
-                "notes": "adding more healing output and damage to your Biotic Grasp. This allows you to perform better in between cooldowns. takes your total energy pool to 150.",
-                "action": "buy",
-                "upgrade_id": "d4779a06-a19c-425d-80ff-159fde15a3f2"
-            },
-            {
-                "id": "b7676d15-9294-4e3e-882b-11677307d381",
-                "notes": "can be taken in place of High Capacity Tubing depending on playstyle and composition",
-                "action": "optional",
-                "upgrade_id": "fc8b5d34-98ab-412f-9e01-768d1986507f"
-            },
-            {
-                "id": "585ede85-b0ee-446e-928f-1eec18496e93",
-                "notes": "If you have over $9000 you can buy this.",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "829ae032-8f74-4f41-901a-16697073ee52",
-                "notes": "If you have over $9000 you can buy this.",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "0a2ce048-9af1-45e8-9ac1-4a24311d1949",
-                "notes": "If you have over $12750 buy this.",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "d97731fb-741b-4996-9da7-613fa920ba6d",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            }
-        ]
-    },
-    {
-        "id": "acac506f-bd89-4c9b-bb03-74aae7fe3299",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "Depending on how the first 2 round go I imagine you'll have this much money:\n\nStarting money - $3000\nRound 1-2 - $7000-$10000\nRound 2-3 - $7000-$10000\nPresent start of round 3 = $17000-$23000\n\nExtendrils is an important pickup here, fill with what value you can get out of +Ability Power and +weapon power if you choose to keep High Capacity Tubing",
-        "stats": {
-            "LIFE": 262,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 262,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "9d9d3257-31f9-4adc-bbe2-2db53171a176",
+                    "notes": "stays forever",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "4723b4bc-e719-4b81-a5ec-a08d534402f1",
+                    "notes": "Optional to sell this if you are low on money. If you are at $19000-$19500 this is still a solid choice",
+                    "action": "optional",
+                    "upgrade_id": "d4779a06-a19c-425d-80ff-159fde15a3f2"
+                },
+                {
+                    "id": "0452fd00-2c96-44e1-96a6-e5cca2c12187",
+                    "notes": "stays forever",
+                    "action": "buy",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "1703c1ae-307e-4d0e-9601-d24d608fa7ba",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "3b01dc54-b2a5-41e1-89d9-456296b1299e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "b1fbd23f-4589-49cf-ad1a-62773f987921",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "67477b35-8cd2-4a69-a43e-cbd30787df98",
+                    "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "ab06cfae-ae7b-4892-87e9-309b77c54806",
-                "notes": "any extra money can be spent here",
-                "action": "optional",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+        {
+            "id": "ef930505-196c-476c-a600-78f09f3df5c5",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "Present start of round 4 = $24000-$33000\n\nThe above is becoming a large range. The focus here is to start boosting you ability power, lower your cooldowns, and lastly taking the ability power nodes that apply debuffs.\n\nChoose what is best for your money range. Optional items have been provided to choose from.\n\n[Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) and [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)  are great here if you can afford it.",
+            "stats": {
+                "LIFE": 286,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 286,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "d70e62f5-4cdb-4ac9-b20b-9c918e4298f9",
-                "notes": "stays forever",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "03fa1b58-4c92-41ea-9909-fd2ff2a797df",
-                "notes": "Optional to sell this if you are low on money. If you are at $19000-$19500 this is still a solid choice",
-                "action": "optional",
-                "upgrade_id": "d4779a06-a19c-425d-80ff-159fde15a3f2"
-            },
-            {
-                "id": "685a21b5-1bfb-4763-ad6e-042354770f71",
-                "notes": "stays forever",
-                "action": "buy",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "e4ec4c7e-dcdd-4e1b-b3b2-4f0587c9150b",
-                "notes": "any extra money can be spent here",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "0012d993-86d1-4c23-925d-96d110ee4ba3",
-                "notes": "if you are loaded on money and have $26000+ buy this.",
-                "action": "optional",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "eb748adc-a73c-4217-90d9-43eb7366b7db",
-                "notes": "If you have $19750 buy this. Otherwise keep High Capacity Tubing, if even lower money then take green +ability power",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "5f9e495a-37db-4ad2-9f96-5220ea4a2436",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            },
-            {
-                "id": "da901596-5631-474d-89b1-c49c1821b957",
-                "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            }
-        ]
-    },
-    {
-        "id": "450e382b-efd0-4a70-bef3-bf14f227552e",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "Present start of round 4 = $24000-$33000\n\nThe above is becoming a large range. The focus here is to start boosting you ability power, lower your cooldowns, and taking the ability power nodes that apply debuffs.\n\nChoose what is best for your money range. Optional items have been provided to choose from.",
-        "stats": {
-            "LIFE": 304,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 304,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 40,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "6533d858-36bc-48cd-99da-c5b0dc12bd77",
+                    "notes": "if you want to go all out ability power and start cooldowns and debuffs next round you will need $25750 and end with 60 ability power and 1 open item slot",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "eef5da6a-5d82-4afe-903c-9a8a7ad397f9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "360bf757-ded0-47cd-a3d0-fe7f8b743213",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "acbe115c-ca84-49d9-ba74-fc207693be02",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "10cb0a21-926c-4dc9-adc3-3ebfb0164f95",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "4bca812f-b882-411e-ab8b-72ef0d00a9f2",
+                    "notes": "stay forever",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "77141da2-a7ea-4a0c-aafd-ba14f69bf247",
+                    "notes": "stay forever",
+                    "action": "buy",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "cad88069-0dfd-4086-9f74-7f04409a9ae2",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "e68de0ac-357a-402b-b994-1f38a125c519",
+                    "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "5e7f613f-fff3-405c-891f-81386400ac20",
-                "notes": "if choosing Nana Cola, add this too",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+        {
+            "id": "a2af5d4b-5be1-4969-a6b0-1f7c9513846e",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "Present start of round 5 = $31000-$43000\n\n(Again these are estimations based on lower performing round of around $7000 and better performing rounds of $10000)\n\nGoal of this round:\nNew power = More healing and/or More orbs ---\nItems = Lower Cooldowns and add Debuffs\n\nPower: \n [Optimal Overflow](item_9d85ca48-b27a-435a-8ef9-247440e0f97d) is taken. It enables us to create another orb where we could not before. Orbs are already boosted giving us more value.\n\nItems:\n [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98) \n [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)",
+            "stats": {
+                "LIFE": 307,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 307,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 60,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "f1c31d75-a24e-494e-99ad-6a1a65c3c6f8",
-                "notes": "If you don't choose Liquid Nitrogen, this is a solid choice. Reducing cooldowns means more orbs. If you have $30500, also take Multi-tool item for 15% reduced cooldowns",
-                "action": "optional",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "9d97f46e-0f5d-4c8f-9023-e21a97cbf9ef",
-                "notes": "also take if you take Iridescent Iris and have $30500",
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "bbeff794-7d80-43f7-b642-af4b88a991ab",
-                "notes": "if you want to go all out ability power and start cooldowns and debuffs next round you will need $25750 and end with 60 ability power and 1 open item slot",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "d3872dc7-bac8-43f9-b4df-1669f447603f",
-                "notes": "Adds Health\nAdds 10 Ability Power\nAdds Movement Speed debuff\n3 3 3",
-                "action": "buy",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "da3c655e-1d24-48ab-a3b2-d9504c96d22e",
-                "notes": "\"filler item\" use when you have extra money to fill in with a low level item",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "e2f358d1-46ee-472c-8141-b2c669ec4f82",
-                "notes": "stay forever",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "f6e6307b-ca6c-413f-9379-ed715eca42b9",
-                "notes": "stay forever",
-                "action": "buy",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "55a79b96-789f-4dc5-a756-e916196566e5",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            },
-            {
-                "id": "ba90b5c9-74d8-424a-97d5-2c642d7fc459",
-                "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            }
-        ]
-    },
-    {
-        "id": "596d4e4a-b203-412f-a3ea-2f009b160b14",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "Present start of round 5 = $31000-$43000\n\n(Again these are estimations based on lower performing round of around $7000 and better performing rounds of $10000)\n\nGoal of this round:\nNew power = More healing and/or More orbs ---\nItems = Lower Cooldowns and/or add Debuffs",
-        "stats": {
-            "LIFE": 326,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 326,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 60,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "123005a8-72af-4afe-a7ea-981fb3d0e1f7",
+                    "notes": "great extra healing for your team. If you take this keep High Capacity Tubing",
+                    "action": "optional",
+                    "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
+                },
+                {
+                    "id": "29ef4463-66a2-4419-a584-2eaaaf93ca8e",
+                    "notes": "stay forever",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "5facae48-ebaf-4920-8af0-7db7480955c5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "89d7a745-5770-423d-ab73-7e78258c1d18",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "ce5b9390-2db2-4dba-9d88-3317fd2a90ff",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "19f6d0ba-e79a-4fc5-9112-b4861cacc263",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "80da3104-6ff0-4ed1-b376-d33bf333a25d",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "dd139a5a-3860-4999-9e06-ce027e68352c",
+                    "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "9cf7a6ff-8348-483c-8b83-386fc7e382d6",
+                    "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "bd0f797c-9faa-4fd5-b25d-344c3a74eaec",
-                "notes": "stay forever",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+        {
+            "id": "1992ac3c-5c32-4dbf-a887-07f6bb136764",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "Present start of round 6 = $38000-$53000\n\nGoal:\nFull Debuffs, Full Cooldowns\n\n**For $52000 you can get full debuffs, 70 AP, and 20% cooldown reduction**\n\n [Smart Orbs](item_47f5985c-9b63-40d2-938b-63a22154b9be) \n [Extendrils](item_138e73a2-6915-4ffc-bd89-029a85bf94b8) \n [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) \n [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98) \n [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) \n\n [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) taken to round out lower income.",
+            "stats": {
+                "LIFE": 354,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 354,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 70,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "d68f9441-8ab9-4463-ab74-f2513bf2c533",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "d106e740-9b66-4e31-93b6-1286ee551342",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "da80aab8-959b-48ea-a646-aa0b374a7556",
-                "notes": "any money over $37000 can be spent by adding Ability power, or ability power and cooldown reduction",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "800407ae-cd33-4afa-b9f0-1d1d25f32eaa",
-                "notes": "great extra healing for your team. If you take this keep High Capacity Tubing",
-                "action": "optional",
-                "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
-            },
-            {
-                "id": "43588ca6-f50f-4d22-81ce-7043b019fe84",
-                "notes": "important for lowering cooldowns and adds a nice 20 AP",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "ea23ccf7-9f2f-4093-9255-d780a1efddd6",
-                "notes": "if somehow right now you have $48500 or more, take this and Iridescent Iris and Liquid Nitrogen",
-                "action": "optional",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "1461da69-58ac-4975-973a-35871638ca97",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            },
-            {
-                "id": "ce042129-7558-40ce-ac9b-8be0a71d084f",
-                "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "8de1b432-6f0b-415e-a39e-a25570d594ee",
-                "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            }
-        ]
-    },
-    {
-        "id": "7e83e8f4-48dc-4217-85d7-90ee6307ffd9",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "Present start of round 6 = $38000-$53000\n\nGoal:\nFull Debuffs, Full Cooldowns\n\n**For $52000 you can get full debuffs, 70 AP, and 20% cooldown reduction**",
-        "stats": {
-            "LIFE": 345,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 345,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 60,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 15
+            "round_upgrades": [
+                {
+                    "id": "de042e62-79bb-4793-b57f-62c1720b9220",
+                    "notes": "this will take you from 60 to 95 AP if you have $61500. maybe next round..",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "5f18ea43-21be-4e29-bb8c-591793128bba",
+                    "notes": "20 AP\nif lower on money take this\nNeed $53500",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "b0ff06e6-9078-40ce-95ea-1aaeb3b69ca6",
+                    "notes": "25 Health\n10 AP = 70\nOrbs that heal each person reduce cooldown of ability that launched the orb.\nNeed $57500",
+                    "action": "optional",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "a31626bf-f611-442b-ab9f-105854f21390",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+                },
+                {
+                    "id": "f0db826d-3125-4a11-87b4-ad03253d8787",
+                    "notes": "stay forever",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "cc743665-fc15-4bf3-b1c2-6f5bbcc672f5",
+                    "notes": "15 AP\nOrb extended range",
+                    "action": "buy",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "53cb3b73-a514-41a1-b6fe-613dbaa034ed",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "fd9c8f6a-02f8-41db-8b73-aff847d99ed8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "413cef62-1d25-4211-a3c9-b2401ad3cecb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "59f58881-324e-41e8-a0d4-832a68547110",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "9ace763d-0f23-44fd-9076-0107511461eb",
+                    "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "e83cff5a-ee4c-49dc-b006-f2bb51139d42",
+                    "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "7868e511-6ccb-46c6-84f0-644f62db8e6b",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+        {
+            "id": "2138ab73-4420-4e8c-9f57-e46d152a885a",
+            "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-16T22:53:32.836687+00:00",
+            "notes": "By Now you get the point of the build, spend that extra money to get it as beefed up as you can in Ability Power.\n\nKeep a minimum of 15% cooldown reduction and both debuffs being applied. \n\n95 AP with  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) if you have enough money to drop  [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) \n\n+High AP (70+)\n+Low CDs (15% min)\n+Healing Debuff\n+Movement Speed Debuff",
+            "stats": {
+                "LIFE": 373,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 373,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 95,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "26b2abea-edc0-4278-baed-4cec9b9c1eb3",
-                "notes": "10 AP\n5% Cooldown Reduction\nHealing Debuff",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "63d70d9d-337d-4195-878a-309dfa98eb3f",
-                "notes": "this will take you from 60 to 95 AP if you have $61500. maybe next round..",
-                "action": "optional",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "6fbf4044-6a19-44f5-996d-8c4faeadd489",
-                "notes": "20 AP\nif lower on money take this\nNeed $53500",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "d777f4d1-1adf-44ba-bfd4-04cb5098923a",
-                "notes": "10 AP\n5% cooldown reduction\n**pairs very well with current build**\nonly Need $52000",
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "d364440e-6333-40fe-b40f-e61233be2592",
-                "notes": "25 Health\n10 AP = 70\nOrbs that heal each person reduce cooldown of ability that launched the orb.\nNeed $57500",
-                "action": "optional",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "95c7d4ae-bc4d-4f37-8b99-84a965ef84e2",
-                "notes": "stay forever",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "3b1fb36d-be0b-40e4-b6c0-7ab202d76f55",
-                "notes": "15 AP\nOrb extended range",
-                "action": "buy",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "3d3cfc59-caec-403e-a856-798f9cac89bb",
-                "notes": "25 Health\n10 AP\nMovement Speed Debuff",
-                "action": "buy",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "0d61d2e3-7167-4301-b771-fe95ce5acee9",
-                "notes": "20 AP\n10% Cooldown Reduction",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "e3b827a1-f341-40da-ab51-993cee216d03",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            },
-            {
-                "id": "c4d9fc84-b9b5-455e-9ac9-f22572de409d",
-                "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "f37385e5-d167-4100-beec-d87aee2e56d6",
-                "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            }
-        ]
-    },
-    {
-        "id": "e1a5948f-d051-473e-8ac9-7e62bce0e5f9",
-        "build_id": "cb738e97-08b1-40c2-b62e-3595fa578517",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-03T22:41:25.186306+00:00",
-        "notes": "By Now you get the point of the build, spend that extra money to get it as beefed up as you can\n\n+High AP\n+Low CDs\n+Healing Debuff\n+Movement Speed Debuff",
-        "stats": {
-            "LIFE": 373,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 373,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 95,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 15
-        },
-        "round_upgrades": [
-            {
-                "id": "8d4fd938-0c47-4a3c-bff3-3cf3ff99b1de",
-                "notes": "stay forever",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "b790346f-b126-4f75-9777-6fa4816052d8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "491d3aaf-5ea3-4214-9709-2a6b0574250c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "481c4b3b-68c1-480a-8797-45a42ce4afcb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "4c09af63-1854-42ee-8cb9-60d8aeb2cfc5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "a0cdffa1-f4e2-45c4-9cac-02fe0f6efe2e",
-                "notes": "Strong",
-                "action": "optional",
-                "upgrade_id": "d4ce0c76-2500-40d6-b066-dca303be097f"
-            },
-            {
-                "id": "85bc034d-3863-40cb-a5c7-c1314c3df72b",
-                "notes": "Newly buffed this season, this is strong for ultimates since Moiras is weak. Our investment into Ability Power makes this much better.",
-                "action": "optional",
-                "upgrade_id": "cb7be5fa-0098-4a3c-bf62-efb3738a97e6"
-            },
-            {
-                "id": "544b2e6e-50b7-468d-ac2a-9346f618fae0",
-                "notes": "Overall strong for even more healing when needed",
-                "action": "optional",
-                "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
-            },
-            {
-                "id": "4ec0110a-72a0-4260-af87-1f10fb6a0154",
-                "notes": "At Round 7 you have a lot of money time to use it",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "c17e2aad-4345-45a2-98ba-5b70a9ce9532",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "a8fe13ed-2451-435c-b69c-a1821c91bf66",
-                "notes": "good overvalue to support front line without having to be there when things get dicey",
-                "action": "buy",
-                "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
-            },
-            {
-                "id": "03f802e8-dd55-49cb-9309-27ac7da797f9",
-                "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "59757e12-b43c-44a0-88b6-77e0b96940d6",
-                "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            },
-            {
-                "id": "f4698647-b5bc-4efc-a712-5d887276f6e4",
-                "notes": "Last round is your choice. I enjoy even more orbs since all the investment of money has gone into it",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "5bc55764-0f05-48a6-b272-74fe49d430bc",
+                    "notes": "At Round 7 you have a lot of money time to use it",
+                    "action": "buy",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "ecd2dd1c-aa8d-4c26-867a-b11d155fcadb",
+                    "notes": "stay forever",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "daf49904-5437-4b74-90cc-b40064ca7754",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "9cd57e18-5ca7-4660-8ef2-4f7bf0697cb4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "cfdd11be-1d7f-416f-8639-bdb88a7e617d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "a54e082d-39dc-420d-9f4c-c53b9c05bda9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+                },
+                {
+                    "id": "1b97d0bd-91f8-476b-8aa8-d610f187db60",
+                    "notes": "Overall strong for even more healing when needed",
+                    "action": "optional",
+                    "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
+                },
+                {
+                    "id": "570963d4-b292-44b0-9180-c602eb774c59",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "e9d1ac0b-4f74-4b90-beb0-b7db6231ddf8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "ae425234-a22b-4291-965f-62d1a8bd69df",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "cc8c46cc-b4a3-4c0f-aeb6-f7837e0e8e7c"
+                },
+                {
+                    "id": "e22bc741-ab8b-4443-a65b-7d4fb2cc3996",
+                    "notes": "good overvalue to support front line without having to be there when things get dicey",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "c39119ba-c591-4a18-b784-2f05fa431d83",
+                    "notes": "For every orb you now throw a damage one also. This allows us to put out our debuffs in upcoming rounds.",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "54416d90-87d7-4649-b7ab-e8356fc2b0c8",
+                    "notes": "lower duration of uptime but usually it comes out as a heal orb and is already pointed at whole could use the extra healing",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                },
+                {
+                    "id": "e24fb559-8075-424a-8ab9-2dfdac5628ad",
+                    "notes": "Last round is your choice. I enjoy even more orbs since all the investment of money has gone into it",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                }
+            ]
+        }
+    ]
+}

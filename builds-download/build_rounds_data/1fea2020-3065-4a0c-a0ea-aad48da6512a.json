@@ -1,627 +1,630 @@
-[
-    {
-        "id": "c816e19d-7f8a-4ff8-b646-0c00196eba4b",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 282,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-25T12:17:32.87159+00:00",
+    "rounds": [
+        {
+            "id": "c816e19d-7f8a-4ff8-b646-0c00196eba4b",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 282,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "872256e7-bcfe-4d85-97da-1a82ad2dc98a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "630a2dc1-336a-4853-bb1c-a0d64ef4f69d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "859efc0f-643f-4d5a-8b68-b2812fea4860",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "5acdd046-4999-440c-95da-91cfbb118247",
+                    "notes": "If you prefer 3 ammo over 25 shield",
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "c6f8b603-ab0c-4b4c-97f1-fb0afeae20a8",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "872256e7-bcfe-4d85-97da-1a82ad2dc98a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "4cbcb03e-a3df-4bd8-84e6-f2127274ba81",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 271,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 296,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "630a2dc1-336a-4853-bb1c-a0d64ef4f69d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "859efc0f-643f-4d5a-8b68-b2812fea4860",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "5acdd046-4999-440c-95da-91cfbb118247",
-                "notes": "If you prefer 3 ammo over 25 shield",
-                "action": "optional",
-                "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
-            },
-            {
-                "id": "c6f8b603-ab0c-4b4c-97f1-fb0afeae20a8",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            }
-        ]
-    },
-    {
-        "id": "4cbcb03e-a3df-4bd8-84e6-f2127274ba81",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 271,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 296,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1d635f2c-67b2-463a-be86-7058261f86b0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "f0036e97-3ea8-4572-a0c0-1a592174903f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "39018357-b0de-4899-8474-9fcce5ab536d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "8f7cf8a6-081b-4f70-b422-f2d086cfe654",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "1f3a1193-4804-4ccb-aa1e-42a10646c639",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "f6d57287-b11e-4443-a476-484c3e4462b4",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1d635f2c-67b2-463a-be86-7058261f86b0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "8364feb5-cbd9-4ddc-9024-e0b279a96386",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 295,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 320,
+                "Attack Speed": 5,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "f0036e97-3ea8-4572-a0c0-1a592174903f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "39018357-b0de-4899-8474-9fcce5ab536d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "8f7cf8a6-081b-4f70-b422-f2d086cfe654",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "1f3a1193-4804-4ccb-aa1e-42a10646c639",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "f6d57287-b11e-4443-a476-484c3e4462b4",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            }
-        ]
-    },
-    {
-        "id": "8364feb5-cbd9-4ddc-9024-e0b279a96386",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 295,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 320,
-            "Attack Speed": 5,
-            "Weapon Power": 15,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "35836f8e-d00d-4276-9659-bd36540063ce",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "a91b8002-5e25-41bc-959f-bd26f71496ae",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1632cddd-7bf8-4904-bec0-d42a7d9505e7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "02dfb2b4-6ee6-46f0-967e-9962a9a44f3e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "96aaf565-e92c-43e7-bf23-d0ef2124e5aa",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "8f7e026e-0ec1-43b8-9f6f-81971ea79cba",
+                    "notes": "If you get jumped on constantly  Sleep Regimen is just straight up better.",
+                    "action": "optional",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                },
+                {
+                    "id": "14cbabbb-3eec-477c-900e-8e02e7f5b8d9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
+                },
+                {
+                    "id": "91293c66-0189-4deb-8fef-344d693ee091",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "f5f29c1e-1d37-4229-9c7b-592fab137873",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "35836f8e-d00d-4276-9659-bd36540063ce",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "4300e146-c961-4d36-bff7-5106a7cb71cd",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 332,
+                "Armor": 25,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 407,
+                "Attack Speed": 5,
+                "Weapon Power": 30,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "a91b8002-5e25-41bc-959f-bd26f71496ae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "1632cddd-7bf8-4904-bec0-d42a7d9505e7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "02dfb2b4-6ee6-46f0-967e-9962a9a44f3e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "96aaf565-e92c-43e7-bf23-d0ef2124e5aa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "8f7e026e-0ec1-43b8-9f6f-81971ea79cba",
-                "notes": "If you get jumped on constantly  Sleep Regimen is just straight up better.",
-                "action": "optional",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            },
-            {
-                "id": "14cbabbb-3eec-477c-900e-8e02e7f5b8d9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
-            },
-            {
-                "id": "91293c66-0189-4deb-8fef-344d693ee091",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "f5f29c1e-1d37-4229-9c7b-592fab137873",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            }
-        ]
-    },
-    {
-        "id": "4300e146-c961-4d36-bff7-5106a7cb71cd",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 332,
-            "Armor": 25,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 407,
-            "Attack Speed": 5,
-            "Weapon Power": 30,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "b37178cf-2c8c-436b-af27-6dad5e104a6e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "e6d05d89-8940-42a2-9ea8-08fb1bc97291",
+                    "notes": "If you have extra cash and/or facing flyers.",
+                    "action": "optional",
+                    "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
+                },
+                {
+                    "id": "5495647f-f966-4bf9-a179-c05867246dbf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
+                },
+                {
+                    "id": "c024ddaa-56fc-4f8e-a28e-87fc46abe8cc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "ce33a11f-82df-40da-866b-70669ade9620",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "d3c59477-0e9e-4bf4-a29b-2fd9ce554cc2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "a2df96da-ac7d-4955-a6a6-4c635dee8f76",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "aa8a2398-e310-4e0b-bcd5-40e3fb0f192d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "52e21213-4d28-4024-9c95-0ed8ad1d0368",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
+                },
+                {
+                    "id": "096609b6-60e8-4a5d-b7d9-b7b0527e1589",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "efd2146c-b0df-4ee8-8aa9-f939a16113e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "b37178cf-2c8c-436b-af27-6dad5e104a6e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+        {
+            "id": "dcb05402-e3fc-4447-86c3-704d35e8c860",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 382,
+                "Armor": 25,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 457,
+                "Attack Speed": 5,
+                "Weapon Power": 45,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "e6d05d89-8940-42a2-9ea8-08fb1bc97291",
-                "notes": "If you have extra cash and/or facing flyers.",
-                "action": "optional",
-                "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
-            },
-            {
-                "id": "5495647f-f966-4bf9-a179-c05867246dbf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
-            },
-            {
-                "id": "c024ddaa-56fc-4f8e-a28e-87fc46abe8cc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "ce33a11f-82df-40da-866b-70669ade9620",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "d3c59477-0e9e-4bf4-a29b-2fd9ce554cc2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "a2df96da-ac7d-4955-a6a6-4c635dee8f76",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "aa8a2398-e310-4e0b-bcd5-40e3fb0f192d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "52e21213-4d28-4024-9c95-0ed8ad1d0368",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
-            },
-            {
-                "id": "096609b6-60e8-4a5d-b7d9-b7b0527e1589",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "efd2146c-b0df-4ee8-8aa9-f939a16113e5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            }
-        ]
-    },
-    {
-        "id": "dcb05402-e3fc-4447-86c3-704d35e8c860",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 382,
-            "Armor": 25,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 457,
-            "Attack Speed": 5,
-            "Weapon Power": 45,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "68e9f22a-882d-4a33-8fc4-aae3d75da58e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "0a8a9143-85db-496d-ab2e-da6c8214b5f0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "4ead6d3a-aeb6-4b06-ba8e-ec184669ad9b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "d57dbf47-534d-4046-91f3-baa0aba3db26",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "20347b86-a405-40c3-bfb7-f25e85f0cd2e",
+                    "notes": "If you have Sleep Regimen you can drop the jump if you want",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "41cb93cf-40c4-4be7-8a56-8566462df4f9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
+                },
+                {
+                    "id": "8bc1910f-7af1-43df-aa20-55823c863b53",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "7176c7c2-5101-421d-9b0c-df9b3df3961b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
+                },
+                {
+                    "id": "4f32560c-b1d2-4b17-bf55-f9a6c0cac286",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                },
+                {
+                    "id": "802dff95-cd7b-4bd8-8ff6-7713d00b69b7",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "301d573e-44c7-4178-9c06-b563d1903ba7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "6f29bb8a-d719-458a-8f0e-d63a9a8af57e",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "22aa5aae-dcfe-4e6e-984c-ac45b3af713d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                },
+                {
+                    "id": "25e233d9-4d3c-418d-a6f9-10c4bee615bc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "68e9f22a-882d-4a33-8fc4-aae3d75da58e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "55ac23a0-fea0-4b80-85ce-37eb7cd1d386",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 317,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 342,
+                "Attack Speed": 25,
+                "Weapon Power": 40,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "0a8a9143-85db-496d-ab2e-da6c8214b5f0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "4ead6d3a-aeb6-4b06-ba8e-ec184669ad9b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "d57dbf47-534d-4046-91f3-baa0aba3db26",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "20347b86-a405-40c3-bfb7-f25e85f0cd2e",
-                "notes": "If you have Sleep Regimen you can drop the jump if you want",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "41cb93cf-40c4-4be7-8a56-8566462df4f9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
-            },
-            {
-                "id": "8bc1910f-7af1-43df-aa20-55823c863b53",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "7176c7c2-5101-421d-9b0c-df9b3df3961b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
-            },
-            {
-                "id": "4f32560c-b1d2-4b17-bf55-f9a6c0cac286",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            },
-            {
-                "id": "802dff95-cd7b-4bd8-8ff6-7713d00b69b7",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "301d573e-44c7-4178-9c06-b563d1903ba7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
-            },
-            {
-                "id": "6f29bb8a-d719-458a-8f0e-d63a9a8af57e",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "22aa5aae-dcfe-4e6e-984c-ac45b3af713d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            },
-            {
-                "id": "25e233d9-4d3c-418d-a6f9-10c4bee615bc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
-            }
-        ]
-    },
-    {
-        "id": "55ac23a0-fea0-4b80-85ce-37eb7cd1d386",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 317,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 342,
-            "Attack Speed": 25,
-            "Weapon Power": 40,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1fd8b8ff-a435-4f68-960a-0b3000b5310f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "ce23d2a8-9ef8-4796-b62a-dc9a16fc333e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "d80a375b-6fce-4f9d-beec-b1d3142b94ca",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "7857f609-98d9-47f0-b270-1cf3bc46ec07",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "9398cd8a-b047-489e-86e3-3c76e9cac602",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "5d38f546-9b13-4113-8529-ecf89d794b52",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "c6c41a81-dd47-41ab-a182-d07f4f2094a5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "e7f4095b-9f3a-46f6-b3d7-6741ee67d3be",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "7d655120-48c7-4d2b-97dc-89bdfaf74bca",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
+                },
+                {
+                    "id": "c0f6b120-e68d-427e-9cc7-83c49e568bb5",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
+                },
+                {
+                    "id": "2d285f76-182d-4554-b4f4-78e12b5dd377",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "64f9b117-6b44-4f1e-92b7-8190eef1762b",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "6a1ff606-ecad-4d0f-b6e4-159440d059f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                },
+                {
+                    "id": "57d05ada-8d0c-4240-a5c2-48de79a361f9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1fd8b8ff-a435-4f68-960a-0b3000b5310f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "d08401e1-cb76-480e-a008-8e0f7959e524",
+            "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-25T12:17:32.87159+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 432,
+                "Armor": 25,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 507,
+                "Attack Speed": 25,
+                "Weapon Power": 70,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "ce23d2a8-9ef8-4796-b62a-dc9a16fc333e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "d80a375b-6fce-4f9d-beec-b1d3142b94ca",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "7857f609-98d9-47f0-b270-1cf3bc46ec07",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "9398cd8a-b047-489e-86e3-3c76e9cac602",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "5d38f546-9b13-4113-8529-ecf89d794b52",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c6c41a81-dd47-41ab-a182-d07f4f2094a5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "e7f4095b-9f3a-46f6-b3d7-6741ee67d3be",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "7d655120-48c7-4d2b-97dc-89bdfaf74bca",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
-            },
-            {
-                "id": "c0f6b120-e68d-427e-9cc7-83c49e568bb5",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
-            },
-            {
-                "id": "2d285f76-182d-4554-b4f4-78e12b5dd377",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
-            },
-            {
-                "id": "64f9b117-6b44-4f1e-92b7-8190eef1762b",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "6a1ff606-ecad-4d0f-b6e4-159440d059f6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            },
-            {
-                "id": "57d05ada-8d0c-4240-a5c2-48de79a361f9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
-            }
-        ]
-    },
-    {
-        "id": "d08401e1-cb76-480e-a008-8e0f7959e524",
-        "build_id": "1fea2020-3065-4a0c-a0ea-aad48da6512a",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-25T12:17:32.87159+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 432,
-            "Armor": 25,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 507,
-            "Attack Speed": 25,
-            "Weapon Power": 70,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "db8afd11-e696-4ec4-a0cd-7692c5c4e3fa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "0bdc46ba-bf0c-4dc1-ae21-49e4cc46f2ca",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "98dc4d50-1e11-416d-9cd6-0fcd6a47d8b9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "26808357-2986-42e5-9ec8-ddd1a439b1ed",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "86380096-d333-4e06-8c48-f3039ca8ae0f",
-                "notes": "If you have Sleep Regimen you can drop the jump if you want",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "1311f9af-942e-436f-8080-a77831b899ad",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
-            },
-            {
-                "id": "b1c3ce08-349d-4ed1-bd3f-401cf3cae64b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "d684db56-8843-4257-a05a-a1cb6dc61f34",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
-            },
-            {
-                "id": "9b9d81ba-3cd6-482b-932b-339a106c310f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
-            },
-            {
-                "id": "412521d7-1519-48f7-a096-a22ed3ea64ef",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "9ddaa638-002d-4d5f-b82c-44b321a841ef",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "6745be8e-afca-4600-93e1-c2b98c958234",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            },
-            {
-                "id": "304cc6dc-38fd-464f-86b5-39f56b735d42",
-                "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "f3b23432-9ff7-4df4-bdce-e5f6f2b59b6e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            },
-            {
-                "id": "864f7bed-ed37-4a05-a331-4d8c7c991005",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
-            },
-            {
-                "id": "a104a573-23ff-476c-9b05-0faf7fa3d961",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "db8afd11-e696-4ec4-a0cd-7692c5c4e3fa",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "0bdc46ba-bf0c-4dc1-ae21-49e4cc46f2ca",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "98dc4d50-1e11-416d-9cd6-0fcd6a47d8b9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "26808357-2986-42e5-9ec8-ddd1a439b1ed",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "86380096-d333-4e06-8c48-f3039ca8ae0f",
+                    "notes": "If you have Sleep Regimen you can drop the jump if you want",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "1311f9af-942e-436f-8080-a77831b899ad",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2bea20a0-21c0-4a52-b81e-596c17d184b4"
+                },
+                {
+                    "id": "b1c3ce08-349d-4ed1-bd3f-401cf3cae64b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "d684db56-8843-4257-a05a-a1cb6dc61f34",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "169551ce-e4e5-4a14-9ec4-abdc25673939"
+                },
+                {
+                    "id": "9b9d81ba-3cd6-482b-932b-339a106c310f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "412521d7-1519-48f7-a096-a22ed3ea64ef",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "9ddaa638-002d-4d5f-b82c-44b321a841ef",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "6745be8e-afca-4600-93e1-c2b98c958234",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                },
+                {
+                    "id": "304cc6dc-38fd-464f-86b5-39f56b735d42",
+                    "notes": "Go for Our Turn or Sleep Regimen early if they have Dva",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "f3b23432-9ff7-4df4-bdce-e5f6f2b59b6e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                },
+                {
+                    "id": "864f7bed-ed37-4a05-a331-4d8c7c991005",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
+                },
+                {
+                    "id": "a104a573-23ff-476c-9b05-0faf7fa3d961",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                }
+            ]
+        }
+    ]
+}

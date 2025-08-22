@@ -1,717 +1,720 @@
-[
-    {
-        "id": "0edae34e-8b77-49a5-9e47-5af7afb4e2ff",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "Round 1-2 build code: 1KCQB\n\nNote that we don't really go in much the first two rounds, after which is where this build really starts to kick (hah) off. Until we get the combination of our first two powers, we mostly focus AP to heal and get more cash early, with some added survivability and limited WP. \n\nDespite largely being a kick/melee focused build, we're not going to be getting [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) until round 7, if even at all. The other powers are just too valuable. Get [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) to help your self-sustain/survivability. You *could* get [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c) first if you're confident in your ability to survive without the self-heal, though I usually don't.",
-        "stats": {
-            "LIFE": 75,
-            "Armor": 25,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 275,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-07T01:09:58.347884+00:00",
+    "rounds": [
+        {
+            "id": "0edae34e-8b77-49a5-9e47-5af7afb4e2ff",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "Round 1-2 build code: 1KCQB\n\nNote that we don't really go in much the first two rounds, after which is where this build really starts to kick (hah) off. Until we get the combination of our first two powers, we mostly focus AP to heal and get more cash early, with some added survivability and limited WP. \n\nDespite largely being a kick/melee focused build, we're not going to be getting [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) until round 7, if even at all. The other powers are just too valuable. Get [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) to help your self-sustain/survivability. You *could* get [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c) first if you're confident in your ability to survive without the self-heal, though I usually don't.",
+            "stats": {
+                "LIFE": 75,
+                "Armor": 25,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 275,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "24cdf84a-d5e1-4499-84ca-92d2b5cffee8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "9b2aadc7-8e65-4704-ab90-6f26b6fb04b2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "269b09eb-b4c4-488f-80bc-15d7b20b41ec",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "b70a0663-00ec-4907-965f-d92f360b4dda",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "cf352b8d-1435-4c5e-a7c8-3ed79dd8210d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "24cdf84a-d5e1-4499-84ca-92d2b5cffee8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "f351513e-f7a1-40bd-9f06-8a4ce0bf5040",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "Next round things get more interesting, but for now we're building some AP and survivability. The optional items aren't bad either, though can be a little more situational. \n\nIf you need to take an item off cause you don't have enough, then that's fine, there's nothing super specific we're going for this round.",
+            "stats": {
+                "LIFE": 104,
+                "Armor": 25,
+                "Shield": 200,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 329,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "9b2aadc7-8e65-4704-ab90-6f26b6fb04b2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "269b09eb-b4c4-488f-80bc-15d7b20b41ec",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "b70a0663-00ec-4907-965f-d92f360b4dda",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "cf352b8d-1435-4c5e-a7c8-3ed79dd8210d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            }
-        ]
-    },
-    {
-        "id": "f351513e-f7a1-40bd-9f06-8a4ce0bf5040",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "Next round things get more interesting, but for now we're building some AP and survivability. The optional items aren't bad either, though can be a little more situational. \n\nIf you need to take an item off cause you don't have enough, then that's fine, there's nothing super specific we're going for this round.",
-        "stats": {
-            "LIFE": 104,
-            "Armor": 25,
-            "Shield": 200,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 329,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "e590bb23-2b61-4702-88f5-176163439715",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "4b7d27e0-96aa-4b91-8cd7-e7ea432177b6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "04d5d433-9493-4094-b4e6-77d632a236e9"
+                },
+                {
+                    "id": "ba96f249-1a63-4a74-b354-03461bc991ce",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "c416a7cc-41b7-4abd-bdd6-74f790341002",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "20a9a061-3c4b-4ddf-af2c-4d5b96d14587",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
+                },
+                {
+                    "id": "3b2fadb4-7b2f-4abe-8eec-d4968e530219",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "4e789dd5-8361-4739-addd-41d7f8f5dc2e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "4adc6167-2939-491c-9f0e-bdc0ea3d5e46",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "1ffcafaf-f555-4394-aae4-84931ecc53fc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "2f95c6e6-e538-4f46-a567-fb503188d491",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e590bb23-2b61-4702-88f5-176163439715",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+        {
+            "id": "aab930e5-c72d-4c77-abb4-fdd53194d785",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "Finally, we start to be unleashed! With both [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) and [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c) we basically get a *bunch* of lifesteal, which is pretty essential for a melee playstyle.\n\nThough [Golden Monk](item_559b91a0-840b-4027-b99c-c5e6b609ae7c) is a GREAT item for our build, I think it's worth waiting another round to get it rather than getting it now and potentially only getting three items total, since [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) is too essential to not get and we'd end up wanting both. We still have decent survivability, especially given our powers, and [Hiking Hoverboots](item_158611dd-147a-4375-a16a-565aa4f5f7de)'s move speed gives us a bit more leniency through mobility.",
+            "stats": {
+                "LIFE": 144,
+                "Armor": 75,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 394,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "4b7d27e0-96aa-4b91-8cd7-e7ea432177b6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "04d5d433-9493-4094-b4e6-77d632a236e9"
-            },
-            {
-                "id": "ba96f249-1a63-4a74-b354-03461bc991ce",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c416a7cc-41b7-4abd-bdd6-74f790341002",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "20a9a061-3c4b-4ddf-af2c-4d5b96d14587",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
-            },
-            {
-                "id": "3b2fadb4-7b2f-4abe-8eec-d4968e530219",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "4e789dd5-8361-4739-addd-41d7f8f5dc2e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "4adc6167-2939-491c-9f0e-bdc0ea3d5e46",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "1ffcafaf-f555-4394-aae4-84931ecc53fc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "2f95c6e6-e538-4f46-a567-fb503188d491",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            }
-        ]
-    },
-    {
-        "id": "aab930e5-c72d-4c77-abb4-fdd53194d785",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "Finally, we start to be unleashed! With both [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) and [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c) we basically get a *bunch* of lifesteal, which is pretty essential for a melee playstyle.\n\nThough [Golden Monk](item_559b91a0-840b-4027-b99c-c5e6b609ae7c) is a GREAT item for our build, I think it's worth waiting another round to get it rather than getting it now and potentially only getting three items total, since [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) is too essential to not get and we'd end up wanting both. We still have decent survivability, especially given our powers, and [Hiking Hoverboots](item_158611dd-147a-4375-a16a-565aa4f5f7de)'s move speed gives us a bit more leniency through mobility.",
-        "stats": {
-            "LIFE": 144,
-            "Armor": 75,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 394,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "8cc8852d-43ea-49f9-9bba-f7de90fb59d9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "edf5dbff-d014-41c6-93da-ddbf177b6d3c",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "862a3aba-56b9-4abd-ad9e-18f0907b1647",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "04d5d433-9493-4094-b4e6-77d632a236e9"
+                },
+                {
+                    "id": "94707c4e-7fd3-4ce0-8fc7-d2e1b4672e8d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "30eb4765-ffc1-4b2d-9e1a-44de1205ab67",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "aa8ffd7f-51e2-45f3-9403-58bf38602660",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "3c39a0ed-f2cc-427d-b1be-b3ed4f5ff0ac",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "cbe0e3eb-50c6-4fcb-912d-9674c2ea551c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "2180c772-c722-4879-abf0-ec63a55d6ae1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "dac30e7f-88e2-4280-8fdf-977c4b4d3e15",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "d98e2bb3-fb56-44e9-a385-40105f464960",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
+                },
+                {
+                    "id": "63b52a6a-b8b1-4a45-8937-a410034da21c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "8a372a24-5b95-496f-906c-5a98075d4d0c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "8e685b0a-b02b-4974-80d2-8c4a91ada418",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "8de690b7-d874-4056-aa0f-d6ee0c49b3f1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "8cc8852d-43ea-49f9-9bba-f7de90fb59d9",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "3158742d-6d40-4416-b752-fd7f3c507b09",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "Adding in [Golden Monk](item_559b91a0-840b-4027-b99c-c5e6b609ae7c) to let you stack survivability but still do more dmg. It's a great item, and synergizes well with [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7), which is another key part of the build.\n\nYou can replace any of the items not marked as important with the optional items if you want, or if you don't have this much cash.",
+            "stats": {
+                "LIFE": 167,
+                "Armor": 125,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 467,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "edf5dbff-d014-41c6-93da-ddbf177b6d3c",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "862a3aba-56b9-4abd-ad9e-18f0907b1647",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "04d5d433-9493-4094-b4e6-77d632a236e9"
-            },
-            {
-                "id": "94707c4e-7fd3-4ce0-8fc7-d2e1b4672e8d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "30eb4765-ffc1-4b2d-9e1a-44de1205ab67",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "aa8ffd7f-51e2-45f3-9403-58bf38602660",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "3c39a0ed-f2cc-427d-b1be-b3ed4f5ff0ac",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "cbe0e3eb-50c6-4fcb-912d-9674c2ea551c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "2180c772-c722-4879-abf0-ec63a55d6ae1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "dac30e7f-88e2-4280-8fdf-977c4b4d3e15",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "d98e2bb3-fb56-44e9-a385-40105f464960",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
-            },
-            {
-                "id": "63b52a6a-b8b1-4a45-8937-a410034da21c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "8a372a24-5b95-496f-906c-5a98075d4d0c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "8e685b0a-b02b-4974-80d2-8c4a91ada418",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "8de690b7-d874-4056-aa0f-d6ee0c49b3f1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            }
-        ]
-    },
-    {
-        "id": "3158742d-6d40-4416-b752-fd7f3c507b09",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "Adding in [Golden Monk](item_559b91a0-840b-4027-b99c-c5e6b609ae7c) to let you stack survivability but still do more dmg. It's a great item, and synergizes well with [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7), which is another key part of the build.\n\nYou can replace any of the items not marked as important with the optional items if you want, or if you don't have this much cash.",
-        "stats": {
-            "LIFE": 167,
-            "Armor": 125,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 467,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "810a3ad6-c52f-43aa-908c-2c99ea782066",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "9f9290cb-acd4-411b-b423-d823d42390a9",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "a9a045f7-4e7c-46c0-ac6b-83959f522609",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
+                },
+                {
+                    "id": "5c8cd7a5-9713-4833-b69a-0e493a28a65e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
+                },
+                {
+                    "id": "9386b649-df4b-47e2-a09f-a0ed0d429c06",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "48a1b4ca-b4a3-4753-bc69-e51382c391c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "27e33dbd-a034-4d10-9dd2-c07ea2722a0d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "b9554840-ba8d-4abd-b692-d06b8bbdf53c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "8672ba11-d6f8-475b-b7c7-01aacce56e3e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "cf57ca2f-cd81-466d-863f-ab7bad0a09b6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "454b81b6-4cd8-414a-a536-91a834699b4f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "4d78c780-1fb2-4521-a457-443844652dc6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "810a3ad6-c52f-43aa-908c-2c99ea782066",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "a203adff-3031-4b78-b331-c6b6bf585761",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "The final two powers are a choice between three different options, though I have listed ones I'd recommend going with, and the other choices under optional. Overall, all power choices are fun in their own ways. [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) gives you more healing and stay potential and lets you take riskier positions more often since you'll be able to get out of them, [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) lets you reposition yourself to places you otherwise wouldn't be able to reach, as well as being able to stun/approach the enemy quickly if they're backing up out of your melee reach, and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) gives your already-high survivability an even bigger boost, letting you stay up in fights you *really* have no business living through. \n\n[Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) mixed with [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) gives you great burst healing ability, or the option to use your ult as a \"get away free\" card while still preserving most of your ult charge, in addition to gaining a lot of overhealth. (Note that the timing with [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) is more lax due to [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) increasing your ult's duration)\n\nI prefer the above strategy over the other optional powers here, but both [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) do work really well with this build. But, in turn, the items you'll wanna take shift if you choose them: \n- [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): Replace [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) with [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48), then take [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09) and [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) instead of the two blue not marked important.\n- [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): This stays mostly the same, though what you replace [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) with depends. If you want more survivability, take [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), but if you want more pure WP, then the choice is between [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) if you want the armor for extra melee dmg, (this only applies when you also have [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e)), or [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) for doing a lot more dmg, though you could also take [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) if you don't have 14k. Note that this build naturally takes [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) in a later round, so you can pick up one of the other items later if you don't take them now. \n\nOptional items can replace/be swapped with items not marked as important if you want.",
+            "stats": {
+                "LIFE": 161,
+                "Armor": 125,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 461,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "9f9290cb-acd4-411b-b423-d823d42390a9",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "a9a045f7-4e7c-46c0-ac6b-83959f522609",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
-            },
-            {
-                "id": "5c8cd7a5-9713-4833-b69a-0e493a28a65e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
-            },
-            {
-                "id": "9386b649-df4b-47e2-a09f-a0ed0d429c06",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "48a1b4ca-b4a3-4753-bc69-e51382c391c7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "27e33dbd-a034-4d10-9dd2-c07ea2722a0d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "b9554840-ba8d-4abd-b692-d06b8bbdf53c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "8672ba11-d6f8-475b-b7c7-01aacce56e3e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "cf57ca2f-cd81-466d-863f-ab7bad0a09b6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "454b81b6-4cd8-414a-a536-91a834699b4f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "4d78c780-1fb2-4521-a457-443844652dc6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            }
-        ]
-    },
-    {
-        "id": "a203adff-3031-4b78-b331-c6b6bf585761",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "The final two powers are a choice between three different options, though I have listed ones I'd recommend going with, and the other choices under optional. Overall, all power choices are fun in their own ways. [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) gives you more healing and stay potential and lets you take riskier positions more often since you'll be able to get out of them, [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) lets you reposition yourself to places you otherwise wouldn't be able to reach, as well as being able to stun/approach the enemy quickly if they're backing up out of your melee reach, and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) gives your already-high survivability an even bigger boost, letting you stay up in fights you *really* have no business living through. \n\n[Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) mixed with [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) gives you great burst healing ability, or the option to use your ult as a \"get away free\" card while still preserving most of your ult charge, in addition to gaining a lot of overhealth. (Note that the timing with [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) is more lax due to [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) increasing your ult's duration)\n\nI prefer the above strategy over the other optional powers here, but both [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) do work really well with this build. But, in turn, the items you'll wanna take shift if you choose them: \n- [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): Replace [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) with [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48), then take [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09) and [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) instead of the two blue not marked important.\n- [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): This stays mostly the same, though what you replace [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) with depends. If you want more survivability, take [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), but if you want more pure WP, then the choice is between [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) if you want the armor for extra melee dmg, (this only applies when you also have [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e)), or [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) for doing a lot more dmg, though you could also take [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) if you don't have 14k. Note that this build naturally takes [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) in a later round, so you can pick up one of the other items later if you don't take them now. \n\nOptional items can replace/be swapped with items not marked as important if you want.",
-        "stats": {
-            "LIFE": 161,
-            "Armor": 125,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 461,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "eab06817-09cd-4521-8c66-9e3491ff22c0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "f4854b1d-b87b-4610-a3d3-5efcf4d2db0f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
+                },
+                {
+                    "id": "bb708237-77bf-40e8-9bc8-df51727ec521",
+                    "notes": "replace this IF you take one of the optional powers",
+                    "action": "buy",
+                    "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
+                },
+                {
+                    "id": "2de3368c-ebd0-4872-83af-187b06a87039",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "455f4973-cdee-46a0-9f9f-2b82526d778e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "58ad6b09-3cbc-49dc-a59a-c3847fdc321e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "6e89a150-765f-4fe8-bb79-664a29fdd3e6",
+                    "notes": "replace mondatta's mantra w this ONLY IF you take flying kick",
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "43a3ce57-4950-4cb2-b468-28e9dd1823d2",
+                    "notes": "replace mondatta's mantra w this ONLY IF you take instant karma",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "d2b7b094-1d12-4837-865f-a457d93abd07",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
+                },
+                {
+                    "id": "56fb2800-57ce-4e6b-9d8a-861c5eae2018",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
+                },
+                {
+                    "id": "1cdbd7b4-2b46-454d-a913-75cb738e1a6e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "e16e5e1b-bf17-4dc6-9d97-30b2a0265c7d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "6e35c135-ab47-47e2-a336-df3d807a1acb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "6a9220bd-f4b4-471e-be83-a408422e2096",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "863314d2-14ca-4c9f-b7d4-eacc773ea1b9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "a2b18061-3042-4853-8c78-e3655a772d6e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "1c327d9e-45ba-4c18-b8b4-17f8bcee83d6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "eab06817-09cd-4521-8c66-9e3491ff22c0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+        {
+            "id": "8876947b-f5bb-4705-9c81-9750dc664bd8",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "Taking [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) for its added survivability and bit of WP. This item doesn't have armor, however, so if you'd rather take an item that helps with your melee dmg then you can pick [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) instead this round, or take [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) over one of the blue items. \n\nYou can swap between the blue items listed if you'd prefer something else.\n\nIf you took [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): Since you'll have [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48)'s AS and MS, both blue items aren't necessary for you here, so take [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09) and [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e) instead - though you could optionally choose [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) over the former if you wanted.\n\nAs for [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) havers, the only thing to keep in mind is that the armor from [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) only applies extra melee dmg if you have another 25 from another item, like [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e). If you don't have 25 armor from something else, stick with [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b).",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 100,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 500,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "f4854b1d-b87b-4610-a3d3-5efcf4d2db0f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
-            },
-            {
-                "id": "bb708237-77bf-40e8-9bc8-df51727ec521",
-                "notes": "replace this IF you take one of the optional powers",
-                "action": "buy",
-                "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
-            },
-            {
-                "id": "2de3368c-ebd0-4872-83af-187b06a87039",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "455f4973-cdee-46a0-9f9f-2b82526d778e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "58ad6b09-3cbc-49dc-a59a-c3847fdc321e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "6e89a150-765f-4fe8-bb79-664a29fdd3e6",
-                "notes": "replace mondatta's mantra w this ONLY IF you take flying kick",
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "43a3ce57-4950-4cb2-b468-28e9dd1823d2",
-                "notes": "replace mondatta's mantra w this ONLY IF you take instant karma",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "d2b7b094-1d12-4837-865f-a457d93abd07",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
-            },
-            {
-                "id": "56fb2800-57ce-4e6b-9d8a-861c5eae2018",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
-            },
-            {
-                "id": "1cdbd7b4-2b46-454d-a913-75cb738e1a6e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "e16e5e1b-bf17-4dc6-9d97-30b2a0265c7d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "6e35c135-ab47-47e2-a336-df3d807a1acb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "6a9220bd-f4b4-471e-be83-a408422e2096",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "863314d2-14ca-4c9f-b7d4-eacc773ea1b9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "a2b18061-3042-4853-8c78-e3655a772d6e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "1c327d9e-45ba-4c18-b8b4-17f8bcee83d6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
-            }
-        ]
-    },
-    {
-        "id": "8876947b-f5bb-4705-9c81-9750dc664bd8",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "Taking [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) for its added survivability and bit of WP. This item doesn't have armor, however, so if you'd rather take an item that helps with your melee dmg then you can pick [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) instead this round, or take [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) over one of the blue items. \n\nYou can swap between the blue items listed if you'd prefer something else.\n\nIf you took [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): Since you'll have [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48)'s AS and MS, both blue items aren't necessary for you here, so take [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09) and [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e) instead - though you could optionally choose [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) over the former if you wanted.\n\nAs for [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130) havers, the only thing to keep in mind is that the armor from [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) only applies extra melee dmg if you have another 25 from another item, like [Keepsake of Chaos](item_5f5c7c4c-a559-43a0-9794-bdb866d2327e). If you don't have 25 armor from something else, stick with [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b).",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 100,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 500,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "ae07d089-5854-4a2f-ba57-a56783c05614",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
+                },
+                {
+                    "id": "d2df14cd-1e95-4d89-bc45-ab27598b1cb3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "959197b0-281d-4241-a051-322b0959b7b4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "e5634214-38fc-4f62-bf37-182f20f0d9e3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "18424d32-ec08-479d-975d-f6b4bb1c5cf9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
+                },
+                {
+                    "id": "2ad36afe-fc63-4a3c-9dff-7a806d992fc7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
+                },
+                {
+                    "id": "1ae89e0f-26bd-4ebd-bf20-f12559cb642b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "f436fe1c-cb36-4988-b3b1-6b9039dd54c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "23164950-09cd-4624-a89f-cb220c27a626",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "f045ddc6-07c1-49db-a50a-5b385fca64f1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "076f935b-ad33-4b7d-8501-ef20ae44c6cd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "a884a161-29b3-4c0d-b3ff-7b11754babf1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "699d0f86-6bb3-4632-b277-c646cdcdd6de",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "ae07d089-5854-4a2f-ba57-a56783c05614",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5f5c7c4c-a559-43a0-9794-bdb866d2327e"
+        {
+            "id": "e37dab2c-9ca2-47d9-80be-ba332fe7d097",
+            "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-07T01:09:58.347884+00:00",
+            "notes": "The final round, and with it, the final build!\n\nDepending on what two of the three optional final powers you've taken for yourself, this build shifts a bit:\n- [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) and [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): I'd highly recommend taking [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) in one of the empty item slots, as your jump-kick will actually apply the item's move speed, unlike discord or harmony orb. For the final slot, either take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) if you want more survivability or [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) (or its cheaper alternatives in optional items) for better DPS. \n- [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): Easy; take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) or its alternatives. If you *really* want extra move speed, you can take [Hiking Hoverboots](item_158611dd-147a-4375-a16a-565aa4f5f7de) instead, but I wouldn't recommend it most of the time, unless you really like to hover. \n-  [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): Remove [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) from the listed items, and take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d), [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) (or its alternatives) in the final slots.",
+            "stats": {
+                "LIFE": 209,
+                "Armor": 100,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 484,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "d2df14cd-1e95-4d89-bc45-ab27598b1cb3",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "959197b0-281d-4241-a051-322b0959b7b4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "e5634214-38fc-4f62-bf37-182f20f0d9e3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "18424d32-ec08-479d-975d-f6b4bb1c5cf9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
-            },
-            {
-                "id": "2ad36afe-fc63-4a3c-9dff-7a806d992fc7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
-            },
-            {
-                "id": "1ae89e0f-26bd-4ebd-bf20-f12559cb642b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "f436fe1c-cb36-4988-b3b1-6b9039dd54c7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "23164950-09cd-4624-a89f-cb220c27a626",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "f045ddc6-07c1-49db-a50a-5b385fca64f1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "076f935b-ad33-4b7d-8501-ef20ae44c6cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "a884a161-29b3-4c0d-b3ff-7b11754babf1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "699d0f86-6bb3-4632-b277-c646cdcdd6de",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
-            }
-        ]
-    },
-    {
-        "id": "e37dab2c-9ca2-47d9-80be-ba332fe7d097",
-        "build_id": "02d146f4-61fc-4084-8786-8f43e9d6cd36",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-08-07T01:09:58.347884+00:00",
-        "notes": "The final round, and with it, the final build!\n\nDepending on what two of the three optional final powers you've taken for yourself, this build shifts a bit:\n- [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) and [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44): I'd highly recommend taking [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) in one of the empty item slots, as your jump-kick will actually apply the item's move speed, unlike discord or harmony orb. For the final slot, either take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) if you want more survivability or [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) (or its cheaper alternatives in optional items) for better DPS. \n- [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): Easy; take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) or its alternatives. If you *really* want extra move speed, you can take [Hiking Hoverboots](item_158611dd-147a-4375-a16a-565aa4f5f7de) instead, but I wouldn't recommend it most of the time, unless you really like to hover. \n-  [Flying Kick](item_e86d8d81-7113-4fc8-b3af-d6e925488a44) and [Instant Karma](item_7a1cb409-3f6d-424f-882f-729c59476130): Remove [Mondatta's Mantra](item_96d3b160-3c50-4768-90e4-c7005c98ce43) from the listed items, and take [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d), [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) (or its alternatives) in the final slots.",
-        "stats": {
-            "LIFE": 209,
-            "Armor": 100,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 484,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "f4753bac-06bf-4caf-a5cc-19b4e9237762",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
-            },
-            {
-                "id": "58ba636e-0047-4571-acd1-74cf913a4bac",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
-            },
-            {
-                "id": "d4b82db4-4f48-49de-b7ac-853d2d6772ce",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "b25fe784-3843-4755-928e-fa9f67ac7126",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "9de743e4-9453-493c-9fdc-63c156cb5122",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "d13f0650-bd11-4e89-ac52-cd3b5dc60b43",
-                "notes": "better if you have flying kick",
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "0e1f8d9b-5492-4bc2-acd2-bbab8c767f7d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "4d44f84b-e49d-410a-9614-185848639ac9",
-                "notes": "alt. to EYE OF THE SPIDER if you don't have enough",
-                "action": "optional",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "9efba342-54b1-4cd6-a80d-211dc6249ab8",
-                "notes": "alt. to EYE OF THE SPIDER if you don't have enough",
-                "action": "optional",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "f91dc54f-4f2a-4a81-8afd-094519eb51b5",
-                "notes": "alt. to EYE OF THE SPIDER if you REALLY don't have enough",
-                "action": "optional",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "86611379-8c8c-43d3-a599-5385ed64dfaf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "3a748435-4dce-4c95-939b-62fa637845c1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
-            },
-            {
-                "id": "c87b3fc5-fe32-4bbf-a0cf-5e8a98b3ae61",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
-            },
-            {
-                "id": "c380b1bc-e76f-4ceb-9d55-bbbe88184684",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "da332f37-2792-4579-80aa-45dca0a013bb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "fd07478c-144d-409c-869b-0e3a9ab6bd1b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "8bd423cc-4299-4087-a131-4775ca70967b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
-            },
-            {
-                "id": "dc2e321a-76fd-4528-bc46-adc47262ce5d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "f4753bac-06bf-4caf-a5cc-19b4e9237762",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
+                },
+                {
+                    "id": "58ba636e-0047-4571-acd1-74cf913a4bac",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
+                },
+                {
+                    "id": "d4b82db4-4f48-49de-b7ac-853d2d6772ce",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "b25fe784-3843-4755-928e-fa9f67ac7126",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "9de743e4-9453-493c-9fdc-63c156cb5122",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "d13f0650-bd11-4e89-ac52-cd3b5dc60b43",
+                    "notes": "better if you have flying kick",
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "0e1f8d9b-5492-4bc2-acd2-bbab8c767f7d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "4d44f84b-e49d-410a-9614-185848639ac9",
+                    "notes": "alt. to EYE OF THE SPIDER if you don't have enough",
+                    "action": "optional",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "9efba342-54b1-4cd6-a80d-211dc6249ab8",
+                    "notes": "alt. to EYE OF THE SPIDER if you don't have enough",
+                    "action": "optional",
+                    "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+                },
+                {
+                    "id": "f91dc54f-4f2a-4a81-8afd-094519eb51b5",
+                    "notes": "alt. to EYE OF THE SPIDER if you REALLY don't have enough",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "86611379-8c8c-43d3-a599-5385ed64dfaf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "3a748435-4dce-4c95-939b-62fa637845c1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "96d3b160-3c50-4768-90e4-c7005c98ce43"
+                },
+                {
+                    "id": "c87b3fc5-fe32-4bbf-a0cf-5e8a98b3ae61",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "559b91a0-840b-4027-b99c-c5e6b609ae7c"
+                },
+                {
+                    "id": "c380b1bc-e76f-4ceb-9d55-bbbe88184684",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "da332f37-2792-4579-80aa-45dca0a013bb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "fd07478c-144d-409c-869b-0e3a9ab6bd1b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "8bd423cc-4299-4087-a131-4775ca70967b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
+                },
+                {
+                    "id": "dc2e321a-76fd-4528-bc46-adc47262ce5d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                }
+            ]
+        }
+    ]
+}

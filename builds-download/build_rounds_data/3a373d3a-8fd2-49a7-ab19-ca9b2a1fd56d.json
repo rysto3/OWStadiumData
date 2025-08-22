@@ -1,561 +1,528 @@
-[
-    {
-        "id": "3a3f71c2-4836-488f-9b2b-3cbdbb5da027",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "[Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) adds a huge burst damage tool to Genji's kit that starts strong and scales very easily. Taking advantage of the fact that Blade scales off both WP and AP, we can stack [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) and [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) to maximize its power within the first round. Depending on how confident you are and how the hero matchups look, you can opt for the riskier [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250) or play it a bit safer with  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf). \n\n---\n\nAs with most other heroes, Genji largely plays the same as normal Overwatch in the first round, but the massively boosted offensive potential of deflect now makes securing kills far easier. I use the Iaido swing as a good closer to clean up consistent backline picks on supports.",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 254,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-18T18:05:46.081034+00:00",
+    "rounds": [
+        {
+            "id": "558705fb-8619-4680-8a7b-1acd6c02846f",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "[Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) adds a huge burst damage tool to Genji's kit that starts strong and scales very easily. Taking advantage of the fact that Blade scales off both WP and AP, [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) bumps its damage by 10% and getting both lifesteal items nets you a whopping 20% lifesteal on blade swings, healing up to 24hp per hit.\n\n---\n\nAs with most other heroes, Genji largely plays the same as normal Overwatch in the first round, but the massively boosted offensive potential of deflect now makes securing kills far easier. I use the Iaido swing as a good closer to clean up consistent backline picks on supports.",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 256,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 10,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "efa7d1f0-9353-4e6b-af22-07c4467821f9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "7901d239-72cf-4a00-83e5-68a07c5bf54c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "729195a5-e43a-496d-a236-175bff476704",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "8d026daa-36e8-41eb-ad4f-0f85de4dc80a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "15c914ad-86b5-42e5-9430-0ad33cacd2cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "eb413659-af21-4be8-ab38-065c9ceecb21",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "[Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) is just too good of an item for hybrid AP/WP builds. This is the biggest single item power spike for Iaido strike, offering a monstrous 20% buff to blade along with 30% lifesteal to make duels just that much easier to survive. $11000 should be obtainable even with the worst of round 1 performances, and depending on how much cash is available try to keep [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) and [Plasma Converter](item_25869f9a-9a29-4e19-96b6-9d8a28c59318).\n\n---\n\nI like to start engagements by just farming overheal with primary fire, and combined with the solid self heals, 1v1 or even 1v2 duels are even easier than before. Just be careful about throwing out Iaido too eagerly, deflect is still your primary defensive tool and the enemy should be getting settled into their own burst builds by now.",
+            "stats": {
+                "LIFE": 272,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 272,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 20,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "5803c6a3-c65a-49e4-87a0-102090176be9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "84d89817-0dcd-4bc1-8738-ac356cba1dcc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "199f1714-6a5f-40dc-ad13-774b9804ff94",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "80f27599-d739-448e-b2b6-3d44bac62718",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            }
-        ]
-    },
-    {
-        "id": "902f6ef3-9a88-457b-b7e1-b463ad8ce497",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "[Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) is just too good of an item for hybrid AP/WP builds. This is the biggest single item power spike for Iaido strike, offering a monstrous 20% buff to blade along with very respectable lifesteal numbers to make duels just that much easier to survive. $11000 should be obtainable even with the worst of round 1 performances, and depending on how much cash is left over you can choose from [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) or [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) just to bump up those numbers some more.\n\n---\n\nI like to start engagements by just farming overheal with primary fire, and combined with the solid self heals, 1v1 or even 1v2 duels are even easier than before. Just be careful about throwing out Iaido too eagerly, deflect is still your primary defensive tool and the enemy should be getting settled into their own burst builds by now.",
-        "stats": {
-            "LIFE": 272,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 272,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 20,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "62156d0e-10bd-4bb9-98d4-6ab2ffb10f53",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "4b3c21e0-8d24-40ab-984f-213424342280",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "330d5096-913a-46b7-8fe7-64cbac1662f1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "30181240-e8e1-425b-8523-4f157a323988",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "6d892827-cdca-42a8-b827-66f5121f04c4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "311f59aa-eeaf-44e3-b505-d0595d9a0c26",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "4dbf5d47-a9d5-4edc-af9c-0638cd1a5bfc",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "Since we'll be building AP anyway, [Laceration](item_ee831ad3-3921-4aca-a761-c6b93cc7e7fe) is just free damage waiting to be picked up. [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) is the next key item to add, at max stacks the 10% WP and 25% AP get you the largest straight damage boost on Iaido, essentially just Champion's Kit for 4k less. Try to add [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) if econ permits.\n\n---\n\nSuperflexor will get you a massive damage spike, now making your Iaido swings hit for 170 each as long as you land 5 shurikens (on any enemy, doesn't have to be the same one) beforehand. Fan, swift strike, fan, Iaido should result in a kill confirm on most squishies.",
+            "stats": {
+                "LIFE": 317,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 317,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 20,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "b78a7e69-11e9-404b-bc0f-faf90a1252c4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "42ecb33e-23ff-4e4b-914f-d01053fa7a02",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "17ca9201-388b-459a-9de8-586df87fa02b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "5af0ed51-a3e7-466a-8882-3b6b1c4bf113",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            }
-        ]
-    },
-    {
-        "id": "9070b42d-5b6d-42f0-ae47-2c0773ea9c85",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "Since we'll be building AP anyway, [Laceration](item_ee831ad3-3921-4aca-a761-c6b93cc7e7fe) is just free damage waiting to be picked up. [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) has great synergy with this power, offering boosted ult charge from swift strike and Iaido, but if you don't prefer playing for ult then [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) or  [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) can offer solid buffs to the playstyle you should be used to from previous rounds. Pad out the rest of your slots with whatever common items your econ will permit, making sure to prioritize [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418).\n\n---\n\nI like to optimize for ult charge and use it to help burn tanks quickly, taking advantage of the fact that blade should be a serious threat by this point. However, if you don't like playing with dragonblade, superflexor is a good way to buff Iaido even further. Gloomgauntlet is a strong 15% damage buff, but it only applies to dragonblade and quick melee so you won't be seeing any interplay from having picked up laceration this round.",
-        "stats": {
-            "LIFE": 292,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 292,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 35,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "a8c330be-bba4-45e4-bec8-8e5ea63191f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "f1e88c28-a5b4-4044-9578-d795718a7077",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "fe017d47-416b-46de-8a1c-6b3bdb6fb67e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "911fa237-788b-44ba-83a7-71d938a6817d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "c13d4541-9d93-453f-b866-3ea2fe795282",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "321e9229-7ba9-4a8b-a342-2a9c0afcf4f9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "56e2e9af-260e-488b-bdd1-730718eece64",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "You can stretch for [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) here if econ permits, but [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) plus [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) is a more affordable combo. Round 4 is where a lot of builds tend to peter out, try to just add on as many numbers as econ permits.\n\n---\n\nNo notes, your gameplay tempo should basically be set at this point. The rest of the build will just be pushing numbers up.",
+            "stats": {
+                "LIFE": 337,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 337,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "c7467b09-3429-4839-936c-bc7bda660b69",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "52aee9b1-708d-4f76-b712-4a523d2b5b4e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "d99a668d-00b8-434a-a5da-0f487b1789ff",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "3f748528-3ace-4a0d-af15-6f138bde6f0d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "74eae3b5-97c7-47f9-971b-62be6df22dfe",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "5ce074c4-7790-4ed0-abaa-f01f40241c85",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "4a968bef-39b7-4c7c-931a-b0d631ff6588",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "d82f0221-1bda-4ff9-accc-df2545553be3",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            }
-        ]
-    },
-    {
-        "id": "e10dc286-2b69-4c82-916d-be6bd398fa16",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "You should have [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) and  [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) by now. You could stretch for [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) if econ permits, but Superflexor is just cheaper and offers a nice 10% WP. If you absolutely despise the idea of building for ult, you could substitute Catalytic Crystal for [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) and [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e).\n\n---\n\nHaving superflexor in your kit will slightly change your tempo; while it was already good practice to do so, now you're really going to want to make sure you land at least a full alt fire before investing the rest of your cooldowns. Note that Dragonblade (and Iaido) both count as WP attacks, so just popping ult and hitting swings will keep your superflexor active.",
-        "stats": {
-            "LIFE": 337,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 337,
-            "Attack Speed": 0,
-            "Weapon Power": 20,
-            "Ability Power": 35,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "a196c90e-0d62-40cb-aa3b-e7cba1b5b7cb",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "b85969c2-aa3b-44ce-81d7-9a29e21fbe38",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "b5959970-75a0-435e-8cf0-7002e9b33cfb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "76273c25-b345-4a24-8d6c-a2825acf3fb4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "cecb7cca-872d-4839-a31f-84f49b64d501",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "eecdb422-8829-4744-8c6c-5757ff493c15",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "dd6ef746-8d27-4f13-90b2-af2a5bafc4db",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "0a54c04b-e78a-4fc7-8865-f67aa4eba62f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "138576e4-4699-4673-8c7f-fe1a29d7f213",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "be703865-9ebe-4614-97b9-4b5f9a4c1aa3",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "[Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) is essentially just an extension of [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b), further buffing swift strike and making assassinations that much easier. [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) adds 25 damage to Iaido which is an effective 22% damage boost, and also gives you some more burst damage on shurikens after a dash. This is a very flexible item, since it applies as ability damage you can combine it with [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) later for a healing reduction build or maximize your dash-fan combos with [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) in round 7. Try to have [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) and [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) if econ permits.\n\n---\n\nYour build should be pretty much complete by round 5, with only the finishing touches coming in 6 and 7. At this point we've more or less completed the AP side of the build, so your dash/Iaido setup should be incredibly lethal.",
+            "stats": {
+                "LIFE": 357,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 357,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "e223322f-d3a3-411c-af4b-ee483c1c6941",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "97d46b70-3c1e-4c0d-aa33-4b4d515cc89b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "02c842b3-7504-4c10-a01c-5c8cf9c65693",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "2ff20406-0a34-4bde-9370-f45fd7c5fdfb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "a7c7c449-d4da-46b4-83c3-494704f5b8ca",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "d1a73ea0-5d12-4c9b-ad8f-06deec01f842",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "f98ab993-e51d-4733-91ad-7eb03df32bcf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "e4d54a87-62c9-4549-8984-81cc7eb7a304",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
-            }
-        ]
-    },
-    {
-        "id": "ee01d354-e6f7-455a-b091-fdc50110269f",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "[Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) is essentially just an extension of [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) from the previous round, further buffing swift strike and making assassinations that much easier.  [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) gains two stacks from Iaido since deflect and blade are counted as two abilities, so it's actually a sneaky 20% WP buff, 25% if you use swift strike beforehand.\n\n---\n\nYour build should be pretty much complete by round 5, with only the finishing touches coming in 6 and 7. This setup hits the perfect sweetspot of about 50% WP and AP; Iaido seems to scale slower past these numbers.",
-        "stats": {
-            "LIFE": 369,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 369,
-            "Attack Speed": 0,
-            "Weapon Power": 30,
-            "Ability Power": 45,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "706dd0fe-c400-4ff6-b5f8-73e525f58ab2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "b3be10f1-180d-4e39-a303-973e012051fa",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "c58222a7-f935-4257-a2c4-764094924659",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "00e094f4-2f31-4e44-9a8e-a01dcdb8324c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "0ba4cd57-b664-4efb-a467-68acc153fa0e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "0d30d4ce-7699-4a7d-9b79-cf7af30c656c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "0af7acc0-602d-4331-bf94-971aa89dcc76",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "543cd479-1ade-4cbd-aaa3-b84092bbe19b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "a9e8eb28-99a0-4b65-a2f5-fc970c09737d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "497c0185-d84a-450c-8136-7c79aa64bae3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "e2243e3b-6595-4bad-80d6-2de2b02dc3a4",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "Pick up [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) and [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) to further push up those numbers into endgame. You could also swap [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) for [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b), but you typically won't be using Iaido on targets that low anyway so it tends to be less useful. \n\n---",
+            "stats": {
+                "LIFE": 377,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 377,
+                "Attack Speed": 0,
+                "Weapon Power": 35,
+                "Ability Power": 55,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "07aad645-eab1-41b9-9ef2-9c9c7cc3224e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "5861b63c-4361-4d17-a4a5-413ddb4dd46b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-            },
-            {
-                "id": "7411fe41-21ce-4ce4-8b86-b445bd409344",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "b25742c0-61c8-4675-a454-552e88e93aef",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "85d69c22-57bb-480a-9712-2ea87128696b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "a340a5e0-fbf3-4caf-9213-8f2018107d47",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "4fa985d4-105c-47e3-8b34-2afdb1516891",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "c2be8d1a-547e-4fc2-94e9-e19d31121128",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            }
-        ]
-    },
-    {
-        "id": "e17d965e-5e68-4d85-856b-48443ea8bfeb",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "Pick up [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) and [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) to further push up those numbers into endgame. You could also swap [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) for [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b), but you typically won't be using Iaido on targets that low anyway so it tends to be less useful. \n\n---",
-        "stats": {
-            "LIFE": 392,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 392,
-            "Attack Speed": 0,
-            "Weapon Power": 35,
-            "Ability Power": 70,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "3fd02f2c-7470-41ac-946e-bc09252f6535",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "f246977d-06c6-46bb-8693-fbb333c4ad22",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "72fd2a6f-b837-4b5f-b756-773e15d88a88",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "eb6f739b-2b56-4f06-b4d3-e9921626a8d9",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "fc33308e-e554-4287-966a-1c05419f928e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "2aff310e-7c6a-4fa6-bde6-407190c4c174",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "87548726-b425-4354-9627-d418ef28367f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "ee36677d-bea0-4b66-b387-b7f48cf77fc7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "ff45d777-62a6-4516-99a1-dd58f64dd10d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "aa034c53-c8e5-43a2-9390-61ebe54d4ac7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "e318c740-6195-41c7-bf97-90a608b6862b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "633d465e-3269-49cf-a2ad-919918c4d0cd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "74c59ff9-f5c6-4ff5-9115-fffea84592b9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "fe73779e-4bff-4e4a-8c30-d56badf06868",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+        {
+            "id": "bab06938-8829-42cd-9012-4706bbf07ebd",
+            "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-18T18:05:46.081034+00:00",
+            "notes": "There's a lot of flexibility with how you approach the final round. [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) will bring up your shurikens to a more respectable number for the endgame, but as for the rest of your selections it's largely played by ear. I usually replace [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) with [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) to maintain survivability and reclaiming some currency before picking up  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) and [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) to combat some of the insane healing output available in late game. If you have the currency, stretch for [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) or [The Closer](item_173c6d0f-dbe6-440e-924f-0ce08189ddce) to squeeze out a bit more damage.\n\n---\n\nBy this point the enemy is sure to expect your massive Iaido slugs so the more flighty characters like juno and mercy are quite challenging to lock down. Having heal reduction helps a ton here with securing kills, but if you're relying less on Iaido in general you could pivot to [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) and [The Closer](item_173c6d0f-dbe6-440e-924f-0ce08189ddce) for upped shuriken damage.",
+            "stats": {
+                "LIFE": 406,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 406,
+                "Attack Speed": 0,
+                "Weapon Power": 50,
+                "Ability Power": 55,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "82062f4c-e3d8-4f66-864c-25a82a6ed00f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "4a95c0c9-7ea2-4396-9445-dd7655edb124",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-            },
-            {
-                "id": "98c2ad0a-e48b-4004-98b9-4a5364c9c0a6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "e7644fc1-7353-4eee-b39a-e06dfeb9c8fb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "176f0863-864c-4075-a6cc-4f243c897ce8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "7b01ecb4-3112-4bb8-b32b-018505176c7e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "fa3cdd1b-6857-4491-9451-fd3f7a663564",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "bb16a5b7-ce6b-4c3a-950a-52a152ae1310",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "35e2916c-7658-4036-9510-28d5d1a802d0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "1c4f59fa-6e4f-47c7-9d70-b54d77b35e71",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "f9eba4fc-6886-4bff-801a-8f44d54f7480",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            }
-        ]
-    },
-    {
-        "id": "27650e99-ff4c-4519-a3ad-4e1e7c36598d",
-        "build_id": "3a373d3a-8fd2-49a7-ab19-ca9b2a1fd56d",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-06T09:42:25.915456+00:00",
-        "notes": "There's a lot of flexibility with how you approach the final round. [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) and [Hashimoto\u2019s Bane](item_03650ff3-917e-45fe-aeed-11c0f24c0eba) can open up another avenue for cleaning up close range kills besides Iaido, [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) or [Hanamura Healing](item_d210417d-1e30-4571-a4f3-cccd1dfc23ca) can offer great survivability depending on which cooldown you're relying on more at this point, even [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) could offer an interesting mid round power spike by just holding ult.\n\n---\n\nBy this point the enemy is sure to expect your massive Iaido slugs so the more flighty characters like juno and mercy are quite challenging to lock down. Hashimoto's bane and Eye of the Spider is my preferred option, but depending on the enemy's comp and build you could go for a tankier setup.",
-        "stats": {
-            "LIFE": 413,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 413,
-            "Attack Speed": 0,
-            "Weapon Power": 55,
-            "Ability Power": 60,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "71e2bba0-15bc-4e8f-9a72-191e5ccad4ed",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            },
-            {
-                "id": "29a27095-0afd-491e-a297-cdfd83ee5b6c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "48e9f9fb-a31f-4cbe-b1bc-4557f14430a8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-            },
-            {
-                "id": "909297b0-eda8-4074-a64c-84a88b83b37a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
-            },
-            {
-                "id": "910a065a-8734-4a80-9f7a-90380f72137e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "e78a261e-5264-4a70-ab9e-597221b5a68a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "84004988-02cb-40bb-a9f3-e19267dc62d2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "3630bd67-14a1-451f-9efe-e6fb2e7b7415",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "31cbf271-0aea-4e95-b263-d8936b938e48",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "cb069148-b9f3-4188-b480-35e7f002d914",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "a661abe9-0c28-4c92-b784-3c663daa8f62",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "f7f9dcda-9720-4ced-8cd0-87b3e3df5a72",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d210417d-1e30-4571-a4f3-cccd1dfc23ca"
-            },
-            {
-                "id": "0928eb7e-d18f-4828-98f5-993a82c3545f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
-            },
-            {
-                "id": "8af15ea1-9722-407a-bae3-28e200608557",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "2aff2d48-1cdc-4167-b336-4d0ef22e6d92",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "94199e4c-c01c-444b-9afd-3f3052bf7bd1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+                },
+                {
+                    "id": "cc428f8d-b606-422b-8c13-1702346276f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "7f8b5c86-b138-4c43-b8ba-5026444bb244",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "25fd20c6-981d-4f7c-bd93-971af7024d6d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "8d7a0ef4-8d81-42cb-895e-eee91c52c803",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "d299b581-580c-41c4-a689-d1658c7b2f5f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "edfa19a8-971a-4839-8296-9254d93aa527",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "6f52f23c-a77e-4808-adf1-676aa7b9e74c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "a8aeefdd-0285-4a5f-b70f-52cf6ee0f601",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "692cb2fc-06c5-4aa5-b761-9d8761f9e408",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "a40cf793-9e25-4b1c-b24a-b50ed6b11983",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "d7a75818-44ed-49a1-9625-fcb2df905a56",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "f51cbb06-7fdf-48d5-9773-f2313f84677d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                },
+                {
+                    "id": "4b09398a-c858-41c2-b859-54594dd286f7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                }
+            ]
+        }
+    ]
+}

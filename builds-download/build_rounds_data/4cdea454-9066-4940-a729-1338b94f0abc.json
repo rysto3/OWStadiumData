@@ -1,621 +1,600 @@
-[
-    {
-        "id": "a56b4977-8298-436a-b310-18f8eac9f47d",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "I will be dividing this build into two sections (dive/poke). Dive will be showed as purchased while poke will be the optional items (Except powers) , this is because its easier to play against poke since its just full damage. \nFor the first round  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) &  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) are a must since they are the best value first round.\nFor the third item it will depend which comp you're playing against, If its Dive you should pick  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) and if its ranged pick  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) as these increase the damage output of respective paths.\nAnd for the powers  [Incendiary Blast](item_2660993e-698c-4ea0-9a65-6b1fd02f38df) is for dive and  [Incendiary Rounds](item_0cff5b79-dd12-475a-aca1-24fd4e8b8491) is for poke.\nExtra:  [Incendiary Blast](item_2660993e-698c-4ea0-9a65-6b1fd02f38df) is a must if u play against genji, and  [Incendiary Rounds](item_0cff5b79-dd12-475a-aca1-24fd4e8b8491) could still be used if they only have a D.va.",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 282,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-01T09:58:52.474727+00:00",
+    "rounds": [
+        {
+            "id": "e8dc7b89-49ae-41a5-88d9-975f9a0d71b9",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "I will be dividing this build into two sections (dive/poke). Dive will be showed as purchased while poke will be the optional items (Except powers) , this is because its easier to play against poke since its just full damage. \nFor the first round  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) &  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) are a must since they are the best value first round.\nFor the third item it will depend which comp you're playing against, If its Dive you should pick  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) and if its poke pick  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) as these increase the damage output of respective paths.\nAnd for the powers  [Incendiary Blast](item_2660993e-698c-4ea0-9a65-6b1fd02f38df) is for dive and  [Incendiary Rounds](item_0cff5b79-dd12-475a-aca1-24fd4e8b8491) is for poke.\nExtra:  [Incendiary Blast](item_2660993e-698c-4ea0-9a65-6b1fd02f38df) is a must if u play against genji, and  [Incendiary Rounds](item_0cff5b79-dd12-475a-aca1-24fd4e8b8491) could still be used if they only have a D.va.",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 275,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "1fb36227-10e7-4293-9cc8-c51bad0da6ba",
+                    "notes": "extra dmg why not",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "d511f57a-e914-45b3-b765-473a0a44db51",
+                    "notes": "Its a must to survive there isnt anything more valuable first round than this",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "81112dca-b463-4589-8a22-7d1ceb483ffc",
+                    "notes": "Use this if you go for the anti dive build",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "89adb274-f17e-4c4d-b550-03196d06975c",
+                    "notes": "This is better if you play against ranged comp",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "99df1966-2714-4cbc-aea7-0d6f32a1fb8a",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "a93a5b37-95da-46f7-89f1-1861d4d58eff",
-                "notes": "extra dmg why not",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "2ab41271-b146-46bf-ab92-7f86121b1bb5",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 2 there's nothing special depending on the map if it has a lot of high ground (ex. Suravasa, clash maps, Ilios Ruins, Nepal Shrine, Red WoodDam, Gogadoro)  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) can be picked up or sold.",
+            "stats": {
+                "LIFE": 271,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 271,
+                "Attack Speed": 10,
+                "Weapon Power": 20,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "d3147153-684e-4644-8f8b-d241283638e7",
-                "notes": "Its a must to survive there isnt anything more valuable first round than this",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "737e21dd-077f-4c08-bb78-3117b4b060ce",
-                "notes": "Use this if you go for the anti dive build",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "d86c06d4-7c01-4d21-9a51-79aa16dcfca2",
-                "notes": "This is better if you play against ranged comp",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "39a6a630-3b3c-4098-9a05-e5697d3128f0",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            }
-        ]
-    },
-    {
-        "id": "ae85bd53-c383-4e92-9af5-31aa79f3d4b8",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 2 there's nothing special depending on the map if it has a lot of high ground (ex. Suravasa, clash maps, Ilios Ruins, Nepal Shrine, Red WoodDam, Gogadoro)  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) can be picked up or sold.",
-        "stats": {
-            "LIFE": 271,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 271,
-            "Attack Speed": 10,
-            "Weapon Power": 20,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "0e623830-d292-4722-9e21-b9eb3f66d910",
+                    "notes": "you could prioritize this over other dmg items if you struggle surviving",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "37e951b9-fcd6-43ea-848a-f44beaa69a83",
+                    "notes": "If you have more money you should go for this second (2)",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "e8148258-b891-49ea-94c2-eabdbf60d37b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "1e41d0a7-5e8f-4eb4-ac3c-d5701680a88d",
+                    "notes": "Depending on the map if it has a lot of high ground or not (ex. Suravasa, clash maps, Ilios Ruins, Nepal Shrine, Red WoodDam, Gogadoro) can be picked and sold depending on the maps. PRIORITIZE THIS IF U HAVE TOO MUCH MONEY AND ITS THE RIGHT MAP. can be even be replaced by Aftermarket Firing Pin (atk spd)",
+                    "action": "optional",
+                    "upgrade_id": "6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b"
+                },
+                {
+                    "id": "702c9867-b2f7-46e7-95c6-0dab5efa7d72",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "d4c31dea-ac97-43b6-b943-c59d08d53256",
+                    "notes": "if u have more money you can get this first (1)",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "89ced068-1263-43f7-a874-d2aadc4208cf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "656925c3-a1b4-4977-bcd8-c3f1db5c2929",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "a62e6a07-6129-4f7b-9707-6aac1bd22861",
-                "notes": "you could prioritize this over other dmg items if you struggle surviving",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "bd46d48d-5911-4c92-a324-2225db1299fa",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 3 the enemy will fear you and will put more money into survivability and they will most likely go with armor or shield, using  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) you will shred through them with consistent shots, If you don't see any signs of survivability in their builds Replacing [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) with [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) might be the better choice.",
+            "stats": {
+                "LIFE": 300,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 300,
+                "Attack Speed": 0,
+                "Weapon Power": 50,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "f9c5287b-843e-4c56-907b-73d799086dbe",
-                "notes": "If you have more money you should go for this second (2)",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "93546d3c-f8fb-4199-863b-30e5ed1724df",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "57d97323-d832-40b2-b3e0-dc2299da5796",
-                "notes": "Depending on the map if it has a lot of high ground or not (ex. Suravasa, clash maps, Ilios Ruins, Nepal Shrine, Red WoodDam, Gogadoro) can be picked and sold depending on the maps. PRIORITIZE THIS IF U HAVE TOO MUCH MONEY AND ITS THE RIGHT MAP. can be even be replaced by Aftermarket Firing Pin (atk spd)",
-                "action": "optional",
-                "upgrade_id": "6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b"
-            },
-            {
-                "id": "3dcf1db9-60fc-441f-93e9-0d7eac216f49",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "64fe1880-0d4c-480b-bcf5-8861824ac003",
-                "notes": "if u have more money you can get this first (1)",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "18341261-75f4-4de7-8695-c57397f29e91",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "5ac4fd37-25a1-4c4a-adb9-570aa90eee8e",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            }
-        ]
-    },
-    {
-        "id": "13379a26-0666-4507-8467-d8ca1a822fa6",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 3 the enemy will fear you and will put more money into survivability and they will most likely go with armor, using  [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) will still make you deal a lot of damage countering their play, If you don't see any signs of survivability in their builds Replacing  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) &  [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) with  [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) might be the better choice.",
-        "stats": {
-            "LIFE": 298,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 298,
-            "Attack Speed": 10,
-            "Weapon Power": 40,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "0ef9661e-cf31-4202-9077-56662978006e",
+                    "notes": "This item should be prioritized second (2) as 5% is not a big increase when you already have 2 shot potential",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "52f2bff8-934b-4c6a-b2f8-923a2eec51e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "ab87bde3-a7d7-4ac9-a78a-471d65cff859",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "9b084a00-886d-4748-acfb-59f1d93d1b7e",
+                    "notes": "This item should be prioritized first (1) as it makes your bullet timings a lot faster and easier to secure kills combined with Aftermarket Firing Pin",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "4f29f65f-f5ce-4af9-b330-b23259cfc482",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "ab76f754-7be0-4936-95f1-4ea11581b0ab",
+                    "notes": "can replace Icy coolant if high ground map",
+                    "action": "optional",
+                    "upgrade_id": "6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b"
+                },
+                {
+                    "id": "d4814a13-1dd6-46c5-8dbd-ed0284350279",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "a96f923e-d9bc-4b13-8f03-168681e1abcd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "96c17376-b191-497d-ab8f-ef38d82951ed",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "b96db5d6-de63-4d4d-9fc5-ea1be7ad7beb",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                },
+                {
+                    "id": "af53bcd1-5aab-40b0-8a9b-9da0e60ddfef",
+                    "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
+                    "action": "buy",
+                    "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e4536007-4d3a-447d-9e41-9216ceb9693c",
-                "notes": "This item should be prioritized second (2) as 5% is not a big increase when you already have 2 shot potential",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "90753f7e-3150-4098-8439-bfac3b7a1ec5",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 4 depending on map high ground/not , you can either go [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) +  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) for the non high ground or  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) +  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) for high ground maps which would provide you more dmg and easier to secure kills.",
+            "stats": {
+                "LIFE": 327,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 327,
+                "Attack Speed": 0,
+                "Weapon Power": 65,
+                "Ability Power": 0,
+                "Critical Damage": 10,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "794ee76c-6d40-4067-b4d3-60b47da655e2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "9b77ad14-749b-4218-a925-d4de8b12d433",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "74091c96-63f7-4346-9c04-12703b1858bd",
-                "notes": "Even if they don't have armor its still great for the 15% dmg",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "ae3cc78e-2888-46d1-9d99-87151e7b1c85",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "eb0e9a51-ae5a-4ac6-9a82-ca1f292567a5",
-                "notes": "This item should be prioritized first (1) as it makes your bullet timings a lot faster and easier to secure kills combined with Aftermarket Firing Pin",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "941f1c0f-fbbc-4cd6-b343-988bb11ccea6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "383fb316-0b1d-4537-a00f-6e4212b800e2",
-                "notes": "Could be a replacer for Codebreaker & Aftermarket Firing Pin if none of them is running armor, could be insanely strong against a mercy & juno comp.",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "afa7852c-33b9-4890-9338-f47330506af2",
-                "notes": "can replace Icy coolant if high ground map",
-                "action": "optional",
-                "upgrade_id": "6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b"
-            },
-            {
-                "id": "129d60e7-d93f-4ef4-9e58-809dfaec576b",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            },
-            {
-                "id": "baa7fc3c-ee83-4451-b724-c5dc8c6a0ee0",
-                "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
-                "action": "buy",
-                "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
-            }
-        ]
-    },
-    {
-        "id": "cdb8c1f5-645a-44b5-bf88-42fe1e81571d",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 4 depending on map high ground/not , you can either go [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) +  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) for the non high ground or  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) +  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) for high ground maps which would provide you more dmg and easier to secure kills.",
-        "stats": {
-            "LIFE": 323,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 323,
-            "Attack Speed": 5,
-            "Weapon Power": 70,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "8e6b8b4d-3a30-4554-88ca-27025360c40d",
+                    "notes": "This item should be prioritized second (2) as 5% is not a big increase when you already have 2 shot potential",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "b998a6ff-c246-4a68-933c-911551d2e1ae",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "e3614603-7699-4de0-9179-75996ff7a8ef",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "1bc31b8d-bcc0-436d-8836-70d1f11071c9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "5364eb38-2093-4de6-a09f-ecda38b48acb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "045051a4-b603-45d6-9c12-f516ab856354",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                },
+                {
+                    "id": "87108d95-c116-40b5-87a8-373de4cc8689",
+                    "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
+                    "action": "buy",
+                    "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d401039b-ef9a-47d8-a2e5-44610efee085",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+        {
+            "id": "f3077770-72ab-4d50-a5ed-2af155a53eb3",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 5 everyone has a lot of damage and supports might not pay attention to you that much. getting  [Reload Therapy](item_1d85105f-1ec7-4ec7-a56d-f273c09f4b3e) is great for self sustain and will make you basically unkillable while killing everyone.",
+            "stats": {
+                "LIFE": 349,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 349,
+                "Attack Speed": 0,
+                "Weapon Power": 70,
+                "Ability Power": 15,
+                "Critical Damage": 10,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "1decc405-d85f-4616-b4b1-c48f2d521589",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "a31d645d-8027-4904-b4ac-a0aab05a49c9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "2e75a956-031c-4a51-88e8-b4122c946e85",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "66db40d3-27c6-49b3-9735-c981cc7f4db5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "02f1f200-d365-425c-bbe3-d74ab4bf63af",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "b83e7dc8-1d13-4ed6-a31e-6a7819d80f28",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "49598744-8c6a-47e4-b69c-0f483fbb26e2",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            },
-            {
-                "id": "010b2c81-db08-4851-832b-016622de5622",
-                "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
-                "action": "buy",
-                "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
-            }
-        ]
-    },
-    {
-        "id": "d731cc02-fa69-46d8-885c-53b2247cf447",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 5 everyone has a lot of damage and supports might not pay attention to you that much. getting  [Reload Therapy](item_1d85105f-1ec7-4ec7-a56d-f273c09f4b3e) is great for self sustain and will make you basically unkillable while killing everyone.",
-        "stats": {
-            "LIFE": 344,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 344,
-            "Attack Speed": 10,
-            "Weapon Power": 75,
-            "Ability Power": 0,
-            "Critical Damage": 10,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "730d20a2-6adb-463a-9ce1-0b4977539d09",
+                    "notes": "useful paired with Infrared Lenses",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "83102caf-2e57-4e85-b1f8-1062d960ec17",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "f5bad708-7db2-496c-bb34-86e1411af174",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "3c4e1f17-cfc6-4e0f-9490-81867db81202",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "81dcda86-6b0a-47dc-b230-c66fc94b0211",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "f1ec93d9-0344-4f7e-82d5-6cc2a3936718",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
+                },
+                {
+                    "id": "9e212274-e135-49c6-a493-f75aee2c6110",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "709b63c3-64d6-49c1-be88-ac032c9050c2",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                },
+                {
+                    "id": "9b523ebc-9e11-4303-82b9-814a14619123",
+                    "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
+                    "action": "buy",
+                    "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
+                },
+                {
+                    "id": "a40e5ef1-4049-46df-b1a1-10a91e867e77",
+                    "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
+                    "action": "buy",
+                    "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "41d8dd11-b566-4e7b-b7d2-cbfa7ca6be87",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+        {
+            "id": "e236c915-dda6-41bb-a5ae-7acd5a2fbb0c",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 6 should be focused around killing people as fast as possible so prioritizing attack speed should be a no brainer. Though if its a high ground map prioritize  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) over  [Aerial Distresser](item_0fcb9020-c729-49b9-b398-3223797b6204).\n [Aerial Distresser](item_0fcb9020-c729-49b9-b398-3223797b6204) &  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) can be replaced with any of the optional items",
+            "stats": {
+                "LIFE": 365,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 390,
+                "Attack Speed": 10,
+                "Weapon Power": 65,
+                "Ability Power": 15,
+                "Critical Damage": 10,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "ec842994-26a1-477a-9bf1-c580f13b3d81",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "0d510901-456a-4090-a50b-7aa339805459",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "31dcfebb-9f36-4b91-98bb-3e6579a56994",
-                "notes": "can be used against a genji very well",
-                "action": "optional",
-                "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
-            },
-            {
-                "id": "6f8a5c9c-8d32-40ee-858c-ef3e4e67eec6",
-                "notes": "useful paired with Infrared Lenses",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "753fa9f4-863c-415b-a4f9-8bb36379c5cf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
-            },
-            {
-                "id": "16320caf-2410-4b7f-b4ae-9aab4002cf0e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "56f7588e-aef6-48d2-a9ce-2f4dd37cb072",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "56a0a506-9807-4f9f-84a1-ab9eb1c1f4a8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "55705775-e86f-4bae-83d9-b0f700cff189",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "a7eec3fb-748d-4b69-b7a4-452590013d1a",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            },
-            {
-                "id": "f158f053-faf7-4c27-87d4-86ef456ab02c",
-                "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
-                "action": "buy",
-                "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
-            },
-            {
-                "id": "d70e1827-42ba-4d6b-899b-76dc37f6ee95",
-                "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
-                "action": "buy",
-                "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
-            }
-        ]
-    },
-    {
-        "id": "3e452f5d-c47c-4065-9701-600d355723b2",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 6 should be focused around killing people as fast as possible so prioritizing attack speed should be a no brainer. Though if its a high ground map prioritize  [Tripod](item_6fe6f8a3-e4ef-4333-b802-6f43c65ddd8b) over  [Aerial Distresser](item_0fcb9020-c729-49b9-b398-3223797b6204).\n [Aerial Distresser](item_0fcb9020-c729-49b9-b398-3223797b6204) &  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) can be replaced with any of the optional items",
-        "stats": {
-            "LIFE": 377,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 402,
-            "Attack Speed": 30,
-            "Weapon Power": 75,
-            "Ability Power": 0,
-            "Critical Damage": 10,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1562a8a5-ae6e-407a-8805-9d40dae7435d",
+                    "notes": "VERY SITUATIONAL (only on Ilios)",
+                    "action": "optional",
+                    "upgrade_id": "a6238751-a22b-41d1-b197-38b895df1e62"
+                },
+                {
+                    "id": "5b9e6986-6220-42d6-8931-965f5b7d61f2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
+                },
+                {
+                    "id": "f0887aaa-bbae-4c53-bddf-e7381f9e44be",
+                    "notes": "if genji bothers you (if you're broke",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "2e5e1e57-fab7-437e-a683-7583caf84631",
+                    "notes": "If genji bothers you (and u have alot of money)",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "ecb9bd9e-242b-4f50-8e13-d93e403824d4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "94e34ed6-035c-4f41-8568-0917ae29b73f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "4f54c1f4-6243-468c-842e-98423cf48857",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "f8082252-8587-4ad6-87b3-d931ef85ce23",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "6073ed81-4e98-4a19-8f76-28fbce0ca5bd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
+                },
+                {
+                    "id": "1ffc0ac4-736c-49d2-a406-618a6fa1adad",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "7fc326b8-e911-4757-bdbd-d68ced6411e2",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                },
+                {
+                    "id": "439bcb3a-6011-4170-a680-ee187921e19b",
+                    "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
+                    "action": "buy",
+                    "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
+                },
+                {
+                    "id": "a672f60a-0e7b-4dad-b5cc-2dc7e57cdda6",
+                    "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
+                    "action": "buy",
+                    "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "81301998-ce28-4f85-ab01-340ea1780d3b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+        {
+            "id": "284a5d69-ee84-45ae-bf53-82749b4173a2",
+            "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-01T09:58:52.474727+00:00",
+            "notes": "Round 7 yea idk. If ur in round 7 with this build u kinda suck.",
+            "stats": {
+                "LIFE": 375,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 400,
+                "Attack Speed": 0,
+                "Weapon Power": 70,
+                "Ability Power": 25,
+                "Critical Damage": 10,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "c3c7c485-23e0-4ae0-97b9-67e4c2686af3",
-                "notes": "VERY SITUATIONAL (only on Ilios)",
-                "action": "optional",
-                "upgrade_id": "a6238751-a22b-41d1-b197-38b895df1e62"
-            },
-            {
-                "id": "dfebbe42-430f-41e7-8b84-7ebe2662545e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "9c567c59-5ea4-4419-8d46-f7bed191a593",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
-            },
-            {
-                "id": "4eaf37b8-d3bd-4238-96d9-9252abf532fc",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "509faea5-d953-43d2-9c4e-ad6845ff9037",
-                "notes": "if genji bothers you (if you're broke",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "4d84ab9b-0085-494b-8273-92ebb6c12955",
-                "notes": "If genji bothers you (and u have alot of money)",
-                "action": "optional",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "e20b216f-983c-43c2-8fde-de01e62738a0",
-                "notes": "can be paired with ability power if genji really bothers you",
-                "action": "optional",
-                "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
-            },
-            {
-                "id": "c6a8c682-6741-4310-8f5a-d687ad90ae4a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
-            },
-            {
-                "id": "87071623-0e4e-45fb-8a48-afc2308a33cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "ceb1ab02-a864-4f2e-b7d8-0605fbec9334",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "30949ba6-536d-43b2-895b-d0a35bea1186",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "f99135e7-cf57-4a7b-88fb-bd34d89138cd",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            },
-            {
-                "id": "68d634fc-899b-42be-99b1-5835aa6ee5a6",
-                "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
-                "action": "buy",
-                "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
-            },
-            {
-                "id": "42e52176-53de-49dd-a840-079d4b24079d",
-                "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
-                "action": "buy",
-                "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
-            }
-        ]
-    },
-    {
-        "id": "14191c92-ac4a-4318-860d-d518f8f675cf",
-        "build_id": "4cdea454-9066-4940-a729-1338b94f0abc",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-29T18:29:38.873097+00:00",
-        "notes": "Round 7 yea idk. If ur in round 7 with this build u kinda suck.",
-        "stats": {
-            "LIFE": 387,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 387,
-            "Attack Speed": 20,
-            "Weapon Power": 70,
-            "Ability Power": 25,
-            "Critical Damage": 10,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "3004825c-c69e-44d1-80b0-6c6c967478cd",
-                "notes": "Can be used to replace Head Honcho if you have a hyper aggressive Genji after you",
-                "action": "optional",
-                "upgrade_id": "962b847f-140d-41a4-9bac-ddcdb088951e"
-            },
-            {
-                "id": "099f1151-281c-48e7-b493-da80145c76fd",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "1ff3255d-6b7f-4cc6-8181-59a4b48f512d",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
-            },
-            {
-                "id": "1778f1b2-5f9c-4efb-b1b4-f78eb0bd4624",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
-            },
-            {
-                "id": "2038799b-6c97-4cea-84e1-0f3fe32f5193",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "ec4be18b-f38e-4276-81e3-d299fd790f4f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "80381a5d-aab4-4450-b552-3aa6af60733d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
-            },
-            {
-                "id": "30e46744-9f93-4dde-a36d-018cb7717c38",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "7c3697a0-2587-406a-bea1-c4261bb101ff",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "f2a6006e-6be2-40b8-93f9-da10e5e7c164",
-                "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
-                "action": "buy",
-                "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
-            },
-            {
-                "id": "fcc19053-ff8d-4e6e-a59f-77e9005c5563",
-                "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
-                "action": "buy",
-                "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
-            },
-            {
-                "id": "571350b4-b1cb-4b94-9eaa-6aebe0d5d200",
-                "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
-                "action": "buy",
-                "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
-            },
-            {
-                "id": "428fd19c-bd06-45c2-83c6-88923ce0e923",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbd85437-5add-424c-83e7-309a7ff7f447"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "143116c7-3f42-48bd-a32a-b34bddc49d2e",
+                    "notes": "Can be used to replace Head Honcho if you have a hyper aggressive Genji after you",
+                    "action": "optional",
+                    "upgrade_id": "962b847f-140d-41a4-9bac-ddcdb088951e"
+                },
+                {
+                    "id": "2dd338b9-964f-479a-816b-3f466b537687",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "ecdacc9e-5d4c-4eb1-9137-290aec333b25",
+                    "notes": "if mercy or juno",
+                    "action": "optional",
+                    "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
+                },
+                {
+                    "id": "7683350d-589f-478e-9327-18d36911869d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "1f5bace9-40d5-4dbb-b743-f7bdc2232d06",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
+                },
+                {
+                    "id": "9f7e62a2-ca6b-4548-99a6-7ff0eda5904d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "649fa9c1-a733-444c-9f3c-dfbd385f5446",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "ed9eeadf-9b52-4b9c-adfd-984269cedc85",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f19df350-745e-4e97-a495-8036b0be1262"
+                },
+                {
+                    "id": "55697008-bee0-4ee1-a074-1b379aae0a87",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "6026800d-ae08-46e7-8da3-131da44f0925",
+                    "notes": "can replace shieldbuster if they dont have any shield/armor",
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "4953c56d-a8a6-49e7-b02f-5107c55b0a6c",
+                    "notes": "if u prefer more weapon power over attack speed",
+                    "action": "optional",
+                    "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+                },
+                {
+                    "id": "72f8d7bc-14e2-495e-acf9-d9f2a11f71be",
+                    "notes": "if genji bothers you",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "30dcdb29-acff-4177-8783-19218e90d269",
+                    "notes": "you dynamite someone that is about to engage and coach gun left click to deal alot of damage",
+                    "action": "buy",
+                    "upgrade_id": "2660993e-698c-4ea0-9a65-6b1fd02f38df"
+                },
+                {
+                    "id": "27ea44ca-7040-4fb0-aec5-39754f9fff45",
+                    "notes": "If you can try not to do panic shots or waste shots as this could be a 1 shot headshot potential to most targets even after they full heal. The damage carries over indefinitely till you miss a shot or hit an unscoped shot.",
+                    "action": "buy",
+                    "upgrade_id": "0cff5b79-dd12-475a-aca1-24fd4e8b8491"
+                },
+                {
+                    "id": "6191be00-70e3-42ab-b632-ebc2317c7951",
+                    "notes": "make sure to spam left click as it is faster to unload bullets to reload and heal",
+                    "action": "buy",
+                    "upgrade_id": "1d85105f-1ec7-4ec7-a56d-f273c09f4b3e"
+                },
+                {
+                    "id": "524d7632-498b-4a7c-a852-18ede588db41",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbd85437-5add-424c-83e7-309a7ff7f447"
+                }
+            ]
+        }
+    ]
+}

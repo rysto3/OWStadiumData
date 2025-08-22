@@ -1,687 +1,702 @@
-[
-    {
-        "id": "5e2a8bab-82da-4c2a-a278-e0c64a8cee01",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "[No Scope Needed](item_823db5eb-5a24-4bac-b850-0aa34e76b4f6) makes it possible to do a lot of healing or damage to tanks, or anyone, quickly, as with the item you'll be getting round 2 you won't need to pretty much ever scope in. \nIf you're confident enough you can get headshots, or don't think you'll need the extra healing output the other power gives you, then [Pinpoint Prescription](item_5cfa07d8-7b5d-42df-a9a8-c6a580acb8bc) is another good option, but I've found [No Scope Needed](item_823db5eb-5a24-4bac-b850-0aa34e76b4f6) to be more consistently useful. \n\nNo WP or AS items this round, but a bit of armor and extra speed instead.",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 281,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-27T04:15:51.099217+00:00",
+    "rounds": [
+        {
+            "id": "fbaca112-3b19-4253-ac23-e30210614f6c",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "[No Scope Needed](item_823db5eb-5a24-4bac-b850-0aa34e76b4f6) makes it possible to do a lot of healing or damage to tanks, or anyone, quickly, as with the item you'll be getting round 2 you won't need scope in much at all. \nI've tried multiple other powers as round 1 options, but this is the one I've had the most consistent success with. \n(TO NOTE: the description says \"landing unscoped shots\" but this doesn't include shields, and possibly barriers in general. Shooting at a shield won't increase your AS and will reset your bonus if you don't do direct healing/dps within the 2s window)\n\nI don't tend to go WP or AS items round 1, but you can if you want to. I mostly take [Heartbeat Sensor](item_2a4ffaf4-f14b-47d2-a267-0a0e83e87418) for the movement boost. It's small, but helps your mobility.\n\n(As a little reminder: any time [well, up to 15 times] you can get an enemy affected by sleep, even if they're immediately woken up, will be useful for you in round 5. Don't always use it on cooldown to the point you never have it, but getting some in when/where you can is good)",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 281,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "6bbbd449-6f09-4da9-8b69-8cd8f2dbe32b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+                },
+                {
+                    "id": "2ef2cada-5ee5-45aa-8a64-31e4e3ad971d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "59f4a684-775d-4941-9234-9be9a982ad77",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "9b243a6d-bf31-4f93-b3d9-4c3073877418",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "89ec8fab-151e-4956-9636-6b968cbba252",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "f840e013-d4e3-4d2e-814e-eeb1a17cf20c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+        {
+            "id": "450a694b-c8fb-4ffb-9cef-5bd1e0981cfd",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "If you have at least 13k, then replace the green items with one of the blue optional ones. \n\nAs a note, it seems more people are starting to realize that [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f) is especially good against an [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54) with a burn build, but a lesser-known one is that [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03) is effective against a melee [Genji](hero_31fd201d-2f46-41e4-b125-9fa9e55fed46) who's taken [Ambusher Optics](item_742c3c71-17cd-4fa7-bf18-ddeae7d521ca).\nGood items to consider taking on a per-game basis if those are the heroes/builds you're facing.",
+            "stats": {
+                "LIFE": 273,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 298,
+                "Attack Speed": 0,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "071ac4db-b26f-4e78-bdb5-7464a57bb89c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "31f52e45-2160-4a6f-8910-bce7936a522d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5cfa07d8-7b5d-42df-a9a8-c6a580acb8bc"
-            },
-            {
-                "id": "358fb5ba-7afa-49c7-a052-1292d6e123a6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            }
-        ]
-    },
-    {
-        "id": "f15a86e4-b1f0-4390-9031-437704df7202",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "If you have at least 13k, then replace the green items with one of the blue optional ones.",
-        "stats": {
-            "LIFE": 274,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 15,
-            "Total LIFE": 299,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "39327762-65c2-4133-bac4-fc0f3c1347ff",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "4a37a09e-8387-4c13-b5e4-e88b2fd949cd",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "e8d7a1bf-9ace-46ac-91b9-7c9f760e59ff",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "4109e49b-cd8e-46e2-9a63-c98ff2067b58",
+                    "notes": "this is good if you're struggling against an ashe burning you",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "c100ad0b-2a85-461e-9945-64fcc3b69757",
+                    "notes": "this is good specifically against the melee genji build",
+                    "action": "optional",
+                    "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+                },
+                {
+                    "id": "093493ce-0d8a-4bc4-99ad-42f41230fc5b",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+                },
+                {
+                    "id": "0b031095-dbdf-46d6-92be-45b1f434f90b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "5d6e4d0c-0cd2-4032-8db2-12e685f75572",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "4c02b569-5e04-4587-a0ae-e2b1b75ab130",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "4792d27a-931d-448e-812d-926a1df6e183",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "6e70dde2-416b-4dec-a83d-2257b030e749",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+        {
+            "id": "807a04f4-9ac3-4e8c-abcb-48d0463f7b9b",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "Lots of yap this round's notes sorry anyone reading these LOL\n\n[Home Remedy](item_de68ba66-26d5-4136-a0c1-6396d3f1b0c7) is such an underrated power, IMO. Making any ally (including yourself!) affected by nade get not only the usual boosted healing, but additional overhealth on top of that is *not* to be underestimated.\nThis either can give you enough time to heal your critical tank currently frontlining back to full HP while being focused, or can help YOU win 1v1s way more than you'd think. Fighting someone but you're low or about to take a bunch of burst? Nade the floor next to both of you and now you can be healed easier, have a bunch of extra HP, and whoever you're fighting no longer can get any healing. It's a very powerful tool.\n\nIf I can, I like getting [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) (see section below) pretty early on, but some games I find focusing a bit of WP and survivability this round is better, and others I try to get [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) ASAP instead. It all sorta depends on the game - if your team groups up a lot or brawls with the enemies close together, then [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) could be the way to go. If *you're* getting dove more often, then [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) gives you better long-term survivability. Heck, if you find that you can't keep your tank alive sometimes in fights because you run out of ammo as they take consistent damage, then getting [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) early on might be better for you. \n\nAlso, to be clearer on the blue survival items; I'll more often go for [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016), but if you have a tank with a lot of armor and thus the enemies might grab/the opponents are in general more likely to take [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27), I'll lean more towards [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)\n\n[Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is an item listed under Ability, but really, it's a confused Survival item if you ask me. Even if you don't care for AP, (and it only does so much for our build here), giving you 50 extra *armor* and the ability to regen 25 armor/s every time you use an ability is absolutely amazing. \nThis is one reason why we never, ever sell [Dash Boots](item_1ec670c7-a465-4ca0-9d16-aeeedab7894e). Normally, Ana's really long cooldowns would make [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) not that great of an item, but with another ability on a 3s cooldown, this goes from \"eh\" to \"great\", and puts your survivability way up.",
+            "stats": {
+                "LIFE": 189,
+                "Armor": 135,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 324,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "0c461f56-7485-406c-844e-78b52cfb7a0b",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "a0e543c9-a9d1-419d-b6d6-49de420df424",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "6386615e-3446-49bb-9b88-c81122a7f413",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "dbd1ef3b-22ac-4add-b735-c8088a8189d2",
-                "notes": "this is good if you're struggling against an ashe burning you",
-                "action": "optional",
-                "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
-            },
-            {
-                "id": "81d4dd1f-3235-4e51-8d9b-8c6cd7e289e5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
-            },
-            {
-                "id": "4ac98b36-7f73-4d27-8c13-c9e8b9c00f05",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "b7ccb0ce-af60-444b-bf85-38f9d87db1fe",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            }
-        ]
-    },
-    {
-        "id": "f7716194-cca3-4c80-9698-25270824bfbd",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "[Home Remedy](item_de68ba66-26d5-4136-a0c1-6396d3f1b0c7) is such an underrated power, IMO. Making any ally (including yourself!) affected by nade not only the usual boosted healing, but an addition 170+ (with our current AP) overhealth on top of that is *not* to be underestimated.\nThis either can give you enough time to heal your critical tank currently frontlining back to full HP while being focused, but also can help YOU win 1v1s way more than you'd think. Fighting someone but you're low or about to take a bunch of burst? Nade the floor next to both of you and now you can be healed easier, have a bunch of extra HP, and whoever you're fighting no longer can get any healing. It's a very powerful tool.\n\n [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is a must-pick ASAP, if can't afford anything aside from the CORE listed items, then go with that.\nLFD is an item listed under Ability, but really, it's a confused Survival item if you ask me. Even if you don't care for AP, (and it only does so much for our build here), giving you 50 extra *armor* and the ability to regen essentially 25 hp/s every time you use an ability is absolutely amazing. \nThis is why we never, ever sell [Dash Boots](item_1ec670c7-a465-4ca0-9d16-aeeedab7894e). Normally, Ana's really long cooldowns would make [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) not that great of an item, but with another ability on a 3s cooldown, this goes from \"eh\" to \"great\", and puts your survivability way up.",
-        "stats": {
-            "LIFE": 293,
-            "Armor": 75,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 368,
-            "Attack Speed": 0,
-            "Weapon Power": 15,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "ff7f9033-6893-4965-a0c9-9e7e082fdd1a",
+                    "notes": "take this over VITAL-E-TEE if the enemy takes CODEBREAKER",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "f6bddf0e-f6a2-4233-901b-68e85edda75b",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "f0c63e96-6567-41a1-8c21-34d20f71f4c4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "a566f15c-8342-4dc1-af89-6cca0c3cdc8e",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "6336b688-62d6-48e6-86ac-496e3859e9e7",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "a8ba0778-3c77-47bd-a29d-d4ab7ffc026a",
+                    "notes": "decent alternative if you don't have the cash for QUICK SCOPE (or want more movement speed)",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "da386297-73ee-4c3c-9663-e91726bc8500",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
+                },
+                {
+                    "id": "0294bbc8-a15c-4c96-9092-b4ca1669b1e9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "47afb5ec-b389-42b4-b101-b512ad02d149",
+                    "notes": "better for longer survivability",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "7b27f7ae-cadb-4612-b009-81ffa11a4e40",
+                    "notes": "better if you find your nade coming in clutch (and/or if your team groups up more)",
+                    "action": "optional",
+                    "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+                },
+                {
+                    "id": "4174c833-f79c-4749-9c96-a1954de3eab2",
+                    "notes": "better if you find yourself running out of ammo trying to heal during fights",
+                    "action": "optional",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "02c254fd-bdb5-428f-bbdd-dd655bedf397",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "49335651-8586-49ab-bb7f-bb5b8b252500",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1202a4fb-6f85-48c9-b5ba-64c175177d25",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+        {
+            "id": "7787d5cd-9468-4a00-9690-f37a02bb1c4f",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "Personally, I'd prioritize getting [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) in most games, because it really helps to reduce your nade cooldown, and your nade can be a fight-winning ability - or at least make it so the enemy feels like your team never dies. However, you will probably have to sack at least a little WP, especially if you don't have 30k, OR some survivability, though you can exchange [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) for both [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) and [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) if you really need to - it won't quite provide the same benefits, but it's close.\n\nAll* of the optional items are good items to take, though it may not be super likely you're able to fit them into your build. \n*The ONE exception is [Target Tracker](item_450e11f9-34b6-40c6-b810-0a9ad6c7a093), which I only take if I also have [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb), as I mostly just choose that item for the extended nade duration.\n\nOccasionally, I might take [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) this round instead of [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb), but it's uncommon as I find CC more generally helpful and UR costs more.",
+            "stats": {
+                "LIFE": 310,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 360,
+                "Attack Speed": 0,
+                "Weapon Power": 15,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "a935f6b1-36b1-4122-b3e7-a439892a75e8",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "e3b0af8f-fadd-47f7-b1b0-320bb1582ca9",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "187380e8-05b6-47bb-be98-c9aed08d5518",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "2a0e3b0b-2974-49e4-8c30-8063394a5653",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "cf40ee5b-11e5-4d33-8fab-b20e19b08122",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "6bc7a8fc-7561-40c7-a972-b87bd82cd1b1",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "4e6ccfe1-8b79-4efc-a67b-6fa54d04d9e6",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "827f8ffd-6c34-4052-9d1b-dbccbe67ea94",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "77509ac4-3991-40b9-8366-79314342de9e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "c63b33e8-0344-4715-b2f1-0295905ba1f8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            }
-        ]
-    },
-    {
-        "id": "3fa25557-8676-4172-9cee-fdce4a996fce",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "Personally, I'd prioritize getting [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) in most games, because it really helps to reduce your nade cooldown, and your nade can be a fight-winning ability - or at least make it so the enemy feels like your team never dies. However, [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) and [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) are also good picks instead, as they add both some survivability and WP into your build. \nIf you're REALLY struggling with survivability, [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is also a consistent option.\n\nA bunch of optional items that are also good with the build, if you have extra cash.",
-        "stats": {
-            "LIFE": 310,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 360,
-            "Attack Speed": 0,
-            "Weapon Power": 15,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 25,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "2d5776d2-9655-474d-9fdd-c051944b0e06",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "634600e5-cdb6-4d08-acf4-c61d5dc8ddc3",
+                    "notes": "don't take this unless you ALSO have cluster core, I mostly only take it for the extra nade duration (more useful than you'd think)",
+                    "action": "optional",
+                    "upgrade_id": "450e11f9-34b6-40c6-b810-0a9ad6c7a093"
+                },
+                {
+                    "id": "39390042-fd30-407e-b0f9-468048b3da5b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
+                },
+                {
+                    "id": "012ed58b-708d-4f9c-8448-7cc90bcce031",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "0303f63d-60bf-47aa-81a1-5227173abb12",
+                    "notes": "CORE, though you can trade it for VITAL-E-TEE and IRONCLAD EXHAUST PORTS if you really need to this round",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "90bf6d4e-2bb7-4612-a3ff-30891e05c581",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "9f09cad7-9147-445b-a6d8-716824889b29",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "1fbfe71d-ab3f-42fd-bdf5-162ff2cbe9fa",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+                },
+                {
+                    "id": "bc0e51d3-cb40-4838-9f9b-7df21d5aa804",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "ccb62c86-58b4-4d3e-aee1-0260ded67145",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "3f6b0dfd-ec45-42ad-be62-2d9c1d5a49b7",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "bb59bad7-f0de-4c62-a3c2-3a5d0c4b0722",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "6f541734-d03b-410f-aad4-90465b50bc53",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "ed608173-32a6-4ad4-94df-72bfd0a93d74",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d83419aa-df54-494c-a901-b6f763306672",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+        {
+            "id": "8d35498f-a8fa-4f78-b791-b6d2fa918869",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "To be clear on how [Sleep Regimen](item_28934e4f-0668-482e-b10d-a5d557cc3b1e)'s mechanics work:\n1. You keep this health throughout every round, it just keeps stacking up\n2. It counts *every sleep you've gotten in the game so far*, so if you've slept 10 total enemies in the first four rounds, you'll get 150 extra health immediately. \nBecause of this, this is a great power, and what really helps you reach 600+ HP in the late rounds. \nBut, if you truly have not hit basically any sleeps so far, and don't think you will be, then [My Turn](item_5cea2ccb-c889-4447-8a84-c704c1da1521) is also a good power to add to your survivability and lethality, especially since s17 it lasts the entire duration of nano.\n\nBoth [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) and [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) are great items to take, (NC over other survival items as it synergizes well with [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) while also giving you a bit of WP), but they also both cost 11k, so instead this round I've added some blue items, but if you have enough and would rather just take one of the purple items instead then go for it.\nI'd lean more towards [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) first, as you'll likely to have gotten a big chunk of extra health through [Sleep Regimen](item_28934e4f-0668-482e-b10d-a5d557cc3b1e) this round, but neither option is bad.",
+            "stats": {
+                "LIFE": 325,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 15,
+                "Total LIFE": 375,
+                "Attack Speed": 10,
+                "Weapon Power": 20,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "6b8332b1-aae9-40c5-9580-8db18d3ef988",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "f5a83b57-2deb-47b3-b491-bb0310f75638",
-                "notes": "don't take this unless you ALSO have cluster core",
-                "action": "optional",
-                "upgrade_id": "450e11f9-34b6-40c6-b810-0a9ad6c7a093"
-            },
-            {
-                "id": "360a1375-7d7f-4da3-96fc-ac49474e4240",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "db653cec-1080-4142-a712-7278863d3f87",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "7e6491d6-46da-492d-a1c7-3aa9c2557849",
-                "notes": "optional to replace cluster core",
-                "action": "optional",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "3c4005ee-ef3f-4c83-a3cd-c840b418a295",
-                "notes": "optional to replace cluster core",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "56305c51-e01a-4c05-bf5b-be8a1809bfc4",
-                "notes": "optional to replace cluster core",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "c9f9031a-36a3-4adc-9081-35b146f181c6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "f2c91a1f-5b04-4a15-b47b-bcda5172c9a3",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "c019636c-be11-4b20-8798-0a71c58ef598",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "9ce8eb4e-8e8c-421d-9b40-1610711cf9c0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "6c694a69-b590-4db2-ad15-b51cbf7137fe",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "7210754e-aaf0-4ff0-b86f-c55adfe3dcde",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "ba85dd8a-57e4-4b70-844a-d40ef213dd0a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "5915db73-3fbe-42bc-94e3-9e91128518f6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            }
-        ]
-    },
-    {
-        "id": "9dcc3454-21a9-439f-a99d-0134410a8d54",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "To be clear on how [Sleep Regimen](item_28934e4f-0668-482e-b10d-a5d557cc3b1e)'s mechanics work:\n1. You keep this health throughout every round, it just keeps stacking up\n2. It counts *every sleep you've gotten in the game so far*, so if you've slept 10 total enemies in the first four rounds, you'll get 150 extra health immediately. \nBecause of this, this is a very good power, and what makes you reach 600+ HP in the late rounds. \nBut, if you truly have not hit basically any sleeps so far, and don't think you will be, then [My Turn](item_5cea2ccb-c889-4447-8a84-c704c1da1521) is also a good power to add to your survivability and lethality, especially since now it lasts the entire duration of nano.\n\n [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) mixed with [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) or nading yourself just adds even more to your level of \"hard to kill\", not even taking your other support healing you into account.\nSee other optional items below if you want more good choices. \n\n[Target Tracker](item_450e11f9-34b6-40c6-b810-0a9ad6c7a093) mixed with [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) and [Home Remedy](item_de68ba66-26d5-4136-a0c1-6396d3f1b0c7) is actually pretty good, though I only really get it for the increased nade duration, that extra time to kill an enemy or heal a teammate can come in clutch. Other optional items are there if you'd like something else, though.",
-        "stats": {
-            "LIFE": 388,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 438,
-            "Attack Speed": 5,
-            "Weapon Power": 15,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 25,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "3a798575-ce98-4cc3-8982-a107432e3e9f",
+                    "notes": "only if you really haven't hit any sleeps so far",
+                    "action": "optional",
+                    "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
+                },
+                {
+                    "id": "6cb6b3d2-5515-4ece-b54f-958de6acce85",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "bbe77104-02aa-4c5c-bfeb-226c78c82396",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "1c08789b-86d3-4d6e-9b15-114f5ea6d1bf",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "56b32e80-2205-49cd-b7e8-84f5325c2ff1",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+                },
+                {
+                    "id": "7365a22b-7b7a-400b-a516-c2bac4b4ca40",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "db245d2d-a277-497b-bf5f-9c2ffd1acf86",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
+                },
+                {
+                    "id": "8abc153c-78cf-4229-89d6-0a117957ab94",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "51dc3719-7f2e-4d44-bdb4-3ce5b08c6f47",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "450e11f9-34b6-40c6-b810-0a9ad6c7a093"
+                },
+                {
+                    "id": "4689d3cf-e093-490e-8845-764fcdf0fbb6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "59d9ce83-1701-4ef1-8ee6-dc446485e404",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "a55dbc3c-ca84-4605-a201-c325adb7cc8a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "37069fc4-b0af-45f5-b3ae-0a7efb48ed0d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "1645b25d-32f2-4a07-a375-7bc9c77fe065",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                },
+                {
+                    "id": "ff265e12-e5df-4c88-8302-95bda97a7917",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "0ba849be-15b8-4250-b0cd-8a7b6b5a09c7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+        {
+            "id": "03aeca47-ec75-4abb-a6b6-32607c9c2ecb",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "If you have 51k this round, swap [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) for [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8).\n\nThe other optional items are there if you want alternatives to switch out, [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) if you want to be extra tanky and [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) for extra dps/healing. \nDespite picking [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) last here, I honestly wouldn't swap the optional items out for that, but instead I'd take one of them instead of [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b). Personally, I just think that [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) mixed with [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) and the general high healing late round stadium has is just kinda too good to pass up. It could still work, but this build is focused on being tanky, and that's what makes you tanky. \n\nPersonally, I don't think that the upsides of [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) are worth swapping in [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) *most* of the time. Before the 15% WP addition, [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) wasn't even a consideration, but now that and the ability to (almost) never have to reload is great, and definitely worth 11k.",
+            "stats": {
+                "LIFE": 338,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 388,
+                "Attack Speed": 0,
+                "Weapon Power": 25,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "1c7f1a4b-e08e-4c13-8d7d-3cbb1a276e9d",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "372af818-7c0e-46c7-a9e6-6165fec76744",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c9d5ac2c-d810-45e2-a984-27bc40b5b9fb",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "354b0f22-9bd7-4b89-83d8-00d718dd2ae0",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "7afd4625-09e3-4c43-9c21-9796a4268378",
-                "notes": "only if you really haven't hit any sleeps so far",
-                "action": "optional",
-                "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
-            },
-            {
-                "id": "667b2164-2d26-4095-908d-1db5c57f4535",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "1c49178a-a792-427f-a022-47231a3a8c0c",
-                "notes": "optional to replace nebula conduit",
-                "action": "optional",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "3900a634-d922-459f-b245-6f84335e6ef1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "172d1747-7595-431c-b6f7-cad016466fce",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "1a8d8cbf-c04b-426b-862e-c8d46b3ba13b",
-                "notes": "optional to replace nebula conduit",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "62c112d1-8d21-4ce9-a4b4-3addac46da79",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "ea68ac48-9ce8-4a65-8b7a-ed5b04300781",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "450e11f9-34b6-40c6-b810-0a9ad6c7a093"
-            },
-            {
-                "id": "f52972fa-4329-4652-a333-87b1877865d3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "91271cee-5209-40e1-b1de-40d0e5968eba",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            },
-            {
-                "id": "b75fb1ff-892b-4e12-9e99-9ea0048d1204",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            }
-        ]
-    },
-    {
-        "id": "676b9e9a-dfee-4950-b636-0278d4038e08",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "This is pretty much the final build you're going to have, excluding if you choose to make some changes for round 7 because you want a different item more.\n\nI think [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) is generally just a solid \"good\" item, but either [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) or even [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) would be another option to replace it with, though I'd lean more towards the 10% CDR unless you're really going DPS Ana playstyle, or find that you hit enough people with [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) that you get nades back quickly enough for you.\nThe more survivability-focused replacements would be either [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) or [Rustung Von Wilhelm](item_aea17a63-3f55-4f91-8f49-a7793fbc56c4), though I think MM synergizes better with the other items in the build.",
-        "stats": {
-            "LIFE": 400,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 450,
-            "Attack Speed": 0,
-            "Weapon Power": 25,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 40,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "7100e6a9-0850-4214-91e4-53f06af2dd76",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c4ddab86-3ae0-4c5d-92ca-cead87dcec84"
+                },
+                {
+                    "id": "e15c8c55-ec3b-4b2b-a669-a28f60e39fe7",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "1490cec5-04a1-42a0-aa1b-71bc9d63f69b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "ceffdb0e-a631-41bc-814e-3b9dbbb3a657",
+                    "notes": "CORE",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "671ed37b-3009-46c4-baf9-91fc5dbdb214",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "528900c4-0c6c-4d9f-ab22-eaf094a72145",
+                    "notes": "alt to UNSCOPED RESOURCES",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "bb84aa4f-e588-4fe9-ab9b-762ef9fe2490",
+                    "notes": "alt to UNSCOPED RESOURCES",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "acd2c549-e30b-411e-8af9-51c6277eef66",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "a77d8f39-ed4a-487c-afbb-8b354ad109b5",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "fbd8b103-362b-4866-a5b5-71c5c444553e",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "bf11b393-0c95-46e0-ac26-2039e66c3708",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+                },
+                {
+                    "id": "24f4395b-0e40-47fb-bf3e-8eb64c7605ec",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "8318f436-a973-4d57-87d6-394770d0185c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                },
+                {
+                    "id": "d73136b0-baf1-4914-bad8-1e53132ab8f0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "038cf57e-7003-401a-bcb7-7c39367bde58",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "450e11f9-34b6-40c6-b810-0a9ad6c7a093"
+        {
+            "id": "8d272118-59ff-4ca9-84e5-9f218b106006",
+            "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-27T04:15:51.099217+00:00",
+            "notes": "[My Turn](item_5cea2ccb-c889-4447-8a84-c704c1da1521) is just a good power choice, giving you more survivability and ability to kill in a situation that you might have otherwise run out of cooldowns, and though it's usually my go-to, the other options aren't bad either:\n- [Our Turn](item_6e0fdb41-c00f-41d9-8ec2-1246b34a539a): Nano for your whole team (within range + LOS) with 75% of the normal duration is great (obviously, this does not apply to yourself)\n- [Your Full Potential](item_f03b3a26-0d1b-46bc-85e6-92f060b53b4e): Got a Zarya 70% of the way to grav? Nano them and they'll have it immediately! A crit health soldier close to visor? Use your ult and they'll have it and overhealth to spare!\n- [Time Out](item_34fc2f6c-ecd9-489e-98ca-d08f3eb2fac1): 50% slow is probably even slower than you think it is. It's *incredibly* slow. I will say in my limited testing of this power, sometimes the self-knockback is a little annoying over helpful, but this is a good power to take if your nades have been hitting enemies. \n\nThe final build! Same things apply this round as did last, I'd recommend swapping out [Unscoped Resources](item_64c401f6-7508-4fc7-ac3a-93c9f3f57e2b) if you wanted one of the optional items. \nYou could also possibly, with how high your HP is now, swap out [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) for [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98), as 3% of your life is more worth it at 600+ hp, but I generally don't.",
+            "stats": {
+                "LIFE": 402,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 452,
+                "Attack Speed": 0,
+                "Weapon Power": 30,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 25,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "f74500ef-7280-465e-8487-c08a77ded313",
-                "notes": "optional to phantasmic flux if you want more survivability",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "5c5d7e35-d482-4c76-a42d-6a52e690a560",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "92984ab6-1941-4cd9-8e41-598dc4bdf3d1",
-                "notes": "optional to phantasmic flux if you want more healing/dps",
-                "action": "optional",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "9ec360b9-fef8-4cbe-9fb4-06927e1e17ad",
-                "notes": "optional to phantasmic flux if you want more healing/dps",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "3e016af0-7081-40fd-b984-049368828ab2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
-            },
-            {
-                "id": "68330dda-ebea-45ce-84db-e3fc223b0508",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "6e3d6817-d9d5-453f-be05-146091de4977",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "86d6f075-232e-49a1-8c58-a1dc8300e3d2",
-                "notes": "CORE, never sell",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "74d4d846-a575-4a71-bb9e-ee6d206e306a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "d6163ac5-3ccd-459f-95c2-c0229e23d884",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "8fbbc224-d2b6-4aab-88b3-016e9ee3850b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            },
-            {
-                "id": "c60d0c4e-ae54-4aab-9e4d-63b5809d5359",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            }
-        ]
-    },
-    {
-        "id": "09619321-21aa-4ec8-b2ab-d3aaa201ce56",
-        "build_id": "d2429475-572b-4376-ab72-a0702fa0895f",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-17T05:38:47.74255+00:00",
-        "notes": "[My Turn](item_5cea2ccb-c889-4447-8a84-c704c1da1521) is just a good power choice, giving you more survivability and ability to kill in a situation that you might have otherwise run out of cooldowns, and though it's usually my go-to, the other options aren't bad either:\n- [Our Turn](item_6e0fdb41-c00f-41d9-8ec2-1246b34a539a): Nano for your whole team (within range + LOS) with 75% of the normal duration is great (obviously, this does not apply to yourself)\n- [Your Full Potential](item_f03b3a26-0d1b-46bc-85e6-92f060b53b4e): Got a Zarya 70% of the way to grav? Nano them and they'll have it immediately! A crit health soldier close to visor? Use your ult and they'll have it and overhealth to spare! \n- [Pinpoint Prescription](item_5cfa07d8-7b5d-42df-a9a8-c6a580acb8bc): Good for higher healing/dps output, and if you can hit them consistently you can pretty much one-shot squishies or quickly melt tanks\n- [Venomous](item_594b0c79-5440-475c-b64c-c0295c46d735): an extra ~94 dmg to the enemies you purple, especially if you're getting it back quick with [Cluster Core](item_c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb) is pretty good",
-        "stats": {
-            "LIFE": 400,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 450,
-            "Attack Speed": 0,
-            "Weapon Power": 25,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 40,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "727ecb16-8e36-4ad6-992f-5418dced2785",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
-            },
-            {
-                "id": "e324bbce-cad8-42e0-b5d2-2887658396d4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f03b3a26-0d1b-46bc-85e6-92f060b53b4e"
-            },
-            {
-                "id": "f62ba201-0484-4ab5-a475-a214d100b4fb",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5cfa07d8-7b5d-42df-a9a8-c6a580acb8bc"
-            },
-            {
-                "id": "ca23bf72-36e1-479b-b331-5943fe0304ec",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "594b0c79-5440-475c-b64c-c0295c46d735"
-            },
-            {
-                "id": "2f958226-7055-4a31-bc77-f93d4978e26c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
-            },
-            {
-                "id": "6ce28eb9-7e5b-4c11-8eac-20baf5274136",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "0539f3b0-8244-4da9-a0ef-2024f721b143",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
-            },
-            {
-                "id": "d981cefb-1ae4-43f5-8f8a-c9b3e39f3fdf",
-                "notes": "if u want more pure survival, choose this instead of Phantasmic Flux first",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "12b36ae9-9a8c-4fc9-aa92-a92f46815e04",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
-            },
-            {
-                "id": "6b9f6f73-106e-40e4-a7bc-cc68202561aa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "c801c6f2-d5f8-4d73-91e0-7e0a94066639",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "6088c24a-115a-40d1-8e9e-e9a7e56b00dd",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "c1eb21a0-62c4-4c94-8883-b6ced7484b86",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "a90de204-a286-4bc3-a5fd-3e6b42bf1ccb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
-            },
-            {
-                "id": "9f8c199a-2ae8-46f7-9f8c-a24f0ff59cdc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
-            },
-            {
-                "id": "795b9970-484f-4504-9df7-32ee70931c8c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
-            },
-            {
-                "id": "cbec9825-1291-4f78-9240-696c1f004da9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "78a222da-cfd5-4b0d-bb09-ff8b8a36ed30",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6e0fdb41-c00f-41d9-8ec2-1246b34a539a"
+                },
+                {
+                    "id": "4adc7362-7c47-4b4c-ae5f-8d609da44fa7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f03b3a26-0d1b-46bc-85e6-92f060b53b4e"
+                },
+                {
+                    "id": "c51ea092-9dfe-4a3d-a4c2-81217ac5bcaa",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "59111f42-c62c-4712-9bc7-61bf6380d771",
+                    "notes": "alt to UNSCOPED RESOURCES",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "3af4103b-6586-459a-b730-46db7e8c8cc8",
+                    "notes": "alt to UNSCOPED RESOURCES",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "78c64de4-6613-46f2-8b2e-5bde88939c88",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "557602ea-cee7-43fd-82bb-f378b83eb391",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "7e9a8017-9458-4318-aea9-5e80ba7e3c46"
+                },
+                {
+                    "id": "446f48b2-afde-4126-abe8-d7aaa4c82bc0",
+                    "notes": "CORE, never sell",
+                    "action": "buy",
+                    "upgrade_id": "1ec670c7-a465-4ca0-9d16-aeeedab7894e"
+                },
+                {
+                    "id": "8ee54d1d-c611-4454-b84e-f5060bdf8a24",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "d34781c9-b898-472d-8203-06ce94755dd6",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "c63cd7ba-b71c-4503-bdb6-4ef0b0a4bdbb"
+                },
+                {
+                    "id": "5c97bc11-2de8-4a80-96e7-916a3dbec271",
+                    "notes": "CORE",
+                    "action": "buy",
+                    "upgrade_id": "64c401f6-7508-4fc7-ac3a-93c9f3f57e2b"
+                },
+                {
+                    "id": "385f919f-af42-4a71-a8e6-1c4faeb63bc6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "34fc2f6c-ecd9-489e-98ca-d08f3eb2fac1"
+                },
+                {
+                    "id": "63c742fc-7d24-45cd-92fe-5ae747de1070",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "823db5eb-5a24-4bac-b850-0aa34e76b4f6"
+                },
+                {
+                    "id": "3af2252b-a3a2-4a52-8972-eebaf42e8b0c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "de68ba66-26d5-4136-a0c1-6396d3f1b0c7"
+                },
+                {
+                    "id": "a3f50b36-060c-49fa-9e75-c2515aa2ef28",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "28934e4f-0668-482e-b10d-a5d557cc3b1e"
+                },
+                {
+                    "id": "9ef3166e-64a2-4591-aa2a-8abdd7eab7c2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5cea2ccb-c889-4447-8a84-c704c1da1521"
+                }
+            ]
+        }
+    ]
+}

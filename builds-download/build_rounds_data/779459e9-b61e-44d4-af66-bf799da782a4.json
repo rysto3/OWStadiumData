@@ -1,645 +1,624 @@
-[
-    {
-        "id": "dceecc12-6c90-4bed-b430-c9cb312a43cd",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "Pretty standard build, just grab weapon power, speed and armor.",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-05T19:54:24.262127+00:00",
+    "rounds": [
+        {
+            "id": "03af270a-a9d6-41b2-83a9-0b538d417fc5",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "Pretty standard build, just grab weapon power, speed and armor.",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "1d16faa0-9e1d-4ff3-8059-e361968afafd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "3de14638-40ab-4713-8222-3befb501386f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "fe03f573-e328-40b2-a6e0-ac93105e8d22",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "72b45a11-b21d-430b-a536-4a315dc5b472",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "aba9d826-c0c8-4517-b888-9f173427b634",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "24c905c1-2c3b-49cd-9c0a-9fef72c889b8",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "I like to pick at least 1 survival item, usually vital-e-tee or angeleisure wear. I tend to keep vital-e-tee in later rounds.\n\nRest of cash goes to weapon power and/or attack speed.",
+            "stats": {
+                "LIFE": 145,
+                "Armor": 110,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 255,
+                "Attack Speed": 5,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "54850e39-9068-4ae2-8a5d-11ede3045ca6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c16e2a34-f000-4526-80ca-2e692ede88ec",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "062c9c9c-c60c-4c8d-8670-8306746505ce",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            }
-        ]
-    },
-    {
-        "id": "a61145a0-ddf6-4df0-84c9-66394527992e",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "I like to pick at least 1 survival item, usually vital-e-tee or angeleisure wear. I tend to keep vital-e-tee in later rounds.\n\nRest of cash goes to weapon power and/or attack speed.",
-        "stats": {
-            "LIFE": 152,
-            "Armor": 110,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 262,
-            "Attack Speed": 15,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "083da435-b298-4880-add2-b37be6d3520b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "7f9236e1-e9d0-41a2-b03f-3cf82fe256bd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "f78fdee8-3217-4536-beb9-218497d99ef0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "9dddf7aa-ad31-4e6e-8728-f0e4c1685153",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "d496b55f-2a48-4611-ae22-18fa497cf1e3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "cc4cf3d9-b776-48b0-9503-28e12006fb4f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "43e67ae0-a70f-450f-afe7-4eff7b3eb847",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "3cbfbdc5-f3e9-4529-821d-6f776248eaeb",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "73b9cfd4-9914-4d59-88ee-da9794a4e896",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "5509b467-26d3-470c-a55c-75c82e46254d",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "For my third power I usually pick Crepuscular Circle. However, if my team is constantly low or we're lacking heals (my other support can't provide as much healing), then I go with Triage Unit instead.\n\nBy round 3 I often pick up Chain Evoker. Again, if we're lacking heals, then I pick Amari's Antidote instead. Sell green items as needed.",
+            "stats": {
+                "LIFE": 163,
+                "Armor": 160,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 323,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "a34821bd-faf2-49d3-bbc0-080b00d1a08d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "f8e7e380-e00a-4cdb-8e83-1d44d0f8a485",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "531bb9c1-cdfd-420e-aa81-4a35ab35bfbc",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "cd575b81-2028-4323-a57b-0e7e3640efc2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "52f05783-cce4-4c67-9b6f-bc11cf6e1c3f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "b46fd5af-994c-448e-b186-52068aa11317",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b68fac12-6708-4e6a-ad52-f8412c7017db",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            }
-        ]
-    },
-    {
-        "id": "246f8c5c-f06a-46c9-af3a-f3f0811dcfc3",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "For my third power I usually pick Crepuscular Circle. However, if my team is constantly low or we're lacking heals (my other support can't provide as much healing), then I go with Triage Unit instead.\n\nBy round 3 I often pick up Chain Evoker. Again, if we're lacking heals, then I pick Amari's Antidote instead. Sell green items as needed.",
-        "stats": {
-            "LIFE": 170,
-            "Armor": 160,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 330,
-            "Attack Speed": 10,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "5e73530b-5a9e-4643-9252-4e0b3440d90d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "0ba5ae7b-3f87-4713-a3a5-f3327e932b99",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "bd48a024-7410-495e-8a7e-ffaa187348ec",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "7b35b149-7bd5-45fe-837d-e6c47201f5a7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "a0a0e84e-5b1b-4298-a337-07e8d0d6b3f1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "31cfdd4c-b300-446f-b8e4-a1d83ad40800",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "c8e28f95-238e-4853-87b2-db4eb0800e30",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "a347ca15-92f1-471d-ba7d-e59c68be3646",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "c15f4541-d218-4f64-a3b9-c8fe7bb20f25",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "aa36eef4-17ca-4d90-b284-2608b654fb6b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "b87ea386-31a1-4d6e-8fee-301ea36e3640",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "d6e41db2-2645-41af-998b-c817580ea78d",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "If I didn't pick Amari's Antidote last round then I buy it this round. \n\nIf I've got enough cash then I try to grab another epic survival item. Pick depending on the enemy team and what's giving you trouble. I'm still figuring out what survival item works best against certain scenarios so pick what works best for you (:\n\nIf you can't afford an epic survival item then just keep choosing rares.",
+            "stats": {
+                "LIFE": 345,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 395,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "7cd4bb6a-341f-45a2-9e14-f3cff127fe14",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "ec577bfd-2c4b-4475-8146-5f3b860841b7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "9c39a705-7d1e-4a44-9138-6d645f995c71",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "3b9e923d-8923-46fa-a409-297741fb3210",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "8051e8db-1257-425f-8cfe-985497956d00",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "4ce2f061-361c-4410-9aab-fe2174dc959c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "342d2be8-86f4-4889-b313-de77831a7f80",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            },
-            {
-                "id": "d93f0236-482a-465a-83fa-1cab1cc951c4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            }
-        ]
-    },
-    {
-        "id": "5233ce18-37f4-40e0-a856-c32064eb8f0b",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "If I didn't pick Amari's Antidote last round then I buy it this round. \n\nIf I've got enough cash then I try to grab another epic survival item. Pick depending on the enemy team and what's giving you trouble. I'm still figuring out what survival item works best against certain scenarios so pick what works best for you (:\n\nIf you can't afford an epic survival item then just keep choosing rares.",
-        "stats": {
-            "LIFE": 230,
-            "Armor": 210,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 440,
-            "Attack Speed": 0,
-            "Weapon Power": 20,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "04410dd9-709e-40aa-b3a5-cbd9f5228c99",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "ea90cf9c-3b39-4460-a141-4db5a2b27c6c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "64e3e8ef-fe49-4f31-977a-3ad64389bc78",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "176771ff-95a4-44eb-9874-8cab4e72c9c7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "fba105a8-072d-465b-8f24-458b3975b12f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
+                },
+                {
+                    "id": "4161d3c3-7cc3-4c15-8275-d737de95c210",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "1d7b862a-1271-4f1c-bbcb-4afaafe22ebc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "7fbdc9c3-f784-4cfb-a25e-4f0d4863c530",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "66c39b18-ce9f-4dfd-8b82-c61eae91df90",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "10c36029-01d7-4313-a74b-ade7788d3b46",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "cc4b0690-dc50-4a2f-8155-b77997d97e7c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "30c80e8b-33c3-40eb-9c8c-9b936aae7bc8",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "f7f30734-7305-478e-adba-380f662bdb6a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "ea052782-b64e-4cfc-a5af-d7256d2a4592",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "92cd4d03-40aa-4ae1-82ba-6d93f4e6d4ff",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "For third power I tend to go with Triage Unit. If our dps are really good and I feel confident in my team, then I might go with Distortion instead.\n\nIf the enemy is diving me often and I feel like I need more survivability, then I might grab Serenity as my third power instead.\n\nI like grabbing booster jets for extra movement speed. However, you could also consider hardlight accelerator or caduceus ex if it's a long range map.",
+            "stats": {
+                "LIFE": 367,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 417,
+                "Attack Speed": 20,
+                "Weapon Power": 20,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "d639cbfe-2b3b-4d90-b6cd-cceb3947f32a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "70a7fddb-5a2a-41a9-afd4-fb96e1e17740",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "feca4177-218a-4956-8f89-e17262d2c8ec",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "cf4b3465-cb8d-4efa-8910-18cdc7fd99bc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "bfb878ff-c7e4-4cfc-be59-9a68b501cab2",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "07bd301e-5699-4f65-bf27-49bdbea0c602",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "ea596e86-45ef-4889-b64c-a87ae9cd9e92",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "0fffa0c9-7b56-4a8b-b041-ef74e058e3e4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "3c196b62-8723-43df-ae20-7535d1185f0d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "37f3d5e5-e6ef-44b9-833d-9534d7f25e91",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
-            },
-            {
-                "id": "4fbaf24a-53e8-4f4c-a589-29adca38c704",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "044ffbb8-d5d8-4911-9f26-30315af0c4dd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "1745ce6e-e2c6-458c-9edc-38e958ce5287",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            }
-        ]
-    },
-    {
-        "id": "af7dab02-73f1-4f6a-a91e-c270495f0d76",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "For third power I tend to go with Triage Unit. If our dps are really good and I feel confident in my team, then I might go with Distortion instead.\n\nIf the enemy is diving me often and I feel like I need more survivability, then I might grab Serenity as my third power instead.\n\nI like grabbing booster jets for extra movement speed. However, you could also consider hardlight accelerator or caduceus ex if it's a long range map.",
-        "stats": {
-            "LIFE": 252,
-            "Armor": 210,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 462,
-            "Attack Speed": 20,
-            "Weapon Power": 20,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "fcd25f73-19c1-40dd-8af7-042e8ef41001",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
+                },
+                {
+                    "id": "d37461ab-a3a3-4774-a0da-588baa251dab",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "e0efe722-2d40-455b-879a-4d222e200352",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "b58bbfc8-115f-4756-a932-1ecc53bf3b73",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "10500745-35c7-45ea-8f5d-0a5c5db3a243",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "8a3c79a9-bb10-4af8-90cd-5f56e757238e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "37dda9ff-0caf-441a-8e2d-c285a29b8fa8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "922188ed-0ef7-4502-a381-2373c2a925f4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "c0d17b66-7b12-46cd-b480-47d189b1498e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "6d88b118-eabd-4033-8c3f-dc010fdcb0ee",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "a11a56cf-6c6b-4189-bffc-03b26b0c4310",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "1495ace7-2899-4aad-95d1-7165219df8fb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "bbf2081a-fe7a-4dfc-adb8-f9585caf423e",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "6f6b9621-fb57-4b87-bb11-79fd5fb2b6de",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "Honestly at this point I just keep on grabbing upgrades and continuing to build attack power. Grab more survival items if you feel like you need them to stay alive now that we're on the later rounds.",
+            "stats": {
+                "LIFE": 381,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 431,
+                "Attack Speed": 20,
+                "Weapon Power": 25,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "199ec9b3-aee7-4c7b-9bc2-0870aa20e7f3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "3e0fb9b0-5322-4199-9698-2afbf3b0096a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "3eb076f7-95dd-4229-89f8-fcf68b897b30",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "d56b46fd-c18c-48c4-8ea1-7d2e04c59b52",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "e6633a86-4b35-4072-bc38-4b619293dc5c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            },
-            {
-                "id": "3666156e-5335-4966-ba72-178da8594136",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "5ebe3d82-474e-487e-ae65-e19df6c1ee75",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "56855eda-0fc1-4ef3-a922-62d06a1ebf54",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "8c09b7f8-efd0-448f-9a41-4c8b8b5b2748",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "9c97edae-6edc-4e9a-995d-5f9280a2bd20",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "c3f5ed0e-fef3-4cfe-a004-f285cd278849",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
-            },
-            {
-                "id": "358a8cd4-2b58-41ed-ad1a-e82d0cba1a92",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
-            },
-            {
-                "id": "e5221764-c052-47da-a7d5-6bbefb0b565c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
-            }
-        ]
-    },
-    {
-        "id": "6c1ee527-38e6-41cf-a4ef-6344d9e5c20a",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "Honestly at this point I just keep on grabbing upgrades and continuing to build attack power. Grab more survival items if you feel like you need them to stay alive now that we're on the later rounds.",
-        "stats": {
-            "LIFE": 266,
-            "Armor": 210,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 476,
-            "Attack Speed": 20,
-            "Weapon Power": 25,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "a861880e-08a8-4c66-97a9-c0a864d83893",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "26ddd00f-34ea-4044-b770-707b6ad3c6fd",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "4f19af63-b0b6-425f-9930-86185c943847",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "9d0dbdee-2d1a-43cd-8a02-6fb7b2d8f950",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "b92a8cb7-2042-4393-955b-6a5b7954ac93",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "2200d289-a13b-4047-b620-e730414a3748",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "86f2ed9d-abe8-49aa-a7c5-076912e1553c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "6ccb8119-9e02-4633-ac62-40b68f251b3a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "54f1e7b9-e7a3-407b-a26f-52f145214cb4",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "07951e8b-74c7-451b-86b5-8dfbfa73ee55",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "7b8340a1-0c24-4b7b-ab23-60cb7e44d143",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "6c629c21-b4dd-4563-aa52-cc1d6a964683",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+        {
+            "id": "c905b520-0419-4eb2-a336-94b34882cdfb",
+            "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-05T19:54:24.262127+00:00",
+            "notes": "For last power I usually pick Distortion. However, if you feel like you need more survivability, then consider grabbing Serenity. If you feel confident in your aim, then perhaps Battle Medic might be better for you.\n\nAgain, this is a general build that I use, so things might change depending on how the game progresses :)\n\nI think the best strategy in stadium is to adjust and adapt.",
+            "stats": {
+                "LIFE": 403,
+                "Armor": 100,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 503,
+                "Attack Speed": 20,
+                "Weapon Power": 25,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "ddbc06ca-791d-454c-af23-49058976b03e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "e6ab73ed-a115-4106-8f67-f87061adeea0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "1883ef91-c057-40f0-8f7a-9b9d5cc0670f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
-            },
-            {
-                "id": "7eff8c44-8982-40fc-a912-dfd63ddb2ef4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "a6c4c161-ab35-4bc1-8ca9-064db3f4a8f7",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "20b8e9bf-0da3-45cd-8c69-2907b2c39395",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "f1b9cfdb-356f-4118-ab51-37bcb3d3521f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "3c37d631-e112-470f-bd42-4a7ebde2a4eb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            },
-            {
-                "id": "3fc676af-b33d-4101-bd19-b339cf3bb62a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "c5d181c1-839e-4aba-8706-575cbeefbc08",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "0307a0e8-0044-4e75-9509-ed379eb918b5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "cc2217b8-1f28-44d2-86b1-6ce758ca34f0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            }
-        ]
-    },
-    {
-        "id": "f7ff77f0-5b01-4190-acda-1a267f9b887e",
-        "build_id": "779459e9-b61e-44d4-af66-bf799da782a4",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-04T21:57:12.38696+00:00",
-        "notes": "For last power I usually pick Distortion. However, if you feel like you need more survivability, then consider grabbing Serenity. If you feel confident in your aim, then perhaps Battle Medic might be better for you.\n\nAgain, this is a general build that I use, so things might change depending on how the game progresses :)\n\nI think the best strategy in stadium is to adjust and adapt.",
-        "stats": {
-            "LIFE": 403,
-            "Armor": 100,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 503,
-            "Attack Speed": 20,
-            "Weapon Power": 25,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 20
-        },
-        "round_upgrades": [
-            {
-                "id": "0c535fb5-fa5a-443d-90fe-72838b626ca2",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
-            },
-            {
-                "id": "d18229d6-d892-4d31-ab3a-9066dd4786d0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ccd0edff-4d57-4ac2-83a7-bab6ff0ffb2f"
-            },
-            {
-                "id": "8c5aaeae-9772-4265-bc16-9ddfb47db409",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "64fa0ad3-5dfe-422f-b900-980e1cfaae1a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "c4cf8cde-896c-4d4c-b031-b676b454c101",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "73d2591e-e101-4153-be90-f5297c47176e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
-            },
-            {
-                "id": "c177b364-1f89-4903-80ba-43190bcd169a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "88053d37-8bda-4b57-bb1e-abc2b6902b9c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            },
-            {
-                "id": "8c842d55-9dc0-4d3a-93d5-b4145d074b3c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "9cbb39cc-f9f5-427a-8c2e-a9bf6a330c2e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "a62875c7-75d5-45b8-9857-8f2b1a333b1d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "36d6da19-3024-4e9b-ad63-6d511fe27959",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "424a8592-b1a2-4f61-abdb-ff7fa4779e5d",
-                "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "6028959a-bbec-4d30-bb10-324165063052",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "c2a3384b-2972-49d6-9b16-406fd2621fe1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "d6cc7ede-cecd-4f16-8001-b547ef07196f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "96b559a0-4bdb-41ae-82d7-16e9dd8703e9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "2a819e1c-379e-4809-b9ab-e8607ceaf6a0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ccd0edff-4d57-4ac2-83a7-bab6ff0ffb2f"
+                },
+                {
+                    "id": "9e995c6b-343b-45fc-8eda-e33e2440ed7a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "35a1ce1c-2b67-4913-a50a-7398898d3bf6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "0d1c7a8f-6706-41a7-b9f9-dcdd6c5fdb0f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "ed9a9fc1-a43f-441a-bf62-d710b3962159",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "0c8bcd43-bae0-41f5-a760-20f4ef2c8e6f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "ffd97045-3691-4fd1-827e-ef07fe5f9876",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "7b8d76d9-b405-441b-b1be-c3949318f0a0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "389b9c45-b3ca-4835-ad9b-c123f3bb7860",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "90ff98b4-c8dc-4fe3-9ee1-a081f3429514",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "89e79318-bde4-4662-9960-0c1d5174e0ac",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "33a5c384-46bc-4e83-9163-fd836e373473",
+                    "notes": "I feel like this power kinda falls off in later rounds but honestly I still like choosing it as a first power, especially for early cash",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "60d671ed-f191-4225-b653-3681a06aaf7b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "f4dd733b-f9a3-46ed-8240-cc1e279893a5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "7f7f87ba-2e41-4e1c-9800-5c3d5f18076b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
+                }
+            ]
+        }
+    ]
+}

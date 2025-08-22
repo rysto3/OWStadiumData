@@ -1,603 +1,606 @@
-[
-    {
-        "id": "0622ba35-ad2f-4837-999a-c4fb36cf3822",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:48.270992+00:00",
-        "notes": "Play Zenyatta as a damage-forward support. \n\n [Plasma Converter](item_25869f9a-9a29-4e19-96b6-9d8a28c59318) can be swapped out for [Ammo Reserves](item_982d53aa-5ef4-493f-93e7-9e374d0ebf34) to reduce orb downtime/freeze caused by reloading.\n\nRound 1 effects:\n* Orb of Destruction (OD):\n- Damage increased from 50 to 52.\n- Replenishes 5 hp per hit.\n- Boosts Orb of Harmony (OH) healing by 18 hp per hit.\n- After elimination, attack speed increased from 0.4 seconds to 0.33 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 63.\n- Replenishes 6 hp with each hit.\n- Boosts OH healing by 22 hp per hit.",
-        "stats": {
-            "LIFE": 75,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-11T20:27:48.093339+00:00",
+    "rounds": [
+        {
+            "id": "0622ba35-ad2f-4837-999a-c4fb36cf3822",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:48.270992+00:00",
+            "notes": "Play Zenyatta as a damage-forward support. \n\n [Plasma Converter](item_25869f9a-9a29-4e19-96b6-9d8a28c59318) can be swapped out for [Ammo Reserves](item_982d53aa-5ef4-493f-93e7-9e374d0ebf34) to reduce orb downtime/freeze caused by reloading.\n\nRound 1 effects:\n* Orb of Destruction (OD):\n- Damage increased from 50 to 52.\n- Replenishes 5 hp per hit.\n- Boosts Orb of Harmony (OH) healing by 18 hp per hit.\n- After elimination, attack speed increased from 0.4 seconds to 0.33 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 63.\n- Replenishes 6 hp with each hit.\n- Boosts OH healing by 22 hp per hit.",
+            "stats": {
+                "LIFE": 75,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "402bee4a-78f8-4b59-86aa-c70a2bdcddd4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "a784188b-05c0-4351-a18f-3d40362d9ae7",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "cc899ba5-03ca-4a3f-bf7a-a1206d4747d2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "5d1cb3db-8240-42d9-b191-650ee57e3e98",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "be7b2cdb-6034-4b82-b674-edc93167b4f7",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "402bee4a-78f8-4b59-86aa-c70a2bdcddd4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "563d5d07-bd40-4ff7-92d1-a4ce4c7aa9d7",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:48.539306+00:00",
+            "notes": "In round 2, start to build up your healing output.\n\nGain weapon damage and attack speed with [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e) and [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) which boosts the healing provided by [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c). The additional ability power will also increase the healing output of OH regardless if you're dealing damage.\n\nSell [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) to afford the two rare items.\n\nRound 2 affects:\n* Orb of Harmony (OH):\n- Healing increased from 30 hp/sec to 33 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 55.\n- Replenishes 5 hp per hit.\n- Boosts OH healing by 19 hp per hit.\n- After healing, attack speed increased from 0.4 seconds to 0.36 for three seconds.\n- After elimination, attack speed increased from 0.4 seconds to 0.33 seconds for three seconds.\n= Max attack speed possible: 0.3 seconds for three seconds while healing and after an elimination.\n* Snap Kick (SK):\n- Damage increased from 60 to 66.\n- Replenishes 6 hp with each hit.\n- Boosts OH healing by 23 hp per hit.\n\nIf survivability is a problem, pick up [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214) instead of [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e).\n\nAlso, if your Juno or Mercy support is struggling to survive, you can take [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) to help keep them alive since they are likely the team's primary healing source.",
+            "stats": {
+                "LIFE": 95,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 270,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "a784188b-05c0-4351-a18f-3d40362d9ae7",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
-            },
-            {
-                "id": "cc899ba5-03ca-4a3f-bf7a-a1206d4747d2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "5d1cb3db-8240-42d9-b191-650ee57e3e98",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "be7b2cdb-6034-4b82-b674-edc93167b4f7",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            }
-        ]
-    },
-    {
-        "id": "563d5d07-bd40-4ff7-92d1-a4ce4c7aa9d7",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:48.539306+00:00",
-        "notes": "In round 2, start to build up your healing output.\n\nGain weapon damage and attack speed with [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e) and [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) which boosts the healing provided by [Enlightenment](item_8392e752-ca6b-487d-9580-11eab6075c3c). The additional ability power will also increase the healing output of OH regardless if you're dealing damage.\n\nSell [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) to afford the two rare items.\n\nRound 2 affects:\n* Orb of Harmony (OH):\n- Healing increased from 30 hp/sec to 33 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 55.\n- Replenishes 5 hp per hit.\n- Boosts OH healing by 19 hp per hit.\n- After healing, attack speed increased from 0.4 seconds to 0.36 for three seconds.\n- After elimination, attack speed increased from 0.4 seconds to 0.33 seconds for three seconds.\n= Max attack speed possible: 0.3 seconds for three seconds while healing and after an elimination.\n* Snap Kick (SK):\n- Damage increased from 60 to 66.\n- Replenishes 6 hp with each hit.\n- Boosts OH healing by 23 hp per hit.\n\nIf survivability is a problem, pick up [Reinforced Titanium](item_8ebaa7db-aedf-48ed-adc1-318cb46a3214) instead of [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e).\n\nAlso, if your Juno or Mercy support is struggling to survive, you can take [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) to help keep them alive since they are likely the team's primary healing source.",
-        "stats": {
-            "LIFE": 95,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 270,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "c768dd47-12f0-4990-8150-d74f9ffabdd6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "7c93aef4-253d-4d46-8249-9d6d645a2e6a",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "102af8c9-2f66-43db-83df-7928f1aab1b2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "194db671-ea88-4cef-a33f-9121bc2a8deb",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
+                },
+                {
+                    "id": "0b6b31df-7ec5-4064-a0df-fef0bd0d9d25",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "b71ebe24-e57c-4eba-846e-595ac949298e",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
+                },
+                {
+                    "id": "72a8ab5e-6c95-4e3c-8468-14e8cfccdb18",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+                },
+                {
+                    "id": "07836478-b764-432d-abef-f74498e7a8ed",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "c768dd47-12f0-4990-8150-d74f9ffabdd6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "2f48c15d-5edf-4f11-ab54-6b82fab435a5",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:48.792563+00:00",
+            "notes": "Take the [Dual Harmony](item_6484b4c4-294c-410d-ae1d-8049f161df31) power. While OH\u2019s base healing output is reduced by 12 hp/sec, we are compensating with 25% ability power (gaining 7 hp/sec back) and 25% weapon power (providing 21 \u2013 26 hp per hit with OD or snap kick). This means when you\u2019re dealing damage, OH is healing for at least 46 hp/sec for a net-gain of 16 hp/sec in addition to healing two teammates at once.\n\nFor items, pick up [Orb of Perception](item_762bf2a4-c062-4dfd-b8e0-47e37ba1cadf). This item will increase OH\u2019s base healing with the increased AP as well as increase the healing output potential of Enlightenment through increased weapon damage.\n\nSell Frenzy Amplifier to afford the epic item. \n\nRound 3 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 62.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 21 hp per hit.\n- After healing, attack speed increased from 0.4 seconds to 0.36 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 75.\n- Replenishes 7 hp with each hit.\n- Boosts OH healing by 26 hp per hit.\n\nIf you can\u2019t afford an epic item, consider two of these rare items: [Wrist Wraps](item_19183386-c859-42ca-93f2-355d47d01e36) (increase base OH healing and utilization of Enlightenment), [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) (increase base OH healing), [Emergency Chip](item_c73e060f-94df-4e6b-bb6d-fe2f65e31dd1) (increase weapon power and survivability)",
+            "stats": {
+                "LIFE": 114,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 289,
+                "Attack Speed": 0,
+                "Weapon Power": 25,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "7c93aef4-253d-4d46-8249-9d6d645a2e6a",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "102af8c9-2f66-43db-83df-7928f1aab1b2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "194db671-ea88-4cef-a33f-9121bc2a8deb",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "0b6b31df-7ec5-4064-a0df-fef0bd0d9d25",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "b71ebe24-e57c-4eba-846e-595ac949298e",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
-            },
-            {
-                "id": "72a8ab5e-6c95-4e3c-8468-14e8cfccdb18",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
-            },
-            {
-                "id": "07836478-b764-432d-abef-f74498e7a8ed",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            }
-        ]
-    },
-    {
-        "id": "2f48c15d-5edf-4f11-ab54-6b82fab435a5",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:48.792563+00:00",
-        "notes": "Take the [Dual Harmony](item_6484b4c4-294c-410d-ae1d-8049f161df31) power. While OH\u2019s base healing output is reduced by 12 hp/sec, we are compensating with 25% ability power (gaining 7 hp/sec back) and 25% weapon power (providing 21 \u2013 26 hp per hit with OD or snap kick). This means when you\u2019re dealing damage, OH is healing for at least 46 hp/sec for a net-gain of 16 hp/sec in addition to healing two teammates at once.\n\nFor items, pick up [Orb of Perception](item_762bf2a4-c062-4dfd-b8e0-47e37ba1cadf). This item will increase OH\u2019s base healing with the increased AP as well as increase the healing output potential of Enlightenment through increased weapon damage.\n\nSell Frenzy Amplifier to afford the epic item. \n\nRound 3 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 62.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 21 hp per hit.\n- After healing, attack speed increased from 0.4 seconds to 0.36 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 75.\n- Replenishes 7 hp with each hit.\n- Boosts OH healing by 26 hp per hit.\n\nIf you can\u2019t afford an epic item, consider two of these rare items: [Wrist Wraps](item_19183386-c859-42ca-93f2-355d47d01e36) (increase base OH healing and utilization of Enlightenment), [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) (increase base OH healing), [Emergency Chip](item_c73e060f-94df-4e6b-bb6d-fe2f65e31dd1) (increase weapon power and survivability)",
-        "stats": {
-            "LIFE": 114,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 289,
-            "Attack Speed": 0,
-            "Weapon Power": 25,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "39e25ffa-8fc8-44fa-b42b-6df7ea9764bd",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "ecc6308b-8a4d-4e2d-80a7-fd83c27c5080",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "bd7901a9-ccf7-4712-8438-7c5463373b00",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
+                },
+                {
+                    "id": "390e2a76-2547-4a02-a3b5-b25329c69e81",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "28b3d50e-d7f7-4e5d-8b60-2f5cb26a59f3",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "629f953f-f572-4d94-9625-5bd095cef1a0",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
+                },
+                {
+                    "id": "cb23f6a8-b78b-45ea-a9a0-bdaa950e3aa2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "b9f902bc-65ff-49c9-abf2-9ed71bf0a1a0",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
+                },
+                {
+                    "id": "bf4d3c99-7cdb-4e97-a297-24220d857b0c",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "1f019b90-7ec9-494f-bf0f-ec6f402ffa94",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "c73e060f-94df-4e6b-bb6d-fe2f65e31dd1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "39e25ffa-8fc8-44fa-b42b-6df7ea9764bd",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "0895475a-04a9-4f26-a1a0-41036a6a3597",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:49.040326+00:00",
+            "notes": "This round, we are increasing OD damage to further increase Enlightenment\u2019s effectiveness.\n\nIf you couldn\u2019t afford Orb of Perception in Round 3, sell the rare items you bought to pick it up this round. Then buy [Genji's Galvanic Gloves](item_f633cda1-b736-4071-9221-402af4ac7a43), or if you don\u2019t use your right-click attack often, you can buy [Haste Subroutine](item_be06e8c1-baa4-4c24-ae40-c103c45ea0c3) instead.\n\nRound 4 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 67.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 23 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 81.\n- Replenishes 8 hp with each hit.\n- Boosts OH healing by 28 hp per hit.\n\nIf you can\u2019t afford Genji\u2019s Galvanic Gloves, supplement with any of these rare items: [Wrist Wraps](item_19183386-c859-42ca-93f2-355d47d01e36) (increase base OH healing and utilization of Enlightenment), [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) (increase base OH healing), [Emergency Chip](item_c73e060f-94df-4e6b-bb6d-fe2f65e31dd1) (increase weapon power and survivability).",
+            "stats": {
+                "LIFE": 138,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 313,
+                "Attack Speed": 10,
+                "Weapon Power": 35,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "ecc6308b-8a4d-4e2d-80a7-fd83c27c5080",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "bd7901a9-ccf7-4712-8438-7c5463373b00",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "390e2a76-2547-4a02-a3b5-b25329c69e81",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "28b3d50e-d7f7-4e5d-8b60-2f5cb26a59f3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "629f953f-f572-4d94-9625-5bd095cef1a0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
-            },
-            {
-                "id": "cb23f6a8-b78b-45ea-a9a0-bdaa950e3aa2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "b9f902bc-65ff-49c9-abf2-9ed71bf0a1a0",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
-            },
-            {
-                "id": "bf4d3c99-7cdb-4e97-a297-24220d857b0c",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
-            },
-            {
-                "id": "1f019b90-7ec9-494f-bf0f-ec6f402ffa94",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "c73e060f-94df-4e6b-bb6d-fe2f65e31dd1"
-            }
-        ]
-    },
-    {
-        "id": "0895475a-04a9-4f26-a1a0-41036a6a3597",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:49.040326+00:00",
-        "notes": "This round, we are increasing OD damage to further increase Enlightenment\u2019s effectiveness.\n\nIf you couldn\u2019t afford Orb of Perception in Round 3, sell the rare items you bought to pick it up this round. Then buy [Genji's Galvanic Gloves](item_f633cda1-b736-4071-9221-402af4ac7a43), or if you don\u2019t use your right-click attack often, you can buy [Haste Subroutine](item_be06e8c1-baa4-4c24-ae40-c103c45ea0c3) instead.\n\nRound 4 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 67.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 23 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 81.\n- Replenishes 8 hp with each hit.\n- Boosts OH healing by 28 hp per hit.\n\nIf you can\u2019t afford Genji\u2019s Galvanic Gloves, supplement with any of these rare items: [Wrist Wraps](item_19183386-c859-42ca-93f2-355d47d01e36) (increase base OH healing and utilization of Enlightenment), [Breezeborne Blessing](item_90dbbc8e-b405-40a9-9564-8fa3a35a0202) (increase base OH healing), [Emergency Chip](item_c73e060f-94df-4e6b-bb6d-fe2f65e31dd1) (increase weapon power and survivability).",
-        "stats": {
-            "LIFE": 138,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 313,
-            "Attack Speed": 10,
-            "Weapon Power": 35,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "4e6fe605-dc55-47a2-b2f7-39dbd0d7b26a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "4e2fea8a-f223-4e8b-90e7-f4ef8b6af359",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "11bb926c-3503-4887-a703-1503255294f4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "d1bfeebb-534f-4a3a-b505-1363ee1f27df",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "4d6235e7-d1d9-4b35-8531-c1b964eee7e4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
+                },
+                {
+                    "id": "3612b427-4f07-4f6f-b016-bf92697655ef",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "eefb7841-4239-4ba8-af42-b1f3f9da8345",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
+                },
+                {
+                    "id": "edf2546d-15ff-4bfb-afea-10846d8c5b81",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "be06e8c1-baa4-4c24-ae40-c103c45ea0c3"
+                },
+                {
+                    "id": "5587f586-6d44-4944-a68e-378a876ca73a",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "c73e060f-94df-4e6b-bb6d-fe2f65e31dd1"
+                },
+                {
+                    "id": "fc06c888-06a6-4bd2-ab19-b97dd4adf2bc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
+                },
+                {
+                    "id": "ff0cd704-7a0e-449d-914f-c9747fb6ca7b",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4e6fe605-dc55-47a2-b2f7-39dbd0d7b26a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "3c25d6ea-26f4-409f-ab9a-b5a75e7ae320",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:49.309001+00:00",
+            "notes": "If you have reached round 5, the other team has won at least a round or two meaning wins aren\u2019t yet guaranteed. So this round, pick the power that addresses the greater team weakness. If your DPS or tank are flanking a lot or diving beyond view, take  [Gotta Have Faith](item_b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7). If you are being targeted a lot, take [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) to increase survivability.\n\nFor items, take [Teacher's Totem](item_32e3e66c-1fc1-46d0-b3fb-6438a4583c26). This will increase your survivability by boosting your shields as well as reducing the damage your OH\u2019d teammates (and yourself if you took Inner Peace) receive from abilities. If you\u2019d rather focus on healing instead of damage reduction, you can take [Friendship Bracelet](item_abc52eaf-cb2e-4e0b-8b5d-15e9f7bae003) to boost the power of OH by up to 30% (though this requires leaving the backline to get into the thick of the fight without any increased survivability.)\n\nRound 5 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n- Reduces ability damage received by 10%.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 67.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 23 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 81.\n- Replenishes 8 hp with each hit.\n- Boosts OH healing by 28 hp per hit.\n\nIf you couldn\u2019t afford Genji\u2019s Galvanic Gloves in Round 4, sell the rare items you bought to pick it up this round. If after this you can\u2019t afford Teacher\u2019s Totem, supplement with these rare items: Wrist Wraps (increase base OH healing and utilization of Enlightenment), Breezeborne Blessing (increase base OH healing), Emergency Chip (increase weapon power and survivability).",
+            "stats": {
+                "LIFE": 158,
+                "Armor": 0,
+                "Shield": 225,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 383,
+                "Attack Speed": 10,
+                "Weapon Power": 35,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "4e2fea8a-f223-4e8b-90e7-f4ef8b6af359",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "11bb926c-3503-4887-a703-1503255294f4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "d1bfeebb-534f-4a3a-b505-1363ee1f27df",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "4d6235e7-d1d9-4b35-8531-c1b964eee7e4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
-            },
-            {
-                "id": "3612b427-4f07-4f6f-b016-bf92697655ef",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "eefb7841-4239-4ba8-af42-b1f3f9da8345",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
-            },
-            {
-                "id": "edf2546d-15ff-4bfb-afea-10846d8c5b81",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "be06e8c1-baa4-4c24-ae40-c103c45ea0c3"
-            },
-            {
-                "id": "5587f586-6d44-4944-a68e-378a876ca73a",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "c73e060f-94df-4e6b-bb6d-fe2f65e31dd1"
-            },
-            {
-                "id": "fc06c888-06a6-4bd2-ab19-b97dd4adf2bc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "90dbbc8e-b405-40a9-9564-8fa3a35a0202"
-            },
-            {
-                "id": "ff0cd704-7a0e-449d-914f-c9747fb6ca7b",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
-            }
-        ]
-    },
-    {
-        "id": "3c25d6ea-26f4-409f-ab9a-b5a75e7ae320",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:49.309001+00:00",
-        "notes": "If you have reached round 5, the other team has won at least a round or two meaning wins aren\u2019t yet guaranteed. So this round, pick the power that addresses the greater team weakness. If your DPS or tank are flanking a lot or diving beyond view, take  [Gotta Have Faith](item_b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7). If you are being targeted a lot, take [Inner Peace](item_3cb26943-7c02-4aa2-97d0-7411dac1073c) to increase survivability.\n\nFor items, take [Teacher's Totem](item_32e3e66c-1fc1-46d0-b3fb-6438a4583c26). This will increase your survivability by boosting your shields as well as reducing the damage your OH\u2019d teammates (and yourself if you took Inner Peace) receive from abilities. If you\u2019d rather focus on healing instead of damage reduction, you can take [Friendship Bracelet](item_abc52eaf-cb2e-4e0b-8b5d-15e9f7bae003) to boost the power of OH by up to 30% (though this requires leaving the backline to get into the thick of the fight without any increased survivability.)\n\nRound 5 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n- Reduces ability damage received by 10%.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 67.\n- Replenishes 6 hp per hit.\n- Boosts OH healing by 23 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 81.\n- Replenishes 8 hp with each hit.\n- Boosts OH healing by 28 hp per hit.\n\nIf you couldn\u2019t afford Genji\u2019s Galvanic Gloves in Round 4, sell the rare items you bought to pick it up this round. If after this you can\u2019t afford Teacher\u2019s Totem, supplement with these rare items: Wrist Wraps (increase base OH healing and utilization of Enlightenment), Breezeborne Blessing (increase base OH healing), Emergency Chip (increase weapon power and survivability).",
-        "stats": {
-            "LIFE": 158,
-            "Armor": 0,
-            "Shield": 225,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 383,
-            "Attack Speed": 10,
-            "Weapon Power": 35,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "3095c212-7411-4a90-ba1b-ef6e0989d669",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "6148f8eb-babc-4968-8e34-29e6daa39287",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "6a0e510b-696e-4ac0-8096-1f4f7f3acfd3",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "fab6b6bd-cfaa-43a8-81c0-c1cec82b9fd5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "a4097055-9d89-420c-b9dd-41eeb2eae5ef",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
+                },
+                {
+                    "id": "26c22c61-b001-48fe-85fa-39cc16aff24e",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "e2b9de3e-0aee-4d25-8632-4943920549ca",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
+                },
+                {
+                    "id": "33663d2b-944a-4b05-8dc6-3c6efef5875a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
+                },
+                {
+                    "id": "dcad9950-40f0-4288-969a-8170f9963b3a",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "22aa8513-b08b-4c1b-9b6f-ddd5ee21fafe",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "abc52eaf-cb2e-4e0b-8b5d-15e9f7bae003"
+                },
+                {
+                    "id": "a812976b-ef0e-403d-abf4-24c67ecd7578",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "be06e8c1-baa4-4c24-ae40-c103c45ea0c3"
+                },
+                {
+                    "id": "f3fb2bab-bfb6-4388-aed1-b3ebbd13c425",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "3095c212-7411-4a90-ba1b-ef6e0989d669",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "ebb9f35b-a11f-49d6-8fa8-2d7d85161d70",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:49.547038+00:00",
+            "notes": "Sell Plasma Converter to make room for an epic item. By now, you should have enough survivability to live without lifesteal.\n\nTake [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b). We\u2019re leaning into helping with eliminations and empowering Enlightenment even more.\nRound 6 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 72.\n- Boosts OH healing by 25 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 87.\n- Boosts OH healing by 30 hp per hit.\nIf you are struggling with survivability, you can instead take either [Meditation Mat](item_ce90ebff-042d-423c-a2f6-d38778629bba) to survive being dived on or [Divine Intervention](item_b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c) if you\u2019re dying to burst damage.",
+            "stats": {
+                "LIFE": 201,
+                "Armor": 0,
+                "Shield": 225,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 426,
+                "Attack Speed": 10,
+                "Weapon Power": 45,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "6148f8eb-babc-4968-8e34-29e6daa39287",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "6a0e510b-696e-4ac0-8096-1f4f7f3acfd3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "fab6b6bd-cfaa-43a8-81c0-c1cec82b9fd5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "a4097055-9d89-420c-b9dd-41eeb2eae5ef",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
-            },
-            {
-                "id": "26c22c61-b001-48fe-85fa-39cc16aff24e",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "e2b9de3e-0aee-4d25-8632-4943920549ca",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
-            },
-            {
-                "id": "33663d2b-944a-4b05-8dc6-3c6efef5875a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
-            },
-            {
-                "id": "dcad9950-40f0-4288-969a-8170f9963b3a",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "22aa8513-b08b-4c1b-9b6f-ddd5ee21fafe",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "abc52eaf-cb2e-4e0b-8b5d-15e9f7bae003"
-            },
-            {
-                "id": "a812976b-ef0e-403d-abf4-24c67ecd7578",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "be06e8c1-baa4-4c24-ae40-c103c45ea0c3"
-            },
-            {
-                "id": "f3fb2bab-bfb6-4388-aed1-b3ebbd13c425",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
-            }
-        ]
-    },
-    {
-        "id": "ebb9f35b-a11f-49d6-8fa8-2d7d85161d70",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:49.547038+00:00",
-        "notes": "Sell Plasma Converter to make room for an epic item. By now, you should have enough survivability to live without lifesteal.\n\nTake [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b). We\u2019re leaning into helping with eliminations and empowering Enlightenment even more.\nRound 6 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 25 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 72.\n- Boosts OH healing by 25 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 87.\n- Boosts OH healing by 30 hp per hit.\nIf you are struggling with survivability, you can instead take either [Meditation Mat](item_ce90ebff-042d-423c-a2f6-d38778629bba) to survive being dived on or [Divine Intervention](item_b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c) if you\u2019re dying to burst damage.",
-        "stats": {
-            "LIFE": 201,
-            "Armor": 0,
-            "Shield": 225,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 426,
-            "Attack Speed": 10,
-            "Weapon Power": 45,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "f2620773-9466-4d2a-ab2d-1c359b50a5c5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "7a99dddf-d689-4cac-83dd-de5f6c0a7666",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "046b5a68-f443-4349-9739-eda13a092d9d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "6e70f495-6470-4d43-93e5-95bae91d89e4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "e16143b5-cd0c-4f69-a72c-76de795c4d0f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
+                },
+                {
+                    "id": "7007169b-74b3-446b-b4b1-aeae74a3f662",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "d7cbf906-1e96-48b3-ab5e-70a403d495cc",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
+                },
+                {
+                    "id": "7cddc22a-6691-4dd3-bd7f-b6848c389c4a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
+                },
+                {
+                    "id": "bb6995c0-3786-4de7-9e39-ab966af8fc30",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
+                },
+                {
+                    "id": "e3751dcb-0123-460a-8564-8d44b66f0bbc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "ce90ebff-042d-423c-a2f6-d38778629bba"
+                },
+                {
+                    "id": "c75c14c0-4340-4971-a3eb-b3c9373b14f2",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "1b264b48-e3ff-4c11-a6b1-d4ee59021868",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "f2620773-9466-4d2a-ab2d-1c359b50a5c5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+        {
+            "id": "c7521427-671c-4b4f-b063-000d0b2e12f0",
+            "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-11T20:27:49.816614+00:00",
+            "notes": "If you\u2019ve reached round 7, victory may come down to a single fight. To better guarantee winning the fight, take [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a). Paired with [Mind Shaper](item_c902b4f2-1151-4ec8-8dcd-f55144a45eb7), you can be more liberal in your use of Transcendence while giving your teammates a leg up to win the fight with reduced cooldowns.\n\nIf your team composition is focused on ranged attacks, transcendence won\u2019t have as much of an impact. In that case, you can take [Seeking Salvation](item_c424d9c0-3a6e-4eb6-b845-cfa284481307) along with [Haste Subroutine](item_be06e8c1-baa4-4c24-ae40-c103c45ea0c3) to help achieve eliminations while guaranteeing more healing through Enlightenment. If survivability is still a problem, take Gotta Have Faith or Inner Peace (whichever you don\u2019t already have.)\n\nSell Custom Stock to make room for the final epic item.\n\nRound 7 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 27 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 70.\n- Boosts OH healing by 24 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 84.\n- Boosts OH healing by 29 hp per hit.",
+            "stats": {
+                "LIFE": 218,
+                "Armor": 0,
+                "Shield": 225,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 443,
+                "Attack Speed": 10,
+                "Weapon Power": 40,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "7a99dddf-d689-4cac-83dd-de5f6c0a7666",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "046b5a68-f443-4349-9739-eda13a092d9d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "6e70f495-6470-4d43-93e5-95bae91d89e4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "e16143b5-cd0c-4f69-a72c-76de795c4d0f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
-            },
-            {
-                "id": "7007169b-74b3-446b-b4b1-aeae74a3f662",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "d7cbf906-1e96-48b3-ab5e-70a403d495cc",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
-            },
-            {
-                "id": "7cddc22a-6691-4dd3-bd7f-b6848c389c4a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
-            },
-            {
-                "id": "bb6995c0-3786-4de7-9e39-ab966af8fc30",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
-            },
-            {
-                "id": "e3751dcb-0123-460a-8564-8d44b66f0bbc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "ce90ebff-042d-423c-a2f6-d38778629bba"
-            },
-            {
-                "id": "c75c14c0-4340-4971-a3eb-b3c9373b14f2",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "1b264b48-e3ff-4c11-a6b1-d4ee59021868",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            }
-        ]
-    },
-    {
-        "id": "c7521427-671c-4b4f-b063-000d0b2e12f0",
-        "build_id": "a9d9aa62-92f4-4d49-b236-21b5cf510db8",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-11T20:27:49.816614+00:00",
-        "notes": "If you\u2019ve reached round 7, victory may come down to a single fight. To better guarantee winning the fight, take [Soul Control](item_051aca60-1044-4184-bbbf-5aad8b12592a). Paired with [Mind Shaper](item_c902b4f2-1151-4ec8-8dcd-f55144a45eb7), you can be more liberal in your use of Transcendence while giving your teammates a leg up to win the fight with reduced cooldowns.\n\nIf your team composition is focused on ranged attacks, transcendence won\u2019t have as much of an impact. In that case, you can take [Seeking Salvation](item_c424d9c0-3a6e-4eb6-b845-cfa284481307) along with [Haste Subroutine](item_be06e8c1-baa4-4c24-ae40-c103c45ea0c3) to help achieve eliminations while guaranteeing more healing through Enlightenment. If survivability is still a problem, take Gotta Have Faith or Inner Peace (whichever you don\u2019t already have.)\n\nSell Custom Stock to make room for the final epic item.\n\nRound 7 effects:\n* Orb of Harmony (OH):\n- Healing decreased from 30 hp/sec to 27 hp/sec.\n* Orb of Destruction (OD):\n- Damage increased from 50 to 70.\n- Boosts OH healing by 24 hp per hit.\n- Attack speed increased from 0.4 seconds to 0.36.\n- After healing, attack speed increased from 0.36 seconds to 0.32 seconds for three seconds.\n* Snap Kick (SK):\n- Damage increased from 60 to 84.\n- Boosts OH healing by 29 hp per hit.",
-        "stats": {
-            "LIFE": 218,
-            "Armor": 0,
-            "Shield": 225,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 443,
-            "Attack Speed": 10,
-            "Weapon Power": 40,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "0abaabbb-bbf7-4ebd-a3cf-c4d8af2057f4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "823aa339-2449-4e1a-bb7e-ad30bcd189fe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "1c7088bb-918d-4455-82bc-ade0e85dbe7a",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "3c7130a8-178f-4845-8418-88cec8d7efba",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
-            },
-            {
-                "id": "47e2ce14-aff8-42bf-8698-ccbd0d322917",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
-            },
-            {
-                "id": "7aa12009-8e86-4cfe-9b2b-317164397101",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
-            },
-            {
-                "id": "0b2f1488-8885-42f8-b1ef-47cf7994f421",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
-            },
-            {
-                "id": "2327f2b9-c968-4a72-8479-fd5d58bafc4f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
-            },
-            {
-                "id": "d6a20aed-18d9-4055-ace4-586f9fc2e2fc",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "9bc22b39-d5f1-4d1a-992a-de57e433aeed",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
-            },
-            {
-                "id": "3bb48a40-c23e-4ad7-8b83-00d1ff6c006f",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "8b920a75-ee53-41e1-980f-d6577bb841dc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "c424d9c0-3a6e-4eb6-b845-cfa284481307"
-            },
-            {
-                "id": "0264895a-1d3c-48a9-b0cd-543503b0a73c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "c902b4f2-1151-4ec8-8dcd-f55144a45eb7"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "0abaabbb-bbf7-4ebd-a3cf-c4d8af2057f4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "823aa339-2449-4e1a-bb7e-ad30bcd189fe",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "1c7088bb-918d-4455-82bc-ade0e85dbe7a",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "3c7130a8-178f-4845-8418-88cec8d7efba",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6484b4c4-294c-410d-ae1d-8049f161df31"
+                },
+                {
+                    "id": "47e2ce14-aff8-42bf-8698-ccbd0d322917",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "762bf2a4-c062-4dfd-b8e0-47e37ba1cadf"
+                },
+                {
+                    "id": "7aa12009-8e86-4cfe-9b2b-317164397101",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "f633cda1-b736-4071-9221-402af4ac7a43"
+                },
+                {
+                    "id": "0b2f1488-8885-42f8-b1ef-47cf7994f421",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b1c30cfc-b920-4d1e-91f3-98c16ca0c3d7"
+                },
+                {
+                    "id": "2327f2b9-c968-4a72-8479-fd5d58bafc4f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "32e3e66c-1fc1-46d0-b3fb-6438a4583c26"
+                },
+                {
+                    "id": "d6a20aed-18d9-4055-ace4-586f9fc2e2fc",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "9bc22b39-d5f1-4d1a-992a-de57e433aeed",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "051aca60-1044-4184-bbbf-5aad8b12592a"
+                },
+                {
+                    "id": "3bb48a40-c23e-4ad7-8b83-00d1ff6c006f",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "8b920a75-ee53-41e1-980f-d6577bb841dc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "c424d9c0-3a6e-4eb6-b845-cfa284481307"
+                },
+                {
+                    "id": "0264895a-1d3c-48a9-b0cd-543503b0a73c",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "c902b4f2-1151-4ec8-8dcd-f55144a45eb7"
+                }
+            ]
+        }
+    ]
+}

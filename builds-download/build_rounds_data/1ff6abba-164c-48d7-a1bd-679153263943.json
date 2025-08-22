@@ -1,537 +1,540 @@
-[
-    {
-        "id": "d2307377-7c05-43bd-b06b-16ebf760d2b4",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "The first round we start off quite simply, mercy scales off attack damage and attack speed, we then build into that, we take the triage power due to it's amazing power to help teamates recover that are being dived.",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-24T23:05:16.629462+00:00",
+    "rounds": [
+        {
+            "id": "d2307377-7c05-43bd-b06b-16ebf760d2b4",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "The first round we start off quite simply, mercy scales off attack damage and attack speed, we then build into that, we take the triage power due to it's amazing power to help teamates recover that are being dived.",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "1b6fbdb1-f364-4e32-94ab-64430b71f789",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "b9f8f87e-a877-4094-9935-1cb44c2e201d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "ec2f1a98-a275-4cf4-bea8-56de9aa9f854",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "ae5c23cf-cfa7-4989-9d26-9d09c92005fb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1b6fbdb1-f364-4e32-94ab-64430b71f789",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "8435f0b4-605f-4f48-b0be-834f8959c400",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "Staying in line with traditional mercy, we will buy attack speed and & damage, the first two items in this line up are insanely powerful. 20% attack speed and 5% damage when everything is procced which is very easy to do.",
+            "stats": {
+                "LIFE": 247,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 272,
+                "Attack Speed": 15,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "b9f8f87e-a877-4094-9935-1cb44c2e201d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "ec2f1a98-a275-4cf4-bea8-56de9aa9f854",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "ae5c23cf-cfa7-4989-9d26-9d09c92005fb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            }
-        ]
-    },
-    {
-        "id": "8435f0b4-605f-4f48-b0be-834f8959c400",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "Staying in line with traditional mercy, we will buy attack speed and & damage, the first two items in this line up are insanely powerful. 20% attack speed and 5% damage when everything is procced which is very easy to do.",
-        "stats": {
-            "LIFE": 247,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 272,
-            "Attack Speed": 15,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "8eff473d-6007-4336-aed5-0eb68322bab2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "c79c226a-a073-4edc-be74-810e4640b64d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "62dc6106-a8ab-4d01-b0dd-5790b70a2dd0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "d3091329-a83a-4dd7-94a1-30e7069975d7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "36aec343-e617-4bfb-9de4-5839cb540081",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "1827ebdb-0e81-431f-8a8f-7c08a062bedb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "8eff473d-6007-4336-aed5-0eb68322bab2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+        {
+            "id": "f202e4c0-41ea-4471-818c-a49b3067fbca",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "This is where it get's interesting, we now drop the attack speed in favour of survival & whambulance enhancing items.\n\nFrom your sold items you should have raised 11,250 cash & from the previous rounds you should be around 20,000 cash. \n\nIf you're not at 20,000 cash refer to the optional items.",
+            "stats": {
+                "LIFE": 272,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 372,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "c79c226a-a073-4edc-be74-810e4640b64d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "62dc6106-a8ab-4d01-b0dd-5790b70a2dd0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "d3091329-a83a-4dd7-94a1-30e7069975d7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "36aec343-e617-4bfb-9de4-5839cb540081",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "1827ebdb-0e81-431f-8a8f-7c08a062bedb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            }
-        ]
-    },
-    {
-        "id": "f202e4c0-41ea-4471-818c-a49b3067fbca",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "This is where it get's interesting, we now drop the attack speed in favour of survival & whambulance enhancing items.\n\nFrom your sold items you should have raised 11,250 cash & from the previous rounds you should be around 20,000 cash. \n\nIf you're not at 20,000 cash refer to the optional items.",
-        "stats": {
-            "LIFE": 272,
-            "Armor": 50,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 372,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "b18020a1-8e18-406c-9ccf-29222a8be108",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "7777e343-15ea-4855-8dd9-805582e63517",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "bec7c389-d5c0-4a46-9269-0b20f3a104a9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "7e946273-0176-450b-808d-c04da4015c85",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "5d5e4137-a923-460b-87cd-8b4fba465785",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "fe90bd48-4c2c-4c71-9834-f101e91f150d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "14b8353e-cbd3-4cc3-9074-dc66259ed65c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "74ff8407-507e-489b-b28f-5c24f86c1d30",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "40b78011-42fc-4c3a-8c32-edc47ef87811",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "17419cce-b754-4348-9c24-11525be11519",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "1a71cd09-692e-4065-b733-2f91e091cfc9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "442ed74b-5b40-423d-a494-c12f8ed36949",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "b18020a1-8e18-406c-9ccf-29222a8be108",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "4fbb0e77-00b4-4804-8fb8-f204f3a2dac1",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "By round 4 you may have noticed that we have picked up angelic acrobatics. This is brings your guardian angel cool down to less than 1 second, paired with triage, whambulance now gets stronger and all of your items such as \"when you use an ability\" stark making you nearly invulnerable. \n\nThis is why the build becomes advanced, you need great mechanics to take advantage of this build and to always keep moving to the right place, constantly, spammy and usefully.",
+            "stats": {
+                "LIFE": 292,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 392,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "7777e343-15ea-4855-8dd9-805582e63517",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "bec7c389-d5c0-4a46-9269-0b20f3a104a9",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "7e946273-0176-450b-808d-c04da4015c85",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "5d5e4137-a923-460b-87cd-8b4fba465785",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "fe90bd48-4c2c-4c71-9834-f101e91f150d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "14b8353e-cbd3-4cc3-9074-dc66259ed65c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "74ff8407-507e-489b-b28f-5c24f86c1d30",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
-            },
-            {
-                "id": "40b78011-42fc-4c3a-8c32-edc47ef87811",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "17419cce-b754-4348-9c24-11525be11519",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "1a71cd09-692e-4065-b733-2f91e091cfc9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "442ed74b-5b40-423d-a494-c12f8ed36949",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            }
-        ]
-    },
-    {
-        "id": "4fbb0e77-00b4-4804-8fb8-f204f3a2dac1",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "By round 4 you may have noticed that we have picked up angelic acrobatics. This is brings your guardian angel cool down to less than 1 second, paired with triage, whambulance now gets stronger and all of your items such as \"when you use an ability\" stark making you nearly invulnerable. \n\nThis is why the build becomes advanced, you need great mechanics to take advantage of this build and to always keep moving to the right place, constantly, spammy and usefully.",
-        "stats": {
-            "LIFE": 292,
-            "Armor": 50,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 392,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "6b65960c-509b-45bb-b129-a23ef3bf0f5d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "105918dd-cd96-4b1d-a2c1-215a7afc47b6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "24f2f959-b403-4c34-8524-80d10c683de1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "52ca3751-0d6c-423a-ab29-11956a89d487",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "a897222d-f451-41b7-bf75-ff4a275965db",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "6c3cee43-0a95-4d82-95b6-b3f19487ec80",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "6b65960c-509b-45bb-b129-a23ef3bf0f5d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+        {
+            "id": "9e1353a5-a238-43b6-8352-82d6eb154a97",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "By round 5 we simply improve our ability to move with angelic boosters and pick up crep circle, it's power is too great to ignore.",
+            "stats": {
+                "LIFE": 360,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 460,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "105918dd-cd96-4b1d-a2c1-215a7afc47b6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "24f2f959-b403-4c34-8524-80d10c683de1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "52ca3751-0d6c-423a-ab29-11956a89d487",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "a897222d-f451-41b7-bf75-ff4a275965db",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "6c3cee43-0a95-4d82-95b6-b3f19487ec80",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            }
-        ]
-    },
-    {
-        "id": "9e1353a5-a238-43b6-8352-82d6eb154a97",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "By round 5 we simply improve our ability to move with angelic boosters and pick up crep circle, it's power is too great to ignore.",
-        "stats": {
-            "LIFE": 360,
-            "Armor": 50,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 460,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "4c1b5ebd-076e-44f8-ad2f-3c8542bd0a6b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
+                },
+                {
+                    "id": "1da7a137-ddcb-46e1-b725-d852170c0f58",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "36b7cd44-16d6-4be6-bd35-953445da8858",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "bacb4627-ba0d-41c5-81e2-73834629b28e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "c25d8805-b2d8-4e75-8517-f66179269342",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "74594936-3569-41ed-bf0e-f118b5f2043f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "eaa18d2c-b9b2-4701-905d-8c907c8610d6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                },
+                {
+                    "id": "b078a970-cfe9-42c7-8b3c-e8d8773e1231",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4c1b5ebd-076e-44f8-ad2f-3c8542bd0a6b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
+        {
+            "id": "e888ce3e-b462-4ed6-88ed-af2752b6050b",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "At round 6 we should be pretty much complete. I normally pick up superflexor, it improves your base healing and gives you 15% ability power which should be very easy to build up",
+            "stats": {
+                "LIFE": 405,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 505,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "1da7a137-ddcb-46e1-b725-d852170c0f58",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "36b7cd44-16d6-4be6-bd35-953445da8858",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "bacb4627-ba0d-41c5-81e2-73834629b28e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "c25d8805-b2d8-4e75-8517-f66179269342",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "74594936-3569-41ed-bf0e-f118b5f2043f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "eaa18d2c-b9b2-4701-905d-8c907c8610d6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            },
-            {
-                "id": "b078a970-cfe9-42c7-8b3c-e8d8773e1231",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            }
-        ]
-    },
-    {
-        "id": "e888ce3e-b462-4ed6-88ed-af2752b6050b",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "At round 6 we should be pretty much complete. I normally pick up superflexor, it improves your base healing and gives you 15% ability power which should be very easy to build up",
-        "stats": {
-            "LIFE": 405,
-            "Armor": 50,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 505,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "baab7c6c-61e7-4616-8178-7d682c93e5f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "8a6af809-8116-4dca-95c0-195404adecaa",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
+                },
+                {
+                    "id": "835a52f8-c74c-4150-9f7d-d2136451c693",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "2133ab20-02f8-4fc5-9098-7429d98a9fcd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "d08d977b-4ac1-4edb-9a06-698fb2257ac7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "02ab9131-309c-43b9-a45f-b841539502f9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "713166e9-2711-44fa-b91a-43bb20bba8b2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "25e5b490-9747-4c5d-8401-43dc7fba930c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                },
+                {
+                    "id": "53f9a0fa-88ed-4e3a-b3bc-72a7ce12947c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "baab7c6c-61e7-4616-8178-7d682c93e5f6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+        {
+            "id": "4ccfea81-02d3-439b-bcb8-318cb0799e14",
+            "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-24T23:05:16.629462+00:00",
+            "notes": "For round 7 this is late game, it get's more dangerous, sympathetic recovery is the way to go. More self healing, more survivability. At this point you can drop ironclad for something else. I'll include some optional situational items.",
+            "stats": {
+                "LIFE": 405,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 505,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 15,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "8a6af809-8116-4dca-95c0-195404adecaa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
-            },
-            {
-                "id": "835a52f8-c74c-4150-9f7d-d2136451c693",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "2133ab20-02f8-4fc5-9098-7429d98a9fcd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "d08d977b-4ac1-4edb-9a06-698fb2257ac7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "02ab9131-309c-43b9-a45f-b841539502f9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "713166e9-2711-44fa-b91a-43bb20bba8b2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "25e5b490-9747-4c5d-8401-43dc7fba930c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            },
-            {
-                "id": "53f9a0fa-88ed-4e3a-b3bc-72a7ce12947c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            }
-        ]
-    },
-    {
-        "id": "4ccfea81-02d3-439b-bcb8-318cb0799e14",
-        "build_id": "1ff6abba-164c-48d7-a1bd-679153263943",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T23:05:16.629462+00:00",
-        "notes": "For round 7 this is late game, it get's more dangerous, sympathetic recovery is the way to go. More self healing, more survivability. At this point you can drop ironclad for something else. I'll include some optional situational items.",
-        "stats": {
-            "LIFE": 405,
-            "Armor": 50,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 505,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
-        },
-        "round_upgrades": [
-            {
-                "id": "326eb189-19c9-4e1e-b1f0-dee1e710b62f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "3990f67b-deed-4e44-807e-5c0356ee771a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "6da85cf4-44e1-4a75-948e-8fdc25d4d3c4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "5d50c8cf-9191-452a-b409-b54fb65aac0d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "72d583eb-015a-4e2b-91c8-74c9bd99bf5f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
-            },
-            {
-                "id": "4d53ee79-326d-4c95-ac88-93debf90081e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "e713b5b5-d8e8-4d8d-b14c-da232ef5068a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "7871ae2c-e963-48e7-b14c-af6d5c30edc6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
-            },
-            {
-                "id": "e0140ab3-c0da-4101-8ef0-9c9a06323587",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "7fcf3b60-ad2e-4282-b5ce-05d4a9c785fd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "54f2a760-cedd-4e44-9d3a-ced97148e56d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "b06f0a49-6563-4305-8c55-bcfeaa487391",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "ad9b7cb5-6090-49f3-b56d-431d4d9b1616",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            },
-            {
-                "id": "bba67fa3-d03b-4ebb-9012-cd311952affe",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "e59d67bf-4538-4f89-9ee1-4a2b9fdb1756",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "326eb189-19c9-4e1e-b1f0-dee1e710b62f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "3990f67b-deed-4e44-807e-5c0356ee771a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "6da85cf4-44e1-4a75-948e-8fdc25d4d3c4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "5d50c8cf-9191-452a-b409-b54fb65aac0d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "72d583eb-015a-4e2b-91c8-74c9bd99bf5f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "812cc89e-feb0-47d0-9e03-9d8e33a80aca"
+                },
+                {
+                    "id": "4d53ee79-326d-4c95-ac88-93debf90081e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "e713b5b5-d8e8-4d8d-b14c-da232ef5068a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "7871ae2c-e963-48e7-b14c-af6d5c30edc6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
+                },
+                {
+                    "id": "e0140ab3-c0da-4101-8ef0-9c9a06323587",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "7fcf3b60-ad2e-4282-b5ce-05d4a9c785fd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "54f2a760-cedd-4e44-9d3a-ced97148e56d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "b06f0a49-6563-4305-8c55-bcfeaa487391",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "ad9b7cb5-6090-49f3-b56d-431d4d9b1616",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                },
+                {
+                    "id": "bba67fa3-d03b-4ebb-9012-cd311952affe",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "e59d67bf-4538-4f89-9ee1-4a2b9fdb1756",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                }
+            ]
+        }
+    ]
+}

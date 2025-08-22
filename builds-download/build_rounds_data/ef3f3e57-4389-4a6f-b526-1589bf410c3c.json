@@ -1,585 +1,588 @@
-[
-    {
-        "id": "b48e8a3a-33ef-4bd1-acb6-dce4f188630b",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "Round 1 we're going to try and farm as much cash as possible using  [Cosmic Coolant](item_5584169d-94af-4efa-955c-263353a75553) to try and squeeze in more Pulsar Torpedoes",
-        "stats": {
-            "LIFE": 75,
-            "Armor": 25,
-            "Shield": 150,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 5,
-            "Weapon Power": 0,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-14T19:57:15.204204+00:00",
+    "rounds": [
+        {
+            "id": "f0c3e36e-cd31-4a99-afcf-914b9e7031c4",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "Round 1 we're going to try and farm as much cash as possible using  [Cosmic Coolant](item_5584169d-94af-4efa-955c-263353a75553) to try and squeeze in more Pulsar Torpedoes",
+            "stats": {
+                "LIFE": 75,
+                "Armor": 25,
+                "Shield": 150,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 250,
+                "Attack Speed": 5,
+                "Weapon Power": 0,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "4feab978-1515-48e7-aa95-8ad7ef4870f8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "3066c6c6-8005-417d-aaf5-e0a02825b299",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1a5d8d9b-d5c9-472c-9741-eb9cf4fdb37f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "0a4ec566-1bcb-4bec-9836-a6949a81fc8d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "655814e3-0855-4252-b17c-5d4dc67efdda",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+        {
+            "id": "d6adf222-bebb-44c3-87c6-3783c4b0363d",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "Round 2 we want to pick our first  [Cooldown Reduction](stat_cooldown_reduction) ability: [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56), which will make the Pulsar Torpedoes a little bit more powerful and more frequent.",
+            "stats": {
+                "LIFE": 122,
+                "Armor": 25,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 322,
+                "Attack Speed": 5,
+                "Weapon Power": 0,
+                "Ability Power": 20,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "b911c24c-934f-4b7c-b066-b2e79246f9fa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "25969e1d-5346-46d9-85c9-71a0b7a3ff11",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "069d9147-09ac-4fe3-8d51-2f3970e72a53",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            }
-        ]
-    },
-    {
-        "id": "61f6553e-7917-4658-8fd8-a5922f1afa5f",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "Round 2 we want to pick our first  [Cooldown Reduction](stat_cooldown_reduction) ability: [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56), which will make the Pulsar Torpedoes a little bit more powerful and more frequent.",
-        "stats": {
-            "LIFE": 122,
-            "Armor": 25,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 322,
-            "Attack Speed": 5,
-            "Weapon Power": 0,
-            "Ability Power": 20,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "b96c9e2a-e56f-40ef-87d7-89a364276437",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "d7ba971a-b6d9-47fe-ad62-22438973a634",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "084f053f-efb1-4539-84b5-9fdc230dbe3c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "788123cb-58e9-4066-99cb-dd903598327e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "56fe1785-a784-4a9d-8405-639b4518f257",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "c0c90b18-0461-47a1-bf18-dd9c603f2463",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "c8372328-9794-4928-9fc0-2ca007bea9e2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "2d5406bd-f980-4fb4-9a08-17effd000fdd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+        {
+            "id": "a719a2d0-4f5d-471f-a379-152da42aebb5",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "In round 3 we will choose  [Hyper Healer](item_108336b3-54d2-4d69-8ea4-c2da5affb7ca) for our power. Despite the nerfs this ability is still good as it basically gives you a free instant heal that doesn't disrupt the flow of your other abilities.\n\nRemember the ring bonus is applied when the ability passes through people so just point at your team mates and activate it, they do not need to go through the ring after it's deployed to get the extra health. However they can walk through it again after the [Overhealth] has expired for an extra 75 health.\n\nI will also note here at the start of the match keep an eye on the countdown and activate the ring when there's 5 seconds left. This will allow the cooldown to reset by the time your team gets to the objective and you will be able to use it again for the first fight. (Also don't get confused for the armory cooldown like I do!)\n\nWe will also pick up our first Epic:  [Biotech Maximizer](item_01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4) . While it's not technically a [Cooldown Reduction](stat_cooldown_reduction) it can help reduce Pulsar Torpedoes by 20%. 25% if Ashe's Bob is in play. 30% if Bob and Kiriko's clone are in play! \ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20",
+            "stats": {
+                "LIFE": 165,
+                "Armor": 25,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 365,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "c62da6d8-18c6-476e-a9b1-253a4e904374",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "0e680414-0236-4a59-85e8-9936c4ac9265",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "cb13e24a-28b9-40c8-bc2f-b6a1c05a1092",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "81b8b2ce-e858-48c0-99be-7550d981bb6d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "fe077209-bbd6-48e6-9a18-d89b3e7576bd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "2823cc83-001a-49f6-b311-6665543aabe2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            }
-        ]
-    },
-    {
-        "id": "34ff574d-500b-4f0c-9ce3-d17651d54d61",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "In round 3 we will choose  [Hyper Healer](item_108336b3-54d2-4d69-8ea4-c2da5affb7ca) for our power. Despite the nerfs this ability is still good as it basically gives you a free instant heal that doesn't disrupt the flow of your other abilities.\n\nRemember the ring bonus is applied when the ability passes through people, they do not need to go through the ring after it's deployed to get the extra health. However they can walk through it again after the [Overhealth] has expired for an extra 75 health.\n\nWe will also pick up our first Epic:  [Biotech Maximizer](item_01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4) . While it's not technically a [Cooldown Reduction](stat_cooldown_reduction) it can help reduce Pulsar Torpedoes by 20%. 25% if Ashe's Bob is in play. 30% if Bob and Kiriko's clone are in play! \ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20\ud83c\udf20",
-        "stats": {
-            "LIFE": 165,
-            "Armor": 25,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 365,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "6cba91c9-2bf0-4ae4-aae1-be14f3d4610a",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "e4a52847-e757-4fd1-bcbd-42046ff956f0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "5aee4cdb-6fd1-4b9e-94fe-d8a37ce3b9fd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "4c7be522-e8c2-4196-a067-3d27a8f23e86",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "427b62ec-c515-41f1-80b3-793e4be3b8c2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "fd20e650-51c4-41d4-a1a5-536bbf84cebb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "f5098d8c-22d1-41ce-bb0d-999a8d3ac4bf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "fa4330af-7e84-41a7-a271-926abd85a7c0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                },
+                {
+                    "id": "69bc7305-8aed-4b4a-915e-fcc4f595bcc2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4220a6bd-c0a5-4600-b728-84fa47282825",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+        {
+            "id": "72b7217d-3eed-4fc1-8d31-acfd0cf7dc3e",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "In round 4 we pick up our second Epic: [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e). It simply adds more  [Ability Power](stat_ability_power) and  [Cooldown Reduction](stat_cooldown_reduction) for more powerful and more frequent Pulsar Torpedos. It also applies Overhealth when you use your ult.\n\nIf you can't afford it you can pick  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) or  [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) now as we'll be adding them to the build later.",
+            "stats": {
+                "LIFE": 159,
+                "Armor": 25,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 359,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "f0ab49ef-2049-4da9-a659-591efa042eb1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "b4241bab-5c77-4353-8373-2f71d120274a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "87f75d39-3c1e-49a8-9130-b2a2f9651245",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "f9e6317b-f679-4c2d-ba7e-9b5b8cfe08e4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "eef04c01-609a-49cf-b939-fa174e007d29",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "efe16e5f-ea91-4787-98d5-99ae81a88595",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "2667e0d0-8e05-4cd0-825a-e9a40abafeba",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            },
-            {
-                "id": "a86f49cc-36cd-4ea1-b7bc-5d45a8d9e229",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
-            }
-        ]
-    },
-    {
-        "id": "295e2b8b-d179-4553-b71b-ccff3a4af4e5",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "In round 4 we pick up our second Epic: [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e). It simply adds more  [Ability Power](stat_ability_power) and  [Cooldown Reduction](stat_cooldown_reduction) for more powerful and more frequent Pulsar Torpedos. It also applies Overhealth when you use your ult.\n\nIf you can't afford it you can pick  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) or  [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) now as we'll be adding them to the build later.",
-        "stats": {
-            "LIFE": 159,
-            "Armor": 25,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 359,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 50,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 15
+            "round_upgrades": [
+                {
+                    "id": "56f965b0-c464-47e2-b123-0166007f42f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "218ce679-f519-45a2-84c7-af0aac325216",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "a074521a-493a-41b2-b8b1-95acd1eba576",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "e53013ed-0e42-4fff-b9a5-9288b46cbc22",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "8675b4cb-8f17-449e-9fe0-aefa85273ce2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "f7fe8f69-2a1e-4e2f-875f-ff130f2e28ad",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "13c6087b-8df3-4008-825b-651af0073a23",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "8885fb3c-a3a7-44f8-b1ed-3a7b03537e6a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "d16dc930-3298-435a-bf13-3261b5c4d339",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "a7bfa51e-5f1d-4fa7-a391-a3d946197f06",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                },
+                {
+                    "id": "bbbca5d8-bb37-4660-bbd0-a68e9e7a19c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "032ce65c-1217-4a38-9f56-30a8e230c26b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+        {
+            "id": "84c1c5ad-1463-4816-8bac-b07d3adba6b7",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "For round 5 we pick  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4). The extra 10 damage over time can catch out retreating enemies but the kicker is that we will pick  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) this round to combo with it allowing us to apply a 30% healing debuff with our Mediblaster and Pulsar Torpedoes constantly.\n\nOn top of all this we gain another 5%  [Cooldown Reduction](stat_cooldown_reduction) from  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)  allowing  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4) to synergise with the build!",
+            "stats": {
+                "LIFE": 177,
+                "Armor": 25,
+                "Shield": 150,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 352,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 60,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "670cbe10-ef62-4d3b-879b-56a2415e45b4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "f717e7b2-4ac6-4f33-920c-5fd3382c31b4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "fcd1a9ba-b23a-4786-8b53-9eaa13b8d2b9",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "833bb0bc-38ba-4c2a-ab46-11e73cb90252",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "3e98de3a-974e-4c83-82db-46e3e12de7cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "12d7891b-cb16-41de-a4c1-de1e1cc8ed36",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "6f01a14c-5025-45f9-bd51-540c63fe6fae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "fa08960b-f1ee-4e6a-8f19-e6efa63aa0b9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "364677ef-4ea5-46d6-abfb-e1eee5d71d18",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            },
-            {
-                "id": "d3213b78-4afb-4aed-ac12-2f5b51d0c1ce",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
-            }
-        ]
-    },
-    {
-        "id": "47359629-fe3a-431e-9394-608198168c06",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "For round 5 we pick  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4). The extra 10 damage over time can catch out retreating enemies but the kicker is that we will pick  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) this round to combo with it allowing us to apply a 30% healing debuff with our Mediblaster and Pulsar Torpedoes constantly.\n\nOn top of all this we gain another 5%  [Cooldown Reduction](stat_cooldown_reduction) from  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)  allowing  [Stinger](item_e9d0d530-d620-4e74-a34d-38cdebfeb9a4) to synergise with the build!",
-        "stats": {
-            "LIFE": 177,
-            "Armor": 25,
-            "Shield": 150,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 352,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 60,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 20
+            "round_upgrades": [
+                {
+                    "id": "163ac60b-1cb0-46e6-b1fe-6bb90ee60e6c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "24cfdd17-1754-4802-bfbd-ec363dd5b25e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "29f7c710-96e7-423d-b082-9c22da8c1042",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "5658732a-8518-4f77-8ea2-d10bed86cf06",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "c8735e65-f15a-423a-aa7b-0560618ca47a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "1c9bc733-709e-4490-bf06-94747209b247",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "78b70cd1-c47a-4a7e-ae44-521dab094318",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "d8ecd187-fe87-470b-86e6-b5b2e1370ec1",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "0d9dba1a-2328-45a3-a224-1c5f2fd32f1a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                },
+                {
+                    "id": "156a43d9-37b7-4fb5-945e-4791b0f689f2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+                },
+                {
+                    "id": "ad401d62-c575-492b-a6b8-180aa80d9a0f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "2d60f433-ffc9-460e-8a02-85bba1b97655",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+        {
+            "id": "e6b7b4b7-54b1-4560-9757-4ecb742c6cb4",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "We're just adding more  [Cooldown Reduction](stat_cooldown_reduction) now.\n\nIf you want more survivability add  [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) \n\nIf you want to be more aggressive choose  [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448)\n\nEither way if you end up in round 7 you'll pick both",
+            "stats": {
+                "LIFE": 219,
+                "Armor": 0,
+                "Shield": 150,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 369,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 60,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 30
             },
-            {
-                "id": "5e71f99c-7e05-43d4-a49c-d498a7a648f1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "55f0651c-a771-47d5-80c1-57768328acc2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "148d70c3-c6ce-4332-a7a6-61d7334ec18d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "0b9e9a70-aa24-4c40-bda7-ae3d23324e7f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "c8b777c1-9e0a-47e6-a63b-b8df4c6d4aca",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "22ca2521-3068-4920-8a14-9eb1efe703aa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c1da833f-c8fe-4f7a-acff-daf28c937545",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "71719052-cdc2-47a5-bff3-572390e347d2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            },
-            {
-                "id": "d1011522-72f6-4515-a5b7-db333135cac8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
-            },
-            {
-                "id": "fd341ae3-faad-4284-8e6d-a928fe5fc1ae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
-            }
-        ]
-    },
-    {
-        "id": "bc584a3f-3c1f-4b51-886b-e7ea9cd477a2",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "We're just adding more  [Cooldown Reduction](stat_cooldown_reduction) now.\n\nIf you want more survivability add  [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) \n\nIf you want to be more aggressive choose  [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448)\n\nEither way if you end up in round 7 you'll pick both",
-        "stats": {
-            "LIFE": 219,
-            "Armor": 0,
-            "Shield": 150,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 369,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 60,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 30
+            "round_upgrades": [
+                {
+                    "id": "2a3837f0-b060-4154-9a62-6abca247d1c2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "df4829cc-6391-4716-b135-f48ced7961db",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "f22ada70-1e86-4261-ad15-f2fee6f39ad4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "61a31855-218b-4ec0-92b1-c3e310e70487",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "255de027-fe7c-4ae0-b01c-3a4730f72874",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "0e3772a3-99f2-4e59-88dd-d65eeed3550e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "6e82cdda-5c7c-499d-b8b1-8b76feb127f7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "f80df76f-9a6f-429c-89fa-3a181dae3eb4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "6298c4ea-f3ce-4c8b-b0eb-1337c31bf481",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                },
+                {
+                    "id": "3e63b14c-eea7-4d02-b2ba-1a266767798f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+                },
+                {
+                    "id": "4686e57b-953f-4f24-94a8-f7767ac2ed70",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "fb182979-39a6-488d-abed-01a9aa0f6a79",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+        {
+            "id": "e56260ec-a51b-4eb7-9bb3-0fcf8b619515",
+            "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-14T19:57:15.204204+00:00",
+            "notes": "In the final round you have a choice.\n\n[Rally Ring](item_0547012b-4817-437e-aad3-aa37db93383e) is the preferred choice as it reduces your Hyper Ring cool down by an extra 4 seconds if you shoot it through your whole team.\n\n [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40) is good if you have a strong second healer like  [Mercy](hero_0e213bfc-3ca9-49c6-9036-e7f344b752da) or  [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) and you want to focus more on healing\n\n [Torpedo Glide](item_b04180a3-c2b2-409c-959e-77e3af6bc7d8) can let you shoot off Pulsar Torpedoes constantly, but it's extra work and the glide makes you more vulnerable.\n\nAs mentioned last round we will round off the build with [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) giving us a full 40% cooldown reduction!\n\nIf you are behind on cash here you can take  [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) or  [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) instead.\n\nAt this point you should have Hyper Ring and Pulsar Torpedoes down to every 6 seconds!",
+            "stats": {
+                "LIFE": 239,
+                "Armor": 0,
+                "Shield": 150,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 389,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 40
             },
-            {
-                "id": "a7bcdfe7-4b35-4264-931c-292aa4b621be",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "db39cfd0-0db3-4d2e-a3fe-6a7b4f4c9806",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "ddfd66d2-0969-4edc-81db-48270079ebda",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "949e2b6c-e10e-4b4b-8cff-3f23526d5183",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "a31c193b-6fe4-4633-8653-19ae97706869",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "02786757-041d-44fa-8b72-61933df318b5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "9fe695de-fb34-462e-8cd4-eac49bd31428",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c05a2bd2-39bb-433b-9786-5a54d1614452",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            },
-            {
-                "id": "ecbfc475-0eec-4c30-b3ad-b9d0c2cca302",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
-            },
-            {
-                "id": "41743997-20d7-4a5d-a7d7-6e045c8991ca",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
-            }
-        ]
-    },
-    {
-        "id": "3a1015be-512a-4635-b33a-96513a420489",
-        "build_id": "ef3f3e57-4389-4a6f-b526-1589bf410c3c",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-24T00:10:28.965082+00:00",
-        "notes": "In the final round you have a choice.\n\n[Rally Ring](item_0547012b-4817-437e-aad3-aa37db93383e) is the preferred choice as it reduces your Hyper Ring cool down by an extra 4 seconds if you shoot it through your whole team.\n\n [Medicinal Missiles](item_30eeab6c-4a1e-4a16-b9dd-e83d633caa40) is good if you have a strong second healer like  [Mercy](hero_0e213bfc-3ca9-49c6-9036-e7f344b752da) or  [Moira](hero_7fb6ff1e-a193-40c0-bd0a-25c1928fbaed) and you want to focus more on healing\n\n [Torpedo Glide](item_b04180a3-c2b2-409c-959e-77e3af6bc7d8) can let you shoot off Pulsar Torpedoes constantly, but it's extra work and the glide makes you more vulnerable.\n\nAs mentioned last round we will round off the build with [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) giving us a full 40% cooldown reduction!\n\nIf you are behind on cash here you can take  [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) or  [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) instead.\n\nAt this point you should have Hyper Ring and Pulsar Torpedoes down to every 6 seconds!",
-        "stats": {
-            "LIFE": 239,
-            "Armor": 0,
-            "Shield": 150,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 389,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 50,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 40
-        },
-        "round_upgrades": [
-            {
-                "id": "06b15413-f3d4-4372-9199-2ff1be07aa2e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
-            },
-            {
-                "id": "e63dc730-21a2-4d58-a9f5-53e829b50e35",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b04180a3-c2b2-409c-959e-77e3af6bc7d8"
-            },
-            {
-                "id": "2b7c1ccf-9fd1-4acf-96e1-89c7918157e7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "5e7cea95-68aa-4c6e-bf00-d46cac8a6c44",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "26cebda2-c072-4a7d-ad92-d3545c90944f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "5ddd146f-fb70-4f96-b79e-acdd582f58b5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "4d027f98-4afa-4d5c-a4ea-da89c6972a78",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "7a2a8061-7015-4a28-a32e-cb20c02f2247",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c8a9e1a5-46ba-45b0-a3a8-9cc75ae64df4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "637d24e3-dee3-4373-837a-e9a7e831d67a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "524a9765-972a-4844-bad9-e6fde0a5c945",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "13a8807b-81e9-4f95-88dc-33b6bdd75714",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
-            },
-            {
-                "id": "7e7f1e91-dfe8-4b56-843a-9dd37a17fdf3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
-            },
-            {
-                "id": "0a024224-7775-4d30-8776-4643be797cfa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
-            },
-            {
-                "id": "0d4a6c64-4ed5-4c93-a2a7-adcd214e77ef",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0547012b-4817-437e-aad3-aa37db93383e"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "9be16fbe-f99b-49e8-b7f0-1eedf706384a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "30eeab6c-4a1e-4a16-b9dd-e83d633caa40"
+                },
+                {
+                    "id": "89c92ce5-66db-44bf-ae26-1220f2d04cf9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b04180a3-c2b2-409c-959e-77e3af6bc7d8"
+                },
+                {
+                    "id": "f5e12f24-0613-45ba-b421-977320f03da3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "ce65c5b7-b926-414a-9a30-1d1a1c6dd56b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "5ae44c1d-c409-4a29-bfa2-868eed46da90",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "f6aa2d40-76f5-4f53-a536-a2889d939c7a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "2f7a43b5-5715-47e7-9fb5-71191265c841",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "31743459-8c67-4156-9127-8583ef3b5593",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "18b03efb-104f-4f99-bda1-5caae5368329",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "5be42fe1-3d56-4b54-b4ad-c1b7e5e74ad9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "6427a95e-10d4-4f5b-815a-09db41664a1f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "f2809d40-cdea-4704-8e17-16ec943b5a19",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5584169d-94af-4efa-955c-263353a75553"
+                },
+                {
+                    "id": "ea1b922b-c940-4b70-b412-6758730cd9c1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "108336b3-54d2-4d69-8ea4-c2da5affb7ca"
+                },
+                {
+                    "id": "11411ebb-ef1f-4c44-af52-22fbcbae2f92",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e9d0d530-d620-4e74-a34d-38cdebfeb9a4"
+                },
+                {
+                    "id": "dec2135d-8131-40f9-a7b2-436374783969",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0547012b-4817-437e-aad3-aa37db93383e"
+                }
+            ]
+        }
+    ]
+}

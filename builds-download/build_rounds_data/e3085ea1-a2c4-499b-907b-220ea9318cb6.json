@@ -1,585 +1,588 @@
-[
-    {
-        "id": "1a1f27c8-0348-4a88-a668-3636d0a6c0f3",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:39.012591+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 75,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 256,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-07T15:33:38.812954+00:00",
+    "rounds": [
+        {
+            "id": "1a1f27c8-0348-4a88-a668-3636d0a6c0f3",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:39.012591+00:00",
+            "notes": null,
+            "stats": {
+                "LIFE": 75,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 256,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "8c14142d-cd7b-4c0b-a3db-8fe99f384605",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "30b3f3a4-1dc8-40a1-b9f8-88f937f97822",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "c34e96d1-0463-45a7-9be5-e494821d94aa",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "e695201b-f578-4092-8114-2612e0aad4b6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "0e9f7adf-deed-441f-a56a-87d7c1b10941",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "45225ed0-8516-4979-b223-517184d8ce07",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "8c14142d-cd7b-4c0b-a3db-8fe99f384605",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "cb2ab1c1-ad3e-4440-abbc-5e41c59e1f8d",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:39.37664+00:00",
+            "notes": "Martian Mender with Inner Peace together is solid self heal especially this early and keeps you close to the fight and helps against high pressure dive heroes like Genji, Reaper or DVA. You won't be invincible but should not have to sit behind over as much or take heals away from your team to get healed yourself.",
+            "stats": {
+                "LIFE": 126,
+                "Armor": 0,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 301,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "30b3f3a4-1dc8-40a1-b9f8-88f937f97822",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "c34e96d1-0463-45a7-9be5-e494821d94aa",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "e695201b-f578-4092-8114-2612e0aad4b6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "0e9f7adf-deed-441f-a56a-87d7c1b10941",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "45225ed0-8516-4979-b223-517184d8ce07",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
-            }
-        ]
-    },
-    {
-        "id": "cb2ab1c1-ad3e-4440-abbc-5e41c59e1f8d",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:39.37664+00:00",
-        "notes": "Martian Mender with Inner Peace together is solid self heal especially this early and keeps you close to the fight and helps against high pressure dive heroes like Genji, Reaper or DVA. You won't be invincible but should not have to sit behind over as much or take heals away from your team to get healed yourself.",
-        "stats": {
-            "LIFE": 126,
-            "Armor": 0,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 301,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "521af9cc-81ff-44a1-88f0-52bad399e700",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "f9a9e768-1654-476a-bb82-3f856c943ad6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "b45b5671-1d34-4b8d-8135-8a04c20ac29d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "ccb9137b-9ba5-4af2-8219-d13faa456097",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "b6f96ec3-e93c-408f-8b1c-6d7ad47eddf6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "216bf71d-417e-4cd8-ac79-b8276944e490",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "ed1eb08c-c254-44d7-a2c9-db5fc9644748",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "0286da6c-28ae-43e7-9b92-c85d2a82d065",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "521af9cc-81ff-44a1-88f0-52bad399e700",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "76fbdf70-7a66-4496-93ea-67b35cc6015c",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:39.644594+00:00",
+            "notes": "Flying Kick lets you put out more damage up close and gives a little extra mobility. Lumerico Fusion Drive sadly doesn't work when Zen applies Orb of Harmony or Orb of Discord but it does work with your Flying Kick ability so when you melee dive a target Drive will trigger ontop of the Martian Mender and Inner Peace passives you already have giving you even more regen. When you Flying Kick someone remember to have Discord on them first and keep in mind the environment behind them to proc the stun effect of Flying Kick. Kick can also be used to quick dodge when disengaging which will trigger Drive so you won't have to out of the fight for too long and if someone chases they will be in for a surprise when you already back at full health. If your pockets are heavy I listed Satya's Solution and Hiking Hoverboots as optional buys for extra movement speed, definitely get hoverboots if you can.",
+            "stats": {
+                "LIFE": 146,
+                "Armor": 50,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 371,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "f9a9e768-1654-476a-bb82-3f856c943ad6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "b45b5671-1d34-4b8d-8135-8a04c20ac29d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "ccb9137b-9ba5-4af2-8219-d13faa456097",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "b6f96ec3-e93c-408f-8b1c-6d7ad47eddf6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "216bf71d-417e-4cd8-ac79-b8276944e490",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "ed1eb08c-c254-44d7-a2c9-db5fc9644748",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "0286da6c-28ae-43e7-9b92-c85d2a82d065",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            }
-        ]
-    },
-    {
-        "id": "76fbdf70-7a66-4496-93ea-67b35cc6015c",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:39.644594+00:00",
-        "notes": "Flying Kick lets you put out more damage up close and gives a little extra mobility. Lumerico Fusion Drive sadly doesn't work when Zen applies Orb of Harmony or Orb of Discord but it does work with your Flying Kick ability so when you melee dive a target Drive will trigger ontop of the Martian Mender and Inner Peace passives you already have giving you even more regen. When you Flying Kick someone remember to have Discord on them first and keep in mind the environment behind them to proc the stun effect of Flying Kick. Kick can also be used to quick dodge when disengaging which will trigger Drive so you won't have to out of the fight for too long and if someone chases they will be in for a surprise when you already back at full health. If your pockets are heavy I listed Satya's Solution and Hiking Hoverboots as optional buys for extra movement speed, definitely get hoverboots if you can.",
-        "stats": {
-            "LIFE": 146,
-            "Armor": 50,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 371,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "63dd0f5b-aa8e-4ed8-a514-d7fa239ee361",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "0f2de883-6fa5-4355-922a-22417d55c41a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "dcd170b7-e6b9-4cf6-b6a9-5a590b00dad3",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "0c3cd0a7-b19a-42f8-a584-04c9262b99c1",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "94d5930e-dea4-4a8d-8a3c-52aeb089ff08",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "924b74b4-5cc2-43e8-a44f-617a18b252f3",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "5db0e1f5-4590-434c-bdb8-8e9137cf70db",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "702094b2-fff8-493e-ad93-d032d16ecf5a",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "41928c7a-1060-493d-ba7e-5bee91ad86bc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "63dd0f5b-aa8e-4ed8-a514-d7fa239ee361",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "48d3aac7-020c-4d3a-863e-690a2bed3314",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:39.915069+00:00",
+            "notes": "If you don't have them already then get Satya's Solution and Hiking Hoverboots now. Zen's melee already hurts if it's on a discorded target but Gloom Gauntlet gives extra movement, damage and regen during cqc so if you got the cash buy it.",
+            "stats": {
+                "LIFE": 156,
+                "Armor": 50,
+                "Shield": 175,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 381,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "0f2de883-6fa5-4355-922a-22417d55c41a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "dcd170b7-e6b9-4cf6-b6a9-5a590b00dad3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "0c3cd0a7-b19a-42f8-a584-04c9262b99c1",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "94d5930e-dea4-4a8d-8a3c-52aeb089ff08",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "924b74b4-5cc2-43e8-a44f-617a18b252f3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            },
-            {
-                "id": "5db0e1f5-4590-434c-bdb8-8e9137cf70db",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "702094b2-fff8-493e-ad93-d032d16ecf5a",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "41928c7a-1060-493d-ba7e-5bee91ad86bc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            }
-        ]
-    },
-    {
-        "id": "48d3aac7-020c-4d3a-863e-690a2bed3314",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:39.915069+00:00",
-        "notes": "If you don't have them already then get Satya's Solution and Hiking Hoverboots now. Zen's melee already hurts if it's on a discorded target but Gloom Gauntlet gives extra movement, damage and regen during cqc so if you got the cash buy it.",
-        "stats": {
-            "LIFE": 156,
-            "Armor": 50,
-            "Shield": 175,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 381,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "b3ff8b69-25e0-476b-ba84-22593c5a508a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "27a172b4-1865-404b-ae7a-47bc6f473237",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "ef339953-00cc-4897-923f-043b87a1e469",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "daa27451-562b-40e0-abc8-f4c4b1161e07",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "924c1046-1a72-4bcc-8f2b-81183227b7d7",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "fcfb1388-9bcf-487d-b7e0-a2aed7ed39a2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "76456ff8-f6e8-414e-ba61-39f80cb7b2d2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "c839423f-a650-4249-81a5-e7603c8cb1f9",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "00e084dd-1d02-4ff2-bb11-3761085ca110",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "4f6c238b-69c2-481a-865b-1eb34cdb268e",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "b3ff8b69-25e0-476b-ba84-22593c5a508a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "d93dc0dc-ab91-4aa1-99da-2a6abaad9f71",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:40.186328+00:00",
+            "notes": "Instant Karma is good for you guessed it even more life regen, remember though it only works on whoever you have Discord on and they have to be actively damaging you. Vanadium Injection is a boost in almost everything but ONLY if you have AND hold onto your ULTIMATE so you might have to start being a little selfish here but the increase in stats especially movement speed, health, and shields is well worth it without sacrificing item space or extra cash. Divine Intervention is a outstanding item in this build as it counters huge single target damage like Cass, Ashe viper, Freja explosive bolts or Rein fire strike. When Divine Intervention does trigger it will be triggering ontop of potentially 5 five other regen effects so if should feel like getting a full restore after surviving a super effective attack. Divine Intervention is only listed as optional because I feel like Vanadium Injection's stat, health, and shield boost is a better buy but if your against high single instance damage take Intervention. I don't know how I feel about Overdrive Core but it can save your life if you make a bad play so I have it listed as optional as well.",
+            "stats": {
+                "LIFE": 176,
+                "Armor": 50,
+                "Shield": 225,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 451,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "27a172b4-1865-404b-ae7a-47bc6f473237",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "ef339953-00cc-4897-923f-043b87a1e469",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "daa27451-562b-40e0-abc8-f4c4b1161e07",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "924c1046-1a72-4bcc-8f2b-81183227b7d7",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "fcfb1388-9bcf-487d-b7e0-a2aed7ed39a2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            },
-            {
-                "id": "76456ff8-f6e8-414e-ba61-39f80cb7b2d2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "c839423f-a650-4249-81a5-e7603c8cb1f9",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "00e084dd-1d02-4ff2-bb11-3761085ca110",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "4f6c238b-69c2-481a-865b-1eb34cdb268e",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            }
-        ]
-    },
-    {
-        "id": "d93dc0dc-ab91-4aa1-99da-2a6abaad9f71",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:40.186328+00:00",
-        "notes": "Instant Karma is good for you guessed it even more life regen, remember though it only works on whoever you have Discord on and they have to be actively damaging you. Vanadium Injection is a boost in almost everything but ONLY if you have AND hold onto your ULTIMATE so you might have to start being a little selfish here but the increase in stats especially movement speed, health, and shields is well worth it without sacrificing item space or extra cash. Divine Intervention is a outstanding item in this build as it counters huge single target damage like Cass, Ashe viper, Freja explosive bolts or Rein fire strike. When Divine Intervention does trigger it will be triggering ontop of potentially 5 five other regen effects so if should feel like getting a full restore after surviving a super effective attack. Divine Intervention is only listed as optional because I feel like Vanadium Injection's stat, health, and shield boost is a better buy but if your against high single instance damage take Intervention. I don't know how I feel about Overdrive Core but it can save your life if you make a bad play so I have it listed as optional as well.",
-        "stats": {
-            "LIFE": 176,
-            "Armor": 50,
-            "Shield": 225,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 451,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "7dbb3ff1-54d0-4c98-b129-0b3748b91d49",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "283960e3-735c-46c4-8477-6aefbe276ef0",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "9cbd8cab-707c-4593-97a3-fafd089860b0",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "d48714cf-8ca6-49d9-82fc-84f6400d78e8",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "517ab432-627b-4d5d-8bee-9911e492dc4f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "767145b4-539c-437c-be25-fe438d962654",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "2230c6e8-d7d3-4e0c-9ce2-e276b19137fd",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
+                },
+                {
+                    "id": "a30b2e72-5881-4cff-a0f3-d7f16e6e4485",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "24deeead-5bcc-4916-864a-4bd0a77eaf0d",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "eded2e0f-5a65-4a5c-9108-aff03dde98c5",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "a2a8dba1-5f2f-4da1-9445-b08f49162121"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "7dbb3ff1-54d0-4c98-b129-0b3748b91d49",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "7513e4e0-3de4-4083-a4d0-87a11bc06737",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:40.487852+00:00",
+            "notes": "Round 6 we buy Divine Intervention for the high synergy it has with this build. If you want extra movement speed and lethality then booster jets is optional or Aftermarket Firing Pin for the passive extra movement speed it gives.",
+            "stats": {
+                "LIFE": 195,
+                "Armor": 50,
+                "Shield": 275,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 520,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "283960e3-735c-46c4-8477-6aefbe276ef0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "9cbd8cab-707c-4593-97a3-fafd089860b0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            },
-            {
-                "id": "d48714cf-8ca6-49d9-82fc-84f6400d78e8",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "517ab432-627b-4d5d-8bee-9911e492dc4f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "767145b4-539c-437c-be25-fe438d962654",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "2230c6e8-d7d3-4e0c-9ce2-e276b19137fd",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
-            },
-            {
-                "id": "a30b2e72-5881-4cff-a0f3-d7f16e6e4485",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "24deeead-5bcc-4916-864a-4bd0a77eaf0d",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "eded2e0f-5a65-4a5c-9108-aff03dde98c5",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "a2a8dba1-5f2f-4da1-9445-b08f49162121"
-            }
-        ]
-    },
-    {
-        "id": "7513e4e0-3de4-4083-a4d0-87a11bc06737",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:40.487852+00:00",
-        "notes": "Round 6 we buy Divine Intervention for the high synergy it has with this build. If you want extra movement speed and lethality then booster jets is optional or Aftermarket Firing Pin for the passive extra movement speed it gives.",
-        "stats": {
-            "LIFE": 195,
-            "Armor": 50,
-            "Shield": 275,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 520,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "76c92351-293d-40bb-b4e3-87eab814ec2d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "4a53f7a8-3803-411b-a48a-eea3d6513766",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "25495137-7ad3-49b0-b43a-c4c48b528661",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "e5e68db3-8f66-407e-80fc-70e270b6af38",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "d14b1748-51e4-48eb-85d1-d33b76f1426d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "ab169206-f1cb-428a-bdc5-088b07fb0805",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "92743285-2f7c-423d-891a-4d838765dd93",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
+                },
+                {
+                    "id": "4e277af3-b50f-4b32-af06-7cc18556e6f6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "b26987cc-f122-4ace-860a-40801c0cc714",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "a4947636-3c91-40d0-be68-4894fcccbc09",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "177773dd-937e-4d47-8135-fc350908e461",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "76c92351-293d-40bb-b4e3-87eab814ec2d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+        {
+            "id": "f3d1437a-ae8f-441c-9453-1577df6ee824",
+            "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T15:33:40.765908+00:00",
+            "notes": "Final Power is Discord Fever for ranged pressure and to whittle down potential targets you want to dive. Fever also makes heroes think twice if they plan on diving/chasing you and your survivability, discord, and kick should already have them second guessing. Enlightenment is listed as a optional power since your high regen allows you to hang around and back up your tank more with the extra damage you put out with melee. Item-wise you have everything you need which makes you a little guy with big kicks and regen energy, I have some optional items listed but what you really need varies game by game and your perspective is gonna effect you choice. Good luck and happy hunting!!!",
+            "stats": {
+                "LIFE": 195,
+                "Armor": 50,
+                "Shield": 275,
+                "Max Ammo": 0,
+                "Move Speed": 20,
+                "Total LIFE": 520,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "4a53f7a8-3803-411b-a48a-eea3d6513766",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "25495137-7ad3-49b0-b43a-c4c48b528661",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            },
-            {
-                "id": "e5e68db3-8f66-407e-80fc-70e270b6af38",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "d14b1748-51e4-48eb-85d1-d33b76f1426d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "ab169206-f1cb-428a-bdc5-088b07fb0805",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "92743285-2f7c-423d-891a-4d838765dd93",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
-            },
-            {
-                "id": "4e277af3-b50f-4b32-af06-7cc18556e6f6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "b26987cc-f122-4ace-860a-40801c0cc714",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "a4947636-3c91-40d0-be68-4894fcccbc09",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "177773dd-937e-4d47-8135-fc350908e461",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            }
-        ]
-    },
-    {
-        "id": "f3d1437a-ae8f-441c-9453-1577df6ee824",
-        "build_id": "e3085ea1-a2c4-499b-907b-220ea9318cb6",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T15:33:40.765908+00:00",
-        "notes": "Final Power is Discord Fever for ranged pressure and to whittle down potential targets you want to dive. Fever also makes heroes think twice if they plan on diving/chasing you and your survivability, discord, and kick should already have them second guessing. Enlightenment is listed as a optional power since your high regen allows you to hang around and back up your tank more with the extra damage you put out with melee. Item-wise you have everything you need which makes you a little guy with big kicks and regen energy, I have some optional items listed but what you really need varies game by game and your perspective is gonna effect you choice. Good luck and happy hunting!!!",
-        "stats": {
-            "LIFE": 195,
-            "Armor": 50,
-            "Shield": 275,
-            "Max Ammo": 0,
-            "Move Speed": 20,
-            "Total LIFE": 520,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "26905f31-a866-4dc6-8105-025ba24fe773",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
-            },
-            {
-                "id": "c7967a96-9bbc-4d81-a482-0b16f466770a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "127808dd-733b-43c2-ad71-f44178a935ff",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
-            },
-            {
-                "id": "72c02797-5ea9-4faa-b57f-4f80738b4611",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "036f1ac3-7d8f-452a-88f4-76e9c6cf0384",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
-            },
-            {
-                "id": "a1725c67-821e-4f98-9a4d-01b855d37f95",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
-            },
-            {
-                "id": "26746b13-dd6a-4a78-95b4-6c573ace388a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
-            },
-            {
-                "id": "55233f3b-882b-40c5-9792-10eca03095a2",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "f7a7c3cd-413a-41cb-af07-54ffdc9d3c53",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
-            },
-            {
-                "id": "c87c8f37-1bf9-4c97-920b-5d53127fe5d9",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "f6bede6a-a54c-4133-b171-78b5a282681f"
-            },
-            {
-                "id": "f010a89f-d11d-47fd-8819-d94526084e61",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
-            },
-            {
-                "id": "97b316d2-5a5a-43e0-a438-87e29e6689e3",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "071ee06c-68a7-4b01-8e18-f69cd65a0244",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "11261976-f76d-4f35-86fb-cebfa367952e",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "26905f31-a866-4dc6-8105-025ba24fe773",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3cb26943-7c02-4aa2-97d0-7411dac1073c"
+                },
+                {
+                    "id": "c7967a96-9bbc-4d81-a482-0b16f466770a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "127808dd-733b-43c2-ad71-f44178a935ff",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e86d8d81-7113-4fc8-b3af-d6e925488a44"
+                },
+                {
+                    "id": "72c02797-5ea9-4faa-b57f-4f80738b4611",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "036f1ac3-7d8f-452a-88f4-76e9c6cf0384",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "158611dd-147a-4375-a16a-565aa4f5f7de"
+                },
+                {
+                    "id": "a1725c67-821e-4f98-9a4d-01b855d37f95",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "1710519d-210a-4b92-b9ed-234abf6ade2c"
+                },
+                {
+                    "id": "26746b13-dd6a-4a78-95b4-6c573ace388a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "7a1cb409-3f6d-424f-882f-729c59476130"
+                },
+                {
+                    "id": "55233f3b-882b-40c5-9792-10eca03095a2",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "f7a7c3cd-413a-41cb-af07-54ffdc9d3c53",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "c87c8f37-1bf9-4c97-920b-5d53127fe5d9",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "f6bede6a-a54c-4133-b171-78b5a282681f"
+                },
+                {
+                    "id": "f010a89f-d11d-47fd-8819-d94526084e61",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "8392e752-ca6b-487d-9580-11eab6075c3c"
+                },
+                {
+                    "id": "97b316d2-5a5a-43e0-a438-87e29e6689e3",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "071ee06c-68a7-4b01-8e18-f69cd65a0244",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "11261976-f76d-4f35-86fb-cebfa367952e",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                }
+            ]
+        }
+    ]
+}

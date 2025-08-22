@@ -1,597 +1,528 @@
-[
-    {
-        "id": "e7144678-c1d2-4f08-9db5-720459a92359",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-21T13:18:30.169621+00:00",
+    "rounds": [
+        {
+            "id": "875aeabe-e8f0-4b93-b9e8-afab7c09c206",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 20,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "c99ae84e-562c-4c50-aa23-325584588804",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "befab9e3-2866-434a-8caf-b0c288ac3481",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "84cb0a4e-dfe5-4fa2-a13a-c49a2c476fd2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "a2163db2-f42d-4db6-a631-92a1a5ea0e08",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "1c0ae6e8-bd74-4f68-a8cb-b3d15c5bdd8e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "0f0ca7f5-4a27-4839-947e-ddf5dc61553a",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 174,
+                "Armor": 135,
+                "Shield": 0,
+                "Max Ammo": 20,
+                "Move Speed": 0,
+                "Total LIFE": 309,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "71cdb62c-9a80-4082-8d3b-d1c5bf2f2167",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "3c2cc4fb-c523-4d39-be1a-a5ad89eed7fc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "7271f538-d089-45e8-ac80-415669ff5c15",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            }
-        ]
-    },
-    {
-        "id": "2cd1a878-7a03-479e-bab0-cbdf3289b909",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 175,
-            "Armor": 135,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 310,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "e5983b65-4c52-4a15-aae0-61892b8c9003",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "f57133b5-27bc-47fa-a96a-95ca7346db3d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "329cfa07-6d0d-4ba2-aa16-2ddc1db1eacd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "3f01181a-f10b-4dc5-9de6-4f9100d19cc6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "73f5aa5a-bd97-41c9-97ca-358e70cbba88",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1b65e3b6-2e36-4eff-93cb-a67103ded736",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "c2378c87-2859-4ef9-937d-b8750a680044",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+        {
+            "id": "782b32dc-be46-4f87-a6a8-d184b6efd2a4",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 182,
+                "Armor": 135,
+                "Shield": 0,
+                "Max Ammo": 25,
+                "Move Speed": 5,
+                "Total LIFE": 317,
+                "Attack Speed": 15,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "0d160b32-e703-4d63-b397-5194f1875d1a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "9ade91bb-4094-471d-bd46-e9d893367129",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "0b4a2533-9cf8-424e-8e25-2afd0bd8c997",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c08c0c5b-cbe5-449c-9c56-52ecf6ea516e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c93073dc-ac50-4e83-9875-e109e9488fd6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "30f79be7-c5aa-4884-95df-950abecb8105",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d4b0cfcb-14e9-4472-a688-680120217250"
-            },
-            {
-                "id": "141c07ad-4968-492b-b3d4-e6b224a9132c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            }
-        ]
-    },
-    {
-        "id": "5407692a-e73d-45ef-b45e-1414e4f1fcd6",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 198,
-            "Armor": 135,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 333,
-            "Attack Speed": 15,
-            "Weapon Power": 15,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1423777e-04af-4b30-974f-20bbfb98f220",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "c1d772d7-47fc-43af-837a-3186d52d9cf1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "4f2fb059-c994-474b-8d56-cc38eb3b6a96",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "3130695b-f62a-4928-92c7-5e0df8e9de06",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "864cea63-6a3f-4033-bcbd-4b1f7a85bb88",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "4a13c1dd-845a-46e7-955a-eb05590a38d2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "af10b55c-6a91-4385-afea-580f57d33f72",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "b1e0cf68-a5dd-4e46-9b6c-fe55183c01d5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "5550f096-d80a-44f4-ac38-91a34d5fea1d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4a2bfd2e-49e4-4112-9b66-fd7a2dc22ca0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+        {
+            "id": "b800b118-da0c-4c4a-8b21-dfdd861aeaf9",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 214,
+                "Armor": 160,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 5,
+                "Total LIFE": 374,
+                "Attack Speed": 20,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "d1fe1a29-5fb8-4fdd-974e-eac04a2320e1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "258ee530-16d6-4ded-a863-94a0e2a0455b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "cb744ddb-07d4-437a-a967-b18836fd24e4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "0582ee94-bc27-4d2f-aa95-9d7a38329788",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "f3effd56-17a0-40d8-9d25-8663fb98519b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "a53bb696-1fd6-4551-b863-7c20553f4e08",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "17725f50-bb0c-4fb7-a64b-66d4e52170a7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b4be0aba-ebf6-4dd7-9653-1d900980bb2b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "ce71729f-28ff-4dfc-b282-11b7cd0576bd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
-            }
-        ]
-    },
-    {
-        "id": "d3183961-4bd7-4c34-8c57-2029a80f5fa6",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 214,
-            "Armor": 135,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 5,
-            "Total LIFE": 399,
-            "Attack Speed": 10,
-            "Weapon Power": 15,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "7a51cd1d-6f5a-4f84-a220-c4a369099a04",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "d6d95373-a697-4db5-b1bb-0008819c6d04",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "e2722962-79d9-4841-8e92-a2c83c249ce3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "84c0f690-f7ff-481e-b4c3-8ea24c129767",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "ba818283-3f43-441d-96a3-a48168ac006e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "2a56648f-f77e-49fd-95ba-46ef428229a1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "b383eda8-4c75-46cb-90d2-690f8e3fc5e4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "750e55d0-3bfa-4062-ab31-d1b833840cfc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4aef122a-a20f-4969-a6b0-11c62c34b4ff",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "90fca104-5fd9-4f22-b653-38850665597a",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 226,
+                "Armor": 160,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 5,
+                "Total LIFE": 386,
+                "Attack Speed": 20,
+                "Weapon Power": 30,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "b0332380-2f5d-4f36-b314-6ff1182d9c1b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "9eef0caf-f982-4454-9e30-6a2e35434924",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "7f4229bc-112e-49a1-a98c-162f6288e152",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "59e24554-0e54-4737-9208-abdb2cc38426",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "6a6c7127-8f80-4ad0-9e8c-fd6e54ea4876",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "12893c7f-3145-4e10-97a5-a71029dcb25d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "4d90b742-a6e8-4bdf-aaa6-a1b234edd7a3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "170324ac-6673-4861-929f-353a6216dceb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "2fa124a9-eab3-477a-918d-10a29c8cae3e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "5a20a90d-abd6-488a-b40f-0e52b9feeb55",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "2955e8ff-2878-4fd1-9d8d-2e577b232e16",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
-            }
-        ]
-    },
-    {
-        "id": "6e50f488-691d-4ddf-98e2-1c872234cd7a",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 247,
-            "Armor": 135,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 432,
-            "Attack Speed": 0,
-            "Weapon Power": 50,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "5e9fd59b-7aeb-413c-b45f-d7c308858273",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "ccbdf21c-91d1-45a3-b6c3-98c1610a04f5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "c3e6250b-019c-4d91-875f-5e5832ed2d21",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "c1f0062a-80f6-42bd-b30e-2ce2a740ca5c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "eb1283dc-a284-4bad-91fb-4c53a7ec6723",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "ac2bccda-29e5-404d-a899-90b951aa4865",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "4bcd3511-5492-4dbe-8620-571b10c72af8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "1d9b2ec3-79fe-4bd6-ac5b-b2805e1f89d3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "a7b644dd-d935-4f16-93e0-bbbc2c0476f5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4add300d-235e-4533-9cba-5ab683f564ba",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+        {
+            "id": "decd4026-addb-4816-a034-71edd9220e09",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 241,
+                "Armor": 160,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 0,
+                "Total LIFE": 401,
+                "Attack Speed": 30,
+                "Weapon Power": 30,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "3d2fcd3f-856c-49b9-b3cb-5a8533904959",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "0938723b-8dcf-41c2-921d-f159e510e3fc",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "00821362-11f3-4d9f-8db1-092bee572f48",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "2877a8d7-a334-44ff-8515-8ebbc5262e8e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "98e1c30a-cdc3-4a8c-9afe-8162ec64d151",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "b80268bd-7e58-45d1-b7f7-f8bf80ebe793",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "15e5288e-20df-4706-a4b2-09bbae2ce04f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "99692036-ce5e-480d-a665-d8714c4ecec6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "5e50b4fc-925a-4df6-a41e-d6914d8dfc61",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "a146ae30-dc9a-4f77-9e38-c616a5df0b68",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
-            },
-            {
-                "id": "38986e11-1029-4368-94de-9bbb4ec51bf8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            }
-        ]
-    },
-    {
-        "id": "a487df50-d6b5-4816-b290-142de1b447eb",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 249,
-            "Armor": 135,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 434,
-            "Attack Speed": 0,
-            "Weapon Power": 50,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "f4600a2b-9a8a-4be3-b1d9-31edd2ee4323",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "d001f8fb-4e80-48ce-8a24-88a21fead27d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "06f16eb4-ad77-40be-b789-1c7b42eb367e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "b9d3e513-8ea3-4208-9b66-5c0ec591123f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "db080bdd-e658-4af8-a9ed-ed42e9301e50",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "d9470e5e-55f0-4114-8d35-7fbab4c67438",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "64f7f550-fbdc-4344-a281-bd4ee7527301",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "a6b7c652-6b34-4aa7-bee3-553eda632563",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "12b4bec0-89bb-424f-b9af-d4cb5adaeaf0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "2ba10fbd-268b-4b2b-85c3-7a7597aeed56",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "34f130a2-4da9-4012-bc55-55be89661932",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
+        {
+            "id": "af03659a-aba3-4d55-8870-288d72c3490c",
+            "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-21T13:18:30.169621+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 371,
+                "Armor": 100,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 0,
+                "Total LIFE": 471,
+                "Attack Speed": 30,
+                "Weapon Power": 35,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "bb7e62e2-d979-48f8-9f22-2c21bf8d3927",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "f51ca74e-931e-4387-b71b-3bcc8550e445",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "e7a1ebec-c237-48b8-aa66-179302983275",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "14b20a71-b331-4dd2-b82e-f794607ac75a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "672a4721-95f1-4732-8098-da53769a2c50",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "e9de330f-62c4-45a8-916a-7ba7e0ab5d8a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "47373b34-2ad1-4791-94a1-c612557d4515",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "a0d8a998-8b9e-4b1b-ab6d-2fcd391e1796",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "ce70ff74-1dae-4c72-9439-306db33710c4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
-            },
-            {
-                "id": "4bcb3b35-7f48-49bd-b5c8-601a927a5644",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            }
-        ]
-    },
-    {
-        "id": "c42f3599-9cd8-4651-8f5b-0a2515e340a0",
-        "build_id": "8ad95f18-aeff-43fc-9419-2f8e5aa20917",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-20T20:40:15.980981+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 266,
-            "Armor": 160,
-            "Shield": 50,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 476,
-            "Attack Speed": 0,
-            "Weapon Power": 50,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "1cd023f2-0fbb-4dde-b0eb-1b0104e29bdd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "50cf6d5d-4221-4ce4-bb1b-2ccbab82f793",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "4d5662cc-1d4b-475a-895a-b0eeb0d07f7e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "9bc59393-69b1-4d1c-90d1-9ad9f013d3ab",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b4298dd9-9b93-461f-a2e0-843402667100"
-            },
-            {
-                "id": "cbd9262c-1640-4667-a04d-d25845776330",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "36e15fe0-b888-4eab-9028-b66764f37866",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "782746e9-97fc-4dcc-bd56-411c3fcc9491",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "5d1b1de9-5aff-4406-b1d4-28154cebf32a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "1549b276-6041-4871-a526-8538748d0ad7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "779726c5-3196-4465-9942-122753e2f3b2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "c9a2ec25-2758-42ad-aeeb-ea4039c4f88a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
-            },
-            {
-                "id": "a3456ead-11e6-42c7-bbb0-38b2bbbf48cb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            },
-            {
-                "id": "03327518-85c4-4a89-a473-f03797aec3c8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5bb876bf-52b5-496c-a9ea-b68e72ed3be1"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "b4c6762a-2420-4b99-86f2-453338718316",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "0d04e0f9-e09b-4e52-85f1-2ead774cc95e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "4e4e5a9e-97ae-43a1-af0b-c8a3bdc1c8ee",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "176ca897-e543-4e07-a0df-bae02fba6d2d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "52d4a523-a1ac-484d-aec6-e6f910962d72",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "75cae6e1-c14a-4151-910a-38446a3b5476",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "78627e65-46c8-424d-980d-4c731ab8e5c0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "ea4377aa-2764-488a-b7a5-6e40f81a9086",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "d2529115-7693-4ea6-94d6-4d9699149596",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "edffc167-61d6-4129-9b5a-87e15d360a67",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "48e8b7fd-9972-4817-8260-10a482574124",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "e91d17f2-58f9-4c62-ac19-11f1a6963ffc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                }
+            ]
+        }
+    ]
+}

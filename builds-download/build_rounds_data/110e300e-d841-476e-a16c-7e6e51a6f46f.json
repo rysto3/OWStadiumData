@@ -1,627 +1,630 @@
-[
-    {
-        "id": "a7f3e239-9e6b-4558-b4a4-cf8bd0d2ee08",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-26T06:07:30.616077+00:00",
+    "rounds": [
+        {
+            "id": "e132427b-5802-4682-8fb9-3686e942a547",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "866447bd-21ad-49e5-9ecf-657c99348556",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "ed3b2b21-e484-47e5-b066-7d9e2ed2f4a8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "1682d265-84ac-418a-817c-d43238e0ca0e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "f52ae294-8ee0-4912-bced-819df650bf82",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "155be79b-ae80-4139-95b6-21187e9c112a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "31bd869b-7e8c-4fba-98f7-5daf411ec8dc",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "73495c9e-b5c6-4188-8b69-1ba30ed417af",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+        {
+            "id": "aabeaefb-9694-4d61-8367-763102bced59",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 249,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 274,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "41d37a21-980f-4dc6-ab17-c8395e698508",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-            },
-            {
-                "id": "a6026b89-6c94-4e2c-900f-d3da623ebcda",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "f648a91d-f961-4626-aeab-a360f603ece4",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "055a02d1-664d-4ae0-a009-6beb9c39dfd5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "ddfe53c1-03d1-4f9c-9d28-2c78a4fe5152",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            }
-        ]
-    },
-    {
-        "id": "311f8eaf-5d29-44f2-bac3-aa55f9d34b50",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 249,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 274,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "6f1cea19-471b-479d-9758-31983ce186be",
+                    "notes": "Essential item for the use of orbs",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "e836088b-c6ba-4939-beda-103c0f16fb9c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "1854e61c-e442-4dff-98dc-f1d8461eb7fa",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "7d21ee23-d8a8-4537-abbd-bfc50df1e19d",
+                    "notes": "Essential item for start using more orbs, therefore, more healing and damage",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "778e23e2-05c0-4872-b70b-b86d42448e0e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "6bef183f-2b98-402e-816b-70a508c6d954",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "ab7b3bf1-038c-4865-8630-9d206e45b965",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "5f787439-869b-4b7f-8ac7-fa235bc9d589",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "739bbffd-2322-4efc-b699-3bf041048a45",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "3c515216-d93c-4281-b5db-297565b4efaf",
-                "notes": "Essential item for the use of orbs",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+        {
+            "id": "38fd1b4b-28e3-46a4-8ec6-5fad3a1f5676",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 274,
+                "Armor": 75,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 349,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 40,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "a14aa223-68a5-4f13-92e9-5b0868e2375a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-            },
-            {
-                "id": "a11d858d-def5-453f-81c5-8bedb266df93",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
-            },
-            {
-                "id": "ada5cfff-54b6-4f7c-994e-bac2314b2242",
-                "notes": "Essential item for start using more orbs, therefore, more healing and damage",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "c4f6f7b3-7636-4b3e-b1f3-fc9e202fada8",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "6e2535c4-699a-4ae0-a3ea-87fc5dde78eb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "2c8d11a6-2c18-4244-aa46-96de054a5464",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "f68057ef-eea8-4474-bcda-36d28b8f0188",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "6539ea2b-d54b-47bc-9568-820f7ba4540a",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            }
-        ]
-    },
-    {
-        "id": "0608650e-5bd2-4878-9812-0a7753b50edc",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 274,
-            "Armor": 75,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 349,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 40,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "4df7c59a-24ba-4beb-88d0-32a2cfd036b4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "4b7d822a-44ae-4abe-856f-489fe8bb88e4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
+                },
+                {
+                    "id": "aab08c63-9a61-47e3-8819-a1907dd24b5c",
+                    "notes": "Prioritize this",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "bf102271-6214-4b1c-ba54-93e8be49e263",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
+                },
+                {
+                    "id": "52b3a650-f854-4aed-880b-0404027b02d8",
+                    "notes": "You can buy this instead the mini damage and ability items, if u affort money",
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "42de43c7-5034-421e-92dd-019401c5e60b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "cd8aa321-709c-440c-a13d-fe5d5276d003",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "30fc5a1e-7a04-4075-81ef-f2b7be275f47",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "e423cb95-a621-4c61-a152-d4fe07dec60b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "23de511f-3e51-445e-badb-74da0c37a387",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "08bf8741-4b99-4751-bf53-e4e1726096b5",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+                },
+                {
+                    "id": "447b92e3-7e53-4c2e-91e8-3b977712c5d0",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                },
+                {
+                    "id": "dfb192a9-6c3d-4e9c-8ba6-709094d8ee77",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "13ae47e7-9f25-4d8a-bb21-318d67f02379",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+        {
+            "id": "4a8077d3-f3d6-4875-a161-6285b482f921",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 316,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 366,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "06e5d33a-b7b6-40ff-a0be-2dee550046c8",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
-            },
-            {
-                "id": "64b2499b-5dfb-486a-8431-9d58d67ee761",
-                "notes": "Prioritize this",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "c7b593f3-c922-431c-b17b-c8f3f6c4f4cb",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-            },
-            {
-                "id": "f99cfdeb-6b92-4c62-a2e0-bd7adfea2cd5",
-                "notes": "You can buy this instead the mini damage and ability items, if u affort money",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "67cd8562-8b6f-426b-b202-aea410a71a6f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
-            },
-            {
-                "id": "2049643d-889e-4ad1-9692-65448fe71c3b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "120d57cf-25e5-4647-8fa6-5e4ac32846c7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "1d230bbc-62be-4b98-adaf-86e6b63e2ab6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "65ac6ac3-fd30-48b6-bf80-1a2f0e8dcd66",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "e9dfd148-a478-41b4-9ce4-78a707674d92",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
-            },
-            {
-                "id": "10c7f5f3-a8ca-4d04-84d3-188e35efd8bf",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            },
-            {
-                "id": "ce7e81fe-cd92-44b7-b964-105729a3fac5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            }
-        ]
-    },
-    {
-        "id": "8f580fc8-13b2-4f4c-9986-9ce0ed1b82e3",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 316,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 366,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 50,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "febe3a79-60a6-46bd-9551-664570e9ef11",
+                    "notes": "prioritize this",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "82ed4edb-9817-41cb-8d24-d1c9769815d9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "4b66389a-52c9-46b4-836d-73cebd84ae80",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "867eb37a-7559-4a73-860c-91c93fe8f68e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "28144a21-4463-4616-b3b2-573100be2362",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "5666d720-3cb6-4285-974d-e19302a750c8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "79ec9840-e661-4fbb-81eb-200d695cdca3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "4899fba5-e21d-4ae3-b953-e37286e00797",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "855e3fa1-7ba6-4e49-98d5-f6ba519016cb",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                },
+                {
+                    "id": "aad355ce-1370-4dd9-bf88-aacd15f95c99",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "915584c3-edbc-446e-8a6a-2b2f5e3b5b27",
-                "notes": "prioritize this",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+        {
+            "id": "810c8b65-f361-4169-952c-4924ac668433",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 336,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 336,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 70,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "df42332f-f1e6-459c-8334-bf0da517cce7",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "fd7f6217-e498-41ca-86cf-c94d932fe1eb",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "cda0b4fd-a4d0-4e31-bbc3-745285260a38",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "5c6cc10c-2249-4372-8b63-9b00be05fddb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "4d6b8f3a-8b68-4cab-b0ec-1a949c0a0973",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "05879310-1c15-49ee-af16-4ff652e6fd20",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "72e98e50-022b-47d7-ac54-35ad97029558",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b631edb9-e305-4a3b-b686-27f5d7719aaa",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            },
-            {
-                "id": "5cd2f617-44db-4fcf-a12e-e29983c1dbc5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            }
-        ]
-    },
-    {
-        "id": "db20e3c9-1df3-4e43-9a8b-c4638ce2d142",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 336,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 336,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 70,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 15
+            "round_upgrades": [
+                {
+                    "id": "9a29d4ed-265a-440b-a4d8-792d697bbc1b",
+                    "notes": "prioritize this for ulti charge",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "82b0775c-4f7e-4653-947f-4c1b2e071c00",
+                    "notes": "Now that we'll have more ulti, lets use an ulti-item. In addition, we have more cooldown reduction",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "22909478-f7d9-4a50-9de3-5f4c18d45b57",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "14142ded-db71-4e73-ba54-623a1c16108c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "79da8ab8-af9a-479c-86f5-500f1ff7be7d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "de46b64f-c500-4c5b-82e0-1543e17452be",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "f3893852-00c2-41ad-9215-822e0de90c76",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "840b0a28-15af-4c17-9200-6b352f276630",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "8e95c210-2b0c-40e1-a184-7eeef133593d",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                },
+                {
+                    "id": "fd9fe4e3-7da7-4bb5-8cb9-3b09fdd7b364",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "3e6af3dc-66e7-4de7-93d1-63718d8685d2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4a305630-4e9a-4f5b-b61f-ff5687898ab2",
-                "notes": "prioritize this for ulti charge",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+        {
+            "id": "f3b26369-9442-4366-83a9-7bfcd90e80a1",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 341,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 341,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 80,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "e01386a6-a8f4-46e2-8c76-8cf8cdff27b4",
-                "notes": "Now that we'll have more ulti, lets use an ulti-item. In addition, we have more cooldown reduction",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "e507aaaa-8eaa-47eb-86cf-a092bb1dd93b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "cacf3924-4ad6-4b5c-90f0-fdac7f95fd30",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "7c777371-a9ee-4ea3-95a8-178ded1e0d43",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "748b41ca-982f-4e79-a425-6a755e06fdb3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "975f227e-f81e-4c10-ae66-11c5acf0c7e0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "4f10b9aa-3b53-44aa-a038-4ce632c7c1e3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "01617b6e-578c-4728-83a0-d198b74d9f68",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            },
-            {
-                "id": "b408b209-dfd6-4c52-94c8-fea8bcc7e043",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "0d421baa-444e-46a6-8b87-0a38557a206c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            }
-        ]
-    },
-    {
-        "id": "d18b836c-9da4-4c6d-9b25-ee0260c83ded",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "",
-        "stats": {
-            "LIFE": 341,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 341,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 80,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 15
+            "round_upgrades": [
+                {
+                    "id": "e68b8d47-f52a-4cc2-a134-c3b1042c02a0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "aaf7bc4b-be0f-4aa5-b38a-8518bbf5c727",
+                    "notes": "You can buy this instead nanocola if you affort it",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "3f8f5e0d-ad54-42ca-9257-b9067fbab409",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "68eee6a3-46d4-4e60-8047-62d2ed5dec70",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "4fa0f79d-851c-4573-bee4-6b60d27d8015",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "e8b3ad68-ddda-41b7-8acb-0d710217fd88",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "c83c1934-ef94-49b0-abf1-60ff788358b7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "03d81ecf-58e1-48c0-8f61-c9826668d3f5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "219ba33e-cd40-480e-9926-28d4162437a7",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                },
+                {
+                    "id": "2a7bc63a-26d9-489e-aee6-b4b41189afa2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "46db9264-5344-4c91-afae-68a9fff73ceb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "5144894d-a754-4aa3-bfc5-f9186091492c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+        {
+            "id": "26d9edf3-237d-4a04-a2f1-5ec8c559ad6e",
+            "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-26T06:07:30.616077+00:00",
+            "notes": "Can be used  [Phantasm](item_21ed9c3d-7a54-438f-9188-f21fd7a7dbfb) too.",
+            "stats": {
+                "LIFE": 360,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 360,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 105,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "e7f0fdf2-8101-4fd5-8f48-51518e2ee4c6",
-                "notes": "You can buy this instead nanocola if you affort it",
-                "action": "optional",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "9029c180-f2db-45ef-9e02-3e8aa4b20e19",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "4407ad91-3745-4597-a56f-c9bbe114cf2a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "b3cfd0ab-7916-4555-9c67-55d400605c6a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "767ca9c8-07c9-4476-86d7-a6cdd7964614",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "6ca8df69-015a-4167-afdf-9bd3f7c7e51d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "aaa9bd85-1e06-48a1-a2ff-18288362b120",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "326c9d3a-76f3-4746-bc92-837ee0c5c9a6",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            },
-            {
-                "id": "1ae05e48-f29f-42d1-bb68-6a16f20bbfdc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "5fe6d19a-30af-4279-9e20-f2d3267ec68b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            }
-        ]
-    },
-    {
-        "id": "9d5c2043-d7f6-4ee8-84c2-d83ece5dd143",
-        "build_id": "110e300e-d841-476e-a16c-7e6e51a6f46f",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T07:57:59.192791+00:00",
-        "notes": "Can be used  [Phantasm](item_21ed9c3d-7a54-438f-9188-f21fd7a7dbfb) too.",
-        "stats": {
-            "LIFE": 360,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 360,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 105,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "1d905c71-9b83-4741-8a16-2bb70eba9016",
-                "notes": "prioritize this, full power",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "41b43b26-52c4-4634-8a11-09a4fb4206a1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ff9adeb1-362c-46a4-80ef-4e0eb07479cc"
-            },
-            {
-                "id": "4943f753-6f3a-44bd-9855-926b2f15a4b2",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "efc2c20e-b99c-4d06-b86a-0e5861fb3864",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "e10fae31-794a-4ea3-8b7a-44dfd9838515",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-            },
-            {
-                "id": "f5cf42cd-81b0-4880-8542-6919c2fe409a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-            },
-            {
-                "id": "01e17253-32f9-4f9f-9818-c1f939d62fd7",
-                "notes": "It can be changed according to what you need, choose any option beside.",
-                "action": "buy",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "c19a0c16-2bf5-41a5-ae6b-206729194cbd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "7c8cf1c1-ebf1-45c8-982c-ccab31acd742",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "63dab325-4210-4c20-abf9-90fb83d812d4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
-            },
-            {
-                "id": "37a64c8c-0625-475d-84f9-7189582e2ceb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
-            },
-            {
-                "id": "29bb9d73-160a-403c-bb41-16029e2608cc",
-                "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
-                "action": "buy",
-                "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-            },
-            {
-                "id": "a158f73f-1fe2-4c2c-8472-493ff0cbc1be",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-            },
-            {
-                "id": "6a992cc2-6615-4fde-8885-286724ffdd21",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
-            },
-            {
-                "id": "4357c05c-837e-482a-9845-91f415c7f80d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "3ac3b4ec-ebdd-4d47-8236-7694a1d721a6",
+                    "notes": "prioritize this, full power",
+                    "action": "buy",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "ed4cb83e-cc4b-4d6a-8873-171a3ce85eba",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ff9adeb1-362c-46a4-80ef-4e0eb07479cc"
+                },
+                {
+                    "id": "c7255d3d-ac2e-450e-88a2-7bcd91c7abb7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "bed989d2-88be-4d7f-93c1-945eb2774945",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "7cbeb5aa-6d51-4e5a-9b9d-fe38d1c28d43",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
+                },
+                {
+                    "id": "71fde38e-fd61-46a9-ad29-54ab990236a9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "eab7a855-f17c-4266-9efd-c2bd012d6648",
+                    "notes": "It can be changed according to what you need, choose any option beside.",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "57a5e437-1e6a-4346-9e26-091e398769c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "301fcf54-1e00-4166-960b-ec73aef1f032",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "4381e6d0-a6c6-419c-8f63-ff88b05543f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "01c6dcb3-d2e2-4c57-bd21-61d7b8f939c4"
+                },
+                {
+                    "id": "fc7bb990-7c12-40c0-9f2d-4843beb4f997",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
+                },
+                {
+                    "id": "f01e9510-86c1-4bae-9701-a31d557ff64d",
+                    "notes": "You can begin the first round with the round's 3 power if you are more used to use that initially. Personally I prefer to use firstly this power for having a little bit more healing a damage",
+                    "action": "buy",
+                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
+                },
+                {
+                    "id": "c81ba387-95ff-4aaf-971e-024dd302ea98",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "221bd8b7-c854-4425-9d59-f52a00c1e420",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                },
+                {
+                    "id": "637bea95-b0c6-4db5-bbef-c93fe1a400c6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b1305ee6-3027-4131-8797-dcbeb68e3953"
+                }
+            ]
+        }
+    ]
+}

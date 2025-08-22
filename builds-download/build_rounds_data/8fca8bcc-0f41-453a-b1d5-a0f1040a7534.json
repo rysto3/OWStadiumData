@@ -1,645 +1,666 @@
-[
-    {
-        "id": "8febf377-5839-47ba-85a3-da1af6c0177d",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "For Round 1 we want to take  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) and  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) as you'll want to farm damage and points for the first few rounds. Sometimes i swap between  [Ammo Reserves](item_982d53aa-5ef4-493f-93e7-9e374d0ebf34) and  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) depending on how i feel against their lineup (For example, if they have a reinhardt i will choose the extra ammo to help burst shield) \n\nYou'll want to try to stay alive while also doing as much damage as you can to farm those points, try to prioritize their support but also dont be afraid to shoot their tank as i said youll want to farm points.",
-        "stats": {
-            "LIFE": 250,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 250,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-22T00:20:41.803342+00:00",
+    "rounds": [
+        {
+            "id": "5ec451bb-f50c-4862-8583-a5645717d983",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "For Round 1 we want to take  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) and  [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) as you'll want to farm damage and points for the first few rounds. Sometimes i swap between  [Ammo Reserves](item_982d53aa-5ef4-493f-93e7-9e374d0ebf34) and  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) depending on how i feel against their lineup (For example, if they have a reinhardt i will choose the extra ammo to help burst shield) \n\nYou'll want to try to stay alive while also doing as much damage as you can to farm those points, try to prioritize their support but also dont be afraid to shoot their tank as i said youll want to farm points.",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 250,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "ed68df23-7f94-48b0-b40d-08792ce59294",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "c0d2e0f7-2992-449d-8118-37de79053f8b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "b743afe0-3a0e-45eb-8165-c5201707e8cb",
+                    "notes": "You can buy this if you need the extra ammo to shoot down a shield.",
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "2fbca644-685b-4575-bbe6-cc0b76fd3190",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "6fed2d2a-dd2f-46ed-9b64-465a69553d35",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "optional",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "8d91ae8a-cb8e-4a62-8bbd-6997178b8184",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e09a47db-3096-40ca-9863-de15a64c4b04",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "171e6f41-5ae3-48ac-b4e4-a60e410e3dfe",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "For Round 2 I like to get  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) as it gives 5% weapon power as well as 15% extra attack speed when you do damage which pairs well with  [Super Visor](item_b3db0ab0-26b4-4d99-893d-175f6726c9e9) \n\nIf you have enough you can also get  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) for extra damage or  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) and whatever else you can afford. You should try to go after a balance in attack speed and damage.",
+            "stats": {
+                "LIFE": 270,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 270,
+                "Attack Speed": 5,
+                "Weapon Power": 25,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "8c21b130-a114-4c6d-a2d7-87463989a5bf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "6d50093e-0693-4f5f-9bfa-a9c3c4969360",
-                "notes": "You can buy this if you need the extra ammo to shoot down a shield.",
-                "action": "optional",
-                "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
-            },
-            {
-                "id": "6ffbdc15-0c0a-4187-af66-67c51fc1aaac",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "0f88b252-6f72-46a4-8d32-1652a0c23089",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            }
-        ]
-    },
-    {
-        "id": "5fd90df0-4ad0-4cda-b01d-a6e222dc3c6a",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "For Round 2 I like to get  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) as it gives 5% weapon power as well as 15% extra attack speed when you do damage which pairs well with  [Super Visor](item_b3db0ab0-26b4-4d99-893d-175f6726c9e9) \n\nIf you have enough you can also get  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) for extra damage or  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) and whatever else you can afford. You should try to go after a balance in attack speed and damage.",
-        "stats": {
-            "LIFE": 276,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 276,
-            "Attack Speed": 5,
-            "Weapon Power": 25,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "86c1bd78-fac1-4650-a395-2568bbe883f8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "1b79b065-6ee4-4465-b6c0-fd0d13ae1603",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "74da6e03-3861-45bc-a2c7-60559db62304",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "8f2d910b-cd8a-4c69-9fd1-b82dba165e8e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "68d028a1-fcc9-4bc7-afec-bf767ab58b29",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "cb2f7f86-7e18-4240-bbe2-8c40a22e6444",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "bbfcca2c-498f-4e08-8345-9f64283f5ae7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "56f30e95-ae13-44f4-ad00-8616888fd664",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "ebc73f8c-2fc8-4bfb-a738-1e13b314b3e9",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "045ff849-82c9-4387-bfe0-86fa37fd1cdc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+        {
+            "id": "791212d4-5091-4f6d-8c15-59f2b552a583",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "For this round i like to keep what we have and try to get  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) as it pairs well with  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66), as long as youre doing damage (which is easy when you have  [Super Visor](item_b3db0ab0-26b4-4d99-893d-175f6726c9e9) youll be gaining an extra 25% attack speed. \n\nDepending on how much money you have i would say to sell  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) and get  [Stockpile](item_a113eb56-9999-4f22-9bd7-18f4dbd00cc2) as the more bullets you can shoot, the more damage per second youre able to do.\n\nIf you REALLY want to you can swap out  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) for  [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) if you want the extra attack speed at all times.",
+            "stats": {
+                "LIFE": 290,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 315,
+                "Attack Speed": 5,
+                "Weapon Power": 40,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "65aa5014-c95c-460c-a186-b5588a38c054",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "7fadfc18-643c-43d4-863c-48ec8460568c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "a5f2202f-139d-4c14-8f93-ca897e25f61d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
-            },
-            {
-                "id": "1369cea1-dc6e-42a7-b78c-53f9923ce960",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
-            },
-            {
-                "id": "355cf58d-62d4-441f-b768-d715df80d878",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "ba766230-1ca3-4167-80ca-4a6c308e0faa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "18871e8b-30bd-443c-9edd-d3c3c656f2fb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c107ed5a-91e5-406f-93a1-af54ebed4f42",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            }
-        ]
-    },
-    {
-        "id": "c4cfdbe6-f9bf-4b00-98bb-00e31aa8e130",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "For this round i like to keep what we have and try to get  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) as it pairs well with  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66), as long as youre doing damage (which is easy when you have  [Super Visor](item_b3db0ab0-26b4-4d99-893d-175f6726c9e9) youll be gaining an extra 25% attack speed. \n\nDepending on how much money you have i would say to sell  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) and get  [Stockpile](item_a113eb56-9999-4f22-9bd7-18f4dbd00cc2) as the more bullets you can shoot, the more damage per second youre able to do.\n\nIf you REALLY want to you can swap out  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) for  [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) if you want the extra attack speed at all times.",
-        "stats": {
-            "LIFE": 296,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 321,
-            "Attack Speed": 5,
-            "Weapon Power": 35,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "6f3f9e1a-e27d-485e-9e5a-8759be5e7e9c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "7ca0997f-bb9e-407d-9d8d-16b0e3e65f0c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "bbd4e32d-c8b3-4585-be6b-1814887e23ba",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "1603fc13-5a50-4ebc-a794-72c87392319b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "58e161e7-064d-4e43-906c-3b7acb02d4b9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "e24080b1-068a-4104-8cc5-665560f25020",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "f62caee7-3f4c-46dc-b8ed-36a69fd8b596",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "2d355ec0-661f-485b-a487-48fafeebc702",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "71c582b5-86ba-4254-8956-c050b89e29ee",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "4d8f0f57-37ce-4c40-9243-eb84be5c9f2e",
+                    "notes": "You can get this if you got Super Visor round 1 and they lack a shield, gives you more free damage and helps build up your ultimate",
+                    "action": "optional",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                },
+                {
+                    "id": "830ac169-5004-41bb-b793-956fd944cfcb",
+                    "notes": "Get this if you got chain gun on round 1",
+                    "action": "optional",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "a01d9b4e-2216-43e0-938c-5d78c92f8b5a",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "aaae5342-1ace-4a17-ab1a-7286b3114840",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "54153905-522f-4d91-9f65-eb018c0aee9f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "37d3331c-d3c6-4739-8b52-3cb6903829f8",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "This is where it starts to get fun, for this round youll want to get  [Bomb Diffusal Boots](item_c555901e-1b69-4040-8420-ee81cbaf6d90) (if its a good map to do so) which will allow you to jump very high into the sky and become a harder target to hit.\n\nHere you may want to balance out your damage and attack speed or id recommend keeping a little damage (10-20%) and trying to get as much ATK speed as you can afford.\n\nIf youre taking a lot of damage/dying a lot you can get  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) which would help with your healing doing more, as you use your helix rocket to get visor, you get those extra buffs for a few seconds which can help do additional damage.\n\nWe will want to keep  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) as well as  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) if they have armour or shields to provide that extra 25% ATK speed, if they dont have any armour or shields then get some more atk speed or weapon power.",
+            "stats": {
+                "LIFE": 345,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 370,
+                "Attack Speed": 20,
+                "Weapon Power": 40,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "27ac3362-1be8-4317-b420-83e7c7e2217e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "ced37405-bdd7-4b29-ab92-0177a4d5db36",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "2ff0746b-71c5-4767-bdc5-dca1adf27631",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-            },
-            {
-                "id": "b5ce4744-a6fd-4ad2-ae42-5b0f20be3073",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "78736735-efda-4194-a979-1f4b43106a36",
-                "notes": "You can choose this if they have a shield or if you think you can benefit more from continueous shooting.",
-                "action": "optional",
-                "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
-            },
-            {
-                "id": "dae09a10-7b20-41ee-a362-f06b5a6ad9c6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "b1efa549-8c15-4461-a6e5-1bd161771ff1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
-            },
-            {
-                "id": "df0746e3-f505-4e5e-96dd-5546d6bb35fa",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "f19bb71f-e244-488c-8f49-fce4f319c18e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "fd8caef2-d4cc-447f-883c-9aa495a23478",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "7dcccbfb-5070-40da-ac51-72493cf3aac7",
-                "notes": "If you chose Chaingun on the second round then get this one next",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            }
-        ]
-    },
-    {
-        "id": "25963e1d-7eb6-4d69-b116-bf0279bf0d0b",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "This is where it starts to get fun, for this round (if you havent won already) youll want to get  [Bomb Diffusal Boots](item_c555901e-1b69-4040-8420-ee81cbaf6d90) which will allow you to jump very high into the sky and become a harder target.\n\nHere you may want to balance out your damage and attack speed or id recommend keeping a little damage (10-20%) and trying to get as much ATK speed as you can afford.\n\nIf youre taking a lot of damage/dying a lot you can get  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) which would work very well as well as  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb), as you use your helix rocket to get visor, you get those extra buffs for a few seconds which can help do additional damage.\n\nWe will want to keep  [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) as well as  [Shieldbuster](item_9ee1f150-537d-40b9-b975-7820fb1c6a66) if they have armour or shields to provide that extra 25% ATK speed.",
-        "stats": {
-            "LIFE": 345,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 370,
-            "Attack Speed": 20,
-            "Weapon Power": 35,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "3add77ec-9661-434b-9cab-9564408b6229",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "e5b52e5b-cf4c-47e0-bc60-aaa90bd3145a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "e0cfa7a2-e68c-408d-b1c1-a448f8b0a209",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "ab9c751d-600b-4ce9-bb62-1465cd2ac7f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+                },
+                {
+                    "id": "55079b5d-791a-4864-a3ab-c7843bb6041f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "58fd4431-0c3f-45ca-9911-55bf74e0e2ad",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "915817f0-4832-4297-8ef2-97ad7f5503e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "554d94e6-bbe9-4aeb-a1f8-e0bc7bb6f36a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "c709af75-9324-4a32-944c-40c01071279f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "f436bf6a-441a-4568-8640-a49726341139",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "c8d2317b-6873-4005-989e-321ae62a9731",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "68e8facb-b615-4976-a825-d07f94f1760a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "ea93dbca-d8a0-48f9-98d1-ac329e270b04",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "By this round you should be dominating in any fifgt you get into, just rocket the floor and jump at the same time to get very high, and hold your shoot button and let the visor do most the damage, then you just need to aim to finish them off.\n\nIf you chose  [Chaingun](item_311b58a8-4cdf-480a-ba7a-0b69e6b77e3d) then i would recommend getting  [Stockpile](item_a113eb56-9999-4f22-9bd7-18f4dbd00cc2) for that extra ammo which will be converted to extra damage from the Chaingun buff. \n\nKeep buying items to increase damage/ATK speed, try to keep them in similar numbers however i like to get a little more atk speed than weapon power as it would result in more dps.\n [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f), [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) and  [Bomb Diffusal Boots](item_c555901e-1b69-4040-8420-ee81cbaf6d90) are the priority ones to have, you can use your initiative to buy for what you need. (if they have rein you can use  [Salvaged Slugs](item_019d6c60-36eb-42ec-8d6e-5bbb44a0db61) which pairs nicely with  [Chaingun](item_311b58a8-4cdf-480a-ba7a-0b69e6b77e3d) as well as putting a lot of pressure on their tank)",
+            "stats": {
+                "LIFE": 353,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 25,
+                "Move Speed": 0,
+                "Total LIFE": 378,
+                "Attack Speed": 25,
+                "Weapon Power": 40,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "946b8c9d-c6bb-43c1-b4af-d029a0f7faa3",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "e2efba93-83a6-4290-a764-694cf1de852e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "988bea7f-fa14-4040-8a29-bc9d7473f0eb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
-            },
-            {
-                "id": "6eb54eb7-6fcc-4242-b371-004f6122487c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "66e8e746-2341-4d9c-9e73-abbae7cd1726",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "238a9866-4eb1-46d2-8e0e-fe9234c02b10",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-            },
-            {
-                "id": "178f719c-213c-4b5d-a693-b150c24d5da3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "48f478fa-b510-4869-9f10-4e329be7d927",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "cd1a424f-78d5-4923-a6d5-d81763709762",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "3a128feb-a343-4c19-bfa6-c02eaff61ec1",
-                "notes": "If you chose Chaingun on the second round then get this one next",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            }
-        ]
-    },
-    {
-        "id": "643de45c-cce2-455f-847f-a8faa177ca91",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "By this round you should be rolling in any 1v1 you get into, just rocket the floor and jump at the same time to get very high, and hold your shoot button and let the visor do most the damage, then you just need to aim to finish them off.\n\nIf you chose  [Chaingun](item_311b58a8-4cdf-480a-ba7a-0b69e6b77e3d) then i would recommend getting  [Stockpile](item_a113eb56-9999-4f22-9bd7-18f4dbd00cc2) for that extra ammo which will be converted to extra damage from the Chaingun buff. \n\nKeep buying items to increase damage/ATK speed, try to keep them in similar numbers.\n [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) and  [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) are good options if you dont have those already.",
-        "stats": {
-            "LIFE": 353,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 25,
-            "Move Speed": 0,
-            "Total LIFE": 378,
-            "Attack Speed": 25,
-            "Weapon Power": 35,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "2954e5c2-f54c-44ad-aef9-2d5e172ef57c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "8a8f7d2f-f693-4c1d-865b-48762015ed8a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "e27b0ff1-dd8f-44e7-b234-6c462f463818",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "d65be2b3-5c7c-44d6-8ba5-61671c9c0c2d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+                },
+                {
+                    "id": "1cd290e7-5534-4557-87aa-6061ee9d3e61",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "611ceff9-514c-42a6-881e-a7b56e6bff43",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "ca5d0746-fa70-43ee-8d85-c2d4c1db4c31",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
+                },
+                {
+                    "id": "87b06ca6-bf03-47fe-84df-5771c55f6d97",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "405bbbaf-e4e7-496b-8826-0f606066dd2f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
+                },
+                {
+                    "id": "18ed8216-1cf4-43a3-af87-9245ef67508e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "c633cce1-0832-4797-ac4c-36bde4105c53",
+                    "notes": "Get this next if you got Super Visor and Peripheral Pulse",
+                    "action": "optional",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "48a363e5-d399-4094-bd17-ef790d072088",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "802287ae-e173-48ed-9385-7091cad5e83e",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "0487487c-cbd0-4233-a889-ee5b0da00a9e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "850b7c78-fa2d-49b0-a49d-30aef22915d5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+        {
+            "id": "3112a4eb-8268-4f37-a890-ca00fef814c1",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "Continue buying things for damage/ATK speed. You can sell the blue items  to get some purple if youre able to afford, for example selling  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) in order to get  [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) is definitely worth it.",
+            "stats": {
+                "LIFE": 361,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 25,
+                "Move Speed": 0,
+                "Total LIFE": 386,
+                "Attack Speed": 25,
+                "Weapon Power": 45,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "9cc910c5-05c8-4b85-9bbf-d23bf39a266a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "56145f7c-1b17-4139-b08f-92eb22bac1fc",
-                "notes": "If you chose Chainfun on the second round then get this one",
-                "action": "optional",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            },
-            {
-                "id": "1f6e42fd-8b4f-4572-a282-ef2ddc3fd3d5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "5ae85825-e8bb-4400-9650-65a7fd7fe9aa",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
-            },
-            {
-                "id": "d4aedb92-faa0-4432-888e-c563d6fd4f8d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "8cdf2c8d-0720-4312-89e9-beca47e169f3",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
-            },
-            {
-                "id": "4fda80f5-2753-4090-956e-aef556ab76bd",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-            },
-            {
-                "id": "b9e09ad1-d183-44e1-b729-b70d736c42a2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
-            },
-            {
-                "id": "31a86b8c-c83d-4831-a228-82a2513941a0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "982d53aa-5ef4-493f-93e7-9e374d0ebf34"
-            },
-            {
-                "id": "d0807cd3-fc54-4427-badb-1ebaa344d66c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "9f875245-899a-4591-96cc-b4ae11203bf6",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "f3b30cd4-c898-4222-ad20-ed5fd291c6f5",
-                "notes": "If you chose Chaingun on the second round then get this one next",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            },
-            {
-                "id": "f5a24b90-cdc7-40a6-ae6e-fa4a3da4d173",
-                "notes": "You can choose this if they have a shield or if you think you can benefit more from continueous shooting.",
-                "action": "buy",
-                "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
-            }
-        ]
-    },
-    {
-        "id": "2a958f06-3ef9-46ac-b30b-0ada99664ad6",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "Continue buying things for damage/ATK speed. You can sell the blue items  to get some purple if youre able to afford, for example selling  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) in order to get  [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) is definitely worth it.",
-        "stats": {
-            "LIFE": 361,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 25,
-            "Move Speed": 0,
-            "Total LIFE": 386,
-            "Attack Speed": 25,
-            "Weapon Power": 40,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "a3eb2f92-b7ed-42bc-bbd8-0f21d1034e8b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "646aaa1d-17f8-4037-ab48-e8b36ecf3192",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "a7f53f73-4b0f-41ff-bca0-7b0d99f25d59",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "81975e92-e368-4e45-95c9-ba2e9f64cee5",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "0cd6c32f-5154-474c-873b-10e6b2e03b2a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "9f38ef58-f217-4781-bf6f-ac627d2ba09d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "c63e9f13-bdec-414b-bf5e-186b1395ecde",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "3bb43a51-0391-41bb-90f2-9b80d0bd8c41",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+                },
+                {
+                    "id": "579bed52-7f3d-410c-9e29-a7b9aec78feb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "f1352d8e-5487-4abe-8c00-9b9979717633",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "26f03fa6-79ff-40a0-bf9a-96834275820f",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "f880ab2d-1f69-4ae2-b73a-dde832eb0043",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "2a20f0e8-c432-4c6a-aa2b-8648c69a304e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "15bb76f3-79a6-4990-9497-c55aa9156300",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+        {
+            "id": "90f77891-a6c1-45de-8fc7-bc0002ea69ab",
+            "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T00:20:41.803342+00:00",
+            "notes": "For this round just do the same but youre able to play a little more aggresive as you have [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7), youll want to use your biotic field, rocket jump into the sky and then shred anyone that youre able to see.",
+            "stats": {
+                "LIFE": 395,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 0,
+                "Total LIFE": 420,
+                "Attack Speed": 30,
+                "Weapon Power": 55,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "7c6c071b-6f67-425a-8af0-3af76e4ff726",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "119e3a49-3976-4084-adcd-76c7994b05f0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "05cf0850-b8b9-4c3d-830d-f5c03403a580",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-            },
-            {
-                "id": "5c716488-d4c1-40ff-bf15-9ee2ec50603e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "5fac0d83-0d1a-4d80-b962-376f24f86ae1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "5cbf5e62-9d6a-4b14-b725-6a2681c1abe4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "aee16c6e-8787-4f42-bf58-7aafc2a5324e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
-            },
-            {
-                "id": "a9b701de-6164-485c-a27c-8033bdb57238",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "9cfbd18e-4abd-4831-995e-08be2baabb68",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
-            },
-            {
-                "id": "a51812f3-6d98-48bc-8917-42c1fc2fcc75",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "06e5b7ef-b86f-4fda-99f6-a55f68c8d7a2",
-                "notes": "If you chose Chaingun on the second round then get this one next",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            },
-            {
-                "id": "cf98e5f4-c3ce-4499-99c4-e30f07bbab0e",
-                "notes": "You can choose this if they have a shield or if you think you can benefit more from continueous shooting.",
-                "action": "buy",
-                "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
-            }
-        ]
-    },
-    {
-        "id": "0b9b07cb-6ff2-4433-8a67-7d6a6952f07e",
-        "build_id": "8fca8bcc-0f41-453a-b1d5-a0f1040a7534",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-08-03T01:43:13.516036+00:00",
-        "notes": "For this round just do the same but youre able to play a little more aggresive as you have [On Me!](item_cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7), youll want to use your biotic field, rocket jump into the sky and then shred anyone that youre able to see.",
-        "stats": {
-            "LIFE": 395,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 40,
-            "Move Speed": 0,
-            "Total LIFE": 420,
-            "Attack Speed": 30,
-            "Weapon Power": 50,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "8ea8c6f8-0b46-4a6f-a170-34969f814f93",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "353c445a-e6e1-42b8-aca5-9927faee7ce4",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
-            },
-            {
-                "id": "19598a40-8de2-4fd7-86d1-700b952d3c69",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "83e6f73a-50fe-4a93-90a5-0bb0b76600bb",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
-            },
-            {
-                "id": "a303e7ab-63fd-4854-bbd6-9ab29d4272e0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "1d2ca2c6-40f2-4feb-8207-61827cfc4d7e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
-            },
-            {
-                "id": "5052d37e-5df6-46f1-9259-1382c6cf55b7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "af2428ac-51b9-4fd1-bc36-935ed2baa60b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-            },
-            {
-                "id": "7aaf11e6-70f8-41ae-9e19-30769f18baad",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "a0d2f26c-f288-4ac7-a93c-6429ae322c04",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
-            },
-            {
-                "id": "525b5887-1e06-49ed-bb8d-268c23dc3ceb",
-                "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
-                "action": "buy",
-                "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
-            },
-            {
-                "id": "7339fd9f-37ed-494d-ba89-b969ed5e9499",
-                "notes": "If you chose Chaingun on the second round then get this one next",
-                "action": "buy",
-                "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
-            },
-            {
-                "id": "2b194992-819c-43c1-9e75-dd87ea0ee7c2",
-                "notes": "You can choose this if they have a shield or if you think you can benefit more from continueous shooting.",
-                "action": "buy",
-                "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
-            },
-            {
-                "id": "ebd1a09d-88f9-4efe-a1a9-77aab5bcb09e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "72ba4d8b-4ea3-48f4-9694-25d7320b4e20",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "71ca7613-2bef-4739-b484-8fe10e08c7de",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c555901e-1b69-4040-8420-ee81cbaf6d90"
+                },
+                {
+                    "id": "6de2eed7-c335-47a3-bd30-86b9b37ac78f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "bef453ef-2ee5-4b2e-9e5d-26322d696dce",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "b47d5519-52eb-48b8-be27-a6234e36c7e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "9544790e-0792-49cc-8f3e-c8f5b2fbc121",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "33c5a8bd-d96d-42ce-a06e-e2afcd65f7f0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "5efc5f25-8f21-47af-a368-4cd2cf6e7630",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "7734d71f-486f-40fb-9086-036a37ecdd40",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "c776985c-7c33-4206-be03-dc56713f751d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
+                },
+                {
+                    "id": "b5ca3100-d1f2-4245-abbe-8f2f3b240976",
+                    "notes": "You can get this if you want to go full agressive as youll have a LOT of ammo which syngergies well with Chaingun. You wont need any ammo perks if you get this.",
+                    "action": "optional",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "dc2bc81b-6f98-450c-b8c7-2d892dd7f5c8",
+                    "notes": "This will allow you to farm free points anytime you use your rockets as it gives you free damage which ultimately means free points.",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "b2c721ae-9210-4780-859d-08b7acc59e1c",
+                    "notes": "You can pick this if they have a rein, continuous shooting will help shred his shield more",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "860d2509-6d19-4336-b7d3-0c68f3c3a1dd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                },
+                {
+                    "id": "cce716e6-98cf-4b37-93c3-a73e42fc1a64",
+                    "notes": "This is good for survivability",
+                    "action": "buy",
+                    "upgrade_id": "cd2a0247-bc79-4f0b-b9ee-d985e3f9a9a7"
+                }
+            ]
+        }
+    ]
+}

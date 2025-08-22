@@ -1,561 +1,564 @@
-[
-    {
-        "id": "ad54b19d-7f96-4278-859f-30895179376a",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:14.806255+00:00",
-        "notes": "In Round 1 we want to gather as much money as possible. We already have good survivability with Restortify, so we focus on dealing damage.",
-        "stats": {
-            "LIFE": 150,
-            "Armor": 325,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 479,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-07T14:28:14.587848+00:00",
+    "rounds": [
+        {
+            "id": "ad54b19d-7f96-4278-859f-30895179376a",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:14.806255+00:00",
+            "notes": "In Round 1 we want to gather as much money as possible. We already have good survivability with Restortify, so we focus on dealing damage.",
+            "stats": {
+                "LIFE": 150,
+                "Armor": 325,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 479,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "630ba951-0a82-44d0-930f-155152df2eea",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "af264eb5-9b7f-42cf-a04a-53d895488868",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "28e53b30-c994-4fd4-8cbf-8697f412b71d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "cf422c90-3980-454c-bcc0-bac55cc55275",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "630ba951-0a82-44d0-930f-155152df2eea",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "da1ebb13-7e2a-496b-9e68-042db9e542be",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:15.201604+00:00",
+            "notes": "In Round 2 we increase our durability with Charged Chassis and Solar Regenergy. These two powers make it very difficult to finish Orisa.\n\nIf you have enough credits, pick up Icy Coolant so we can gather more coin.",
+            "stats": {
+                "LIFE": 189,
+                "Armor": 325,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 514,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "af264eb5-9b7f-42cf-a04a-53d895488868",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "28e53b30-c994-4fd4-8cbf-8697f412b71d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "cf422c90-3980-454c-bcc0-bac55cc55275",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            }
-        ]
-    },
-    {
-        "id": "da1ebb13-7e2a-496b-9e68-042db9e542be",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:15.201604+00:00",
-        "notes": "In Round 2 we increase our durability with Charged Chassis and Solar Regenergy. These two powers make it very difficult to finish Orisa.\n\nIf you have enough credits, pick up Icy Coolant so we can gather more coin.",
-        "stats": {
-            "LIFE": 189,
-            "Armor": 325,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 514,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "4705ffff-2e62-4ffc-91f3-7d440ad68dc0",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "c08c2f4f-e799-46fe-a5f3-a0cb5ffbc3bf",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "975b2c26-2d6d-4535-8c56-538a91c9889a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "d412b5d5-9de0-4dca-b411-c93731142a41",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "d8f0fd4d-9508-48e1-971d-da3dded31c16",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "30023969-6599-46d8-999e-537a0e382bbe",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
+                },
+                {
+                    "id": "51ce0b9a-1ace-43ec-9a85-420b4722ed32",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "4705ffff-2e62-4ffc-91f3-7d440ad68dc0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "cf56d446-76a3-4315-8943-69f8c8883927",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:15.552256+00:00",
+            "notes": "In Round 3 we pick up our first Epic ability: Efi's Theorem.\n\nThis ability works wonders with our Powers that revolve around Fortify: we heal for longer, and Hooves of Steel is active for longer, meaning we acquire more shield.\n\nTip:\nThis is really useful for rushing the point at the start of an encounter. Opponents will tend to use their abilities which we absorb and turn into shield.",
+            "stats": {
+                "LIFE": 203,
+                "Armor": 325,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 528,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 20,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "c08c2f4f-e799-46fe-a5f3-a0cb5ffbc3bf",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "975b2c26-2d6d-4535-8c56-538a91c9889a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "d412b5d5-9de0-4dca-b411-c93731142a41",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "d8f0fd4d-9508-48e1-971d-da3dded31c16",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "30023969-6599-46d8-999e-537a0e382bbe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
-            },
-            {
-                "id": "51ce0b9a-1ace-43ec-9a85-420b4722ed32",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            }
-        ]
-    },
-    {
-        "id": "cf56d446-76a3-4315-8943-69f8c8883927",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:15.552256+00:00",
-        "notes": "In Round 3 we pick up our first Epic ability: Efi's Theorem.\n\nThis ability works wonders with our Powers that revolve around Fortify: we heal for longer, and Hooves of Steel is active for longer, meaning we acquire more shield.\n\nTip:\nThis is really useful for rushing the point at the start of an encounter. Opponents will tend to use their abilities which we absorb and turn into shield.",
-        "stats": {
-            "LIFE": 203,
-            "Armor": 325,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 528,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 10,
-            "Ability Lifesteal": 20,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "e5d42895-38de-4a9d-aebd-63eb028a4d7b",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "db4280bd-da77-4185-b10a-f7bb7b5fd8b4",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "c7047542-b78b-4d9f-98ac-984a55807e10",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "849fb313-7824-4c29-90df-b342a69f1400",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "2af6ce8a-9282-4223-928f-eaf443a79b6f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "3af4a4ea-b9f0-4bcb-8608-604efc4c2162",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
+                },
+                {
+                    "id": "99ea0558-bc9a-4fc8-8717-c66819147279",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
+                },
+                {
+                    "id": "33d3bc1a-eadc-4431-aad9-cd0c3e5a34de",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e5d42895-38de-4a9d-aebd-63eb028a4d7b",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "942fd052-b931-4837-82de-4d33038489cb",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:16.21634+00:00",
+            "notes": "In Round 4 we pick up the final piece of our durability kit: Rustung von Wilhelm.\n\nThis boosts our overall defense stats and makes Orisa extremely difficult to kill.\n\nNotes:\n- Martian Mender is a good alternative here, as is Vanadium Injection if you find yourself gaining Ultimate Charge fast and it's ineffective against opponents.",
+            "stats": {
+                "LIFE": 227,
+                "Armor": 340,
+                "Shield": 15,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 582,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 20,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "db4280bd-da77-4185-b10a-f7bb7b5fd8b4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c7047542-b78b-4d9f-98ac-984a55807e10",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "849fb313-7824-4c29-90df-b342a69f1400",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "2af6ce8a-9282-4223-928f-eaf443a79b6f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "3af4a4ea-b9f0-4bcb-8608-604efc4c2162",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
-            },
-            {
-                "id": "99ea0558-bc9a-4fc8-8717-c66819147279",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
-            },
-            {
-                "id": "33d3bc1a-eadc-4431-aad9-cd0c3e5a34de",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
-            }
-        ]
-    },
-    {
-        "id": "942fd052-b931-4837-82de-4d33038489cb",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:16.21634+00:00",
-        "notes": "In Round 4 we pick up the final piece of our durability kit: Rustung von Wilhelm.\n\nThis boosts our overall defense stats and makes Orisa extremely difficult to kill.\n\nNotes:\n- Martian Mender is a good alternative here, as is Vanadium Injection if you find yourself gaining Ultimate Charge fast and it's ineffective against opponents.",
-        "stats": {
-            "LIFE": 227,
-            "Armor": 340,
-            "Shield": 15,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 582,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 20,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "7b3adb0c-781f-4241-9531-e2f237b5b07d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "136f75f2-0edb-4698-a697-68eb187dbd3e",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "f913c888-d204-47a4-9377-b3f9d83e970e",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "b6d18226-8f20-4ca0-b8ec-b830c53d641f",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
+                },
+                {
+                    "id": "87888e79-67b9-4e22-8fa1-7dbbf702847a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "cb424e10-ddcc-4a63-9bbb-bd4649120c91",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
+                },
+                {
+                    "id": "f8a50ce7-ba9a-4315-aa22-ab8d18faed02",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
+                },
+                {
+                    "id": "91e211ff-8241-4cf6-838e-21db6600cff5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
+                },
+                {
+                    "id": "85ac4685-8272-4de8-a58d-01c326346302",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "83564657-b060-4c90-97ca-63019a23ff9b",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "59e4c4e0-f644-44b0-98b3-880ee11fe645",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "7b3adb0c-781f-4241-9531-e2f237b5b07d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "9f395b07-65ed-4dc0-a689-984a0fcd9a37",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:16.55739+00:00",
+            "notes": "In Round 5 we catch everyone off-guard by switching to a damage dealing Juggernaut!\n\nBy selecting the Power Scorched Earth we deal a huge amount of area damage whenever we Overheat. This is wildly effective for holding down the flag. \n\nSelecting Shieldbuster weapon upgrade helps activate Overheat much more quickly. (If you have enough money, Weapon Jammer epic helps activate even faster - I prefer this over Booster Jets since we get armor and weapon buff too).\n\nTo counterattack being vulnerable during Overheat we select the Electro Lights weapon upgrade so we're constantly overheating and dealing crazy damage.",
+            "stats": {
+                "LIFE": 238,
+                "Armor": 340,
+                "Shield": 15,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 593,
+                "Attack Speed": 10,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 20,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "136f75f2-0edb-4698-a697-68eb187dbd3e",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "f913c888-d204-47a4-9377-b3f9d83e970e",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "b6d18226-8f20-4ca0-b8ec-b830c53d641f",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "25869f9a-9a29-4e19-96b6-9d8a28c59318"
-            },
-            {
-                "id": "87888e79-67b9-4e22-8fa1-7dbbf702847a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "cb424e10-ddcc-4a63-9bbb-bd4649120c91",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
-            },
-            {
-                "id": "f8a50ce7-ba9a-4315-aa22-ab8d18faed02",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
-            },
-            {
-                "id": "91e211ff-8241-4cf6-838e-21db6600cff5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
-            },
-            {
-                "id": "85ac4685-8272-4de8-a58d-01c326346302",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "83564657-b060-4c90-97ca-63019a23ff9b",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "59e4c4e0-f644-44b0-98b3-880ee11fe645",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            }
-        ]
-    },
-    {
-        "id": "9f395b07-65ed-4dc0-a689-984a0fcd9a37",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:16.55739+00:00",
-        "notes": "In Round 5 we catch everyone off-guard by switching to a damage dealing Juggernaut!\n\nBy selecting the Power Scorched Earth we deal a huge amount of area damage whenever we Overheat. This is wildly effective for holding down the flag. \n\nSelecting Shieldbuster weapon upgrade helps activate Overheat much more quickly. (If you have enough money, Weapon Jammer epic helps activate even faster - I prefer this over Booster Jets since we get armor and weapon buff too).\n\nTo counterattack being vulnerable during Overheat we select the Electro Lights weapon upgrade so we're constantly overheating and dealing crazy damage.",
-        "stats": {
-            "LIFE": 238,
-            "Armor": 340,
-            "Shield": 15,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 593,
-            "Attack Speed": 10,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 20,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "a076eb60-c44a-4c82-990e-1ca361b47249",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "886d3593-1193-4ecf-b890-e5c819c3e645",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "05bba20e-4370-470e-8208-da294175eeb9",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
+                },
+                {
+                    "id": "504b011c-54cf-4200-8b89-6836415c7f61",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
+                },
+                {
+                    "id": "75261ae0-7eb7-4d26-9087-8a85093e936b",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
+                },
+                {
+                    "id": "9ddea535-ac95-4a57-8b4f-b74d684efcf8",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "fdeb8874-8087-46b5-9258-550f5ebd04c6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
+                },
+                {
+                    "id": "e10fe5ed-c3b5-4279-9214-a4f0de3501e0",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
+                },
+                {
+                    "id": "0e2d1081-c50d-43c4-a868-cdffaae66285",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "5e1b90e8-b8f7-460a-a5ef-38a1198e09b1",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "a076eb60-c44a-4c82-990e-1ca361b47249",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "c6ae138d-5ca0-47b8-b617-6fc9010af56d",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:16.890974+00:00",
+            "notes": "In Round 6 we ideally pick up Vanadium Injection if you haven't already.\n\nThis improves all our stats, and I find that getting Ultimate Charge is not a problem as we're dealing filthy amounts of area damage. It also gives us extra shields and health which is channelled into that area damage.",
+            "stats": {
+                "LIFE": 254,
+                "Armor": 365,
+                "Shield": 65,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 684,
+                "Attack Speed": 10,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 20,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "886d3593-1193-4ecf-b890-e5c819c3e645",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "05bba20e-4370-470e-8208-da294175eeb9",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
-            },
-            {
-                "id": "504b011c-54cf-4200-8b89-6836415c7f61",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
-            },
-            {
-                "id": "75261ae0-7eb7-4d26-9087-8a85093e936b",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
-            },
-            {
-                "id": "9ddea535-ac95-4a57-8b4f-b74d684efcf8",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "fdeb8874-8087-46b5-9258-550f5ebd04c6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
-            },
-            {
-                "id": "e10fe5ed-c3b5-4279-9214-a4f0de3501e0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
-            },
-            {
-                "id": "0e2d1081-c50d-43c4-a868-cdffaae66285",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-            },
-            {
-                "id": "5e1b90e8-b8f7-460a-a5ef-38a1198e09b1",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            }
-        ]
-    },
-    {
-        "id": "c6ae138d-5ca0-47b8-b617-6fc9010af56d",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:16.890974+00:00",
-        "notes": "In Round 6 we ideally pick up Vanadium Injection if you haven't already.\n\nThis improves all our stats, and I find that getting Ultimate Charge is not a problem as we're dealing filthy amounts of area damage. It also gives us extra shields and health which is channelled into that area damage.",
-        "stats": {
-            "LIFE": 254,
-            "Armor": 365,
-            "Shield": 65,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 684,
-            "Attack Speed": 10,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 20,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "e13fa029-a382-4f41-858c-17504991f3fa",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "9faf9724-d565-47bb-b119-3b27e8d90e93",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "c26e1ae5-8f75-4f4d-a618-39a685b9b063",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
+                },
+                {
+                    "id": "15ebdfb4-6317-4912-b5dd-992e728f447d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
+                },
+                {
+                    "id": "118d70e2-c512-4c0a-a331-fbc311aea910",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
+                },
+                {
+                    "id": "7e4dbf4b-0270-422f-ad62-b4f19a5af297",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "e8de0a7f-5f14-41be-8af4-d6c6f9f8dd9f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
+                },
+                {
+                    "id": "ad1aa53d-9d98-471e-8307-ba5b7bc76cb5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
+                },
+                {
+                    "id": "0afc0502-b6f6-45fa-8999-e0c79e956e71",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
+                },
+                {
+                    "id": "a15da522-3bc9-4104-97e4-bcac07ecb2ca",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "4892c051-c0b6-43b8-8e4c-7528e0780811",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "ccfc338f-9d78-4151-8972-d2a4b5906546",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "358d93ab-617b-41e7-8df3-ac78d0d8c680"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e13fa029-a382-4f41-858c-17504991f3fa",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+        {
+            "id": "c313a2fe-698f-46bb-a15e-2b266be3a751",
+            "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-07T14:28:17.217947+00:00",
+            "notes": "In Round 7 we pick up \"Ride with me\". Your teammates will thank you for this as we improve their survivability and become the team spearhead.\n\nEarlier on we improved Fortify duration so allies are getting extra overhealth and movement speed duration.  \n\nWe don't actually have to spend that much in the final round, but you can pick up Booster Jets if you want to increase area damage against close-range enemies.\n\nOr pick up Martian Mender if the enemy team has good ranged DPS.",
+            "stats": {
+                "LIFE": 254,
+                "Armor": 365,
+                "Shield": 65,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 684,
+                "Attack Speed": 10,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 20,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "9faf9724-d565-47bb-b119-3b27e8d90e93",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "c26e1ae5-8f75-4f4d-a618-39a685b9b063",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "b03b2c68-d3e3-413a-a9b8-3385149ba9b8"
-            },
-            {
-                "id": "15ebdfb4-6317-4912-b5dd-992e728f447d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
-            },
-            {
-                "id": "118d70e2-c512-4c0a-a331-fbc311aea910",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
-            },
-            {
-                "id": "7e4dbf4b-0270-422f-ad62-b4f19a5af297",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "e8de0a7f-5f14-41be-8af4-d6c6f9f8dd9f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
-            },
-            {
-                "id": "ad1aa53d-9d98-471e-8307-ba5b7bc76cb5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
-            },
-            {
-                "id": "0afc0502-b6f6-45fa-8999-e0c79e956e71",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-            },
-            {
-                "id": "a15da522-3bc9-4104-97e4-bcac07ecb2ca",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "4892c051-c0b6-43b8-8e4c-7528e0780811",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "ccfc338f-9d78-4151-8972-d2a4b5906546",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "358d93ab-617b-41e7-8df3-ac78d0d8c680"
-            }
-        ]
-    },
-    {
-        "id": "c313a2fe-698f-46bb-a15e-2b266be3a751",
-        "build_id": "be7254fb-4fe1-4e83-b0fe-2460c6554b1e",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-07T14:28:17.217947+00:00",
-        "notes": "In Round 7 we pick up \"Ride with me\". Your teammates will thank you for this as we improve their survivability and become the team spearhead.\n\nEarlier on we improved Fortify duration so allies are getting extra overhealth and movement speed duration.  \n\nWe don't actually have to spend that much in the final round, but you can pick up Booster Jets if you want to increase area damage against close-range enemies.\n\nOr pick up Martian Mender if the enemy team has good ranged DPS.",
-        "stats": {
-            "LIFE": 254,
-            "Armor": 365,
-            "Shield": 65,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 684,
-            "Attack Speed": 10,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 20,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "7d5e899c-0e57-4c02-bebb-d95762e60b11",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
-            },
-            {
-                "id": "958f8972-ed23-4e7c-8d54-6e32fc08a8ef",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
-            },
-            {
-                "id": "f2c85312-03bc-4779-a4b8-8efc8c5a0aac",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
-            },
-            {
-                "id": "368ee606-4737-4758-93fe-920562cab092",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
-            },
-            {
-                "id": "480ab749-a59a-4c75-ad75-b0e0b6e46097",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "4b9d3b0e-1ec2-4f1b-a480-46c06afd188f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
-            },
-            {
-                "id": "48087b3c-989f-4aff-9bb6-c3bf6989823c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
-            },
-            {
-                "id": "670b294a-09f1-44f9-b43a-7eed44701932",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-            },
-            {
-                "id": "e6a06190-0356-45f5-a97d-c64d51285c47",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "4e8da193-a1c8-43b4-bb7d-07c926768f80",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "40de0b02-ce4b-4a66-8d1c-a129af10caec"
-            },
-            {
-                "id": "7f319a8c-face-4b3d-9a44-5809763590bc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "9eb74493-8955-437b-9641-dbe53e2e55f2",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "7d5e899c-0e57-4c02-bebb-d95762e60b11",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "e5073fbb-8287-4d11-934a-1fc1c57a308b"
+                },
+                {
+                    "id": "958f8972-ed23-4e7c-8d54-6e32fc08a8ef",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "b2307dff-5e70-4c77-bae2-2b0c2883c5bb"
+                },
+                {
+                    "id": "f2c85312-03bc-4779-a4b8-8efc8c5a0aac",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "ee26ce74-568d-47ed-8dcf-fb5cc0fbac9d"
+                },
+                {
+                    "id": "368ee606-4737-4758-93fe-920562cab092",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "609c4cb6-a232-4e08-a11f-5252d40382be"
+                },
+                {
+                    "id": "480ab749-a59a-4c75-ad75-b0e0b6e46097",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "4b9d3b0e-1ec2-4f1b-a480-46c06afd188f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "649ab2ad-f6c3-47e2-896b-23df8e0cb310"
+                },
+                {
+                    "id": "48087b3c-989f-4aff-9bb6-c3bf6989823c",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "d4ac5963-81ea-41b8-bc26-71905fadf860"
+                },
+                {
+                    "id": "670b294a-09f1-44f9-b43a-7eed44701932",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "e6a06190-0356-45f5-a97d-c64d51285c47",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "4e8da193-a1c8-43b4-bb7d-07c926768f80",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "40de0b02-ce4b-4a66-8d1c-a129af10caec"
+                },
+                {
+                    "id": "7f319a8c-face-4b3d-9a44-5809763590bc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "9eb74493-8955-437b-9641-dbe53e2e55f2",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                }
+            ]
+        }
+    ]
+}

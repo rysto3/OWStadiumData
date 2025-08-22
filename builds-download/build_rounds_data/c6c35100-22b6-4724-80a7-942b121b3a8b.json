@@ -1,525 +1,654 @@
-[
-    {
-        "id": "de9a2991-04f0-436c-a127-fdb22fc1a2c3",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:55.637976+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 225,
-            "Armor": 25,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 275,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-20T21:20:11.295316+00:00",
+    "rounds": [
+        {
+            "id": "b52af56f-6e78-4d32-85ff-b27edc3ff991",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 250,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "9fc0387e-eaaa-4971-b09f-930fcea5f556",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "7d2f9ec0-5d0d-4a84-9e63-2bfe0cf50ed3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "011146bd-6ec9-4969-8d64-fbc5d9a7a7c6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "090bdedc-1b2f-49d5-b44e-4677c015ea09",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "9cedde40-78a9-4ee2-aee0-099456a9927b",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "c7ef84a6-8660-43e4-aae4-8a3a68edce25",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 152,
+                "Armor": 110,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 262,
+                "Attack Speed": 0,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "15598960-1220-4388-a489-0a0de5c9895a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "48779c1f-9abb-43fc-89be-e7691ffecda9",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-            },
-            {
-                "id": "29d2749e-c000-428c-aac0-74f274a89ab6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            }
-        ]
-    },
-    {
-        "id": "071aae77-fe61-4dd7-b6ef-8460570d9136",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:55.922847+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 248,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 248,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 20,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "bb3c0b85-5a68-4092-8240-548405985246",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "fb2236e4-8fcc-42ed-98c7-d488eff7c7f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "57e85f78-7b78-4f63-9ddf-0edb6e86172c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "38ae4c08-4159-4728-ba6e-0aee795f6c96",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "07bac30a-40f4-4cf8-a56b-c6dbd7c4bf89",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "204628b8-ab6b-4ba5-9208-7e4d3e270b99",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "1a1422ac-98c8-473b-af06-9b9911243308",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "b08f5fc2-5d5b-498c-9276-8b0ecc3fe123",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "74b3f4ef-3462-40ed-a2b0-38ce34055711",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "c1c90ae4-99c1-4a5e-9807-846cb029e24f",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d258073b-3fa4-406d-9b48-6aedd0845353",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "66563c70-5549-417b-8165-24d4a1827a1b",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 195,
+                "Armor": 110,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 305,
+                "Attack Speed": 10,
+                "Weapon Power": 20,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "392fbf69-ed24-4e88-97ec-f645c58c6089",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "c46467fa-1398-407e-ad60-069bdffb1906",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-            },
-            {
-                "id": "ccd7b817-5190-47c1-9a3a-f9d399369421",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "a0d08c16-053c-4fd7-95cc-59b83490fad4",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "9d8f1c28-a44b-407b-b925-c6ac6217d879",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "4a6dda3b-9507-4e47-88cd-d5568ec49016",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            }
-        ]
-    },
-    {
-        "id": "ae9848eb-8e26-4fb6-99b8-87bbabd7e9c5",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:56.145153+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 261,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 311,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "17b444f3-b669-43c9-ab3f-6d763c2378a9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "ad7f0700-ca0c-4306-8532-f68f3cc08095",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "4cd37385-fbe6-4dd5-8814-c17d20f26468",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "017d689f-354c-46cb-99f2-e5df9666c09d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "47d33316-1b10-4173-ae8b-c71282377934",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "faccb659-eaec-430f-911c-14448cf24798",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "0e7126fa-29cb-4f15-8646-c0516bcfcfd9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "e7c71edc-fcb7-4db1-9a1b-5c34a854b0f2",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "d1173569-b192-4f88-af22-adc86cc83eb4",
+                    "notes": "Serenity is one of Mercy's best source of Survival as long as you are healing; Can't save people if you are dead!\n\nWe are not using The Whambulance yet, since we won't be able to get enough Ability Power to make it worth it just yet.",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "93c48c0b-3989-4a66-8d82-c94b4f3ed88c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "db540fe5-aecc-42fa-a605-01edd00ce26a",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 208,
+                "Armor": 110,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 318,
+                "Attack Speed": 5,
+                "Weapon Power": 35,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "3903b04f-c7e1-4196-83fc-891bf09ca64f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "69e64af2-47ee-4bab-b93f-a73eaad03081",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "79631619-cdfd-4240-a006-77343cb9da45",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "79d35b2a-f134-4177-b412-6effdd515660",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "e3d34e9c-d756-47b3-af42-80a0d91879c3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "6afd24d0-ff27-4a14-9f23-5c547ce86310",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "1d87ff4c-9175-46b8-bd02-1b7ae736962e",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            }
-        ]
-    },
-    {
-        "id": "f7399eee-8a62-4c5f-8563-41a6a3cc74f4",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:56.340955+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 273,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 323,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 25,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "5ad4f455-7cc9-4dee-90bc-52c5677f6148",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "46359c55-84e0-4225-9416-8792272d57e2",
+                    "notes": "Optional; This item works really well with this build, since you can heal from further away. This complements Round 5's Power (The Whambulance) really well and allows you to play safely, but this can be swapped out if you need another purple",
+                    "action": "buy",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "db3967d0-abbc-493a-9be2-4fe3c475bd31",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "5edf70a4-c3a6-4c5f-a6a6-60ca485cdfd3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "00b6420a-e18e-4af7-8d86-de82e159585a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "c41d7fea-bd6a-4248-b22b-7c2fe6374426",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "decb3d0e-1414-4d40-99a1-61c214a49dc2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "49d33f19-e7e6-4bc2-b5a8-e30fc3835187",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "92057dc3-001e-45c0-b38e-2ee92875002d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "7e645aec-322c-4093-a5c3-00218a4cd799",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "b3bb108b-0ccf-47b5-bb3e-21e043206f9a",
+                    "notes": "Serenity is one of Mercy's best source of Survival as long as you are healing; Can't save people if you are dead!\n\nWe are not using The Whambulance yet, since we won't be able to get enough Ability Power to make it worth it just yet.",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "41217e72-6570-4aa0-8abb-c258a48ae59d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "6f78fc11-fb01-4871-8402-9647249daf63",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "This is where the build becomes hybrid. \n\nWe keep some [Weapon Power](stat_weapon_power) to keep our Caduceus Staff healing high enough, while investing in some good [Ability Power](stat_ability_power) items that work great with Mercy.\n\n[The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) Power is good to **burst heal** someone in trouble.\n\n______________\n\n\u2694\ufe0f ITEMS\n\n\u2728[Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n- Absolutely amazing for Mercy's survivability. This is a must with [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), given its 15% [Ability Power](stat_ability_power) and how much survivability it gives\n\n[Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) \n- This is a great item for movement, survivability and healing; You get a lot of [Move Speed](stat_move_speed), survivability from triggering [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) more often, and healing from the speed at which you can Guardian Angel and arrive to an ally to trigger [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9).\n\n[Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88)\n- Great since [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9)'s healing is distance based; It's best to Guardian Angel from the furthest distance possible.",
+            "stats": {
+                "LIFE": 329,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 379,
+                "Attack Speed": 0,
+                "Weapon Power": 25,
+                "Ability Power": 35,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "03aebbd0-d09e-45e9-b592-4e270ee6c9d0",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "f48a3f23-4c86-4714-a8a0-a2645dcdb19f",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "eef1a2b6-6e8a-4176-9e25-f315cb2b2883",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "d9a113a0-5e23-4002-8a82-90ab4a7dc6f8",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "abd40d03-a3c6-4d94-969a-71c30532de11",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            }
-        ]
-    },
-    {
-        "id": "fe14a415-d85d-43d4-a0d0-0f79d5de85d5",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:56.544079+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 295,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 345,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 35,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "31f84663-c659-484e-aa84-eb6419453264",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "b9945bfd-8d64-4719-ab17-8838f836887d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "6bf91249-d61d-4029-87c4-9923abdcbeb1",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "8bd96d52-14d2-4350-9e2d-8be0b9789ee9",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1112202e-789e-4974-bff6-b6d64e2b2f0a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "c632570a-e393-4381-b0af-f8275bb8c650",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
+                },
+                {
+                    "id": "118bfec9-d4d5-4ac1-9bdf-a94da7fdeb77",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "580c87aa-30b8-45b4-8f6a-266d61e53103",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "291c0d86-dd3d-4710-9ae7-b7ce6abfd17c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "919b0dd4-3cf0-4c74-9706-e00e46501d16",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "607bd896-d476-41bb-a2ac-8a230b080efa",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "c1bae025-8c5d-4987-bb0c-efa855be7992",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "d2bb82b4-f59a-452e-9914-887834a6f9dc",
+                    "notes": "Serenity is one of Mercy's best source of Survival as long as you are healing; Can't save people if you are dead!\n\nWe are not using The Whambulance yet, since we won't be able to get enough Ability Power to make it worth it just yet.",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "f64977f5-5586-4fe1-8280-bd0376a546a8",
+                    "notes": "One of Mercy's only way to burst heal; Great to save teammates",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "51b82211-72e4-4bcf-98af-fc81abef620c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "67da0af2-ae13-4d4b-83fa-eed36b896f89",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 348,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 398,
+                "Attack Speed": 10,
+                "Weapon Power": 25,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "0e40cb7a-416d-460a-be8b-7a6bd51c24d1",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "ad5880cf-e961-4b7c-8038-95705aa98035",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "b56211e1-c5c6-4f4d-9b18-57f14119fd0d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "b88f9982-4c65-4213-ad9c-e360e5cb5584",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "eec23986-6650-4fb4-be02-e005afd747c3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
-            },
-            {
-                "id": "193500cf-6976-49e8-87ac-189ec1504755",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "894da807-9214-4d2f-80ec-f37db8efb263",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "f97cb7d7-3d66-4510-bf67-d0eb95e2c674",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "1d5bcec6-a880-472e-bd35-f3cf1085fe5c",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "57a394a3-94fb-411f-a9b7-2877068fb4ba",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            }
-        ]
-    },
-    {
-        "id": "1ad6812f-3364-44d0-8921-04d4eec3f4f3",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:56.775705+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 315,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 365,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 50,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "e4a9bf6d-bcfd-4e3a-9e6d-8929a9aef259",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "76b5c17b-68ba-40af-8647-7fbe6d88f8ac",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "3a415a6f-9bd3-4ff5-b4a6-ea5256b5cfb5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "d14de982-3895-44b8-8709-8b56ba6e01c1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "186b9fbc-3b9b-4ce4-ad7f-4803c0ffa3c0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "0b016f65-cd04-46be-928a-60abf7f41e8f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "bf8fd914-23e9-4fdc-a3a8-9b56290003ca",
+                    "notes": "[Round 6 Note] If you can afford it along with the purples listed above, this is your next item!",
+                    "action": "optional",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "01b65f5f-4fcf-403d-8bb7-1c11c96143d4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "befa1ea5-dea3-4f58-84e1-b58fb7692716",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
+                },
+                {
+                    "id": "c21add06-8cbd-4a9f-9cd7-5226c42de794",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "d43f26ce-5cad-47bd-b7e8-6bbcaf75fec0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "a04f4b96-7964-44ba-9d9e-aec914d73031",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "f96992cb-a1f2-4ca7-8efb-b44d7496048f",
+                    "notes": "Serenity is one of Mercy's best source of Survival as long as you are healing; Can't save people if you are dead!\n\nWe are not using The Whambulance yet, since we won't be able to get enough Ability Power to make it worth it just yet.",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "37636ea2-69b2-489d-b174-597870ecc347",
+                    "notes": "One of Mercy's only way to burst heal; Great to save teammates",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "b1cd15d9-db8e-40d1-901e-6fff00f5d360",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+        {
+            "id": "f25235d6-a5a9-4160-abac-6881362dc9ad",
+            "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-20T21:20:11.295316+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 362,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 412,
+                "Attack Speed": 0,
+                "Weapon Power": 25,
+                "Ability Power": 35,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "96e54f51-6101-40c9-a317-7158a1272e9f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "39f05312-7c55-45ec-aebd-a4430281c969",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "7f715e83-a3fa-4164-85f7-f76242336b00",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "c14b7bc8-ada3-4293-864f-bc5df31cad60",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "2ab2701c-f839-4527-9709-7461c906b5d3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
-            },
-            {
-                "id": "fc418c67-f5aa-4c6e-ae41-18b5f76def37",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "cc7436ca-cda5-427a-b532-a2af83ad7a69",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
-            },
-            {
-                "id": "b759097e-41a5-4859-8173-1c3eafb81c6d",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "8a49647a-0ae9-4b05-aa5c-f7f1c2d62891",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "1d6d49e7-60bb-493e-a442-c2ee83e4bc51",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            }
-        ]
-    },
-    {
-        "id": "c661c13c-e616-4312-a9a6-5ade05dcef1c",
-        "build_id": "c6c35100-22b6-4724-80a7-942b121b3a8b",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-08-09T22:51:56.999875+00:00",
-        "notes": null,
-        "stats": {
-            "LIFE": 343,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 393,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 85,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "99b62209-34d5-4db1-9dbe-ec198bb10988",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
-            },
-            {
-                "id": "d57e05e7-8705-4f54-b6f7-1b52a2a04c2c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
-            },
-            {
-                "id": "1393657e-81b5-4f51-9c15-19d2fd195fbe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            },
-            {
-                "id": "b4890481-4467-4c55-b968-ed89872dfb99",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "625b558a-380c-4c3a-84d4-e7018512003e",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
-            },
-            {
-                "id": "85210582-ade5-40d3-9b02-d5381c9f3cea",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
-            },
-            {
-                "id": "159edd2d-f4e5-4df6-b7af-fffb297a316e",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "d342493d-f98a-46e0-8aa5-3a7d51caffac",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "3c31641e-89fb-4634-8e5d-8472f8c24ec6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
-            },
-            {
-                "id": "a20de514-cdef-4c0f-8eee-b3f420381129",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "b967a522-b589-4ac0-9116-a75774d9cd90",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "a515fa33-b91c-4d54-bdad-36375f7c2743",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
+                },
+                {
+                    "id": "bbe34185-f677-40fe-af71-de1a9a3469e2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "25fd9110-ec79-4c04-9f98-43e94d75ffcd",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "512ff7de-3022-4e37-bd97-b21baed4be23",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "202a8cd8-fe64-46c6-be39-fda8f3a03c9f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "665474b5-8d80-45eb-8e59-061940898c30",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "cd30e670-76a6-43ef-89de-737c787dff63",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a2a8dba1-5f2f-4da1-9445-b08f49162121"
+                },
+                {
+                    "id": "334fe049-3dd2-4ddc-a3a3-a5bb553a1c38",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "fa7fe796-921c-48f2-aeff-a0d3cf25e4fa",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
+                },
+                {
+                    "id": "3c4b2dcf-ab77-4e10-8724-1240c9a2f12d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "f081923c-80f0-46d6-bf6b-faa577e5f48e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
+                },
+                {
+                    "id": "3a14fada-dcf9-41df-aa81-13024b3bfa95",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e7965ea-2abc-44a7-b042-950c6ad2fce7"
+                },
+                {
+                    "id": "e9ad181b-2e2e-45b7-8f51-2df430439524",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "67e0b1c5-3bcb-4ab5-b818-5082e5706124"
+                },
+                {
+                    "id": "b1978289-86e2-4c05-baf4-b3ff9e900c16",
+                    "notes": "You should be getting 50% more healing or damage boost output if using this Power correctly",
+                    "action": "buy",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                },
+                {
+                    "id": "5cd6e94c-3992-4077-b653-97bda178e344",
+                    "notes": "Serenity is one of Mercy's best source of Survival as long as you are healing; Can't save people if you are dead!\n\nWe are not using The Whambulance yet, since we won't be able to get enough Ability Power to make it worth it just yet.",
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "c0f3c041-44bc-4078-b789-4c906a10c2fa",
+                    "notes": "One of Mercy's only way to burst heal; Great to save teammates",
+                    "action": "buy",
+                    "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
+                },
+                {
+                    "id": "01812589-a5f0-4874-86e1-bbdab411d66f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
+                }
+            ]
+        }
+    ]
+}

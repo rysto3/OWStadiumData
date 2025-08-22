@@ -1,585 +1,588 @@
-[
-    {
-        "id": "4e4c3bc4-54b7-4577-9cfa-b504cb1a267e",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:42.749642+00:00",
-        "notes": "Okay so first round isn't really important. But it sets the framework for the other rounds.\n\nWith The Immortal Moth build, you want to focus on Cooldown Reduction and health. Nothing else matters really. Since you can't get any Cooldown Reduction in the first round, you go with Weapon Power and Speed. You could also do Armor instead of Weapon Power and Speed, but I don't really find that it's necessary 100% of the time.",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 257,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-07-16T09:56:42.520739+00:00",
+    "rounds": [
+        {
+            "id": "4e4c3bc4-54b7-4577-9cfa-b504cb1a267e",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:42.749642+00:00",
+            "notes": "Okay so first round isn't really important. But it sets the framework for the other rounds.\n\nWith The Immortal Moth build, you want to focus on Cooldown Reduction and health. Nothing else matters really. Since you can't get any Cooldown Reduction in the first round, you go with Weapon Power and Speed. You could also do Armor instead of Weapon Power and Speed, but I don't really find that it's necessary 100% of the time.",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 257,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "034b9589-eacf-4f5d-abf8-ff2acf9994fb",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "207d6907-ef9a-4d83-8851-72e1d6cc58d1",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "a1bbcd93-7182-41a8-be15-f663ffdd75ba",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "fb606211-58c3-4590-8981-0166f941bb4b",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "60b0a27f-a42f-4423-8a08-ab95c5619f21",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "034b9589-eacf-4f5d-abf8-ff2acf9994fb",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "08ba8d38-f34b-46e3-85bd-c66d9d0191e4",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:43.016926+00:00",
+            "notes": "How Round 2's Add-Ons go all depends on how many deaths you had in Round 1 and how much money you have going into Round 2. \n\nHOWEVER. \n\nOne Add-on is non-negotiable. It doesn't matter if you have to sell something. You need to get Ironclad Exhaust Ports. This is the base framework for every other round. This Add-on is one that you will NOT get rid of. If you can afford it afterwards, you want to buy Angeleisure Wear. With this build, you want to be constantly moving around in the air, so these two Add-ons make it so you're constantly getting Overhealth and also healing.",
+            "stats": {
+                "LIFE": 236,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 261,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "207d6907-ef9a-4d83-8851-72e1d6cc58d1",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "a1bbcd93-7182-41a8-be15-f663ffdd75ba",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "fb606211-58c3-4590-8981-0166f941bb4b",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "60b0a27f-a42f-4423-8a08-ab95c5619f21",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            }
-        ]
-    },
-    {
-        "id": "08ba8d38-f34b-46e3-85bd-c66d9d0191e4",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:43.016926+00:00",
-        "notes": "How Round 2's Add-Ons go all depends on how many deaths you had in Round 1 and how much money you have going into Round 2. \n\nHOWEVER. \n\nOne Add-on is non-negotiable. It doesn't matter if you have to sell something. You need to get Ironclad Exhaust Ports. This is the base framework for every other round. This Add-on is one that you will NOT get rid of. If you can afford it afterwards, you want to buy Angeleisure Wear. With this build, you want to be constantly moving around in the air, so these two Add-ons make it so you're constantly getting Overhealth and also healing.",
-        "stats": {
-            "LIFE": 236,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 261,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "c172c548-db58-46dd-b556-b526cd84958c",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "848251c9-bfb3-4a01-882b-6832af79135a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "52ab1b8d-8e42-4b0c-a33e-39e5d67e5beb",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "84248653-9d22-4472-b962-b84ba4f131ec",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "1ad568fc-0072-4dbc-bfb3-9fc7b80e097e",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "5c05cf70-15b1-4da2-b039-c8ce2a614463",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "212029d3-5718-4947-b35f-cc1c7ce64cc8",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "68dd5508-42e2-455a-956e-0a32dd132778",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "c172c548-db58-46dd-b556-b526cd84958c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "009420cb-0930-4c36-875e-5c74274f02e5",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:43.409504+00:00",
+            "notes": "Okay going into Round 3, you shouldn't have many deaths. With Round 3, you want to grab First Responder. This Power is really strong in the right hands. The 250 Overhealth is what we want here.\n\nIf you didn't grab Angeleisure Wear in R2, grab it now. With this add-on, you gain health for movement. Because we're the Immortal Moth, you want to be constantly moving around and flying, becoming unkillable in the sky. \n\nIf you can afford to get another Rare add-on, I like grabbing Icy Coolant here. Icy Coolant will increase your Attack Power (which helps your healing be stronger) and gives you a 5% Cooldown Reduction.",
+            "stats": {
+                "LIFE": 269,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 294,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
             },
-            {
-                "id": "848251c9-bfb3-4a01-882b-6832af79135a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "52ab1b8d-8e42-4b0c-a33e-39e5d67e5beb",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "84248653-9d22-4472-b962-b84ba4f131ec",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "1ad568fc-0072-4dbc-bfb3-9fc7b80e097e",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "5c05cf70-15b1-4da2-b039-c8ce2a614463",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "212029d3-5718-4947-b35f-cc1c7ce64cc8",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "68dd5508-42e2-455a-956e-0a32dd132778",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            }
-        ]
-    },
-    {
-        "id": "009420cb-0930-4c36-875e-5c74274f02e5",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:43.409504+00:00",
-        "notes": "Okay going into Round 3, you shouldn't have many deaths. With Round 3, you want to grab First Responder. This Power is really strong in the right hands. The 250 Overhealth is what we want here.\n\nIf you didn't grab Angeleisure Wear in R2, grab it now. With this add-on, you gain health for movement. Because we're the Immortal Moth, you want to be constantly moving around and flying, becoming unkillable in the sky. \n\nIf you can afford to get another Rare add-on, I like grabbing Icy Coolant here. Icy Coolant will increase your Attack Power (which helps your healing be stronger) and gives you a 5% Cooldown Reduction.",
-        "stats": {
-            "LIFE": 269,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 294,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 5
+            "round_upgrades": [
+                {
+                    "id": "56492cf6-370d-4838-95cf-8098b722a646",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "ae595537-e773-41b6-930b-6773695ee140",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "d42b2098-db31-4de2-a959-b05455616b9a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "7d762ddf-8791-415d-9ee7-7147fce13545",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "9bdb5686-776a-40a7-a990-a082b843fa1e",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "72ab9091-d583-4997-a51e-2f68542ae388",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
+                },
+                {
+                    "id": "e9472760-ab69-4e43-b861-109ef6200d07",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "2d70c790-d143-4730-b53e-36eb0dc106fe",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "56492cf6-370d-4838-95cf-8098b722a646",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "fc4c4e39-0342-4b8d-b53f-55010eac4ad6",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:43.746666+00:00",
+            "notes": "Okay we're into R4. This could be last round for you or it might not be. It doesn't matter though because you're the Immortal Moth. \n\nR4, you want to buy Martian Mender. If you can't afford it, sell any greens you may have kept from previous rounds. Do not sell First Aid Kit though as this Add-on lets you regen health faster. This round is a little expensive, but it's worth it. \n\nThe 3% health restore plus the 10% Cooldown Reduction AND the 25 Health of Martian Mender are key for surviving past this point.",
+            "stats": {
+                "LIFE": 325,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 350,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "ae595537-e773-41b6-930b-6773695ee140",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "d42b2098-db31-4de2-a959-b05455616b9a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "7d762ddf-8791-415d-9ee7-7147fce13545",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "9bdb5686-776a-40a7-a990-a082b843fa1e",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "72ab9091-d583-4997-a51e-2f68542ae388",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
-            },
-            {
-                "id": "e9472760-ab69-4e43-b861-109ef6200d07",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "2d70c790-d143-4730-b53e-36eb0dc106fe",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            }
-        ]
-    },
-    {
-        "id": "fc4c4e39-0342-4b8d-b53f-55010eac4ad6",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:43.746666+00:00",
-        "notes": "Okay we're into R4. This could be last round for you or it might not be. It doesn't matter though because you're the Immortal Moth. \n\nR4, you want to buy Martian Mender. If you can't afford it, sell any greens you may have kept from previous rounds. Do not sell First Aid Kit though as this Add-on lets you regen health faster. This round is a little expensive, but it's worth it. \n\nThe 3% health restore plus the 10% Cooldown Reduction AND the 25 Health of Martian Mender are key for surviving past this point.",
-        "stats": {
-            "LIFE": 325,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 350,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 20
+            "round_upgrades": [
+                {
+                    "id": "eaad695b-2209-481a-bf4b-a54cb3ff2272",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "a9353d45-b940-4f44-9aa0-bad337a0b059",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "b46e7357-b8c7-423e-9bc1-f3a4b2c5dda6",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "35e1706f-90da-44e3-bc69-09aac03c9b81",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "080717c1-fc56-4ce8-832c-18ed7b0c950a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "7a28e95a-ed83-4ae8-ada6-ba41ace41eec",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
+                },
+                {
+                    "id": "7af4f6f2-59aa-432d-b3f8-9e3956178e36",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "2bd458c1-fb91-4177-b86e-70bdb10ea980",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "0f5a6104-0fb1-401c-b08c-c5985e75bf49",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "eaad695b-2209-481a-bf4b-a54cb3ff2272",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "09abbc17-e60d-4749-b831-2b5d895a18d8",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:44.044356+00:00",
+            "notes": "R5 is where things start ramping up. \n\nCrepuscular Circle is the Power of choice here. This means that you can Valk and also do damage with your gun. If you can afford it after getting Martian Mender last round, grab Multi-Tool for the Cooldown Reduction, Reinforced Titanium if you need more help surviving Ability Damage, or Crusader Hydraulics for the Weapon damage.\n\nYou should be sitting very nicely at between 15-20% Cooldown Reduction. This is perfect.",
+            "stats": {
+                "LIFE": 325,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 350,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
             },
-            {
-                "id": "a9353d45-b940-4f44-9aa0-bad337a0b059",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b46e7357-b8c7-423e-9bc1-f3a4b2c5dda6",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "35e1706f-90da-44e3-bc69-09aac03c9b81",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "080717c1-fc56-4ce8-832c-18ed7b0c950a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "7a28e95a-ed83-4ae8-ada6-ba41ace41eec",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
-            },
-            {
-                "id": "7af4f6f2-59aa-432d-b3f8-9e3956178e36",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "2bd458c1-fb91-4177-b86e-70bdb10ea980",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "0f5a6104-0fb1-401c-b08c-c5985e75bf49",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            }
-        ]
-    },
-    {
-        "id": "09abbc17-e60d-4749-b831-2b5d895a18d8",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:44.044356+00:00",
-        "notes": "R5 is where things start ramping up. \n\nCrepuscular Circle is the Power of choice here. This means that you can Valk and also do damage with your gun. If you can afford it after getting Martian Mender last round, grab Multi-Tool for the Cooldown Reduction, Reinforced Titanium if you need more help surviving Ability Damage, or Crusader Hydraulics for the Weapon damage.\n\nYou should be sitting very nicely at between 15-20% Cooldown Reduction. This is perfect.",
-        "stats": {
-            "LIFE": 325,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 350,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 20
+            "round_upgrades": [
+                {
+                    "id": "fd2c95d2-fa42-4a66-8ce0-74adad00d912",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "0157d297-406e-49bd-bd43-5aecbdac96e8",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "b334d9ca-87d7-4c23-80a5-4aae621266e9",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "8a6647df-e57e-41f5-b8bc-47bd70dea7bb",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "7aea616c-3e98-4446-b604-925ef3ddbc0d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "3ece63ee-cd0c-49e6-adb5-e732c3a7894c",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
+                },
+                {
+                    "id": "ab5f5adc-61a0-4529-a962-fbef25ebacfe",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "44048c99-e658-4842-9930-bdbf5f357ae5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "45835d0b-8cab-4f52-a23f-d4968757c1cb",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "6991cbbd-0ec1-4501-a7d9-08b239ce893c",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "0c8f3f5e-cce9-43c7-a852-56eb8ecd1372",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "ec2580de-196b-4733-8cfd-d1566a0970f4",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
+                },
+                {
+                    "id": "80b821a6-432e-4944-b4d1-87b6a804fba9",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "fd2c95d2-fa42-4a66-8ce0-74adad00d912",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "a9f2bdd3-a8e9-46b6-a7ff-f65c4d0e4f25",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:44.279114+00:00",
+            "notes": "R6: You want to buy Resurrection Rangefinder. If you need to sell Icy Coolant, you can. You'll be losing the Weapon Power, but you'll get 10% Cooldown Reduction as well as a 75% Resurrection range increase. \n\nIf you can get Resurrection Rangefinder without selling Icy Coolant, that's the best scenario.",
+            "stats": {
+                "LIFE": 334,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 359,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 25
             },
-            {
-                "id": "0157d297-406e-49bd-bd43-5aecbdac96e8",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b334d9ca-87d7-4c23-80a5-4aae621266e9",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "8a6647df-e57e-41f5-b8bc-47bd70dea7bb",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "7aea616c-3e98-4446-b604-925ef3ddbc0d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "3ece63ee-cd0c-49e6-adb5-e732c3a7894c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
-            },
-            {
-                "id": "ab5f5adc-61a0-4529-a962-fbef25ebacfe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "44048c99-e658-4842-9930-bdbf5f357ae5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "45835d0b-8cab-4f52-a23f-d4968757c1cb",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "6991cbbd-0ec1-4501-a7d9-08b239ce893c",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "0c8f3f5e-cce9-43c7-a852-56eb8ecd1372",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "ec2580de-196b-4733-8cfd-d1566a0970f4",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "8ebaa7db-aedf-48ed-adc1-318cb46a3214"
-            },
-            {
-                "id": "80b821a6-432e-4944-b4d1-87b6a804fba9",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            }
-        ]
-    },
-    {
-        "id": "a9f2bdd3-a8e9-46b6-a7ff-f65c4d0e4f25",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:44.279114+00:00",
-        "notes": "R6: You want to buy Resurrection Rangefinder. If you need to sell Icy Coolant, you can. You'll be losing the Weapon Power, but you'll get 10% Cooldown Reduction as well as a 75% Resurrection range increase. \n\nIf you can get Resurrection Rangefinder without selling Icy Coolant, that's the best scenario.",
-        "stats": {
-            "LIFE": 334,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 359,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 25
+            "round_upgrades": [
+                {
+                    "id": "6d1f1361-df2e-447f-9855-de021ead3375",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "a1ae30d4-7fb5-4760-8bb5-ff20a05b396f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "d877151e-ecaa-4b9f-910f-c0b0b449de18",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "20e1b9c7-0033-4668-ad35-e93b877b591d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "dc7741bf-fab2-4ddc-b9ce-ad6745c38f12",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "1ca5a29f-832d-4c57-b8a0-9aefe480ffbe",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
+                },
+                {
+                    "id": "79c9b520-7565-464e-a359-9e7ce9c3a3f3",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "44b87601-127b-4884-b012-ecbdd2620b4a",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "fd8e5b97-eb86-40f3-bdb2-8e1b728d3060",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "2b1f181e-c1ea-421e-a55b-22f871876120",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "42524e90-1b3b-4412-810d-614a26127e52",
+                    "notes": null,
+                    "action": "sell",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "195a638d-a0f5-41b4-972b-09ecfebe1223",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "99baffec-51b5-42e4-be61-e29f3de8219f"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "6d1f1361-df2e-447f-9855-de021ead3375",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+        {
+            "id": "94df7717-405e-4944-a218-321ed9553453",
+            "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-07-16T09:56:44.498816+00:00",
+            "notes": "R7: this is the last round. You'll be tied with the enemy team but this round is the round that makes the difference. There's a choice of two powers you can choose here. You can get either Serenity OR Thread of Fate. Both are useful and have different uses. If you're dying more, you should grab Serenity. If you need more healing or damage boost, grab Threads of Fate. \n\nFor add-ons, there's not much that you should 100% get. If you can afford, you should grab Hardlight Accelerator for the Weapon Power and Cooldown Reduction. You'll also gain 5% Weapon Power for every time you use an ability (up to 3 times). Otherwise, just grab either Rare or Common survival add-ons until you're either out of money or out of slots.",
+            "stats": {
+                "LIFE": 334,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 359,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 25
             },
-            {
-                "id": "a1ae30d4-7fb5-4760-8bb5-ff20a05b396f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "d877151e-ecaa-4b9f-910f-c0b0b449de18",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "20e1b9c7-0033-4668-ad35-e93b877b591d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "dc7741bf-fab2-4ddc-b9ce-ad6745c38f12",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "1ca5a29f-832d-4c57-b8a0-9aefe480ffbe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
-            },
-            {
-                "id": "79c9b520-7565-464e-a359-9e7ce9c3a3f3",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "44b87601-127b-4884-b012-ecbdd2620b4a",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "fd8e5b97-eb86-40f3-bdb2-8e1b728d3060",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "2b1f181e-c1ea-421e-a55b-22f871876120",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "42524e90-1b3b-4412-810d-614a26127e52",
-                "notes": null,
-                "action": "sell",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "195a638d-a0f5-41b4-972b-09ecfebe1223",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "99baffec-51b5-42e4-be61-e29f3de8219f"
-            }
-        ]
-    },
-    {
-        "id": "94df7717-405e-4944-a218-321ed9553453",
-        "build_id": "eeadb3fa-c3aa-427b-8b6b-1e7836a5eb77",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-16T09:56:44.498816+00:00",
-        "notes": "R7: this is the last round. You'll be tied with the enemy team but this round is the round that makes the difference. There's a choice of two powers you can choose here. You can get either Serenity OR Thread of Fate. Both are useful and have different uses. If you're dying more, you should grab Serenity. If you need more healing or damage boost, grab Threads of Fate. \n\nFor add-ons, there's not much that you should 100% get. If you can afford, you should grab Hardlight Accelerator for the Weapon Power and Cooldown Reduction. You'll also gain 5% Weapon Power for every time you use an ability (up to 3 times). Otherwise, just grab either Rare or Common survival add-ons until you're either out of money or out of slots.",
-        "stats": {
-            "LIFE": 334,
-            "Armor": 0,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 359,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 25
-        },
-        "round_upgrades": [
-            {
-                "id": "50334e1e-cbf6-4bb5-bb4e-323ac7b049c5",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
-            },
-            {
-                "id": "4f6834d8-5f85-4000-b919-a2f875d7c731",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "cce3dd9b-010d-481e-bd83-b92e8a8a6090",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "c0c8d48f-77d8-4bf8-bcc9-2d762d56f2fe",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "e7072613-9b36-4fb6-ace9-f2e5693443df",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "a5a8dc25-e793-41a5-8600-93dedfc23e1d",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
-            },
-            {
-                "id": "45666e07-5e0b-4c40-87f5-582f34e00673",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
-            },
-            {
-                "id": "04f4b541-8f0e-4ecb-a9d5-acc366c7d6df",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "1fa9aa36-e15a-4ea9-81bb-383475bc2a5f",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-            },
-            {
-                "id": "30b0dc28-42eb-4244-b003-f1a1b7f17c93",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
-            },
-            {
-                "id": "197b52d3-7de8-407a-b110-721a9ef8bd20",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "99baffec-51b5-42e4-be61-e29f3de8219f"
-            },
-            {
-                "id": "abf94e91-bc22-4b98-ba0d-2d8b40fe6b53",
-                "notes": null,
-                "action": "buy",
-                "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
-            },
-            {
-                "id": "3e794a81-f398-4504-b1fd-c98a06c704dc",
-                "notes": null,
-                "action": "optional",
-                "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "50334e1e-cbf6-4bb5-bb4e-323ac7b049c5",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
+                },
+                {
+                    "id": "4f6834d8-5f85-4000-b919-a2f875d7c731",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "cce3dd9b-010d-481e-bd83-b92e8a8a6090",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "c0c8d48f-77d8-4bf8-bcc9-2d762d56f2fe",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "e7072613-9b36-4fb6-ace9-f2e5693443df",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "a5a8dc25-e793-41a5-8600-93dedfc23e1d",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "30a5c70f-e0b5-489a-96ae-900f34c3823d"
+                },
+                {
+                    "id": "45666e07-5e0b-4c40-87f5-582f34e00673",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "00b53ed7-0768-442b-a2c3-8d19608c9391"
+                },
+                {
+                    "id": "04f4b541-8f0e-4ecb-a9d5-acc366c7d6df",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "1fa9aa36-e15a-4ea9-81bb-383475bc2a5f",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "30b0dc28-42eb-4244-b003-f1a1b7f17c93",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "c0b93ed2-b692-44d5-a38a-ce5a63e83cdb"
+                },
+                {
+                    "id": "197b52d3-7de8-407a-b110-721a9ef8bd20",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "99baffec-51b5-42e4-be61-e29f3de8219f"
+                },
+                {
+                    "id": "abf94e91-bc22-4b98-ba0d-2d8b40fe6b53",
+                    "notes": null,
+                    "action": "buy",
+                    "upgrade_id": "c6e1c072-ff50-467e-b59f-9506baea10c1"
+                },
+                {
+                    "id": "3e794a81-f398-4504-b1fd-c98a06c704dc",
+                    "notes": null,
+                    "action": "optional",
+                    "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
+                }
+            ]
+        }
+    ]
+}

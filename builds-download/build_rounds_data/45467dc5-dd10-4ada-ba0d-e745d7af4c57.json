@@ -1,645 +1,636 @@
-[
-    {
-        "id": "c649fe48-b01e-49de-99e1-5ea879bc88fc",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "[Supported Shooting](item_4a084906-0fcd-4158-9a4b-763a69d0b198) is the core power of this build. As you heal your team, you'll be constantly giving them passive buffs through this and an item you'll pick up later.\n\n### TO NOTE:\nif an item is marked IMPORTANT, you don't want to remove it unless specifically stated within the round notes. Otherwise, other items can be swapped in or out with items under optional depending on how much cash you have.",
-        "stats": {
-            "LIFE": 225,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 250,
-            "Attack Speed": 5,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-22T08:28:08.948485+00:00",
+    "rounds": [
+        {
+            "id": "e7b7534a-2a52-448c-83d1-530cafca0faf",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "[Supported Shooting](item_4a084906-0fcd-4158-9a4b-763a69d0b198) is one of the main ways you buff people in this build. As you heal your team, you'll be constantly giving them passive buffs through this and an item you'll pick up later. Sometimes though, it can be useful to take [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) in the first round, but I only really tend to if the enemy team has multiple things you need to cleanse, like two of [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000), [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1), [Zenyatta](hero_3c4002ee-e694-48ed-9730-70fd48773317) (discord orb!) and [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54). \n\nYou CAN run the build without [Supported Shooting](item_4a084906-0fcd-4158-9a4b-763a69d0b198), and at that point it's an AP kitsune rush focused build, but I find the buffs the fun part and tend to only not use them when I have an [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85) not using an overheat build.\n\n### TO NOTE:\nif an item is marked IMPORTANT, you don't want to remove it unless specifically stated within the round notes. Otherwise, other items can be swapped in or out with items under optional depending on how much cash you have.",
+            "stats": {
+                "LIFE": 225,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 250,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "be9dcb50-5d8c-41ce-864c-933b557a94c2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "f0464511-5d16-41cd-bd82-84f08fa8c57c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "69207889-f0ec-4617-956a-d9e416a2fa37",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "50afdf24-c4ad-48c1-ab67-e572aa327189",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "6d786ec4-37e4-494c-981f-0b4ee3a00eac",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                },
+                {
+                    "id": "f1220f1e-d55e-4635-b5ec-bc1f88b74b04",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "8b2374d2-051f-4ca1-8d98-c92efd997cc8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "4f3ecc72-8610-4098-9502-4d4f12e894db",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "[Donut Delivery](item_296adb69-d517-4885-903a-ef8f3a1d6a7b) is just a very good item, with CDR and being able to AOE heal on TP that scales well with AP.",
+            "stats": {
+                "LIFE": 248,
+                "Armor": 25,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 298,
+                "Attack Speed": 5,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "1c531db8-28b7-4ad0-938b-2d84cbfed24f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "9190ac15-8b64-4f85-b193-c1080c012ccb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "a4c3934f-92aa-43fe-ab91-64404723bf3d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "cbd27ac7-8ca4-4572-916a-2357226c7ab9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            }
-        ]
-    },
-    {
-        "id": "f819fd0c-9dfb-4713-b460-e723063a1141",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "[Donut Delivery](item_296adb69-d517-4885-903a-ef8f3a1d6a7b) is just a very good item, with CDR and being able to AOE heal on TP that scales well with AP.",
-        "stats": {
-            "LIFE": 253,
-            "Armor": 25,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 303,
-            "Attack Speed": 5,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "127bc816-ba96-417f-a58f-3edab558185e",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "86be0747-2757-47de-a9a2-e2429a5c5f95",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "6c755e6b-6cb6-45f0-b2c3-49df47a593ea",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "b914ab58-6c20-401f-bcca-36c957f8a822",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "b64b042f-e212-4c3d-ae51-27e94a55605f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "87fcaab8-3dc2-446a-8f68-57f08ceba222",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "c2095530-490f-4fd6-9be7-3e52f252f06c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "e821f5e0-0059-4860-92ef-7793e9e35c4b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "af3cb123-0e5c-41dd-a65b-493de5735f77",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "053366b0-e3d4-439a-8e01-c3e59d68ab88",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+        {
+            "id": "84caf328-45cc-4716-b7c7-c21c1067b4d1",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "[Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) is the easy pick here, since several items we're gonna take are about suzu. \n\n[Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) is another good passive buff you can apply to everyone, but if your team is struggling with survivability, then you can remove it for [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) now instead of waiting a round or two, though, I wouldn't remove [Donut Delivery](item_296adb69-d517-4885-903a-ef8f3a1d6a7b) if you can't afford both.",
+            "stats": {
+                "LIFE": 263,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 288,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "337d9359-737c-43be-9c1b-77f9fd8c3834",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "83506845-86f2-4d36-909f-0182d55d9f60",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "9248b3af-3cf1-4706-b763-644494e32405",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "531fc4b0-db10-43de-b47a-9c903df56200",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "2ba696b6-b46a-4eb6-8542-d24afbcc1444",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "178160fd-0476-487c-b7d7-2d63ae26f21a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "cb9b0d94-2767-479d-b2d2-5faa83e11b7b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "fe69c16e-9942-4f87-9400-a84c5f8ed5dc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            }
-        ]
-    },
-    {
-        "id": "cac5a3ef-c63b-4c29-b462-34cc75c98085",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "[Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) is the easy pick here, since several items we're gonna take are about suzu.\n\n[Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) is another good passive buff you can apply to everyone, but if your team is struggling with survivability or you want everyone to go and hit faster now, then you can remove it for either [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) or [Talisman of Velocity](item_9b81fbe9-c5f8-4442-93d5-082b036010a1).",
-        "stats": {
-            "LIFE": 269,
-            "Armor": 25,
-            "Shield": 25,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 319,
-            "Attack Speed": 0,
-            "Weapon Power": 15,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "0c44aaa1-fa60-4e43-ad20-e2cbbb2f100e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "71b4f25d-8b9b-43e6-b7eb-171cbf0d54e9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "f5fdefd2-2d72-493f-92a1-c142bd4c498c",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "0da8f5a1-8d2d-47c6-84ac-15a146593e36",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "32841189-d59c-43c5-8565-6c7cec856c51",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "15fec7be-59d7-4e57-b0e7-7fae3cf809e0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "0de96bf1-1e63-4f91-888d-29191b9f75e2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "c44df6b6-f4ec-4df3-bafe-affbf3d56d9d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
+                },
+                {
+                    "id": "8cc70307-538d-4931-a0e3-99bf25ff147f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                },
+                {
+                    "id": "d84a2dad-20a9-414e-a52e-a6f75644679f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d3b82d88-cdb0-49a4-81b6-202f30ececa6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+        {
+            "id": "3750a94f-1c53-4ce2-8f1f-e9b573a25a74",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "You can swap [Talisman of Velocity](item_9b81fbe9-c5f8-4442-93d5-082b036010a1) for [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) here if you want, or take out [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) and other blue/green items to take both Talisman items.\n\nIf your team is rolling, then [Talisman of Velocity](item_9b81fbe9-c5f8-4442-93d5-082b036010a1) can make everything go ever quicker, but also, other builds can power spike more than you'd expect, so you might want to have the extra safety that [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) gets you first.",
+            "stats": {
+                "LIFE": 285,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 310,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 20,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "21c8ea88-0bdd-47bf-98a0-fd998911a531",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
-            },
-            {
-                "id": "b7a77779-3ab9-43c8-bbb6-80d0388a9f0a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "917ff92e-b976-446c-8589-01d83b1976e3",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-            },
-            {
-                "id": "b74727a3-3149-49b9-8c82-c7b27caf9abf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "7c0e5864-5a57-4d87-a375-96868e2febf6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "ea190343-49a9-4af3-b75c-2b82d8a324ea",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "923e1162-9202-4b3d-8e8e-66934a2f6c55",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "5c41a91d-39e5-4960-b7ff-b20640a0a7c8",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "54fc2255-0bcd-4fc3-89c8-d2fc1b832770",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            },
-            {
-                "id": "b6fa6d56-481b-4a44-a8db-6e982769510e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
-            }
-        ]
-    },
-    {
-        "id": "8ab4c7de-b3b9-4965-a554-e16fe08c30c8",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "You can swap [Talisman of Velocity](item_9b81fbe9-c5f8-4442-93d5-082b036010a1) for [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) here if you want, or take out [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) and other items to take both Talisman items.",
-        "stats": {
-            "LIFE": 286,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 25,
-            "Total LIFE": 311,
-            "Attack Speed": 25,
-            "Weapon Power": 15,
-            "Ability Power": 15,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "c1fdc8a3-92db-446a-b267-7e486dbdb051",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "2954dc5d-2cfc-4f4e-812b-0338c49d003c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
+                },
+                {
+                    "id": "fa2f4dbd-c3ab-40a4-8ec5-bd436b30bd30",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "048548f2-954d-45be-9e4d-c14f48ff2a44",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "8680ce65-1cb6-4580-a108-dd7321067976",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "fd070272-7504-4353-8b3c-4f365d5667c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "be71b782-fcca-47cc-bc3f-079299214261",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                },
+                {
+                    "id": "c3723f6d-fe91-4d68-aa14-871209d5fb00",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "dc970dc5-ffc6-4f66-be31-7a4f3bbe624b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
+        {
+            "id": "285c1a7f-6173-49ee-ac74-205706de7966",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "Some options between powers, so here's some text to explain them:\n- [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68): What I *almost always* choose, as with your CDR (which is going to get higher) alongside [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) this will really speed up getting your ult, and combines well with the next power you'll be getting. If the enemy team doesn't really have effects you can cleanse, then if you and/or your teammates get [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), that also counts as something you can cleanse, and all you need to do is take any form of damage!\n- [Leaf on the Wind](item_b64de259-d122-407d-a7e4-9d7267310704): For even more healing, and spreads the passive buffs to more of your team. If the enemies don't really have anything for [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68), and you don't think your team will get [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), then this is a decent power choice. However, I rarely see this in late-game, as items like [El-sa'ka Supressor](item_b4298dd9-9b93-461f-a2e0-843402667100), [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98) and [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) all count as effects you can cleanse. \n\nNothing special about the item choices this round, we finally have everything we wanted, from now on out it's icing on the cake",
+            "stats": {
+                "LIFE": 305,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 25,
+                "Total LIFE": 330,
+                "Attack Speed": 25,
+                "Weapon Power": 10,
+                "Ability Power": 35,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
             },
-            {
-                "id": "53fe7974-e1f3-4249-ada6-fe8a0891df1f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
-            },
-            {
-                "id": "efbb0019-4b62-4bcd-a87e-a5414c81c242",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "f570cfb3-a412-4704-95cb-1b4d1601da82",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "89ffa1ae-5cd8-472b-9de8-a7f6b4f78efc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "9052de6d-d103-4b4e-97ad-6ebf0c6ba4a7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "94394414-c531-4ba5-b3d3-d7d8ca2b2a95",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "e9597877-c40a-446f-9dd2-16bc2bb3906d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "3ca03e68-e824-43db-aa4d-360fc0b8c7d2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            },
-            {
-                "id": "290d2ab0-9cc6-4a4b-9e0a-7d56b7b17cfd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
-            }
-        ]
-    },
-    {
-        "id": "f762754f-078c-4a9c-9485-933c86113867",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "Some options between powers, so here's a lot of text to explain them:\n- [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68): My go-to choice usually, as with your CDR (which is going to get higher) alongside [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) this will really speed up getting your ult. If the enemy team doesn't really have effects you can cleanse, then if you and/or your teammates get [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), that also counts as something you can cleanse, and all you need to do is take any form of damage!\n- [Leaf on the Wind](item_b64de259-d122-407d-a7e4-9d7267310704): For even more healing, and for the passive buffs to spread to more of your team! If the enemies don't really have anything for [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68), and you don't think your team will get [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8), then this is a decent power choice.\n- [Self-Care](item_0b7b0332-9bf6-4905-810e-7614b914d663): If you're struggling to get healed or feel like you need more survivability, this is a good choice.\n\nNothing special about the item choices this round, we finally have everything we wanted, from now on out it's icing on the cake",
-        "stats": {
-            "LIFE": 308,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 25,
-            "Total LIFE": 333,
-            "Attack Speed": 25,
-            "Weapon Power": 15,
-            "Ability Power": 35,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "42be7d14-37ce-4c1e-8d35-9de08a748398",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64de259-d122-407d-a7e4-9d7267310704"
+                },
+                {
+                    "id": "54286007-4723-4f91-bd06-5dfabe2e1a11",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
+                },
+                {
+                    "id": "e39d0d3a-7fba-470b-9fba-e08195fcdfdd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "5bf0326d-4ca3-437c-b457-0a5a7ae9e82f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "72226ff6-54d3-45f0-a32d-7398c9c51b00",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "27d507a3-277d-4ba7-a45d-cab4680b2b35",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "dfbca326-abc6-46e1-82c4-3f0bae649e00",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "95539f20-e551-4b1b-982a-828a7a594c52",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "fa8e8ce9-6d3f-4802-94b6-737afd63872a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                },
+                {
+                    "id": "330853f7-f7d6-43f8-a06a-ac339a89afe8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                },
+                {
+                    "id": "76105240-d094-4de9-8581-f9dc6387e8f9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d4b42c62-fcd4-45b3-bad6-f60986865a38",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64de259-d122-407d-a7e4-9d7267310704"
+        {
+            "id": "f4dcfc45-94ff-4a82-9543-144a0717a9f0",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "[Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) is a good addition here, though if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) and need a way to get the effect cause the enemy hasn't taken anything, then [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) will get you that, at least for yourself. (note that if you TP, then cleanse, this won't count, you'll need to take damage first as TPing \"cleanses\" you)",
+            "stats": {
+                "LIFE": 327,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 25,
+                "Total LIFE": 327,
+                "Attack Speed": 25,
+                "Weapon Power": 10,
+                "Ability Power": 55,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 25
             },
-            {
-                "id": "0fad85b9-c485-47c9-94c0-2437fc545748",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0b7b0332-9bf6-4905-810e-7614b914d663"
-            },
-            {
-                "id": "86bf6976-f7e0-4ef2-9ebc-85a46a16b583",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
-            },
-            {
-                "id": "26bfe5f7-7b3d-4f37-977b-2d48a010a3a3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
-            },
-            {
-                "id": "470cab78-fdbf-46e4-8c97-1b9be97a33bf",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "9e94501c-ce11-4293-9817-eb7a65ca3080",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "424f632d-5b2a-4985-815c-e9539a7ed55e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "4b6e61be-7bdb-4a47-920e-1d497d30b474",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "7df26068-f127-4084-918d-1df86625fc66",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-            },
-            {
-                "id": "53b7072e-994c-4482-9506-22037a749112",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            },
-            {
-                "id": "ca8ba634-9cf3-48e8-bce2-74d8324385a5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
-            },
-            {
-                "id": "18f0176d-9866-4aef-b713-7fa78c17afbe",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
-            }
-        ]
-    },
-    {
-        "id": "f6c2f6e1-568b-4128-a280-404f00d5e45b",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "[Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) is a good addition here, though if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) and need a way to get the effect cause the enemy hasn't taken anything, then [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) will get you that, at least for yourself.",
-        "stats": {
-            "LIFE": 327,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 25,
-            "Total LIFE": 327,
-            "Attack Speed": 25,
-            "Weapon Power": 15,
-            "Ability Power": 55,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 20
+            "round_upgrades": [
+                {
+                    "id": "7ef32245-67af-4279-b103-b63ce8ae1792",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "3c43bc15-bd96-4833-a983-3c45de2381d7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "1778041b-da55-40b9-9dd8-2717c84aa756",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "cdc634b4-7fdf-4d8b-87b4-92c52d63098b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "8825c5e2-39d8-490f-a3d2-b02f63be7c4d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "e4308b77-0ea3-46e2-b835-a1c93f62879f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
+                },
+                {
+                    "id": "54c042d4-8881-4024-b137-a74a91e7372c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "7895a2db-b7f1-4579-9127-35cb23004234",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "700f0cfa-449f-4560-b775-d038fbaaa962",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "18200821-9218-42e3-a4dd-72cb1704043d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "c397b39c-7f56-440b-abf8-ee40cced411e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                },
+                {
+                    "id": "13b817df-f274-408d-acd1-edb2bbe3a0b7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                },
+                {
+                    "id": "d9d2c9a2-ea6e-46d9-bb35-7dc3f333b0a0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d34bed97-8e2a-45dd-a2d2-e67fe6737ce6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+        {
+            "id": "40c0d5bd-282b-4318-821b-2344fc5ec3bc",
+            "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-22T08:28:08.948485+00:00",
+            "notes": "## POWERS:\n[Crossing Guard](item_bb5252fd-fc6b-4dce-a60a-21b0a0add68f)'s slow is NOT to be underestimated. 50% reduction is like moving in molasses. That said, if you didn't take [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) in round 5, this won't be as useful for you as you won't be getting as many kitsunes, so you might want to take that now if you haven't yet. \n\nAs well as the round 5 choices, [Clone Conjuration](item_6c9f6be1-ab29-4f46-af24-34e4835f9af3) is another option if there's still no one on the enemy team with debuffs, since the clone's HP is based off of AP, and you have a decent amount. If you never took [Supported Shooting](item_4a084906-0fcd-4158-9a4b-763a69d0b198), and don't want to, this is what I'd probably go with, though [Leaf on the Wind](item_b64de259-d122-407d-a7e4-9d7267310704) is fine too. \n\n## ITEMS: \nA *LOT* of options as to what our final item slot will be, so here's another wall of text to explain them:\n- [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b): The straight up WP option. I know this seems a little silly given this is an AP build, but this'll give you a good boost to your regular ofuda, (as well as kunai), which you're using anyways for the passive buffs.\n- [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48): If you're hitting yourself with your suzu more often than not, then this item becomes less needed. But, the AS and MS on it is nice. \n- [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8): As said in the previous round notes, this is a good item to mix with [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) if the enemy team doesn't really have any debuffs for you to cleanse. It's also a decent survival item regardless. \n- [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98): With this, you'll have 40% cooldown reduction, which is awesome. More TPs so more heals, and more suzus so more buffs, overhealth *and* kitsunes. The 3% healing doesn't do too much for you, but it's not bad either. \n- [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f): Only take this item if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68). That said, with 70% AP, this means your allies will heal 135 hp/s during kitsune rush, as well as your enemies being slowed by 50%. This is great for your team, and terrible for the enemies. \n- [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f): I removed this for [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448), since I think the 10% CDR is worth the trade, but if you don't have enough for two purples, then you can replace [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) with this again to take something else, or add this on if you want that bit of move speed for your team. Though, if you have the cash, I'd recommend taking another purple, as IMO they're generally more worth it.\n\nIf you're really short on cash, then both [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) and [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) are what I go for in later rounds. They buff your heals, and you get a bit of CDR. \n\nOr, a less complicated TL;DR: if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) then take [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f), or [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) if the enemy team doesn't have any debuffs. Else, [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) or [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) are good choices, or [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) if you're low on cash. [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is decent if you want higher cooldown reduction.",
+            "stats": {
+                "LIFE": 331,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 25,
+                "Total LIFE": 331,
+                "Attack Speed": 25,
+                "Weapon Power": 10,
+                "Ability Power": 55,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 30
             },
-            {
-                "id": "70817312-0b33-4348-8cd6-f78706ff186d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "e4588ec6-22fd-4276-8cfd-d54261b47130",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "388a0b5f-6ad5-4f7f-b01a-37de9b90a07a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
-            },
-            {
-                "id": "6c60c0f7-c22b-45d9-8557-619e890b99ae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
-            },
-            {
-                "id": "1f825f46-285a-4c53-9c45-a0a99e2b4076",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "68f9c5da-d8d6-4a06-89ec-f65eb8d8bfa1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "3fc8b325-44e9-4304-bccc-a60d55464f34",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "fac1de6c-9dc6-45d0-9faf-8d5f69da57cb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            },
-            {
-                "id": "b23604bb-029b-4bf6-9f2a-94c802a62a8f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
-            },
-            {
-                "id": "a3d95294-0a35-4ba7-8660-b69f7d6c5e44",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
-            }
-        ]
-    },
-    {
-        "id": "609cc33b-b1fb-4ee8-94cf-5c3ea80ed06d",
-        "build_id": "45467dc5-dd10-4ada-ba0d-e745d7af4c57",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-08-14T23:34:46.010477+00:00",
-        "notes": "## POWERS:\n[Crossing Guard](item_bb5252fd-fc6b-4dce-a60a-21b0a0add68f)'s slow is NOT to be underestimated. 50% reduction is like moving in molasses. That said, if you didn't take [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) in round 5, this won't be as useful for you as you won't be getting as many kitsunes, so you might want to take that now if you haven't yet. \n\nAs well as the round 5 choices, [Clone Conjuration](item_6c9f6be1-ab29-4f46-af24-34e4835f9af3) is another option if there's still no one on the enemy team with debuffs, since the clone's HP is based off of AP, and you have a decent amount. \n\n## ITEMS: \nA *LOT* of options as to what our final item slot will be, so here's another wall of text to explain them:\n- [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b): The straight up WP option. I know this seems a little silly given this is an AP build, but this'll give you a good boost to your regular ofuda, (as well as kunai), which you're using anyways for the passive buffs.\n- [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48): If you're hitting yourself with your suzu more often than not, then this item becomes less needed. But, the AS and MS on it is nice. \n- [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8): As said in the previous round notes, this is a good item to mix with [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) if the enemy team doesn't really have any debuffs for you to cleanse.\n- [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98): With this, you'll have 40% cooldown reduction, which is awesome. More tps so more heals, and more suzus so more buffs, overhealth and kitsunes. The 3% healing doesn't do too much for you, but it's not bad either. \n- [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f): Only take this item if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68). That said, with 70% AP, this means your allies will heal 135 hp/s during kitsune rush, as well as your enemies being slowed by 50%. This is great for your team, and terrible for the enemies. \n- [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f): I removed this for [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448), since I think the 10% CDR is worth the trade, but if you don't have enough for two purples, then you can replace [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) with this again to take something else, or add this on if you want the bit of move speed for your team. Though, if you have the cash, I'd recommend taking another purple, as IMO they're generally more worth it.\n\nOr, a less complicated TL;DR: if you have [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) then take [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f), or [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) if the enemy team doesn't have any debuffs. Else, [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b) or [Booster Jets](item_a291de85-b6d9-43cf-b5da-f3184a156f48) are good choices, or [Teamwork Toolkit](item_d56fb90c-cbe6-4ad5-8475-0ce920f92a3f) if you're low on cash. [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is decent if you want higher cooldown reduction.",
-        "stats": {
-            "LIFE": 331,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 25,
-            "Total LIFE": 331,
-            "Attack Speed": 25,
-            "Weapon Power": 10,
-            "Ability Power": 55,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 30
-        },
-        "round_upgrades": [
-            {
-                "id": "9ef00bd7-af3c-4b7b-8eb4-999da7554334",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64de259-d122-407d-a7e4-9d7267310704"
-            },
-            {
-                "id": "5a402131-0c2e-4c9d-bcdf-f237ff4269ab",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0b7b0332-9bf6-4905-810e-7614b914d663"
-            },
-            {
-                "id": "bed2db27-0c3e-43e5-961d-7b28e928319e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
-            },
-            {
-                "id": "ddece2cd-9f3e-477b-b9e7-1c357d036abb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "18e44c9e-7803-40d3-80b0-c18b17e922c9",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-            },
-            {
-                "id": "230185fd-8d18-4680-a7c9-43bbd4e43b30",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "ab977917-0e16-4aaa-add0-96cf43622211",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "a796ed17-6cb6-45e0-bb5a-59048d122070",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-            },
-            {
-                "id": "86741998-de86-4302-a370-824ab844cb78",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-            },
-            {
-                "id": "9f70d1d6-ab19-476e-b0dd-ba02ddae31a9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
-            },
-            {
-                "id": "98b22c62-332c-4102-9489-85e5b320e31f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
-            },
-            {
-                "id": "36bda9e3-f69a-43fc-979d-45a04003f2a2",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
-            },
-            {
-                "id": "38c56010-6746-4c22-a203-ae711c058237",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
-            },
-            {
-                "id": "15a33610-cd39-43f9-86f9-60c449e0c76d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
-            },
-            {
-                "id": "dad25f0f-e563-4e10-a14e-fe7b3d0f17ad",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "92a23095-2da1-4c63-b90c-06fa3748eefd",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d9fa8542-237e-49d5-b6a1-4e910d5c777f"
-            },
-            {
-                "id": "d42e6cf5-9d40-4544-8eda-e97ed33c1eb7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
-            },
-            {
-                "id": "63ffa833-37d5-4f6c-88f5-bd2f7d6f20ef",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
-            },
-            {
-                "id": "c42a1cbe-0447-4371-b6d3-3f2434e1edd2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
-            },
-            {
-                "id": "7d843b56-cc9b-4e6f-9c69-13af062b3960",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "bb5252fd-fc6b-4dce-a60a-21b0a0add68f"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "44191211-3d54-46a0-81db-76970c9f71a3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64de259-d122-407d-a7e4-9d7267310704"
+                },
+                {
+                    "id": "aa3c48dc-160b-4928-8af9-d37e413f8439",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
+                },
+                {
+                    "id": "a2652eb5-d0c1-477e-8f12-47d91e9c4327",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
+                },
+                {
+                    "id": "51e6f3ac-7c57-4b77-8086-9596def3a39c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d56fb90c-cbe6-4ad5-8475-0ce920f92a3f"
+                },
+                {
+                    "id": "b4d2d5ac-4a5e-4dc0-bc55-afc9deaa9aa8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "14ea769b-3e37-44bb-b87e-a9fdc7bd389f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "8e6fdb95-7175-4822-97d2-6e599ae3497a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "0f0535b4-d45f-41cd-a5c0-181c14498b29",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "2c993de1-0818-4d7b-bb85-46925ef2ac7e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "eed642e2-1367-424d-b27b-b5aa4c83fbc2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d9fa8542-237e-49d5-b6a1-4e910d5c777f"
+                },
+                {
+                    "id": "8730be4d-f7a8-4534-81cd-c9056ad39aab",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "4f328a9a-8cf2-438a-985e-ffc8f2a49630",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9b81fbe9-c5f8-4442-93d5-082b036010a1"
+                },
+                {
+                    "id": "e8e076d6-1c79-4ca1-9419-2263910e871c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "94d2fee9-ef7d-4db8-989f-9bad79fa4336",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "a7e5f546-1908-494e-8c02-43a9eca38fc5",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "a3a40211-99d4-43ba-bd37-db18796c187d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4a084906-0fcd-4158-9a4b-763a69d0b198"
+                },
+                {
+                    "id": "36a78a2d-75e2-499b-bcd5-de6c31e3f1bd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
+                },
+                {
+                    "id": "f12afc94-3d68-4c5a-ac9c-c14f6e65a711",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
+                },
+                {
+                    "id": "43665957-fcfa-411a-940b-ae3fe36b72bf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bb5252fd-fc6b-4dce-a60a-21b0a0add68f"
+                }
+            ]
+        }
+    ]
+}

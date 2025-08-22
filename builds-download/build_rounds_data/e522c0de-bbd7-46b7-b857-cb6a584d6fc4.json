@@ -1,531 +1,642 @@
-[
-    {
-        "id": "433f4d1e-f3da-46ba-a764-d70c1edb4c2d",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Normal Dva gameplay. You can focus on damage, or damage mitigation to help your team, just focus on farming credits as fast as possible. You can go with Facetanking for some sustainability if they're projectile heavy, or go for Ignition Burst for some denial and damage. I would recommend Ignition Burst overall, it has better synergy later, but if they pick heroes like Freja, Rein, Cass, Soldier, then Facetanking is a solid option for sustain.",
-        "stats": {
-            "LIFE": 425,
-            "Armor": 325,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 750,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-11T20:33:20.189342+00:00",
+    "rounds": [
+        {
+            "id": "a94beafa-fc72-48ce-97e7-7f8ab600f2a2",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "In the old build, we built survival items like  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) and  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) immediately, but I didn't notice a large difference in the ability to get mech back. Instead the new strategy is focus on ability power and lifesteal the first few rounds, so build [Ignition Burst](item_52bbc55a-2003-424a-99a0-a53e4941ec58) for later zoning and passive damage, and focus on ability power at the start to farm credits. If they're anti-dive, or projectile heavy, you can forgo this and instead get  [Facetanking](item_f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea).\n\nTo do this, we'll take  [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295),  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418), and  [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7). Focus on flying above their team and zoning them out with lava, flying back to your frontline, and blasting them with missiles.",
+            "stats": {
+                "LIFE": 400,
+                "Armor": 325,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 725,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 10,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "29cc9fa9-ab9b-4df7-a30f-9566112dc3c4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                },
+                {
+                    "id": "a2bc2133-da33-46ad-9f17-e523824eaecb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "46a497ac-2975-43d3-8a8e-c8a59d215941",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "c51204a7-feef-4cf0-ac80-beee016f388d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "8deb87ff-b93f-4b7e-aa08-d9dbe9654176",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "9c5d1bab-1645-49ef-a41d-f5091027cd09",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "cfcfece1-5ac6-4687-ae8d-a20419a28fb0",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "More of the same, but we pick up  [Dae-Hyun\u2019s Detonator](item_cf3e51e1-12c7-4d92-a68b-7742f98fe8fa) for 15% ability lifesteal and the possibility for picks. Keep stacking up lifesteal and ability damage for credit farming. Next round is when we completely change it up.",
+            "stats": {
+                "LIFE": 440,
+                "Armor": 300,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 740,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 20,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 35,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "03f98dd0-9295-450a-b976-8863f11ce39b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "2d6b2637-cefe-48a5-bd4a-f2f80521960c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "dd020802-8d00-489d-93e0-930b80e31144"
-            },
-            {
-                "id": "fca222c1-ddf3-49c2-ac6e-aa79cb42525a",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "b0fd9507-115e-48a9-a2c8-c35852e9a4fb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "3152ef17-0f9b-4956-be48-03acfe83c427",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Here you want to try to pick up both Vital-E-Tee and Crusader Hydraulics. Now your baby healthbar looks like THIS.\n\n![Image](https://i.imgur.com/9plDyog.jpg)\n\nWhen you demech, start smacking the enemy squishies to heal for 25hp each melee until you remech. At this point in time, you're not QUITE tanky enough though, so you'll want to be careful still.",
-        "stats": {
-            "LIFE": 340,
-            "Armor": 460,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 800,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "c78c5e2e-7cfa-4962-8237-c49f7e40a804",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "57af6a48-2cd6-4d93-8fa9-5256e035c7b2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "cf3e51e1-12c7-4d92-a68b-7742f98fe8fa"
+                },
+                {
+                    "id": "9e227ef4-1b7e-4da7-b14d-fbd9499cfcc4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "b47838a8-d8ba-48b3-89d1-8de0c57d4818",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "4ea3b20d-ab71-4eaf-a537-60ba871a89b9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "c9abf6e3-a565-418c-953a-a183e3f8650b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "be0f3832-9046-4d21-aedb-b0d426c28b9c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+        {
+            "id": "33bd0c16-077f-453e-a79b-81a4dbeff934",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "Pick up  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) for some insane heals as both Baby and Mecha Dva, and to help with this we take  [MEKA Punch](item_70090fbf-a2ba-4b47-a3d9-1081546a3a47). One thing to know about  Gloomgauntlet is that it does not stack, it simply refreshes the timer on the heal and movement. It DOES increase melee damage, and the reset on boosters allows you to keep dropping lava with [Ignition Burst](item_52bbc55a-2003-424a-99a0-a53e4941ec58).\n\nYou still need to be careful with being close range unless you have the cash to pick up  [Nano Cola\u2122 Nitrous](item_9e63ff90-c7d7-4695-a6cb-575b2619a963), but currently, it takes 6-8 melee hits to re-mech if you don't shoot. If you can't get Nano Cola yet, pick up  [Crusader Hydraulics](item_b64cee07-ca32-405d-987e-868b415bbc09) for some damage reduction, and  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) can help live longer as baby.\n\nAt this point, save your ult for guaranteed re-mech, not as an offensive option for the rest of the game.",
+            "stats": {
+                "LIFE": 450,
+                "Armor": 460,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 910,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "13765ca2-4e10-481e-87cc-94179d3e1b3e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "7d9cf1da-f2b2-4204-bfe5-8c893f98e760",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "b773cd98-bfc2-430e-9a16-1e45bea1af64",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "eeeb78c1-665f-4ebd-ab2d-5e3bea89b461",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            }
-        ]
-    },
-    {
-        "id": "6b5d5392-87a4-462f-a6bb-5382661f94fd",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Here is where some build synergy starts. Pick up Gloomgauntlet for some insane heals as both Baby and Mecha Dva, and to help with this we take Meka Punch. One thing to know about Gloomgauntlet is that it does not stack, it simply refreshes the timer on the heal. It DOES increase melee damage, and the reset on boosters allows you to keep dropping lava with Ignition Burst.\n\nYou still need to be careful with being close range until you pick up Nano Cola Nitrous, but currently, it takes 6-8 melee hits to remech if you don't shoot.\n\nAt this point, save your ult for guaranteed remeching, not as an offensive option for the rest of the game.",
-        "stats": {
-            "LIFE": 345,
-            "Armor": 460,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 805,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "24893b3f-a705-4c35-bb03-5b87eba8419c",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "6b0462f3-5b21-4da3-9ce9-e756d3496fb0",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "1f48b250-3ba3-491b-a6d6-7db60e4dab26",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "cf3e51e1-12c7-4d92-a68b-7742f98fe8fa"
+                },
+                {
+                    "id": "060e64b2-29fd-4279-9dc0-f455f7f538fa",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "1e17cb65-f79a-4af3-b075-7814f6263650",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "7e605c42-124d-4fc7-adc8-fb7b039e10de",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "02939f00-b0ba-4863-92e3-112fd0b0b48d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "0371f229-89c0-49e0-9aa7-5c0c51aa8c7a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "97968a5d-89d1-496d-bcfb-6b5cdbae4d3c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358d93ab-617b-41e7-8df3-ac78d0d8c680"
+                },
+                {
+                    "id": "a1b951f9-5caa-47e5-92c8-8cc4ce32acb0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "5bd7d5a8-763a-44e8-b8ba-a96dd77f58be",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "49a8f834-2ef7-4ecc-ba83-578cca4db2f0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "974a89fa-3b31-4b95-92a3-ee6ed4dd606d",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "fe12441f-f690-4c12-bd53-dff95bf58478",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "Round 4 and you're truly online. With 1 melee a second as baby Dva, you heal for 34 / second, have 50% damage reduction from nano, armor, a tiny hitbox, and are almost guaranteed a remech. But we can go further.\n\nPick up either  [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) or  [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8). Both have their pros and cons, with Reduction field helping against damage over time and small instances of damage, while Nebula Conduit helping with big burst damage by letting you heal through it. Grab any of the optional items to help if you have enough cash.\n\nNow the goal is to constantly boost into their backline, dropping lava and smacking the enemy squishies. FORCE them to look at you. Live forever. DM characters like DPS hitscan, ana, moira if she's running orb build. Remech is all but guaranteed at this point, but watch out for counters like Rein pin, Orisa javelin, and sleep. You're also not completely immortal, you need to punch things with your little fists to live long enough to remech. Orisa and Zarya counter this the most with javelin spin and bubble.",
+            "stats": {
+                "LIFE": 544,
+                "Armor": 460,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1004,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "74b005e1-411d-4758-bef2-5a46648d676e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "bea861ac-45f1-4a47-b85c-7dcd9633e0eb",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "7cca1d87-e6e8-4e5c-b7c6-c5d2a9ba91f6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "68428ba1-2655-431e-bdfd-69d299e2cf09",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "c1746c89-1159-4adb-aa1b-94a9f65e1649",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "c8ceb3f6-255c-4859-a420-a979ecd9918e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            },
-            {
-                "id": "f32ce175-c316-4d41-a50c-a5fcf3954c86",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            }
-        ]
-    },
-    {
-        "id": "fe8345f0-e692-45c8-8cc5-463487f2e524",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Round 4 and you're truly online. With 1 melee a second as baby Dva, you heal for 34 / second, have 50% damage reduction from nano, armor, a tiny hitbox, and are almost guaranteed a remech. But we can go further.",
-        "stats": {
-            "LIFE": 410,
-            "Armor": 460,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 870,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "b108f7a4-f4ac-4ecb-aa50-4040ee173795",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "a7b516c2-b703-4e33-8318-114a0f892f1f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "041c9c20-28fe-40aa-b51d-8ad2d0f11b68",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "bc679a1d-ee47-4fe8-b80b-ccba311756e8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "5f2d31e1-7434-404e-9ee3-637c1a0cebdf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "8c9d48be-dcf0-442c-a593-94eb4ac9c136",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "ca0d7c90-739c-476b-a245-6568cee10107",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "7fa65236-15b5-44aa-bcd9-94c948924088",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "a61cf6bd-0dc6-4b2d-aec6-6ca6c259bfb6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d51e1372-d3a5-4378-8684-7b0a568802d1",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+        {
+            "id": "0de0261c-cdd9-410d-8f5a-f553c052af37",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "We pick up  [Facetanking](item_f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea) to have a lot more sustainability. The DPS are doing insane damage at this point, leading to insane healing in your mech. If you picked it up in round one instead of  [Ignition Burst](item_52bbc55a-2003-424a-99a0-a53e4941ec58), then you can go for that or for something like  [Ultrawide Matrix](item_403fe162-4a59-4a8e-8af9-5f83267228e8).\n\nLiving forever and self healing like this means you'll earn a LOT of credits in the last three rounds. This is good, because it means by the end of this one we'll have a lot of control over what exactly we want our build to do. If you picked up  [Ogundimu Reduction Field](item_b12daf48-069b-44c1-88fe-221cbcff664d) , pick up  [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) and vice verse. Pick up any of the optional items if you can afford them, but if you can get a second epic, go to round 6.",
+            "stats": {
+                "LIFE": 588,
+                "Armor": 510,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1098,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "2e102ba9-a4d8-4e21-ba12-7500fbf7cd13",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "ded5e03a-5c6c-4c23-80c3-266bd4a8e20c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "04fa5fe1-e985-4115-8166-3aa865a4922c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "1d633e7a-49fe-45ee-a01c-3a337da8bea8",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "33600843-955c-4ae0-9bbe-afc2f766c680",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            },
-            {
-                "id": "8911a028-8037-455f-a3e0-7a2d3779b5ed",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            }
-        ]
-    },
-    {
-        "id": "3a575a08-7973-45fc-979d-2266abc0dced",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "If you can afford to pick Crusader Hydraulics back up, do so. With that, you have nearly 500hp as baby dva, 10% reduced weapon dmg, 50% reduced damage with the nano, and if you get low (usually if nano wears off) you get 10% reduced damage from Rustong Von Wilhelm! \n\nWe pick up Facetanking to have a bit more sustainability in mech alongside the melee healing with Meka Punch.\n\nNow you stick to their backline, dropping lava everywhere, punching them, holding matrix up if you ever get below half health. Don't let them play the game, and get picks if you can",
-        "stats": {
-            "LIFE": 438,
-            "Armor": 475,
-            "Shield": 15,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 928,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "a7e21c25-82e4-4036-a909-ba06a9429f40",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "1c16ce3b-9235-44e8-9ff8-c4f088da211a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "975106a7-8bee-4b49-964e-95e27f38a58d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "2df1fe84-3b56-4ce7-a26c-313c861a8589",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "ca9f977b-4470-47e9-aaa3-39bf7d544a0f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "1ce6bd45-37bc-4714-95ce-cc55ca1ba1b5",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "3ef7c465-f598-4183-9194-5446a46641ca",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "dc50b7eb-2171-46ec-a6ba-636dc8a1babc",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
+                },
+                {
+                    "id": "d8bd9b6c-72f1-4dbf-9ece-71c1d9f2fe16",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "403fe162-4a59-4a8e-8af9-5f83267228e8"
+                },
+                {
+                    "id": "bf848f22-4249-4066-9654-8d13df05898f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "1d0776c8-c1d0-4241-b03b-e679d10b3f0e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "b7eb3688-8b61-4409-91b8-8b0dd8fbb9e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "ea93d66a-da08-478a-9e8c-69b2195799ea",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "9cc33ef8-9fdb-4110-b783-78b1e4dcda85",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+        {
+            "id": "b068558a-37e6-4f8c-b29b-cacf9728bfee",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "Here's where you have a choice, there's a lot of good options and I'll talk about all of them. Pick whichever one takes your fancy. I'll list my default option first, and then go from worst to best alternatives.\n\n[Rustung Von Wilhelm](item_aea17a63-3f55-4f91-8f49-a7793fbc56c4) is great for adding more armor to Baby and making Mech a lot harder to kill, a very safe option. It's usually my default.\n\n [Geneticist's Vial](item_c7443757-9e2a-4be8-b3a3-469ab64b0e9d) if you're confident in your team and want to self-rez. It's not the BEST option, but it's really funny!\n\n [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) if you're living long enough with bomb, and want some extra damage. \n\n [Divine Intervention](item_b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c) if they're especially high in burst damage, such as Junkrat, Soldier rockets, or Freja explosive bolts.\n\n [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is great for some passive healing in Mech, especially if they have more trickle damage such as beams. You have a truly ridiculous amount of health, but it doesn't heal as much in baby compared to Gloomgauntlet + Siphon Gloves.\n\n [Singijeon\u2019s Pulse Plating](item_033e4839-b8cb-49bf-ac8c-172bfce6d06f) I haven't experimented much with this, but if the enemy is projectile heavy, it goes extremely well with  [Facetanking](item_f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea) and can get  you the guaranteed remech.",
+            "stats": {
+                "LIFE": 643,
+                "Armor": 525,
+                "Shield": 15,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1183,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "f4cf2f91-3b01-42b2-9e4b-58e07409c2ac",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "e836eba0-95cd-4421-bf1f-8d829d0992f0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "40f8b92f-bba4-42ef-a071-6799fbcac0a0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "9e28f75e-ba59-4326-8d03-034cc28c6245",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "c967b087-eaca-4930-94ac-d554e39e733e",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "b64cee07-ca32-405d-987e-868b415bbc09"
-            },
-            {
-                "id": "ed7fd016-0cb0-404d-a3ef-135c9fd344e6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            },
-            {
-                "id": "c6b367b9-41c3-426f-aafc-fe91c21cfd46",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "9aa61020-ad7d-48b9-ae27-fd3fa4cb58dc",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
-            }
-        ]
-    },
-    {
-        "id": "e05a666d-e82e-4277-8631-ef2c18b33932",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Ogundimu Reduction Field will give you the most sustainability. 50 armor, and essentially a permanent 10% damage reduction as their whole team is willing to throw point just to make sure you die.",
-        "stats": {
-            "LIFE": 453,
-            "Armor": 525,
-            "Shield": 15,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 993,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "ccc7dd0f-e7fa-44ec-9a45-00b07db3f94f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "006920e3-58b7-4adc-b49b-48751ecb7e4c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "033e4839-b8cb-49bf-ac8c-172bfce6d06f"
+                },
+                {
+                    "id": "fe182121-4f90-4f93-bedb-720989deebd2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "e9a3d151-51bd-4873-a3fc-f8c8ce51f414",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c7443757-9e2a-4be8-b3a3-469ab64b0e9d"
+                },
+                {
+                    "id": "b582b170-06be-464c-bf98-ac0c17a3836b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "2009d739-546d-49d8-8b1d-b63eee24fafa",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "2ac8d117-1272-4670-aef2-41fbbfc08689",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "33806ffb-c6eb-4ed3-a89a-92c46b372287",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "66d12027-6791-47e8-a037-e603c53c3c77",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "f9e036ae-c1be-4a10-8197-13c76c314a99",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "2069267e-2e00-4813-9a46-5ea1df07559f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "bc120e92-c7d0-47bd-8637-ea644d6d974e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "606a2953-4b43-40eb-b805-3d2528628d70",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "47cf5cab-26af-46c7-b021-091e0fab7288",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "e4385cf2-ac70-475c-bffc-fab2693bd47f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+        {
+            "id": "454667a0-82cf-45b6-93a9-16e8e4fd9538",
+            "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-11T20:33:20.189342+00:00",
+            "notes": "Here we have several options for both powers to finish it off. \n\n [Ultrawide Matrix](item_403fe162-4a59-4a8e-8af9-5f83267228e8) is a solid default option. Eat more for longer, heal more with  [Facetanking](item_f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea) and if you picked up  [Singijeon\u2019s Pulse Plating](item_033e4839-b8cb-49bf-ac8c-172bfce6d06f) that synergizes very well too.\n\n [Stat Boost](item_d3ef725b-3183-417c-bc5a-76bfa21c6cc5) is great if you're getting boost resets with  [MEKA Punch](item_70090fbf-a2ba-4b47-a3d9-1081546a3a47), which happens most often if there's a Kiriko clone.\n\n [Express Detonation](item_8da4cbad-78cb-4ebd-8bc4-8dc150afec95) means you get your guaranteed remech faster, and possibly some picks.\n\n [Party Protector](item_1ef9061d-cfa4-4f4e-a262-ab1012438e69) will help your team out if you're playing together in a brawl or dive comp, but it also gives you the overhealth.",
+            "stats": {
+                "LIFE": 643,
+                "Armor": 525,
+                "Shield": 15,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 1183,
+                "Attack Speed": 0,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "b5c0d65e-5cf2-4cd5-aa70-6fdfce757441",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "0f17c134-afb3-471f-9667-52e7045b47bd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "d46f233e-5ef1-41ef-8faf-6f14cfd5bd76",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "8c452ddc-e769-4e92-b078-c97f7e6af837",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "c87c0adf-90cd-4dfb-a804-11eea7fe0c7d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "cfee4119-89be-4503-aca6-630c54967932",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            },
-            {
-                "id": "80e56275-813d-4432-9458-acd284a1667e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "908c4ff4-67be-4e7a-9730-a66cf1018530",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
-            }
-        ]
-    },
-    {
-        "id": "2c622c2a-9eac-4d6b-aa0d-91ee455f0eaf",
-        "build_id": "e522c0de-bbd7-46b7-b857-cb6a584d6fc4",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-30T11:39:38.64408+00:00",
-        "notes": "Here we have several options for both powers and items.\n\nUltrawide Matrix: Eat more, heal more, it's pretty simple, take this as the default option if you're not sure what to go for. With Stat Boost, if you're getting melee kills and resetting boosters through Meka Punch, you can recover matrix faster! Express Detonation makes your bomb exploding faster means possible picks when remeching, but you also remech faster! Party Protector is a free 250 overhealth for you and your team if you get demeched with bomb\n\nSiphon Gloves has the highest sustainability when you're Baby, but isn't great for when you're in mech, so you can keep it or swap it for several options. Nebula Conduit takes very bursty damage from characters like Freja and Cas and turns it into damage over time, meaning it's a lot easier to mitigate with your self healing. Martian Mender does 17 healing / sec as baby, and 38 / sec in mech and some solid cooldown reduction. If you're not being demeched often, take Vanadium injection for some general stat boosts!",
-        "stats": {
-            "LIFE": 491,
-            "Armor": 525,
-            "Shield": 15,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 1031,
-            "Attack Speed": 0,
-            "Weapon Power": 5,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
-        },
-        "round_upgrades": [
-            {
-                "id": "dd54b920-98e8-4884-b538-3d0dfc7524e8",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "3903c0be-4a3c-4872-84e6-342c29febbc7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "12b135b8-f631-4bc8-b5d6-4af979f8b8f2",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "3461e5f2-3ecd-4beb-95fe-1d992f89d828",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
-            },
-            {
-                "id": "f12fe969-6547-4d25-adc5-94e4c669ed0a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
-            },
-            {
-                "id": "7a93fa5e-d582-42fb-9963-58731d31647c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
-            },
-            {
-                "id": "8f593d8a-ed52-4d81-93b7-056cd3fd4389",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d3ef725b-3183-417c-bc5a-76bfa21c6cc5"
-            },
-            {
-                "id": "e7294ce4-4fe2-4cf1-ad57-f4de1f2620d2",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "1ef9061d-cfa4-4f4e-a262-ab1012438e69"
-            },
-            {
-                "id": "47ea5bac-3e39-4749-a056-4b493c5f27eb",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-            },
-            {
-                "id": "d3cbeecd-7f7c-46d9-ab33-0b4275ac3f31",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-            },
-            {
-                "id": "4d5cab12-f0a3-443c-b649-8824a8a08ee9",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8da4cbad-78cb-4ebd-8bc4-8dc150afec95"
-            },
-            {
-                "id": "c1d4310a-35c3-40a3-ab22-bb36719dc553",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-            },
-            {
-                "id": "2f79ceee-3bfd-49be-8f70-898d4be67a28",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
-            },
-            {
-                "id": "878db8f7-bb0e-4996-a7dd-bb3527aeb71a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
-            },
-            {
-                "id": "8c0bec1d-3de1-45d0-9372-aef9c3fdea63",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
-            },
-            {
-                "id": "8f5b670b-1245-495c-8e43-7c96bb52c5c6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "403fe162-4a59-4a8e-8af9-5f83267228e8"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "1c067131-fa73-4763-82ae-8c1a3bd31113",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d3ef725b-3183-417c-bc5a-76bfa21c6cc5"
+                },
+                {
+                    "id": "278d020f-d157-441c-867a-7eb8653b84df",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "1ef9061d-cfa4-4f4e-a262-ab1012438e69"
+                },
+                {
+                    "id": "a1592b2d-8d66-45ae-a3fa-1ad818f866b8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8da4cbad-78cb-4ebd-8bc4-8dc150afec95"
+                },
+                {
+                    "id": "818f3496-a956-43d0-bfae-04edd971f01b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "9e63ff90-c7d7-4695-a6cb-575b2619a963"
+                },
+                {
+                    "id": "fd7751c6-e7ff-4b4b-8fd0-2a53d7d40759",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "bb54d7d1-b257-412b-bdf4-018928c00647",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "bc3d265c-c4d1-4ba5-965c-c504e911800d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "4fee1f2f-5166-4335-957c-3c2ad92c4e04",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b12daf48-069b-44c1-88fe-221cbcff664d"
+                },
+                {
+                    "id": "9ae5c65f-d605-457f-9af5-646a3c15cac6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "aea17a63-3f55-4f91-8f49-a7793fbc56c4"
+                },
+                {
+                    "id": "ae296cec-13ba-4444-af1f-c5de87fa380f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c7443757-9e2a-4be8-b3a3-469ab64b0e9d"
+                },
+                {
+                    "id": "ed01ea4a-7d8c-4fb1-ac85-bca0b29f12b8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b5148b7f-8529-4b1b-a90c-5d7cf13f8f0c"
+                },
+                {
+                    "id": "e549d721-3553-445f-b6ea-5f92ac88f2ba",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "9d45211f-58c7-4d05-848f-26d2d33f1ecc",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "7fa35c57-23db-4569-930e-44f0ed78111d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "033e4839-b8cb-49bf-ac8c-172bfce6d06f"
+                },
+                {
+                    "id": "ae804267-2785-4b01-86dd-25f29df76636",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "52bbc55a-2003-424a-99a0-a53e4941ec58"
+                },
+                {
+                    "id": "b55562d2-e195-4ad0-a482-31535781da63",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "70090fbf-a2ba-4b47-a3d9-1081546a3a47"
+                },
+                {
+                    "id": "53261543-28e0-47e4-a42e-70fae73d0f42",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f8af63d1-1fd4-4758-86ce-96f1ef7ea1ea"
+                },
+                {
+                    "id": "45f32d98-f5e2-43ae-9903-c9c57528e15c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "403fe162-4a59-4a8e-8af9-5f83267228e8"
+                }
+            ]
+        }
+    ]
+}

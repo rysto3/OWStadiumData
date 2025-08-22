@@ -1,681 +1,684 @@
-[
-    {
-        "id": "15798fe0-3499-4507-b7da-9215812fb0f6",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 1,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *Patience sharpens the hidden edge*\n*The path of the warrior is patience, not haste. Strike only when the moment is yours.*\n\n---\n\nJust don't **die**",
-        "stats": {
-            "LIFE": 275,
-            "Armor": 25,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 306,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+{
+    "updated_at": "2025-08-21T09:35:00.317385+00:00",
+    "rounds": [
+        {
+            "id": "ba244664-bc59-4aa4-ab98-c66cfc2c443c",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *Patience sharpens the hidden edge*\n*The path of the warrior is patience, not haste. Strike only when the moment is yours.*\n\n---\n\nJust don't **die**",
+            "stats": {
+                "LIFE": 275,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 300,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "d669addb-36b5-4cfa-af4c-b5dd41b48826",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "0aafc92e-b3d0-4ec4-9d4b-7a31ffb69555",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "d529f5e7-f004-4806-b4c6-839a57b0bf2d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "d9ee0dec-21ee-4e28-b7b6-2720734b248f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+        {
+            "id": "9efc8340-f5de-4076-8d01-fc49cf355e13",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n # *Strength blooms as shadows siphon*\n *Each strike echoes the Y\u014dkai\u2019s fang, mended by petals.*\n\n ---\n\nThe combination of  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) +  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) +  [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) is absurdly strong. \nUse your quick melee **as much as possible**.\n\n*WARNING : Do NOT buy [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) if you can't pair it with [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) and [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6), as you are mathematically losing value. Check the **\ud83d\udcb8 Item Guide** below for more details.*\n\n\n## Quick math: why melee is actually busted\n\n- Quick melee base damage : 40\n-  [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) : 15\n-  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) : +15%\n\nThe formula is *(Base Quick Melee * WP * Melee Damage) + (Hidden Blade * WP)*\n\nSo this round, each Quick Melee deals :\n- (40 * 1 * 1.15) + (15 * 1) = **61**\n\nAnd you lifesteal 60% of Melee damage from [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) + 25 from [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + 5% of max health (over 2 seconds) from [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7).\nAssuming you have 350 HP, each Quick Melee heals you :\n- 61 * 0.6 + 25 + 350 * 0.05 = **79**\n\nSo basically every Quick Melee hits is a Kiriko kunai in damage and a Lifeweaver full blossom in healing.\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 9.5k\n\nKeep your round 1 items, and buy in this priority : [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69), [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da), [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f). \nComplete with [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) if you can.\n\n## \ud83d\udcc9 If you have less than 13k\n\n[Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) + [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) + [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0).\n\n*You can replace [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) with [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) if it helps you optimize your items more efficiently.*\n\nThis combo achieves similar stats as [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) while significantly boosting your shuriken damage. In this setup, you should try to play a bit less aggressively and focus more on poking. This actually aligns well with the situation : if you\u2019re behind in economy, it usually means the enemy composition makes it harder to engage aggressively anyway. Complete with [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69) / [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) and/or [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) if you can.\n\n\n## \ud83d\udcc8 If you have more than 13k\n\nAdd green items with this priority : [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69), [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da), [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f), [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0), [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf).\n\nIf you have more than 19.75k, fill the last slot with any blue item of your choice. If you are that rich, you\u2019re probably good enough to figure out what to take by yourself.",
+            "stats": {
+                "LIFE": 295,
+                "Armor": 75,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 370,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "652955c3-8bfa-48ad-a119-4797cf0eda7d",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "3838ce46-6f3f-46aa-ab8e-24994f1d002f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            }
-        ]
-    },
-    {
-        "id": "3c33fd40-de28-4b62-b74f-f84004027d84",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 2,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n # *Strength blooms as shadows siphon*\n *Each strike echoes the Y\u014dkai\u2019s fang, mended by petals.*\n\n ---\n\nThe combination of  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) +  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) +  [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) is absurdly strong. \n\n- *WARNING : Do not buy [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) if you can't pair it with  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) . Check the **Item Guide** below for more details.*\n\n\nUse your quick melee **as much as possible**.\n\nIf you have extra cash, go for tankiness :  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) and [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69) are the best options.\n\n## Quick math: why melee is actually busted\n\n- Quick melee base damage : 40\n-  [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) : 15\n-  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) : +15%\n\nThe formula is *(Base Quick Melee * WP * Melee Damage) + (Hidden Blade * WP)*\n\nSo this round, each Quick Melee deals :\n- (40 * 1 * 1.15) + (15 * 1) = **61**\n\nAnd you lifesteal 60% of Melee damage from  [Hidden Blade](item_a820416d-85e5-4018-b20a-dc1cbf744900) + 25 from [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + 5% of max health (over 2 seconds) from  [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) .\nAssuming you have 350 HP, each Quick Melee heals you :\n- 61 * 0.6 + 25 + 350 * 0.05 = **79**\n\nSo basically every Quick Melee hits is a Kiriko kunai in damage and a Lifeweaver full blossom in healing.\n\n---\n# Detailed Item Guide\n\n## If you have less than 9k\n\nKeep your round 1 items, and for every 1.5k you have, buy is this priority : [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69)   [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da)   [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f) . \nComplete with [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) if you can.\n\n## If you have less than 11.5k\n\n[Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) +  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) +  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7).\n\nThis combo achieves similar stats as [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) while significantly boosting your shuriken damage. In this setup, you should try to play a bit less aggressively and focus more on poking. This actually aligns well with the situation : if you\u2019re behind in economy, it usually means the enemy composition makes it harder to engage aggressively anyway.  [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) ,  [Anti-Beam Coating](item_1ab73e1c-aaa1-4026-89cd-68404db7fd93) and  [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f) instead of  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) are also worth considering depending on the situation.\n\n## If you have more than 11.5k\n\nFor every extra 1.5k you have beyond the recommended build, get a green item with this priority :  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)   [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69)   [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da)   [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f) . \nComplete with  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) if you can.\n\n [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f) is also a good option in some situations, so keep that in mind.\n\n## If you have more than 20k\n\nDo NOT go for [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) . Simply add [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) or [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) to the build, and then apply the same logic as above: prioritize green items in order and complete with  [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) .",
-        "stats": {
-            "LIFE": 298,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 348,
-            "Attack Speed": 0,
-            "Weapon Power": 0,
-            "Ability Power": 0,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 0,
-            "Ability Lifesteal": 0,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "c0cc6148-1cf1-46e7-90d4-99c1c2c69854",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "c1327aa7-370c-40f1-81a8-ee858ef9e9f9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "89d78ac2-e792-4bae-ad7e-1415a5f22b93",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+                },
+                {
+                    "id": "626e9d83-9f9a-4dc1-a91e-ba0177d45820",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "b3c9487b-0cb5-42f4-9337-4503778c6c96",
+                    "notes": "If you don't have enough for Gloomgauntlet, and you die a lot",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "3b9e95e8-13da-4d6a-ba2b-60e30a37edf8",
+                    "notes": "If you don't have enough for Gloomgauntlet, and they have 3 beams",
+                    "action": "optional",
+                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
+                },
+                {
+                    "id": "3ee69ce8-040a-4a56-a297-30334ffa938b",
+                    "notes": "If you don't have enough for Gloomgauntlet (Check the guide)",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "998814ab-f32d-4723-804f-540b1019fb02",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ab8eba6a-0bda-4b12-8854-4ba4169b515f"
+                },
+                {
+                    "id": "c9eaa455-41ff-4a92-8bd5-ec48a8cb027a",
+                    "notes": "Can be a good option if you\u2019re struggling against enemy CC or DoTs (Ana, Junker Queen, Sigma, Cassidy, Ashe).",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "64e4ebac-b7a5-462a-af0e-1d377bceac02",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "dd0d92ac-3bc6-46c6-8cbb-5e655a0a9b8c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "6d2c215e-5cce-4a09-9456-da40ce3a4770",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "31dc5bd6-8fff-4e92-84e2-cbcc9b2431cd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "ecdb3c8c-1324-4160-ad0b-eab633bd6f9c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+        {
+            "id": "c5309f46-31b9-46ea-a50c-1e40c29150ed",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *The blade awakens*\n*When defense falters, the phantom\u2019s strike claims its due.*\n\n---\n\n## You are not the main character yet. \n**But you are a deadly self-reliant assassin.**\n\nKeep the same disciplined playstyle, but now, thanks to the insane lifesteal from  [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) with [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) , you can take riskier duels and pressure the tank.\n\nYou also want to use [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) in chokepoints during early fights to benefit from the AoE damage and help take space.\n\nIf you have extra cash, make sure to prioritize green items.\n\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 23k : \n\nPrioritize [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) in most of cases. Complete your build with green survivability items as in the previous round, since being behind in cash likely means you are dying a lot and need extra sustain. Add [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) if you can.\n\nThe only scenario where you want to keep the [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) + [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)  combo over [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)  is when the enemy team is hard to [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168). In that case, get [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) + [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) , and complete with green items. Make sure that every item slot is filled.\n\nGreen items are in this order of priority : [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)  [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69), [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da), [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0), [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf), [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf).\n\n## \ud83d\udcc8 If you have more than 23k :\n\nComplete the build with the green items listed above. Take [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a), [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f), [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56)  or [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) instead of one of these if you can. Make sure that every item slot is filled.\n\nIf you are super rich (more than 33k), go for [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b). \n\n_No matter how much money you have, don\u2019t forget to consider situational items like [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f) or [Anti-Beam Coating](item_1ab73e1c-aaa1-4026-89cd-68404db7fd93) if the enemy comp makes them valuable._",
+            "stats": {
+                "LIFE": 315,
+                "Armor": 75,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 390,
+                "Attack Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "2416bcc9-493c-4ebc-9f81-2724367d6dae",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "1261fc3b-9f2b-486c-9de7-e354378f905c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "8c33f5c3-e204-4f8c-ac5a-34f468292494",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
-            },
-            {
-                "id": "8ea222f7-0ea6-4baa-9dd0-8eff6c53606b",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
-            },
-            {
-                "id": "ecd99197-3fe9-4136-bf5e-14f1ad565e76",
-                "notes": "If you don't have enough for Gloomgauntlet, and you die a lot",
-                "action": "optional",
-                "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
-            },
-            {
-                "id": "69988d67-01a6-40cc-9755-4c0f4a5e22e4",
-                "notes": "If you don't have enough for Gloomgauntlet, and they have 3 beams",
-                "action": "optional",
-                "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
-            },
-            {
-                "id": "e8fcb175-8681-4260-8767-ec451452534c",
-                "notes": "If you don't have enough for Gloomgauntlet (Check the guide)",
-                "action": "optional",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "84fa15d7-1e52-4bf7-a7ad-d9bc1c8b8d88",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ab8eba6a-0bda-4b12-8854-4ba4169b515f"
-            },
-            {
-                "id": "36a83032-944b-4d16-9d8c-247b550ab8b7",
-                "notes": "Can be a good option if you\u2019re struggling against enemy CC or DoTs (Ana, Junker Queen, Sigma, Cassidy, Ashe).",
-                "action": "optional",
-                "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
-            },
-            {
-                "id": "b2b1dbf2-4947-469f-a62c-d8896b8e55dd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "34499f57-9c64-4b58-b176-40474faacb88",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            }
-        ]
-    },
-    {
-        "id": "92de2b6f-04f3-4632-9305-1fe0ac1d7023",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 3,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *The blade awakens*\n*When defense falters, the phantom\u2019s strike claims its due.*\n\n---\n\n## You are not the main character yet. \n**But you are a deadly self-reliant assassin.**\n\nKeep the same disciplined playstyle, but now, thanks to the insane lifesteal from  [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) with [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) , you can take riskier duels and pressure the tank.\n\nYou also want to use [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) in chokepoints during early fights to benefit from the AoE damage and help take space.\n\nIf you have extra cash, make sure to prioritize green items.\n\n\n---\n# Detailed Item Guide\n\n## If you have less than 21.5k : \n\nPrioritize [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) in most of cases. Complete your build with green survivability items as in the previous round, since being behind in cash likely means you are dying a lot and need extra sustain. Add [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) if you can.\n\nThe only scenario where you want to keep the [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) + [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) combo over [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) is when the enemy tank is a [Zarya](hero_be6cc516-0b7a-4515-8472-f489f08993b0) or a [Orisa](hero_91644d44-1093-4f62-ac51-020975465e85), and/or when the map is very open. In that case, get [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) + [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) + [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) , and complete with green items.\n\nGreen items are in this order of priority : [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6)  [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69)   [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) , and complete with [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) and/or [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) .\n\n## If you have more than 21.5k :\n\nComplete the build with [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6), [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) and either [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) or [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69). Consider sneaking in [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) instead of one of these if you can.\n\n\n## If you have more than 30k :\n\nThat mean you don't really need more sustain, so go for more damage. Try to build arround [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) as it's the best item you can get for maximum damage for cheap. Complete with WP items if you can poke a lot, AP otherwise.\n\nIf you are super rich (more than 33k), go for [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) .   \n\n_No matter how much money you have, don\u2019t forget to consider  [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f) or  [Anti-Beam Coating](item_1ab73e1c-aaa1-4026-89cd-68404db7fd93) if the enemy comp makes them valuable._",
-        "stats": {
-            "LIFE": 318,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 368,
-            "Attack Speed": 0,
-            "Weapon Power": 10,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "bad3b1b7-0822-4eca-bc96-7cdb23f5cb1a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "ad34502a-3447-4851-a0bb-813aab637bb8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "04be93af-2aed-4cea-bc59-08ed21ed2abf",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "bb8c6c9b-75c4-41ba-ab8e-8aa9a4d02c1b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "a0d07b7f-7cb4-4be3-8bfc-a0a11eaa581f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+                },
+                {
+                    "id": "5073b623-2ae9-464c-8ce1-8b60ff94203b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "75ccbb1f-220a-4b5c-911d-7143f4277d7b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "d7241de0-1637-4bf0-9ad0-cd091182126f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "d3988402-f8ea-44ec-ad8b-e99ede3abf55",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "2942aa0f-e84e-442c-a881-84bd1bbfa2e6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "00cf8044-2209-49d8-9624-2f17882808a9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                },
+                {
+                    "id": "35c9e666-746d-4986-b590-57608f88a8ff",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "9b099a8e-1bf3-4778-b53b-296fee54b11f",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+        {
+            "id": "a542f8f3-ff84-48cb-a572-641cecf2a606",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *Endurance and precision meld as one*\n*Strength forged in patience readies the warrior\u2019s final step.*\n\n---\n\n[Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) is super cool : not only does it give you +10% [Weapon Power](stat_weapon_power) and +25% [Ability Power](stat_ability_power) at full stacks (a total of +35% bonus damage on Dragonblade!), but it also grants you 25 HP. It's not much, but it's honest work.\n\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 33k : \n\nSimply follow the item guide from the previous round.\n\n## \ud83d\udcc8 If you have more than 33k :\n\nAdd the most expensive ones you can afford : [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0), [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69), [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2), [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) , [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) , [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a), [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27), [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb).\n\n\nFeel free to sell [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) or [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) if it lets you build a more **cost-efficient setup** that better maximizes your budget (like getting [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) with [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) ).",
+            "stats": {
+                "LIFE": 360,
+                "Armor": 75,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 10,
+                "Total LIFE": 435,
+                "Attack Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 10,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "59b4e849-8106-4ac6-8a3f-236a90444cb5",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "c2d79a40-82d0-4d13-82ee-8f7971e5e201",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "b8fe16af-a987-42c2-aeae-328d8e5d06f7",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "32434016-9167-42e8-9c26-ccdffc8a0e3c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "f43c72fa-9960-4e95-857a-0de6cd6cd03d",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
-            },
-            {
-                "id": "1adfc4f7-86fa-46f7-a6da-3a733b7369bc",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "bdedc7af-1cd9-4def-aff2-3b899df7c7c6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "78d67b8b-34e8-441c-8b81-195fec023c95",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "7b8cc09b-d835-4913-84b9-5e86064233ab",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "59d24d34-f645-4bc7-8276-aa8844878f50",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "3c954258-83d8-4c30-bfde-82056cc0e8a5",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            }
-        ]
-    },
-    {
-        "id": "729f4b8a-d90e-4ae0-a4e4-694d6c6b4637",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 4,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *Endurance and precision meld as one*\n*Strength forged in patience readies the warrior\u2019s final step.*\n\n---\n\n[Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) is super cool : not only does it give you +10% WP and +25% AP at full stacks (a total of +35% bonus damage on Dragonblade!), but it also grants you 25 HP. It's not much, but it's honest work.\n\n\n---\n# Detailed Item Guide\n\n## If you have less than 31.5k : \n\nSimply follow the item guide from the previous round.\n\n## If you have more than 31.5k :\n\nTry to add **two** of these items to the build, prioritizing the most expensive ones you can afford : [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) , [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) , [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) , [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) , [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) , [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) , [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) , [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6).\n\n\nFeel free to sell [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7)  if it lets you build a more cost-efficient setup that better maximizes your budget.\n\n## If you have more than 42k :\n\nGo for [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) and start building AP.",
-        "stats": {
-            "LIFE": 363,
-            "Armor": 50,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 10,
-            "Total LIFE": 413,
-            "Attack Speed": 0,
-            "Weapon Power": 20,
-            "Ability Power": 10,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "9e45ef71-1ea2-4c5c-a7cf-749980b2b49d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "85c96cd7-957e-4c64-9ad6-9c16fe50247b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "e51c6765-9f24-4733-add9-4cc0feb36d5b",
+                    "notes": "If you are super rich",
+                    "action": "optional",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "73937815-8750-4c9c-998c-35ae83accb49",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "6bf7a813-4491-49ca-bf54-afdefcceac39",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "4718d47f-fd6a-4fd6-b3ff-da6ac4086ae2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "5db672bf-4712-43b9-8fa9-e3ac9960eb93",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "ea80be46-8246-44db-a23d-c72d2f160335",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "6404e14e-17b9-4d7a-ad87-dd2a861a219a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "4d791d5c-3d04-4095-bcc7-dbba22e5c281",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "873d3ca0-5b0c-4c9a-99b3-2bd0604b20b2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "a63fc59f-133f-458a-8077-dc328ab2e8e7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "b908eae8-6f6d-4205-ac06-93857a99c697",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                },
+                {
+                    "id": "f3efd0aa-cd5a-4464-9cab-2a1a926d9a81",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "03201b94-9d81-4008-a909-984c3fbca93c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+        {
+            "id": "d28f28e6-2954-4a3c-b12a-016d1ba72e58",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *The mask is lifted*\n*The silent bane claims the spotlight.*\n\n---\n\n## It's time.\n\nNow you're ready to destroy the lobby 1v5.\n\nWe say goodbye to our beloved [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) and [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7), because now we want as much [Ability Power](stat_ability_power) as possible. Say hello to [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) and [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) .\n\nWhy ?\n\nBecause now you can perform the one-shot combo:\n- 1) Get 5 [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) stacks\n- 2) Deflect into [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168)\n- 3) Right-click + Swift Strike\n- 4) Right-click + Quick Melee\n\nFor a faster combo, **use Swift Strike as soon as Dragonblade hits at step 3**. It reduces damage, but is 100% worth it to avoid getting interrupted.\n\n\n### Your playstyle must shift : focus entirely on setting up your one-shot.\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 41.5k :\n\nSell [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b), and add **three** of these items to the build instead, prioritizing the most expensive ones you can afford : [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) , [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0), [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf),  [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6), [Winning Attitude](item_8714087c-c078-4619-a2ef-327bc6edaa69), [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2), [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56), [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f), [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6).\n\n## \ud83d\udcc8 If you have more than 41.5k :\n\nAdd **two** of the items above.\n\nIf you have more than 53.5k, go for [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448), and add **one** of the items above.",
+            "stats": {
+                "LIFE": 358,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 358,
+                "Attack Speed": 10,
+                "Weapon Power": 20,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
-            {
-                "id": "e578ad13-6c88-4d1f-a9c8-50dc7ffbdff6",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "d6ca6973-e6a2-4ffa-9f23-89eb9c43d000",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "a8f7e21b-d1c5-4cc7-b0a9-5ee24b1fe910",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "68818ad1-745a-4b48-b3b5-170650ba0247",
-                "notes": "If you are super rich",
-                "action": "optional",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "2ba49058-496c-42e7-a7cc-2ade3f74a0a6",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "50032a40-774f-4365-938a-c7fc3d0fa975",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "25a5e069-ea84-4a24-a62f-6949e4a5cbe1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
-            },
-            {
-                "id": "08a4f5ae-34a5-4043-bd66-0a2afd55eb30",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "c883721a-b8b8-42fe-9067-a485e5ab8479",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "c9ae2df2-27cf-4a7b-9aad-174ad9af1654",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "219177ba-a77f-47d4-9583-4a8639698c20",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "537807d7-984c-4fe2-8263-30165082463a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "71ddd124-674f-4794-9a6a-11b3433846ca",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "454bc0c6-a783-47a4-9d2c-378fe8ddcb93",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            }
-        ]
-    },
-    {
-        "id": "490dc227-7e3d-44ed-bc92-7cc6e197c78b",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 5,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *The mask is lifted*\n*The silent bane claims the spotlight.*\n\n---\n\n## It's time.\n\nNow you're ready to destroy the lobby 1v5.\n\nWe say goodbye to our beloved [Gloomgauntlet](item_76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7) and  [Siphon Gloves](item_099f8177-c2a4-4e13-b321-99349f8b1eb7) , because now we want as much AP as possible. Say hello to [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) and  [Three-tap Tommygun](item_39c5d2a4-1db0-444f-86d9-2a1e9a331429) .\n\nWhy ?\n\nBecause now you can perform the one-shot combo:\n- 1) Get 5 [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b) stacks\n- 2) Deflect into [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168)\n- 3) Right-click + Swift Strike\n- 4) Right-click + Quick Melee\n\nFor a faster combo, **use Swift Strike as soon as Dragonblade hits at step 3**. It reduces damage, but is 100% worth it to avoid getting interrupted.\n\n\n---\n# Detailed Item Guide\n\n## If you have less than 40.5k :\n\nSell [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b), and add **three** of these items to the build instead, prioritizing the most expensive ones you can afford : [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) , [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) , [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) , [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) , [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) , [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) .\n\n## If you have more than 40.5k :\n\nAdd **two** of the items above.\n\n## If you have more than 52k :\n\n[Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) , or [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) if they have beams and/or you have low healing.",
-        "stats": {
-            "LIFE": 356,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 356,
-            "Attack Speed": 10,
-            "Weapon Power": 20,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 0
+            "round_upgrades": [
+                {
+                    "id": "1f0e97d7-0b22-473c-a7f7-d069169fab19",
+                    "notes": "You don\u2019t realize how much damage this does to tanks",
+                    "action": "buy",
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+                },
+                {
+                    "id": "652a48ac-1d2f-47ec-92a9-157ce6b5fc48",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
+                },
+                {
+                    "id": "1f9c09d6-0cd0-4b7f-ba32-62bdf7dcc2c9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "cffcdd94-f92e-4b8c-90a1-bb7f8ba5c662",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "ed7c6abf-cc5e-44bf-b931-465e05487446",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                },
+                {
+                    "id": "315219b9-d9ee-4444-b4ba-d1f87970e9a1",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "33361f07-2b4d-46bd-adfe-eef8943874bb",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "3048a58d-2cdc-4dd6-9c7b-4bfd1ba7bc77",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "f05cd248-5482-4bca-ab90-ade88b5677e8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "97ab5a36-c64f-47dc-9106-d0c7e9f82d5a",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "76102f78-75a3-4c95-a91d-1b38b8405962",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "1bfe15c0-9870-415c-98c2-07d8be027128",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "cdf0fc63-b748-41af-b9fd-74305c3f76d1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                },
+                {
+                    "id": "0685e4c9-7443-4095-8120-cbe744fed345",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "d3af2e15-83f4-409a-a85b-99de5d53fbcb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "732aaa96-2f7b-43da-8c38-46f38bfce880",
-                "notes": "You don\u2019t realize how much damage this does to tanks",
-                "action": "buy",
-                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+        {
+            "id": "4ddc7c82-e58b-4d14-b999-cbc0953ede6c",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *The map is your dojo*\n*Strike with fluid grace. Deflect, dash, dominate without pause.*\n\n---\n\n[Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) is the best choice here. \n\n- *[Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) counts as an ability, so each time you deflect, you get +10% [Weapon Power](stat_weapon_power).*\n\nHowever, if you need more survivability, then [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is better.\n\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 52.5k :\n\nSimply follow the item guide from the previous round.\n\n## \ud83d\udcc8 If you have more than 52.5k :\n\nAdd **any** good item that will help. \n\nIf you seek **maximum damage**, [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is the best choice, followed by [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e), [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6), [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) , and then [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418).\n\n[Geneticist's Vial](item_c7443757-9e2a-4be8-b3a3-469ab64b0e9d) or [Overdrive Core](item_a2a8dba1-5f2f-4da1-9445-b08f49162121) can be good choices on Control or Clash maps. If you go this way, play ultra aggressively : the first fight is decisive on these maps.",
+            "stats": {
+                "LIFE": 380,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 380,
+                "Attack Speed": 10,
+                "Weapon Power": 30,
+                "Ability Power": 30,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "e7bddd87-d924-45d5-8843-07642e8128c4",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "76cb8fe3-3c1f-4769-a1ec-a9c2dc510ba7"
-            },
-            {
-                "id": "f932788d-484e-47b9-99eb-3707664d4ea3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "a8b8c0fc-3ad9-4338-bfcc-cab7f403fcda",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
-            },
-            {
-                "id": "7a94dfd6-3412-499a-8bb1-8aab2b5e3219",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-            },
-            {
-                "id": "ca81c521-2f12-48c6-84bf-17364c1a7602",
-                "notes": "",
-                "action": "sell",
-                "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-            },
-            {
-                "id": "d1e3f716-8639-432a-bb60-e18891c026b1",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-            },
-            {
-                "id": "aa18b8e7-c2b0-4418-882d-5e0f69027b14",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "389d929d-6249-4f03-8e01-8934b35229d7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "6fb1d5f0-6282-4cb8-ba3d-8693dda6d959",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-            },
-            {
-                "id": "ae7ebee1-4663-4c0f-ad8a-8a9eb2528e9c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-            },
-            {
-                "id": "e146a0e4-e440-4b1d-bea2-f3a122acf11f",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-            },
-            {
-                "id": "ec85e41f-6f4f-4d63-972b-5f3f113543f3",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "c223bef2-0edb-42b9-83d3-384702018646",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            },
-            {
-                "id": "4ef3ab2a-13bd-45c5-87db-7f908274d9c0",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
-            }
-        ]
-    },
-    {
-        "id": "2674ab1f-d66c-4f42-9e14-667f22486b32",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 6,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *The map is your dojo*\n*Strike with fluid grace. Deflect, dash, dominate without pause.*\n\n---\n\n[Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) is the best choice here. \n\n- *[Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) counts as an ability, so each time you deflect, you get +10% WP.*\n\nHowever, if you need more survivability (for example, you're on an open map against hitscans, or simply facing a Zarya) then [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is better.\n\n\n---\n# Detailed Item Guide\n\n## If you have less than 51.5k :\n\nSimply follow the item guide from the previous round.\n\n## If you have more than 51.5k :\n\nAdd **any** good item that will help. \n\nIf you seek **maximum damage**, [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is the best choice, followed by [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) , [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) , [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) , and then [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418).\n\n[Geneticist's Vial](item_c7443757-9e2a-4be8-b3a3-469ab64b0e9d) or [Overdrive Core](item_a2a8dba1-5f2f-4da1-9445-b08f49162121) can be good choices on Control or Clash maps. If you go this way, play ultra aggressively : the first fight is decisive on these maps.",
-        "stats": {
-            "LIFE": 378,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 378,
-            "Attack Speed": 10,
-            "Weapon Power": 30,
-            "Ability Power": 30,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
+            "round_upgrades": [
+                {
+                    "id": "ed322295-e45d-411d-8fd2-b34297ec7f88",
+                    "notes": "If you are super rich",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "ee6c5664-92fc-4996-904b-791248b4a62f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "cfa0bfcb-a909-4a20-9808-57c85b5953c3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "8d28f26a-3d20-4c76-b47e-5aee10fe74d5",
+                    "notes": "Do not sell",
+                    "action": "buy",
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+                },
+                {
+                    "id": "aabedacd-a98f-41f4-9b94-fd7145ec07b2",
+                    "notes": "Do not sell",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "3db39199-1354-47f8-aaae-44c37834b50c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "3f35ddcc-e071-423e-a780-ed1fb891abe5",
+                    "notes": "Do not sell",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "00d3b6ba-d9ca-4cb6-96c1-07c3af17112f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                },
+                {
+                    "id": "0c4ffe09-4abc-4782-be94-e50562de4bfb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "c87c8397-0451-4e0e-b825-1cd7ba7914bf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+                }
+            ]
         },
-        "round_upgrades": [
-            {
-                "id": "249256bf-eb33-4d71-8af9-7cf1927665fe",
-                "notes": "If you are super rich",
-                "action": "optional",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+        {
+            "id": "3e8fc654-d22d-4846-9484-53a586c03b8e",
+            "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-21T09:35:00.317385+00:00",
+            "notes": "---\n\n# *You are the blade\u2019s final truth*\n*Unseen. Unstoppable. Unforgiving.*\n\n---\n\nHere\u2019s what I consider the ultimate final build, with [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) to obliterate any target. Since you throw 5 shurikens after a [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) , the [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) effect instantly maxes out, giving you a 50% damage boost for free on your Swift Strike.\n\nFor reference, a dash will then deal \n- (50 * (1.65 + 0.25)) * 1.5 = **142.5 damage**\n\n\nI also included an alternative Dragonblade endgame build with [Dragon's Breath](item_32dc8374-7541-46fb-9891-29b7fbe9ed4d) for those who feel a little different. [Transference Delta](item_4bcdd047-90a2-43af-8d57-160cb21022ee) is okay, but [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is better if you have the money.\n\n[Hanamura Healing](item_d210417d-1e30-4571-a4f3-cccd1dfc23ca) is also a very good option if you don't want to land shurikens before dashing, and/or need more sustain.\n\n[Laceration](item_ee831ad3-3921-4aca-a761-c6b93cc7e7fe) is fine, but you get way more burst damage with  [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4). Take it if the last map is very close and the enemy team is playing grouped.\n\n---\n# \ud83d\udcb8 Detailed Item Guide\n\n## \ud83d\udcc9 If you have less than 65.5k : \n\nSimply follow the item guide from the previous round.\n\n## \ud83d\udcc8 If you have more than 65.5k : \n\nThere is nothing more you can do !\n\n---\n## That's it ! Enjoy your games ;)",
+            "stats": {
+                "LIFE": 408,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 408,
+                "Attack Speed": 10,
+                "Weapon Power": 30,
+                "Ability Power": 65,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
             },
-            {
-                "id": "9c475e05-d9c7-42be-a9bd-baac9d6f67cd",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "5faeb4ed-a75f-4b27-9cc4-b91c08dfa037",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "648c3cfe-11bb-4499-82c6-2cf69d242bad",
-                "notes": "Do not sell",
-                "action": "buy",
-                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
-            },
-            {
-                "id": "f0c9da3b-3870-454b-87bc-2f5df408a2c2",
-                "notes": "Do not sell",
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "cad90c7e-2ee3-44a5-9995-e9b5792e7d2e",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "edd69fe1-70cc-4d59-9bca-5d6e6823c169",
-                "notes": "Do not sell",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "0c0c97da-c9c1-4bf8-80a6-62467a7f315b",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "6c26c769-4906-479c-bb8b-4a0734d9ee60",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            },
-            {
-                "id": "85c8b621-eae4-4c3a-b058-2057bcde296c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
-            }
-        ]
-    },
-    {
-        "id": "3b3ee1c0-ef30-4266-aa20-ea7d6ef61cc3",
-        "build_id": "d30baf3b-69ba-456b-9092-c01577c0a53f",
-        "round_number": 7,
-        "cash_earned": 0,
-        "created_at": "2025-07-02T17:45:30.598215+00:00",
-        "notes": "---\n\n# *You are the blade\u2019s final truth*\n*Unseen. Unstoppable. Unforgiving.*\n\n---\n\nHere\u2019s what I consider the ultimate final build, with [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) to obliterate any target. Since you throw 5 shurikens after a [Iaido Strike](item_0b4def91-53c9-4bb7-b706-05aff6e4b168) , the [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4) effect instantly maxes out, giving you a 50% damage boost for free on your Swift Strike.\n\nFor reference, a dash will then deal \n- (50 * (1.65 + 0.25)) * 1.5 = **142.5 damage**\n\n\nI also included an alternative Dragonblade endgame build with [Dragon's Breath](item_32dc8374-7541-46fb-9891-29b7fbe9ed4d) for those who feel a little different. [Transference Delta](item_4bcdd047-90a2-43af-8d57-160cb21022ee) is okay, but [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is better if you have the money.\n\n[Hanamura Healing](item_d210417d-1e30-4571-a4f3-cccd1dfc23ca) is also a very good option if you don't want to land shurikens before dashing, and/or need more sustain.\n\n[Laceration](item_ee831ad3-3921-4aca-a761-c6b93cc7e7fe) is fine, but you get way more burst damage with  [Wyrm\u2019s Maw](item_5d8c3488-13a9-432a-987e-275522f68cc4). Take it if the last map is very close and the enemy team is playing grouped.\n\n---\n# Detailed Item Guide\n\n## If you have less than 65.5k : \n\nSimply follow the item guide from the previous round.\n\n## If you have more than 65.5k : \n\nThere is nothing more you can do !\n\n---\n## That's it ! Enjoy your games ;)",
-        "stats": {
-            "LIFE": 406,
-            "Armor": 0,
-            "Shield": 0,
-            "Max Ammo": 0,
-            "Move Speed": 0,
-            "Total LIFE": 406,
-            "Attack Speed": 10,
-            "Weapon Power": 30,
-            "Ability Power": 65,
-            "Critical Damage": 0,
-            "Weapon Lifesteal": 15,
-            "Ability Lifesteal": 15,
-            "Cooldown Reduction": 10
-        },
-        "round_upgrades": [
-            {
-                "id": "9678c757-41d0-464a-966c-edcdfa585562",
-                "notes": "Alternative Blade Endgame",
-                "action": "optional",
-                "upgrade_id": "32dc8374-7541-46fb-9891-29b7fbe9ed4d"
-            },
-            {
-                "id": "18194ddd-7307-4fbd-a10c-308c054e18b0",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "d210417d-1e30-4571-a4f3-cccd1dfc23ca"
-            },
-            {
-                "id": "a0807ead-2cbd-4996-85aa-f33b36a90e6c",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
-            },
-            {
-                "id": "133de4b4-8994-4803-bf45-e8c84c247533",
-                "notes": "Instead of Phantasmic Flux, if you're aiming for maximum damage and already have Champion's Kit. Be warned: you will lose a LOT of survivability.",
-                "action": "optional",
-                "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
-            },
-            {
-                "id": "f85e9abf-9bb7-4b42-a6d4-6dd606c27f78",
-                "notes": "Alternative Blade Endgame (instead of Hardlight Accelerator, or Champion's Kit if you can't afford it)",
-                "action": "optional",
-                "upgrade_id": "4bcdd047-90a2-43af-8d57-160cb21022ee"
-            },
-            {
-                "id": "afb96a74-dcfc-48db-9ac9-dbf3e416d2c1",
-                "notes": "Alternative Blade Endgame (instead of Hardlight Accelerator, or Champion's Kit if you can't afford it)",
-                "action": "optional",
-                "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-            },
-            {
-                "id": "6552d687-676d-4b75-86c3-bac8a606b79c",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-            },
-            {
-                "id": "aadb4ea4-d9f6-4afb-a00b-d334d78904df",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-            },
-            {
-                "id": "e1728378-cab6-47e8-bcfe-b9f5b20408e7",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
-            },
-            {
-                "id": "a005e893-d303-44bc-b8b5-c6c592332800",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
-            },
-            {
-                "id": "0642556c-a34f-46c7-88ad-f834bb5161e9",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-            },
-            {
-                "id": "a5925b8b-aaa0-4b03-94e6-ec516dea63be",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-            },
-            {
-                "id": "c616b5e3-5568-49ea-99f6-4e04893bca09",
-                "notes": "",
-                "action": "optional",
-                "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-            },
-            {
-                "id": "6455b3fc-b509-4e6f-af7a-9506041ae35a",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
-            },
-            {
-                "id": "a97aab70-ec60-4ca7-a702-c59db2e1a912",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
-            },
-            {
-                "id": "c9fff22f-5239-4497-b4c5-e1aa6a6aa000",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
-            },
-            {
-                "id": "7649bf6a-b203-43f4-8082-757e2ed40877",
-                "notes": "",
-                "action": "buy",
-                "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-            }
-        ]
-    }
-]
+            "round_upgrades": [
+                {
+                    "id": "50b1e9f1-a156-4283-80c8-9c14ed528949",
+                    "notes": "Alternative Blade Endgame",
+                    "action": "optional",
+                    "upgrade_id": "32dc8374-7541-46fb-9891-29b7fbe9ed4d"
+                },
+                {
+                    "id": "54a783d7-a540-4e71-9fed-3dc4a716f31a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d210417d-1e30-4571-a4f3-cccd1dfc23ca"
+                },
+                {
+                    "id": "798423e7-76a6-4668-ac87-552a40e8ed72",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "1994a93a-5840-4f3c-a789-ad9333e1a4a0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "8f7ff521-10cc-4c27-81ee-5734eb2c2681",
+                    "notes": "Instead of Phantasmic Flux, if you're aiming for maximum damage and already have Champion's Kit. Be warned: you will lose a LOT of survivability.",
+                    "action": "optional",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "a3006116-cd10-47a5-900e-1d918e62c8c3",
+                    "notes": "Alternative Blade Endgame (instead of Hardlight Accelerator, or Champion's Kit if you can't afford it)",
+                    "action": "optional",
+                    "upgrade_id": "4bcdd047-90a2-43af-8d57-160cb21022ee"
+                },
+                {
+                    "id": "b7fed89d-8954-4481-ab07-67e1fcf19079",
+                    "notes": "Alternative Blade Endgame (instead of Hardlight Accelerator, or Champion's Kit if you can't afford it)",
+                    "action": "optional",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "88e31dfa-6d5a-47bc-af5c-187abbd3158a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "6a08c6bb-b851-444b-ad36-5a289b518eac",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "4f7521b4-a68c-48ea-a391-170902b6918f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+                },
+                {
+                    "id": "2ddb4b66-c1f0-49cd-be68-2af5c978b7ad",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "f55fe0b7-43dc-44d8-a827-606a7a00ae53",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "795dd590-0c4c-47a3-ad13-42f69575ae42",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "83890adb-916c-499e-bdfb-5541cd3a43c8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a820416d-85e5-4018-b20a-dc1cbf744900"
+                },
+                {
+                    "id": "c3d12e9d-6649-4db7-a584-37a33a72b6a1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0b4def91-53c9-4bb7-b706-05aff6e4b168"
+                },
+                {
+                    "id": "db468bef-ca12-4f6e-acac-0388893fe96d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "03650ff3-917e-45fe-aeed-11c0f24c0eba"
+                },
+                {
+                    "id": "84b2706c-9409-42ad-88f7-dd3980ec53ff",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                }
+            ]
+        }
+    ]
+}
