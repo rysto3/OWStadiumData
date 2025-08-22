@@ -3,6 +3,7 @@ import requests
 import os
 import time
 from pathlib import Path
+from datetime import datetime
 
 # --- Configuration ---
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -18,36 +19,41 @@ HEADERS = {
     'apikey': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrZHZldG9mYnNveW5rZnBybG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3Mjc0NDEsImV4cCI6MjA2MTMwMzQ0MX0.Moy2MzlEQ0w1cqvnMs3qAV6Mzdm8R1v_YSo7Zw93mG8', # Replace with your actual anon key
     'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrZHZldG9mYnNveW5rZnBybG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU3Mjc0NDEsImV4cCI6MjA2MTMwMzQ0MX0.Moy2MzlEQ0w1cqvnMs3qAV6Mzdm8R1v_YSo7Zw93mG8' # Replace with your actual anon key
 }
-REQUEST_DELAY_SECONDS = 0.1 # Delay between requests to avoid overwhelming the server (adjust as needed)
+REQUEST_DELAY_SECONDS = 0.1  # Delay between requests to avoid overwhelming the server (adjust as needed)
 
-def get_existing_build_ids(directory):
-    """Return a set of build ids that already have round data downloaded."""
-    directory = Path(directory)
-    if not directory.exists():
-        return set()
-    return {f.stem for f in directory.glob('*.json')}
 
-def load_build_ids(filepath):
-    """Loads build IDs from the specified JSON file."""
+def load_build_index(filepath):
+    """Load build metadata from the index file.
+
+    Returns a list of dictionaries with at least 'id' and 'updated_at' keys.
+    """
+
     try:
-        with open(filepath, 'r') as f:
+        with open(filepath, "r") as f:
             builds_data = json.load(f)
-        # Assuming the JSON file is a list of dictionaries, each with an 'id' key
-        build_ids = [item['id'] for item in builds_data if 'id' in item]
-        if not build_ids:
-            print(f"Warning: No build IDs found in '{filepath}'. Ensure the file has a list of objects with 'id' keys.")
-        return build_ids
+        builds = []
+        for item in builds_data:
+            if "id" not in item:
+                continue
+            builds.append({
+                "id": item["id"],
+                "updated_at": item.get("updated_at"),
+            })
+        if not builds:
+            print(
+                f"Warning: No build entries found in '{filepath}'. Ensure the file contains objects with 'id' keys."
+            )
+        return builds
     except FileNotFoundError:
         print(f"Error: Input file '{filepath}' not found.")
         return []
     except json.JSONDecodeError:
-        print(f"Error: Could not decode JSON from '{filepath}'. Please ensure it's a valid JSON file.")
-        return []
-    except KeyError:
-        print(f"Error: One or more items in '{filepath}' are missing the 'id' key.")
+        print(
+            f"Error: Could not decode JSON from '{filepath}'. Please ensure it's a valid JSON file."
+        )
         return []
     except Exception as e:
-        print(f"An unexpected error occurred while loading build IDs: {e}")
+        print(f"An unexpected error occurred while loading build metadata: {e}")
         return []
 
 def fetch_round_data(build_id):
@@ -74,8 +80,9 @@ def fetch_round_data(build_id):
         print(f"Error: Could not decode JSON response for build ID {build_id}. Response: {response.text}")
     return None
 
-def save_data_to_json(data, filename, directory):
-    """Saves the given data to a JSON file in the specified directory."""
+def save_data_to_json(data, updated_at, filename, directory):
+    """Save round data along with its update timestamp to a JSON file."""
+
     directory = Path(directory)
     if not directory.exists():
         try:
@@ -86,9 +93,16 @@ def save_data_to_json(data, filename, directory):
             return
 
     filepath = directory / filename
+    if filepath.exists():
+        try:
+            filepath.unlink()
+        except OSError as e:
+            print(f"Error deleting existing file '{filepath}': {e}")
+
+    wrapped_data = {"updated_at": updated_at, "rounds": data}
     try:
-        with filepath.open('w') as f:
-            json.dump(data, f, indent=4)
+        with filepath.open("w") as f:
+            json.dump(wrapped_data, f, indent=4)
         print(f"Successfully saved data to '{filepath}'")
     except IOError as e:
         print(f"Error writing to file '{filepath}': {e}")
@@ -113,27 +127,54 @@ def main():
         # You might want to exit here if the key is not set, or proceed cautiously.
         # For this example, we'll proceed but print a prominent warning.
 
-    build_ids = load_build_ids(INPUT_JSON_FILE)
-    existing_ids = get_existing_build_ids(OUTPUT_DIRECTORY)
-    build_ids = [bid for bid in build_ids if bid not in existing_ids]
-
-    if not build_ids:
-        print("No build IDs to process. Exiting.")
+    builds = load_build_index(INPUT_JSON_FILE)
+    if not builds:
+        print("No builds to process. Exiting.")
         return
 
-    print(f"Found {len(build_ids)} new build IDs to process.")
+    print(f"Found {len(builds)} builds in index. Checking for updates...")
 
-    for i, build_id in enumerate(build_ids):
-        print(f"\nProcessing build {i+1}/{len(build_ids)}: ID {build_id}")
+    for i, build in enumerate(builds):
+        build_id = build["id"]
+        index_updated_at = build.get("updated_at")
+        filepath = Path(OUTPUT_DIRECTORY) / f"{build_id}.json"
+
+        needs_update = False
+
+        if filepath.exists():
+            try:
+                with filepath.open("r") as f:
+                    existing_data = json.load(f)
+                file_updated_at = None
+                if isinstance(existing_data, dict):
+                    file_updated_at = existing_data.get("updated_at")
+
+                if index_updated_at and file_updated_at:
+                    try:
+                        needs_update = datetime.fromisoformat(index_updated_at) > datetime.fromisoformat(file_updated_at)
+                    except ValueError:
+                        needs_update = True
+                else:
+                    needs_update = True
+            except Exception as e:
+                print(f"Error reading existing build {build_id}: {e}. Will refetch.")
+                needs_update = True
+        else:
+            needs_update = True
+
+        if not needs_update:
+            print(f"Build {build_id} is up to date. Skipping.")
+            continue
+
+        print(f"\nProcessing build {i+1}/{len(builds)}: ID {build_id}")
         round_data = fetch_round_data(build_id)
-        if round_data is not None: # Check if data was successfully fetched
+        if round_data is not None:
             output_filename = f"{build_id}.json"
-            save_data_to_json(round_data, output_filename, OUTPUT_DIRECTORY)
+            save_data_to_json(round_data, index_updated_at, output_filename, OUTPUT_DIRECTORY)
         else:
             print(f"Skipping save for build ID {build_id} due to fetch error.")
 
-        # Add a delay to be respectful to the API
-        if i < len(build_ids) - 1: # Don't delay after the last item
+        if i < len(builds) - 1:
             print(f"Waiting for {REQUEST_DELAY_SECONDS} seconds before next request...")
             time.sleep(REQUEST_DELAY_SECONDS)
 
