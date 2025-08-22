@@ -80,8 +80,8 @@ def fetch_round_data(build_id):
         print(f"Error: Could not decode JSON response for build ID {build_id}. Response: {response.text}")
     return None
 
-def save_data_to_json(data, updated_at, filename, directory):
-    """Save round data along with its update timestamp to a JSON file."""
+def save_data_to_json(data, updated_at, build_id, filename, directory):
+    """Save round data along with its update timestamp and build ID to a JSON file."""
 
     directory = Path(directory)
     if not directory.exists():
@@ -99,7 +99,7 @@ def save_data_to_json(data, updated_at, filename, directory):
         except OSError as e:
             print(f"Error deleting existing file '{filepath}': {e}")
 
-    wrapped_data = {"updated_at": updated_at, "rounds": data}
+    wrapped_data = {"updated_at": updated_at, "id": build_id, "rounds": data}
     try:
         with filepath.open("w") as f:
             json.dump(wrapped_data, f, indent=4)
@@ -147,6 +147,16 @@ def main():
                     existing_data = json.load(f)
                 file_updated_at = None
                 if isinstance(existing_data, dict):
+                    # Ensure the file has the build id; add it if missing.
+                    if "id" not in existing_data:
+                        existing_data = {
+                            "updated_at": existing_data.get("updated_at"),
+                            "id": build_id,
+                            "rounds": existing_data.get("rounds", []),
+                        }
+                        with filepath.open("w") as f:
+                            json.dump(existing_data, f, indent=4)
+                        print(f"Added missing id to '{filepath}'")
                     file_updated_at = existing_data.get("updated_at")
 
                 if index_updated_at and file_updated_at:
@@ -170,7 +180,7 @@ def main():
         round_data = fetch_round_data(build_id)
         if round_data is not None:
             output_filename = f"{build_id}.json"
-            save_data_to_json(round_data, index_updated_at, output_filename, OUTPUT_DIRECTORY)
+            save_data_to_json(round_data, index_updated_at, build_id, output_filename, OUTPUT_DIRECTORY)
         else:
             print(f"Skipping save for build ID {build_id} due to fetch error.")
 
