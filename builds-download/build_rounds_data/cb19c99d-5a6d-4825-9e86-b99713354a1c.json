@@ -1,14 +1,14 @@
 {
-    "updated_at": "2025-08-10T16:23:22.264497+00:00",
+    "updated_at": "2025-08-25T19:50:09.02544+00:00",
     "id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
     "rounds": [
         {
-            "id": "131693b2-2971-4719-8971-68f89edc6eaf",
+            "id": "e2d027ad-5229-495a-9c34-1e411045e3f2",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For the first round we are going to want to take [Clone Conjuration](item_6c9f6be1-ab29-4f46-af24-34e4835f9af3) as it allows the Clone to farm cash. The Clone was recently reworked to allow it to gain cash from Healing and Damage but it does less. This is still a considerable amount more cash than if it was just you alone. \n\nIt is imperative that you are using TP as soon as it is off Cooldown to farm the cash so you can get ahead of other players which is very much possible here. \n\nFor the items, we are going to pick up [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) as it gives us more active time on the clone and it allows it to do more Damage and Healing whilst it is active. \n\nFor the survival items, we are going to pick up [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) or [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) depending if you prefer Armour or Shields. \n\nFor the final item, we are going to buy [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) for the bonus Armour and Ability Power after using Kitsune Rush. This is just going to help us stay alive and keep the clone active.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Power:**\nFor the first round we are going to want to take [Clone Conjuration](item_6c9f6be1-ab29-4f46-af24-34e4835f9af3) as it allows the Clone to farm cash. The Clone was recently reworked to allow it to gain cash from Healing and Damage but it does less. This is still a considerable amount more cash than if it was just you alone. \n_________\n**Items:**\nFor the items, we are going to pick up [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) as it gives us more health to your clone which allows it to do more Damage and Healing whilst active. \n\nFor the survival items, we are going to pick up [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) or [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) depending if you prefer Armour or Shields. However, you can also not bother with either of these items and instead pick up [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) or [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) for a small buff to your Healing/Damage - this increases the clones healing/damage too. \n\nFor the final item, we are going to buy [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) for the bonus Armour and Ability Power after using Kitsune Rush. This is just going to help us stay alive and keep the clone active.\n_______\n**Round Notes:**\nIt is imperative that you are using Swift Step as soon as it is available as it allows you to farm Stadium Cash and you can get ahead of all other players very quickly.",
             "stats": {
                 "LIFE": 225,
                 "Armor": 50,
@@ -26,25 +26,43 @@
             },
             "round_upgrades": [
                 {
-                    "id": "ea2dd311-1fe8-4f30-a2f3-a0fb12d9d32d",
+                    "id": "763504a7-c5c3-464a-9198-be62d05b9e9a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "4031f4f3-2f45-4d2e-a2c0-71f8475bd834",
+                    "id": "5906ca02-7435-47ed-91b0-d8e3dd473baf",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "fcf3762b-ea08-42b3-af91-cb1fb472e54e",
+                    "id": "4da4ed67-4793-4bbd-8909-c2a049942429",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "6a3e060e-e13d-4b32-8cf6-763ac48e5e0a",
+                    "id": "618cab4e-5bbd-49c2-add4-708c4b652429",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "62df6614-9213-4397-b3df-8488583409f9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "824b00f1-afaa-4244-952f-2b54f40a8c7b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "f54b7d0b-e9f1-4db0-bc1e-584dd287c575",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
@@ -52,19 +70,19 @@
             ]
         },
         {
-            "id": "90e27685-1d26-453c-a10d-90ba5a522e46",
+            "id": "24935d5d-c7b7-499e-b1da-a1300c9377b7",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For Round 2, we are going to utilise the [Donut Delivery](item_296adb69-d517-4885-903a-ef8f3a1d6a7b) item as this drastically increases the power and efficiency of using TP. \n\nYou can keep the three green items from the first round if you can afford it, if not you can just keep the ones that you feel the most benefit from. For me, I keep [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) and  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) - in the rare case that I cannot afford all of these.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Items:** For Round 2, we are going to utilise the [Donut Delivery](item_296adb69-d517-4885-903a-ef8f3a1d6a7b) item as this drastically increases the power and efficiency of using TP by healing all of our teammates near us. This item is **essential** to this build, so you might need to sell the green items if you cannot afford it. You should have at least 10,000 Stadium Cash after the first round.  \n\nYou can keep the three green items from the first round if you can afford it, if not you can just keep the ones that you feel the most benefit from. For me, I keep [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) and  [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) - in the rare case that I cannot afford all of these.\n_____\n**Round Notes:** This is the round where TP becomes very strong as the healing is buffed by [Ability Power](stat_ability_power) upgrades so you should be TPing as much as you can, whilst also playing safe.",
             "stats": {
-                "LIFE": 252,
+                "LIFE": 245,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 302,
+                "Total LIFE": 295,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 10,
@@ -75,31 +93,37 @@
             },
             "round_upgrades": [
                 {
-                    "id": "0758647f-4686-4826-b838-c4da72c136b1",
+                    "id": "b363cf86-96da-4a48-93ed-a19e3adc21a4",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
                 },
                 {
-                    "id": "637d0862-1c48-4a36-a72b-c14a485b6e5f",
+                    "id": "a63e9a66-c081-4e4d-9995-c029a8f4bb90",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "9e6b6943-b759-401e-9495-23c3c9c241f0",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "748c0146-ed09-463f-9f1f-bd54d4235b5a",
+                    "id": "d697c652-bb6d-4ba5-8c75-f60eff36b3f1",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "9e97896a-0464-44c4-8471-8c71633a468f",
+                    "id": "6a176286-595f-4dae-8a38-cbfa54c85e39",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "81fd99d5-a331-4083-b562-67b9b963def1",
+                    "id": "71731c5c-277c-4f56-89d3-3709c05b85e2",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
@@ -107,19 +131,19 @@
             ]
         },
         {
-            "id": "d11e72d6-27f3-4cfd-98dc-0c7896bb033c",
+            "id": "365ca3ac-2a57-4a1a-8f7f-fe2efab28bba",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For Round 3, we are going to get the [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) power as this further increases survivability. Whilst we are building [Ability Power](stat_ability_power) on Kiriko, it increases the effectiveness of Suzu. \n\nFor the items, we are going to pick up, [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) and [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) to pick up the extra [Ability Power](stat_ability_power) and [Cooldown Reduction](stat_cooldown_reduction). \n\nYou should be able to have all 6 item slots used, if you are TPing a lot and maximising the Clone to its full potential.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Power:** In round 3, we are going to get the [Two-Zu](item_80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b) power as this further increases survivability. Whilst we are building [Ability Power](stat_ability_power) on Kiriko, it increases the effectiveness of Suzu drastically. \n_____\n**Items:** We are going to pick up, [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) and [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) to pick up the extra [Ability Power](stat_ability_power) and [Cooldown Reduction](stat_cooldown_reduction). \n_____\n**Round Notes:** You should be able to have all six item slots used, if you are TPing a lot and maximising the Clone to its full potential.",
             "stats": {
-                "LIFE": 269,
+                "LIFE": 262,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 319,
+                "Total LIFE": 312,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 20,
@@ -130,49 +154,55 @@
             },
             "round_upgrades": [
                 {
-                    "id": "a7bae72f-f9fb-48d5-a7d7-021f0fc5fd80",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "61f73aff-4124-45bc-b4c5-1115f4c46fe2",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "fdbadc08-19a0-4108-9017-5f677a16969a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "574d21e2-f75d-424a-a42d-c5f6afcab305",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-                },
-                {
-                    "id": "f64ef678-4067-4b69-8c73-3692528fed2c",
+                    "id": "1c31a83a-0200-406a-89fb-edd098694005",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "bcb1a166-f65b-4f59-bb23-d67e2912e876",
+                    "id": "f76b4571-b51d-434d-8c55-5eccda0c153f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "bc09b4c6-8a6c-4b31-a422-32be3733148b",
+                    "id": "a55789bf-4092-42cb-a90d-f1b83d61d78b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "6f681f88-ea4f-40e3-95b1-a83fbed2c59a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "7bca861a-fbdf-423e-8d18-de2907550d10",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "a9f8fa22-8b7c-42d9-8c7d-f1599f280dcf",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "d298b083-2775-47eb-aed1-bf91b8c36b1e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
+                },
+                {
+                    "id": "08c7ea37-f473-4ab4-8ba4-1aeaa67e1658",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "d8f04016-e395-483c-bbaa-f1882f60511a",
+                    "id": "37c2a0ec-c5de-478e-9239-c4c78e4bb534",
                     "notes": "This adds key survivability to the build and allows the Power in Round 5 to really shine.",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
@@ -180,19 +210,19 @@
             ]
         },
         {
-            "id": "2b78a618-0b01-439a-be2c-7945695cd63a",
+            "id": "02ab5689-6744-46a7-a246-2d44fe3fc48a",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For Round 4, you should pick up the [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) item as it gives you a crazy amount of  [Ability Power](stat_ability_power) and [Cooldown Reduction](stat_cooldown_reduction). \n\nYou will need to sell a green or blue item to be able to have space for [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) but it's very worth it.\n\nI try and fill all six item slots every round, even if it is just a green item as every little bit bonus does count!",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Items:** You should pick up the [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) item as it gives you a crazy amount of [Ability Power](stat_ability_power) and [Cooldown Reduction](stat_cooldown_reduction) to further improve your TP, Clone and Suzu. \n_____\n**Round Notes:** You will need to sell a green or blue item to be able to have space for [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) but it's very worth it.\n\nI try and fill all six item slots every round, even if it is just a green item as every little bit bonus does count!",
             "stats": {
-                "LIFE": 283,
+                "LIFE": 276,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 333,
+                "Total LIFE": 326,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 40,
@@ -203,55 +233,61 @@
             },
             "round_upgrades": [
                 {
-                    "id": "fb9d11e8-ad73-422c-b959-ef07ac25e36f",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-                },
-                {
-                    "id": "3aec5835-3d16-458a-b8e2-309f26553020",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "9f2f8013-192b-486c-947a-a2b3c6bcf36e",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "1ae3f62d-0031-43e5-9344-ca1c2f22be92",
+                    "id": "98508409-0a90-4220-a696-1f9510061853",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "e4efd391-c1e5-4a9c-9fa4-955f28695c7f",
+                    "id": "192dcaf5-3514-4239-b4db-2858bebb7b31",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "ac3f5996-f96a-4ed1-8ef5-a17adbe1312c",
+                    "id": "bf2eb3b5-62b1-463d-af04-40b681f9a084",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "fd07426d-e5cc-47c3-b2e6-c46a290f7fea",
+                    "id": "df8e33c1-eae3-4ac1-8274-05c3d4be7144",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
+                },
+                {
+                    "id": "3e887d92-add3-45b6-a6cc-74d1b4924ca8",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "f65626d6-7b84-4feb-9185-0b433a820478",
+                    "id": "8ca7e984-a6a4-4c49-b29b-567947882739",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "2fe69acf-74e9-4f07-bf26-41ed7f3a5d27",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "79415b5b-dde9-4f13-bcf2-94bee8853d7b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "d0b93308-4449-4640-95a9-2f2a85d2f006",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "67cab2b4-a16c-43df-a03f-123ecdf8c243",
+                    "id": "9ad26957-b15d-42d0-926b-e98a6142bb4c",
                     "notes": "This adds key survivability to the build and allows the Power in Round 5 to really shine.",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
@@ -259,19 +295,19 @@
             ]
         },
         {
-            "id": "5eeae645-ab1b-49ea-a1e1-8e1000fe2956",
+            "id": "6486d678-b08e-4e64-8101-ee5bb3d5d1a4",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For the Round 5 Power, you are going to want to get [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) as this allows you to farm Ultimate charge with your Suzu. \n\nFor the items for this round, we are going to want [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) as this gives us a Damage over Time effect. This effect is technically a negative effect and counts towards the bonus ultimate charge from [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68).\n\nThis allows you to get free Ultimate Charge everytime you cleanse yourself. It is also even better if your teammates also purchase this it counts it on teammates as a negative effect too.\n\nThere are a few blue items you can swap the green items for if you can afford them. This is very possible with this build.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Power:** You are going to want to get [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68) as this allows you to farm Ultimate Charge with your Suzu. This is very strong against rebuffs from characters such as [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54), [Ana](hero_f1aee6cf-704f-455f-a100-ec882ebbe000) and [Junker Queen](hero_4794d288-27d9-49e0-a1dd-ffe0f4de3ab1), as well as any abilities that the enemy team may have that cause damage over time. \n_____\n**Items:** We are going to want [Nebula Conduit](item_476b7040-54c9-4f0c-8283-b4407f6809f8) as this gives us a Damage over Time effect. This effect is technically a negative effect and counts towards the bonus ultimate charge from [Cleansing Charge](item_4721f307-30d2-4fc1-a10b-6de7141deb68). This allows you to get free Ultimate Charge everytime you cleanse yourself which is common if you and your team are playing close. It is also even better if your teammates also purchase this it counts it on teammates as a negative effect too.\n_____\n**Round Notes:** There are a few blue items you can swap the green items for if you can afford them. This is very possible with this build.",
             "stats": {
-                "LIFE": 352,
+                "LIFE": 348,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 377,
+                "Total LIFE": 373,
                 "Attack Speed": 0,
                 "Weapon Power": 5,
                 "Ability Power": 40,
@@ -282,73 +318,67 @@
             },
             "round_upgrades": [
                 {
-                    "id": "bbd4a06c-9df3-4616-993f-7a9a3f722105",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "cd8b728f-789d-4ff7-a7d2-46d020bb8694",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "d32818cd-3bf8-402d-a89d-684d90382a7f",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "ca990d9a-8d51-43f4-a1fe-51019435c0ea",
+                    "id": "c4532156-1923-4f34-88ce-171686b7a937",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "b90ff7ab-ebf6-4f54-8078-9d3847045965",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-                },
-                {
-                    "id": "48eb5298-3a18-4649-a8ad-9b225e57687a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-                },
-                {
-                    "id": "9899732b-855e-4abb-9ae2-0dc99bf88ff4",
+                    "id": "d0edef55-206c-430e-bb39-c64ecf9a0d70",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
                 },
                 {
-                    "id": "bcbc101d-a00f-4081-8b0a-201529926df9",
+                    "id": "a26b35b7-f18e-4c5c-ad18-6a732353b7fa",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "bd2f1d31-5346-449c-b91e-d0a193565d9b",
+                    "id": "f8a4a48c-ed0f-40ad-9f18-e4376d31da01",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "03ba6c76-9ed5-4e5a-8b59-ad449182d814",
+                    "id": "c33c4ca9-f613-4232-a37e-e163d513c64a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "a15c5ace-7c96-4ab7-97a8-63dd0b06b975",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "71271173-b873-41d5-903a-a8616f8669e9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "52020337-6056-4de3-ab05-fd29a248d12b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "471101ad-b123-43f6-b828-b9d39f1eb763",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "8bfa5cef-7970-42f1-a728-e3fda3e25fce",
+                    "id": "a0c01ac0-c56e-4d36-a992-8dc42892c3e3",
                     "notes": "This adds key survivability to the build and allows the Power in Round 5 to really shine.",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
                 },
                 {
-                    "id": "13359b81-fd65-4309-a72c-f8aceefddd72",
+                    "id": "102548f0-5f16-4ee1-91a8-6c31ead66807",
                     "notes": "This power allows you to gain Ultimate Charge so fast and it even provides ultimate charge while Kitsune Rush is active.",
                     "action": "buy",
                     "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
@@ -356,22 +386,22 @@
             ]
         },
         {
-            "id": "1c3318d8-5837-4010-be5e-453c7e4228c6",
+            "id": "e07855ba-9836-4172-86fc-304d35e5dc5b",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For this round you can either purchase [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) to give Overhealth to teammates and yourself after a cleanse or [Goddess\u2019s Aura](item_a36d46c8-cee0-4c97-b6e4-72bb816c13dc) to give yourself Overhealth after you have TPed. \n\nI usually choose [Goddess\u2019s Aura](item_a36d46c8-cee0-4c97-b6e4-72bb816c13dc) as I can TP much more frequently than Suzu due to TP having a much shorter cooldown in this build. I find myself being borderline unkillable due to how fast you can TP around teammates and the amount of overhealth you gain. \n\nThis depends on whether your team are dying too quickly or you need extra survivability. I've added [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) into the build as its better for you team.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Items:** For this round you can either purchase [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) to give Overhealth to teammates after a cleanse or [Goddess\u2019s Aura](item_a36d46c8-cee0-4c97-b6e4-72bb816c13dc) to give yourself Overhealth after you have used TP. \n\nI usually choose [Goddess\u2019s Aura](item_a36d46c8-cee0-4c97-b6e4-72bb816c13dc) as I can TP much more frequently than Suzu due to TP having a much shorter cooldown in this build. I find myself being borderline unkillable due to how fast you can TP around teammates and the amount of overhealth you gain. However, this is ***very*** situational and you may need to purchase [Talisman of Life](item_7ecfd3eb-d869-41fe-87eb-0bb2e82e5718) if your team is struggling.",
             "stats": {
                 "LIFE": 378,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
-                "Move Speed": 0,
+                "Move Speed": 10,
                 "Total LIFE": 378,
                 "Attack Speed": 0,
                 "Weapon Power": 5,
-                "Ability Power": 60,
+                "Ability Power": 50,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -379,79 +409,79 @@
             },
             "round_upgrades": [
                 {
-                    "id": "d3b8ea95-5509-43d6-b114-3d88077dfda7",
+                    "id": "f208d6ba-c5bc-4afa-929c-63c7766879c0",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "bdc296cf-21f4-46a6-b4a3-24dd3aaa483d",
+                    "id": "75fc1281-a0ec-42d2-b393-bd96e3d87fae",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "8eceffcb-160f-466a-862e-0943981bc042",
+                    "id": "282ad5af-8e8c-4f1f-bc72-601982f70357",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
                 },
                 {
-                    "id": "5dc7b2eb-034e-4063-b5a9-b7d9344519da",
+                    "id": "327a3813-0b84-4276-afac-3d9323bc9a5a",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "a36d46c8-cee0-4c97-b6e4-72bb816c13dc"
                 },
                 {
-                    "id": "59e709cf-a93b-4f13-8623-3de36d13ac76",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-                },
-                {
-                    "id": "a6537f75-42db-45d7-9578-c491b534b398",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
-                },
-                {
-                    "id": "35f0bee4-bfcd-47f9-abbe-8f2794a0c0ef",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "2e457d5a-49c6-4a5a-97d0-7eb02c9311a6",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-                },
-                {
-                    "id": "f2fb458f-d5b7-4e26-a151-c474b69689c0",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-                },
-                {
-                    "id": "38ea73e6-1fd5-410b-8392-a589bc070eae",
+                    "id": "9da82245-3aad-46d1-a9ed-36d47c45e37e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
                 },
                 {
-                    "id": "a830b17b-481c-4348-99e4-65d205070a52",
+                    "id": "783d7fb8-539e-48e0-802a-c066759b01e5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "2e0b31b1-88e0-41ed-b664-f30a93a946bb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "a315971a-68c8-4a48-958e-a6193409d5dd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "982af1f5-8c57-42ed-b63a-683edb155733",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "55d48620-e8c1-4970-8039-e5c1223d89ed"
+                },
+                {
+                    "id": "a493a8b0-10ad-4d32-a7d1-840d27583df2",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "a3b4cc3c-ecb0-45ad-b878-2d75ef49a980",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "b33faf36-2cce-4e4e-97ba-d2550b7d5ae0",
+                    "id": "0846716e-bf0d-4db0-b1ad-904e6c294e3b",
                     "notes": "This adds key survivability to the build and allows the Power in Round 5 to really shine.",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
                 },
                 {
-                    "id": "9999f127-8458-4740-8eb4-8cd06b6c9072",
+                    "id": "1f654c5b-6dcd-4c02-b4e1-75c229410d25",
                     "notes": "This power allows you to gain Ultimate Charge so fast and it even provides ultimate charge while Kitsune Rush is active.",
                     "action": "buy",
                     "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
@@ -459,12 +489,12 @@
             ]
         },
         {
-            "id": "1a02e6a4-580a-4d15-a20a-cfb7f93dc2e6",
+            "id": "7f5d0936-97c5-4bbf-a2d1-e8591a780d50",
             "build_id": "cb19c99d-5a6d-4825-9e86-b99713354a1c",
             "round_number": 7,
             "cash_earned": 0,
-            "created_at": "2025-08-10T16:23:22.264497+00:00",
-            "notes": "For the final round, you should be able to comfortably be able to purchase six purple items with lots leftover. We are going to purchase [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) and [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f). \n\n[Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f) is the most important item to purchase this round as it allows you to keep your team up even more when you have Kitsune active which should be VERY often. The [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is best for the additional [Cooldown Reduction](stat_cooldown_reduction) and Health.",
+            "created_at": "2025-08-25T19:50:09.02544+00:00",
+            "notes": "**Power:** The final power is very situational as the remaining powers are very strong in their own ways, However, I usually pick [Crossing Guard](item_bb5252fd-fc6b-4dce-a60a-21b0a0add68f) for the slow to enemies whilst Kitsune is active or [Fleet Foot](item_1d58371c-71a9-44c2-8d5a-0663467599e9) to be able to escape when you are alone. ***Important note:*** The [Fleet Foot](item_1d58371c-71a9-44c2-8d5a-0663467599e9) does have a 35% increased cooldown but this is negligible as this final build has -30% [Cooldown Reduction](stat_cooldown_reduction). \n\n[Spirit Veil](item_1772ce7d-37ed-41e4-8bac-d9b260aa59ad) is also a very strong choice if you find yourself using Kitsune more defensively. \n_____\n**Items:** We are going to purchase [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) and [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f). [Our Bikes](item_d9fa8542-237e-49d5-b6a1-4e910d5c777f) is the most important item to purchase this round as it allows you to keep your team up even more when you have Kitsune active which should be **very** often. The [Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is best for the additional [Cooldown Reduction](stat_cooldown_reduction) and Health, but you can switch this out for any other item that you like..\n_____\n**Round Notes:** For the final round, you should be able to comfortably be able to purchase six purple items with lots leftover.",
             "stats": {
                 "LIFE": 474,
                 "Armor": 0,
@@ -482,85 +512,85 @@
             },
             "round_upgrades": [
                 {
-                    "id": "56b0d659-d7d9-41ce-882a-2a2a19cc354f",
+                    "id": "ecc12e70-34bb-4dd8-b02a-3e4831c56302",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
                 },
                 {
-                    "id": "5d3d2b28-e173-47d0-b983-c4b4141fa774",
+                    "id": "8390616e-ed52-4dad-8b50-ed7d2a28df0c",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
                 },
                 {
-                    "id": "5a126d89-9ab2-4279-a9de-9953ff10c651",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "ca840830-e980-4f3c-9ffd-ca02543ad7be",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
-                },
-                {
-                    "id": "5cd250ea-dcf3-4ea4-b8e8-d57d1352fbc0",
+                    "id": "de93f749-031c-4f1f-bbf0-50a75f0504b6",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "5519573a-51ea-46bc-a1a9-2df85f055299",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
-                },
-                {
-                    "id": "b2b2bb25-a869-4ea4-b46e-8165aa99fea2",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
-                },
-                {
-                    "id": "18654681-06e7-4519-a456-58fcdb0fca3c",
+                    "id": "2ff1f3ec-621e-4fe8-91a0-e0f922ebe58c",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a36d46c8-cee0-4c97-b6e4-72bb816c13dc"
                 },
                 {
-                    "id": "2e4e888c-0cfa-4519-b4d9-b84eb4994ae8",
+                    "id": "bd03c0be-4ceb-4fc0-bc06-8ae8db1bb952",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "d9fa8542-237e-49d5-b6a1-4e910d5c777f"
                 },
                 {
-                    "id": "6c26b8a8-99f7-4a6e-9a7a-0b6a98708fad",
+                    "id": "34195378-1696-431a-98d1-7b4ab0fee55b",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
                 },
                 {
-                    "id": "c1bfd232-9a1b-4082-9533-8f46dbb8316b",
+                    "id": "e5e83939-79b8-41bb-8b1b-c43cc39e0644",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "55d48620-e8c1-4970-8039-e5c1223d89ed"
+                },
+                {
+                    "id": "9f3a2a3e-ae03-48e4-8a51-749cd412e12e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "476b7040-54c9-4f0c-8283-b4407f6809f8"
+                },
+                {
+                    "id": "63b3014a-a044-46ca-9c72-a3d456438bd6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "7c6bcb18-6418-404b-bd70-a59f03444322",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "7559cefe-3b11-4820-a888-d4af3aff31ce",
                     "notes": "This Power is essential to the build as it allows you to farm cash, heals and ultimate charge.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "61f2e980-df01-4400-82b5-8e36668c02f1",
+                    "id": "3ea7808b-4f6d-4421-a9f2-f55a3218927f",
                     "notes": "This adds key survivability to the build and allows the Power in Round 5 to really shine.",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
                 },
                 {
-                    "id": "2c751cc0-bf5d-4f0f-985f-a39ba08dc864",
+                    "id": "ac803d1e-5380-4485-8984-617dd2d1a854",
                     "notes": "This power allows you to gain Ultimate Charge so fast and it even provides ultimate charge while Kitsune Rush is active.",
                     "action": "buy",
                     "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
                 },
                 {
-                    "id": "d4b26759-0766-4956-9726-cac67c5728b4",
+                    "id": "b48b99d8-177b-4061-9edc-1543c80ffd2e",
                     "notes": "You can either choose this Power or Fleet Foot as they both are really strong in this build. However, this rounds Power isn't too important and you can purchase any you would like.",
                     "action": "buy",
                     "upgrade_id": "bb5252fd-fc6b-4dce-a60a-21b0a0add68f"
