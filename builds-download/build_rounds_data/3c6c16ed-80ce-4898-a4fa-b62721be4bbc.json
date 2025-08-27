@@ -1,21 +1,21 @@
 {
-    "updated_at": "2025-08-26T22:01:01.485841+00:00",
+    "updated_at": "2025-08-27T11:07:23.462966+00:00",
     "id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
     "rounds": [
         {
-            "id": "fb8f7487-9820-49ca-8193-8c0419ecbda1",
+            "id": "86009be0-9ae9-45e6-b15d-700a076e9853",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Power\n\nIn Round 1, you should get either [Sk\u00f6ldkastning](item_a6c36dee-d961-428b-b27c-93ba5ef377d8) or [Maces to Faces](item_072c4780-53a1-4abd-9fc9-32406c3b7b49). Once we get [Scavenged Steel](item_fb9d2d13-db05-46fa-b3c6-07495b1872a4), [Sk\u00f6ldkastning](item_a6c36dee-d961-428b-b27c-93ba5ef377d8) will be able to trigger multiple times due to its boomerang effect. If you're playing against flyers, you might want to prioritize getting [Maces to Faces](item_072c4780-53a1-4abd-9fc9-32406c3b7b49).\n\n## Items\n\nAs for items, focus on building [Ability Power](stat_ability_power). This will make your powers stronger on top of making your abilities do more damage and healing, which are a huge part of [Brigitte](hero_8d4e7c27-fb70-4694-9721-2ecf094ef84a)'s kit.",
             "stats": {
-                "LIFE": 0,
-                "Armor": 50,
+                "LIFE": 210,
+                "Armor": 100,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 50,
+                "Total LIFE": 310,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 10,
@@ -26,25 +26,31 @@
             },
             "round_upgrades": [
                 {
-                    "id": "561ffb0f-f6ea-40ee-bbc8-5adbeb7f2bd9",
+                    "id": "ee2baabb-a6ff-4a7f-b4a4-de4e1b5a9787",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "42318a36-635d-4a7b-bce6-45ab8490bfeb",
+                    "id": "1d7eee4b-63f1-49cc-9226-e890d8ada714",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "e64c38f8-ef37-4a4d-9f80-aa9f7fe468ef",
+                    "id": "c22e7bc7-ca1a-4494-9a42-f74720176e76",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "a9ce7b0c-6202-4686-85ba-3c5ed8b03568",
+                    "id": "15e90c09-5fe6-4d08-b9b5-e5c9647a0727",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
+                },
+                {
+                    "id": "a99d8477-a647-46d5-9ba7-b451f47a5ba3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
@@ -52,19 +58,19 @@
             ]
         },
         {
-            "id": "93d01757-3442-4b40-a6d7-d74945cb2859",
+            "id": "6194ff78-2ca8-4a09-ab4a-4db981b993e0",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Items\n\nIn Round 2, you should get [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4), unless it's one of the only items you can afford. Otherwise, get some cheap items that give [Ability Power](stat_ability_power).",
             "stats": {
-                "LIFE": 20,
-                "Armor": 50,
+                "LIFE": 230,
+                "Armor": 100,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 70,
+                "Total LIFE": 330,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 25,
@@ -75,31 +81,55 @@
             },
             "round_upgrades": [
                 {
-                    "id": "e0f46170-fc5d-4157-9fc8-c43cd10be748",
+                    "id": "29327db3-5fc0-461d-abde-f38e12f431b3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
                 },
                 {
-                    "id": "13370788-556d-43bf-9067-d9755ab31016",
+                    "id": "c2bde5e0-6a4e-4513-9c5a-a4f663e5727d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "74ee673d-4738-4ea1-b5cc-79a8d1e0a1b0",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "f0d41d86-2f11-485f-8ef9-e9c4ed7ddb38",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "1e2ca18b-ea3e-4cc5-8952-c65e51f29328",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "aeec2006-04b0-47ff-9b19-ec33273d8424",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "f6bf2523-176f-4686-98e8-9096b557a7d1",
+                    "id": "8de3e7e7-0550-4eb5-b510-041efc5206e2",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "b5b7e519-106b-4f93-bebc-1985f2e002bc",
+                    "id": "672a8a0e-0229-46e9-8bea-e2ddf6ac6ea9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "306aa141-4a8c-48f6-8a84-03a5a0e4d146",
+                    "id": "6000ed51-4618-49a0-ae15-d7309e745abd",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
@@ -107,19 +137,19 @@
             ]
         },
         {
-            "id": "522d7dc6-57aa-47ef-9dce-1726e929470c",
+            "id": "821a6ad1-5dd1-4100-b57f-42679c35eddf",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Power\n\nIn Round 3, you should get either [Maces to Faces](item_072c4780-53a1-4abd-9fc9-32406c3b7b49) or [Sk\u00f6ldkastning](item_a6c36dee-d961-428b-b27c-93ba5ef377d8) depending on which power you picked in Round 1. [Maces to Faces](item_072c4780-53a1-4abd-9fc9-32406c3b7b49) will essentially make your Whipshot a guaranteed hit, which will greatly help with farming your ultimate in combination with [Scavenged Steel](item_fb9d2d13-db05-46fa-b3c6-07495b1872a4). [God Ray](item_4abb5cdb-f113-4f21-aa0a-e67d95a11fd0) should only be used in combination with [Maces to Faces](item_072c4780-53a1-4abd-9fc9-32406c3b7b49) if you're playing against [Pharah](hero_0baf7420-ff13-4b92-81f7-ca21b61dacf9) or any other oppressive flyer.\n\n## Items\n\nYou should be able to afford [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) and [Scavenged Steel](item_fb9d2d13-db05-46fa-b3c6-07495b1872a4) now. If you're struggling against flyers, go for [Chain Extender](item_0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d). Otherwise, fill the rest of your slots with cheap items that give [Ability Power](stat_ability_power).",
             "stats": {
-                "LIFE": 39,
-                "Armor": 100,
+                "LIFE": 249,
+                "Armor": 150,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 139,
+                "Total LIFE": 399,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 25,
@@ -130,63 +160,111 @@
             },
             "round_upgrades": [
                 {
-                    "id": "7beef434-9fc0-429a-b0c4-709c1116c759",
+                    "id": "9b0038ab-ec39-4396-a9b6-30e5d3c0914b",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                    "action": "optional",
+                    "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "1cf9b517-bbc4-467e-80b2-62e5a09cf0da",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "cdfbcd78-a1ef-4cbe-a305-278b0b9ef615",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "fb680ec6-953d-4494-ab42-1c5f459f4c00",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-                },
-                {
-                    "id": "db2396f2-61ef-4958-9a8c-babc7cc050ec",
+                    "id": "9ca99dec-2834-4ee2-9610-ca52217f9bf0",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
                 },
                 {
-                    "id": "9856097f-b5a9-4041-a68a-77a376bd28c9",
+                    "id": "5086b4b0-b88d-40ec-b025-0647cd1b1021",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "ad008193-fe01-4cde-97b0-3ca4d35e8a5f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "04e5b913-c4c0-4432-878e-3e922551fb2e",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "1f8cda35-046e-4c0e-aa44-67c6743f5a2b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "ecf768b0-fe4b-45f2-8f0c-cd3491937b71",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "da565834-bda7-4933-a5bb-3e75c5ef0d8b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "6086e770-1e95-4d90-995f-ea46bec392f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "8999c73c-89b2-45de-82ba-2870f4bca1e7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "6d85162e-ee37-4a65-92fa-e4b3830dce39",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "4abb5cdb-f113-4f21-aa0a-e67d95a11fd0"
+                },
+                {
+                    "id": "11bc3947-5d40-4464-8276-531e69457f4b",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
+                },
+                {
+                    "id": "42cd3fa1-812c-497c-be5f-eb6bc19e6679",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "e6a3cbfa-e425-4d9a-aca7-ccdb27fba2ea",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "c2f50f70-385d-4a2f-a10a-316172c45cbf",
-                    "notes": "",
+                    "id": "4797130c-c3c4-47c0-9fcf-d44fa8c7c2db",
+                    "notes": "Great against flyers",
                     "action": "buy",
                     "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
                 }
             ]
         },
         {
-            "id": "6297115d-2d3f-4476-a462-275d69897d92",
+            "id": "7f9a3ae7-58a1-4835-8285-deefbefa6d50",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Items\n\nIn Round 4, you should get [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8). [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) is an insanely strong item on [Brigitte](hero_8d4e7c27-fb70-4694-9721-2ecf094ef84a), as it gives [Ability Power](stat_ability_power) and a crazy amount of survivability. [Brigitte](hero_8d4e7c27-fb70-4694-9721-2ecf094ef84a) is very reliant on her cooldowns and she has so many of them. Each time she uses one of them, [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) will restore 50 armor over 3 seconds. Fill the rest of your slots with cheap items that give [Ability Power](stat_ability_power).",
             "stats": {
-                "LIFE": 59,
-                "Armor": 150,
+                "LIFE": 269,
+                "Armor": 200,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 209,
+                "Total LIFE": 469,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 40,
@@ -197,69 +275,105 @@
             },
             "round_upgrades": [
                 {
-                    "id": "ccd2f06b-92f2-4b12-a132-0c392362f7cf",
+                    "id": "8b5e13d4-1955-4314-9f40-40c1ef38c6e3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "d5cf2a46-3e43-4cf5-bf5d-819b0bdf2c0a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "e8bbe8ad-69f0-4394-8b0d-c964188254ea",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "33ce5e1e-6851-42b6-80c1-7ac790b52c5f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "38c8383f-d090-4046-96df-77603846b648",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
+                },
+                {
+                    "id": "6e000fc6-7739-42bc-bc18-8cac028c917f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "14daa05a-00e2-489b-ac2a-c263eb8bb6c3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "7bcfd319-813b-4b5c-8fb5-7852ea3fd9fc",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "a9a17fc2-e0e5-4013-aa55-32dc7907f477",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "4611f158-e55d-4298-bf5e-bc9c81091966",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "0d601215-991f-49c6-80fa-779496ab87ef",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-                },
-                {
-                    "id": "afdcea54-6498-4aba-8f28-ea5ab3159134",
+                    "id": "6ff73c79-52ec-4236-8461-ef3d2a8cb1ef",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
                 },
                 {
-                    "id": "b765e92e-e67d-4fce-b2a3-fcb6c479596c",
+                    "id": "438dcee3-4397-49be-a348-4b7567c10b1c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "b942a770-7318-4e33-901e-bba13f353733",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "af534c20-c092-4c06-b865-21a00fe7f6a5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "e7f0e288-8c3a-4992-b3ca-3f99ad6c3518",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "699c5345-8094-4b2d-a67f-f58264191be1",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "90db890d-625b-4e3d-b01c-089d98eaf3a8",
-                    "notes": "",
+                    "id": "08fdf735-8ef3-47fc-a557-48cbe740fe83",
+                    "notes": "Great against flyers",
                     "action": "buy",
                     "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
                 }
             ]
         },
         {
-            "id": "bfa4aea5-10f8-46f5-9150-d377603ef4ea",
+            "id": "fc1f0fd8-7528-401f-8a00-43c416bc5af8",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Power\n\nIn Round 5, you can go for either [Aura Farming](item_b2416f42-1aa6-440a-8080-86290f5556c0), [Packstacker](item_87b99cde-3089-42fd-86bc-6e1ebf3fe422), [God Ray](item_4abb5cdb-f113-4f21-aa0a-e67d95a11fd0) or [Optimizer](item_13d41c37-8f79-4435-9d81-c9599955f6a8). I go for [Aura Farming](item_b2416f42-1aa6-440a-8080-86290f5556c0) to later synergize with [Consecrated Ground](item_fbdd3ee7-e527-4549-8dda-796c428270ee), but if you don't really care for this combination, any of the other powers will do.\n\n## Items\n\nAs we previously established, [Brigitte](hero_8d4e7c27-fb70-4694-9721-2ecf094ef84a) is very reliant on her cooldowns and has a lot of them, so [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) is a great option for its high [Ability Power](stat_ability_power) and [Cooldown Reduction](stat_cooldown_reduction). Fill the rest of your slots with cheap items that give [Ability Power](stat_ability_power).",
             "stats": {
-                "LIFE": 81,
-                "Armor": 125,
+                "LIFE": 291,
+                "Armor": 175,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 206,
+                "Total LIFE": 466,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 60,
@@ -270,146 +384,115 @@
             },
             "round_upgrades": [
                 {
-                    "id": "2b99a228-874f-4af2-8497-66161cce946f",
+                    "id": "e536b634-ed03-4e43-aa5b-6e0523706a5b",
                     "notes": "",
                     "action": "optional",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "bd8b89aa-02c9-4ada-a3f4-fa13a5ce9b4d",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "7d0383e4-3d83-4579-bc98-a254d0271bab",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "b45f6ffe-3e27-4ab6-a5ba-90bc2d7e9c92",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-                },
-                {
-                    "id": "ce441217-3e51-419a-859b-4cfcaacbc43c",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
-                },
-                {
-                    "id": "27f85a81-d46e-49df-903f-c86d2dda42f1",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-                },
-                {
-                    "id": "3e269595-79e7-4750-ab8f-ba2c60584b8c",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "da3f54fa-1a09-4dd2-a0ca-4f5a5d892d4d",
-                    "notes": "",
-                    "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "2362c7ad-baa6-4f95-8dac-7e968a168329",
+                    "id": "17e95155-a296-41f4-b6c3-0d190755c977",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
+                    "action": "optional",
+                    "upgrade_id": "87b99cde-3089-42fd-86bc-6e1ebf3fe422"
                 },
                 {
-                    "id": "606924eb-86ad-4117-a885-66ff10fc0520",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b2416f42-1aa6-440a-8080-86290f5556c0"
-                }
-            ]
-        },
-        {
-            "id": "35946946-a4f8-4de3-addc-bb170fe4539e",
-            "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
-            "round_number": 6,
-            "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
-            "stats": {
-                "LIFE": 101,
-                "Armor": 100,
-                "Shield": 0,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 201,
-                "Attack Speed": 0,
-                "Weapon Power": 0,
-                "Ability Power": 70,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 25
-            },
-            "round_upgrades": [
+                    "id": "c74c1cf6-6fc2-4ea0-9b37-95dd6a8366a4",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "4abb5cdb-f113-4f21-aa0a-e67d95a11fd0"
+                },
                 {
-                    "id": "eebec7d1-779a-42fb-9a20-5442bbe51032",
+                    "id": "14891ffb-a50c-45b0-88c3-705919f9cf8d",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "bd648c30-1c17-4ef6-a740-18faafe382e3",
+                    "id": "6381d45c-7449-46f8-b59d-cb63e2f98646",
                     "notes": "",
-                    "action": "buy",
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
+                },
+                {
+                    "id": "c21ad21e-8063-41b2-ac79-59bda03036c8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "b5e3445a-0110-496b-b67f-cbad934512a6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "8c2d2759-80a3-4dcc-b8b6-8914f6036123",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "0df9392e-edeb-4327-986f-b04f119d1fd3",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
+                },
+                {
+                    "id": "bddb9f37-1bd3-46e5-b4cd-92ebf5b8379a",
+                    "notes": "",
+                    "action": "optional",
                     "upgrade_id": "382d3dbd-63b8-453f-9be3-fefc3600dd24"
                 },
                 {
-                    "id": "508ea70a-abd0-43cb-8a80-83287c0bafbf",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "d5a842a7-f6bc-430d-8cc3-149b84e6f0c3",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
-                },
-                {
-                    "id": "b1ae910b-2c59-4d5b-896d-f48927465573",
+                    "id": "fe3e5601-3e87-4b54-b4ad-9a5b129be52e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
                 },
                 {
-                    "id": "ee77cb5c-5eaa-46ca-a069-a1908b5fb67b",
+                    "id": "e382b3cf-9e9f-4ec9-91b4-d5c9570684d8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "e82bb284-9602-4b3b-8a36-772c6480c580",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "d642d8a1-fb71-40f8-bc31-87ead85924fb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "71e19475-640c-431c-9237-d410e1f153f5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "0522da81-05ae-4c93-bf73-3050bac59143",
+                    "id": "819b8513-f6d3-4e16-b50a-a3b5640cd83c",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "344f5a8e-ccd1-41ca-9c72-d380857471a8",
+                    "id": "dfd094bb-0488-456d-ae59-0b7d488832d9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "e281b12c-9fcf-4498-be1f-3b0c09488714",
-                    "notes": "",
+                    "id": "5984bb89-14b2-4ced-8056-b9989051306f",
+                    "notes": "Great against flyers",
                     "action": "buy",
                     "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
                 },
                 {
-                    "id": "dba55168-4c84-4915-ad63-5389cefe3664",
+                    "id": "3cf92f34-e2ad-47ce-95fd-1aced180fecb",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b2416f42-1aa6-440a-8080-86290f5556c0"
@@ -417,19 +500,19 @@
             ]
         },
         {
-            "id": "5ab78470-6dbf-44b5-a2d0-9210a43e10e7",
+            "id": "13d0b467-18d0-41b4-a626-0f3bdde45350",
             "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
-            "round_number": 7,
+            "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-08-26T22:01:01.485841+00:00",
-            "notes": "",
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Items\n\nIn Round 6, you should be able to afford [Mitzi's Medicine](item_382d3dbd-63b8-453f-9be3-fefc3600dd24), which gives you [Ability Power](stat_ability_power), [Cooldown Reduction](stat_cooldown_reduction) and it makes your Repair Packs even stronger. Fill the rest of your slots with cheap items that give [Ability Power](stat_ability_power).",
             "stats": {
-                "LIFE": 119,
-                "Armor": 125,
+                "LIFE": 311,
+                "Armor": 175,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 244,
+                "Total LIFE": 486,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 60,
@@ -440,109 +523,248 @@
             },
             "round_upgrades": [
                 {
-                    "id": "4a29bb92-61e8-4b8b-82cd-bda4a2e6dfc7",
+                    "id": "c8ceb045-9e3c-4ba3-8e8c-fc57c5316225",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "d0794681-844b-4ce8-9857-15320f35a634"
+                    "action": "optional",
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "55b8dcfc-641c-498e-a957-8792b2f320a6",
+                    "id": "b7f81861-d1be-46c6-bc0b-a1350e1e36b5",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "957e3625-3ccb-4b0d-9f28-a4fd529c1973",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "5830d501-f366-4500-9891-49a68cca2c3f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "c3038168-297e-4b1e-b419-f09218ed95b6",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "f7d646ab-9236-47d1-a3f7-e2569603947a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                    "id": "61464a08-924a-432e-894e-8806ec05d785",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
                 },
                 {
-                    "id": "bec070d6-467a-4741-b8ee-997ccb3313eb",
+                    "id": "357fec7d-638f-4ec2-98ee-a1486f6c7ed8",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
+                    "action": "optional",
+                    "upgrade_id": "d0794681-844b-4ce8-9857-15320f35a634"
                 },
                 {
-                    "id": "fa3586ce-fcb6-47b0-ab99-414c12599f75",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-                },
-                {
-                    "id": "56aef8ce-18c8-4b42-8037-40531e6c17a8",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "e688cd29-5e8f-4633-ab87-ad1155aa1f9b",
+                    "id": "f34e2862-c34c-4b15-b484-c6c6f045afa4",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "382d3dbd-63b8-453f-9be3-fefc3600dd24"
                 },
                 {
-                    "id": "e486d8c5-7d7d-4abe-9d3a-ef130a53c31e",
+                    "id": "7a922b14-3ae6-40af-83e5-88f0b310b9c9",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                    "action": "buy",
+                    "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
                 },
                 {
-                    "id": "433c8a3b-7c31-4a24-a7b6-c49b0739fced",
+                    "id": "566c4a2a-495f-46ac-a5d1-2d684e0b6000",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
                 },
                 {
-                    "id": "027d9f49-c38f-448c-b022-f84a7bf0418b",
+                    "id": "ef1eb9f1-29f4-4759-b81e-1204e2c15791",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6501be99-b951-4dad-9bb5-8305eb17d84e"
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
                 },
                 {
-                    "id": "cb11af51-2399-41c1-897b-a6809e4f633e",
+                    "id": "d6fdaf85-30e1-44bb-b212-3f5d7c7fc5a4",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "df95cea8-7040-4bfc-9145-8b820edce5a3"
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "152dc575-7ea2-488d-9a34-9dd142876f60",
+                    "id": "f5a38a2b-02cb-44c3-bfbc-f7b7c412ab37",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "13d41c37-8f79-4435-9d81-c9599955f6a8"
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "3bd91a2e-2b4f-41a6-b1cc-0f7124e144db",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "4abb5cdb-f113-4f21-aa0a-e67d95a11fd0"
-                },
-                {
-                    "id": "e6419dbc-af21-43ed-a904-afc2a7fbf536",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "87b99cde-3089-42fd-86bc-6e1ebf3fe422"
-                },
-                {
-                    "id": "45d334db-0120-4e04-86bb-9c4d304a765b",
+                    "id": "b184820e-e275-4492-ae7c-8f851b3adc9d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
                 },
                 {
-                    "id": "388d857a-3a53-4722-b4f7-78ef09bee712",
-                    "notes": "",
+                    "id": "b0ef27e8-c51e-45ce-b473-289df1ed8a31",
+                    "notes": "Great against flyers",
                     "action": "buy",
                     "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
                 },
                 {
-                    "id": "090acce9-d1c8-4b49-a47b-785f0ace9ef2",
+                    "id": "90176534-0c75-4f92-8951-9d0d5012104f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b2416f42-1aa6-440a-8080-86290f5556c0"
+                }
+            ]
+        },
+        {
+            "id": "a3d88fad-6832-4ed8-a993-b408d6f793fa",
+            "build_id": "3c6c16ed-80ce-4898-a4fa-b62721be4bbc",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-27T11:07:23.462966+00:00",
+            "notes": "## Power\n\nIn Round 7, you should go for [Consecrated Ground](item_fbdd3ee7-e527-4549-8dda-796c428270ee) or [Mender Bender](item_df95cea8-7040-4bfc-9145-8b820edce5a3) if you went for [Aura Farming](item_b2416f42-1aa6-440a-8080-86290f5556c0) in Round 5, but I find [Mender Bender](item_df95cea8-7040-4bfc-9145-8b820edce5a3) to be a little underwhelming. Otherwise, you can also go for [Packstacker](item_87b99cde-3089-42fd-86bc-6e1ebf3fe422), [God Ray](item_4abb5cdb-f113-4f21-aa0a-e67d95a11fd0) or [Optimizer](item_13d41c37-8f79-4435-9d81-c9599955f6a8).\n\n## Items\n\nAs for the last item, you can get [Dragon's Incinerator](item_d0794681-844b-4ce8-9857-15320f35a634) if you want to, but [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) and [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) are also great options. [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is very expensive though, so do keep that in mind if you're a bit lower on Stadium Cash. Go for [Chain Extender](item_0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d) if you picked [God Ray](item_4abb5cdb-f113-4f21-aa0a-e67d95a11fd0) as your power. If you can't afford any of these, get [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) or any other cheaper item that gives [Ability Power](stat_ability_power).",
+            "stats": {
+                "LIFE": 319,
+                "Armor": 175,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 494,
+                "Attack Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 60,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 25
+            },
+            "round_upgrades": [
+                {
+                    "id": "f7ffb3eb-0d24-4e56-bf65-b5b7c9aa53e6",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "87b99cde-3089-42fd-86bc-6e1ebf3fe422"
+                },
+                {
+                    "id": "fba2bec0-632f-49fc-96b8-f8c819f53427",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "4abb5cdb-f113-4f21-aa0a-e67d95a11fd0"
+                },
+                {
+                    "id": "3797d696-5568-461f-b8b4-522009441576",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "13d41c37-8f79-4435-9d81-c9599955f6a8"
+                },
+                {
+                    "id": "3147a29a-2a79-4c0f-84f2-e60003740b28",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "df95cea8-7040-4bfc-9145-8b820edce5a3"
+                },
+                {
+                    "id": "a0c156ac-0d02-4beb-b275-48ab0d156e33",
+                    "notes": "Pure AP in exchange for a lack of utility",
+                    "action": "optional",
+                    "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
+                },
+                {
+                    "id": "d583d956-3522-4fa0-a64e-1652e6aa3797",
+                    "notes": "This item gives no AP, but can increase your Repair Pack uptime if you're brawling a lot",
+                    "action": "optional",
+                    "upgrade_id": "6501be99-b951-4dad-9bb5-8305eb17d84e"
+                },
+                {
+                    "id": "c8698c23-20da-4776-a3e6-6effad458dd7",
+                    "notes": "Only get this item if you can't afford anything else",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "362512d9-d43a-4eaf-b295-ca55868cc5d7",
+                    "notes": "This item is good if you're brawling a lot",
+                    "action": "optional",
+                    "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
+                },
+                {
+                    "id": "06f3b540-9dfe-4e5f-a262-8c4a1cc64b47",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "dbeefda8-0c3f-4eaf-97c2-ea224d991757",
+                    "notes": "Great against flyers",
+                    "action": "optional",
+                    "upgrade_id": "0a0d50dc-0ec9-42f6-a0ad-c373eb44dc6d"
+                },
+                {
+                    "id": "ea90d415-946b-48a1-ba3f-10ff2567426a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "fb9d2d13-db05-46fa-b3c6-07495b1872a4"
+                },
+                {
+                    "id": "3cc91cd6-b85f-4a9a-9601-10c7d322793a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
+                },
+                {
+                    "id": "b48748ce-5fa7-463b-9d1d-dbeb0109590b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "cb70f69c-b941-4a38-89d4-f92c3170e6e6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "6d5b22b4-cc72-4783-8f57-d9ee969ad127",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "382d3dbd-63b8-453f-9be3-fefc3600dd24"
+                },
+                {
+                    "id": "2b0d95ef-2fc5-4106-8be1-9a365e454a6b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "d0794681-844b-4ce8-9857-15320f35a634"
+                },
+                {
+                    "id": "bb093638-a4d7-4775-95b3-30530d64b57f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "e4c19400-9351-471a-b158-32110c3a0ff4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a6c36dee-d961-428b-b27c-93ba5ef377d8"
+                },
+                {
+                    "id": "8b5d3065-8ad6-44b3-b1e0-1e27ed4647bd",
+                    "notes": "Great against flyers",
+                    "action": "buy",
+                    "upgrade_id": "072c4780-53a1-4abd-9fc9-32406c3b7b49"
+                },
+                {
+                    "id": "5d16919d-22a2-455c-8bf0-530f004e9d69",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b2416f42-1aa6-440a-8080-86290f5556c0"
                 },
                 {
-                    "id": "fd521d80-9673-4272-b64e-07a25ffab1d2",
+                    "id": "5e64b88d-847c-48f1-89db-e468fcabd227",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fbdd3ee7-e527-4549-8dda-796c428270ee"
