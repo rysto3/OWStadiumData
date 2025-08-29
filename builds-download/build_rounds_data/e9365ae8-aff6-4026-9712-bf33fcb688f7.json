@@ -1,14 +1,14 @@
 {
-    "updated_at": "2025-08-28T09:57:37.847619+00:00",
+    "updated_at": "2025-08-29T08:01:48.616668+00:00",
     "id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
     "rounds": [
         {
-            "id": "7b7e02e1-be7a-43e1-b7b3-8924258ae6d4",
+            "id": "841e9d0b-aad7-4eca-b6ec-ac9be528b11d",
             "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "[Launch Vector](item_7d4ef8eb-a008-4f63-802d-a67bd9d6989e) Launch Vector will consistently do more damage in Rounds 1-3 than Speed Kills, especially around grouped enemies. Get a Power Playbook to compliment it.\n\n\nPharah is in danger the moment Cassidy, Soldier 76 or even a slight breeze heads her way. Buy two survival items and laugh straight to the bank.\n\nRound 1:\n [Plasma Converter](item_25869f9a-9a29-4e19-96b6-9d8a28c59318) \n [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n [Electrolytes](item_274b7523-8273-4740-aa7b-837f3f143900)\n\nAlternatives:\n [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) \n [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f) \n\nNerd Breakdown:\n\nCompensator takes our rocket damage from 120 to ~126 on a target without armor/damage reduction. Power Playbook takes our Concussive blast from ~110 (on a single target with all mini rockets) to ~121, which also affects multiple enemies. Weapon Grease doesn't have much impact on our damage this early (taking about 10-12 rockets before the damage scales beyond the base). Early high burst damage and being able to live is our goal. \n\nArmored Vest + Electrolytes offers you the safest sustained choice. Adrenaline Shot over Armored Vest can also be considered if you are familiar with health pack spawns and lack of projectiles on the enemy team (Armored Vest will always be great against Reaper, Soldier, Dva, Orisa, Junker Queen,",
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Round 1:\n [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) \n [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n [Electrolytes](item_274b7523-8273-4740-aa7b-837f3f143900)\n\nAlternatives:\n [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) \n [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f) \n\nNerd Breakdown:\n\nCompensator takes our rocket damage from 120 to ~126 on a target without armor/damage reduction. Power Playbook takes our Concussive blast from ~110 (on a single target with all mini rockets) to ~121, which also affects multiple enemies. Weapon Grease doesn't have much impact on our damage this early (taking about 10-12 rockets before the damage scales beyond the base). With  [Speed Kills](item_2ee0fb37-d15c-4f4c-bac5-26f04794fee9) gaining stacks from any damage source, you'll be firing more primary than you will concussive blasts due to cooldowns and increased attack speed.\n\nArmored Vest + Electrolytes offers you the safest sustained choice. Adrenaline Shot over Armored Vest can also be considered if you are familiar with health pack spawns and lack of projectiles on the enemy team (Armored Vest will always be great against Reaper, Soldier, Dva, Orisa, Junker Queen etc)",
             "stats": {
                 "LIFE": 235,
                 "Armor": 25,
@@ -17,8 +17,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 260,
                 "Attack Speed": 0,
-                "Weapon Power": 0,
-                "Ability Power": 10,
+                "Weapon Power": 5,
+                "Ability Power": 0,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -26,50 +26,44 @@
             },
             "round_upgrades": [
                 {
-                    "id": "e97976ff-dd46-4950-bba6-57342242ae45",
+                    "id": "46c3c92a-b182-4a17-a0fa-a4d9d598b91b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
+                },
+                {
+                    "id": "403e304f-f7a3-4e35-a098-ae076d26a729",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "4c999e7d-86ae-404b-8109-158b82c1ded2",
+                    "id": "d1bafa3b-e2b2-42d8-a129-545371fc165d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "274b7523-8273-4740-aa7b-837f3f143900"
                 },
                 {
-                    "id": "28d4e63f-5c1a-4c65-a76b-13c54e3db05e",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "3c787415-7bb3-472c-8e1d-5dcd286ae5f4",
-                    "notes": "Take in place of Electrolytes.",
-                    "action": "optional",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "3c1f903e-ae44-4719-9ff5-6440fbbcf626",
+                    "id": "b4ae4b84-6e58-41ee-a12e-303eb64a31c2",
                     "notes": "Swap with Armored Vest.",
                     "action": "optional",
                     "upgrade_id": "ab8eba6a-0bda-4b12-8854-4ba4169b515f"
                 },
                 {
-                    "id": "a9caa540-3f98-4a88-b2cd-f644dfc8db1b",
+                    "id": "f40a300c-64f9-41ba-8b0e-d90fda830966",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 }
             ]
         },
         {
-            "id": "a3865b0d-61eb-4f4f-b7f5-103f4425a597",
+            "id": "33209f59-16e1-411b-8749-fbb91736066f",
             "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "Solid round 1? Sell Electrolytes and grab  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) \n\nDid you put up Iron Man numbers in round 1? go straight to [Precision Targeting](item_13a91b39-de41-4550-9eb1-9a2ebadac940) \n\nIf not:\n [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) \n [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f)",
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Difficult round 1? Purchase  [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) and  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) .\n\nSolid round? Sell  [Electrolytes](item_274b7523-8273-4740-aa7b-837f3f143900)  and buy  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) .\n\nDid you do Iron Man numbers and have extra cash? Invest in Survival items. Can't do much when you're dead.  [Electrolytes](item_274b7523-8273-4740-aa7b-837f3f143900)  [Adrenaline Shot](item_ab8eba6a-0bda-4b12-8854-4ba4169b515f)  [Frenzy Amplifier](item_d4b0cfcb-14e9-4472-a688-680120217250)",
             "stats": {
                 "LIFE": 245,
                 "Armor": 25,
@@ -78,8 +72,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 270,
                 "Attack Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 20,
+                "Weapon Power": 15,
+                "Ability Power": 10,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 15,
                 "Ability Lifesteal": 15,
@@ -87,78 +81,54 @@
             },
             "round_upgrades": [
                 {
-                    "id": "dbcc0953-e946-4377-a60f-efb29801b1f3",
-                    "notes": "",
+                    "id": "772944ad-85c1-47f1-af64-c31ebdc34b48",
+                    "notes": "Sell if needed to get Phantasmic Flux",
                     "action": "sell",
                     "upgrade_id": "274b7523-8273-4740-aa7b-837f3f143900"
                 },
                 {
-                    "id": "c1614639-d991-4bc9-af79-a737eb641336",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "9ee1f150-537d-40b9-b975-7820fb1c6a66"
-                },
-                {
-                    "id": "b90ea476-767b-4c2a-a597-0c4c38911924",
+                    "id": "fea17cd4-5292-41b1-adf6-be5260c741c2",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "4642c68b-423e-4d46-8566-eeaa95fcadfc",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
-                },
-                {
-                    "id": "83265a0e-54bf-44dc-bc6c-6859fbc569bb",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-                },
-                {
-                    "id": "8f7e87e8-0072-41fa-8a60-6021003eda25",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "13a91b39-de41-4550-9eb1-9a2ebadac940"
-                },
-                {
-                    "id": "dea64bd2-af87-4b92-98da-9b645810bc6d",
-                    "notes": "",
+                    "id": "2ee0dde7-3319-4540-9a0c-f6da6c93e55b",
+                    "notes": "Ideally hold this until round 5.",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "5660e9aa-2134-489e-bdce-1f6f801462fc",
+                    "id": "c76cd61d-89b3-421b-b312-be9a5fe029cb",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "fb3996b7-e8b7-4468-b724-16a5a9a40c46",
+                    "id": "88755862-1a88-429d-a80c-dd59677d976b",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
                 }
             ]
         },
         {
-            "id": "fbf9550a-f1ed-41f5-8ab4-b12e766a01f9",
+            "id": "b81ee58f-45a8-459e-a4b2-73e86cf77874",
             "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "[Speed Kills](item_2ee0fb37-d15c-4f4c-bac5-26f04794fee9) Go fast and blast.\n\nIdeal items going into Round 3:\n [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) \n [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) \n [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) \n [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6) \n\nWorth considering:\n [Iron Eyes](item_f16d03a7-f20e-4a1d-a1f6-55863e163c03) \n [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) \n [Salvaged Slugs](item_019d6c60-36eb-42ec-8d6e-5bbb44a0db61)",
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "[Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)  time. Dashing, boosting and firing concussive blasts will give you 3 rocket bursts and restore your armor.\n\nIf unable to purchase  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) then grab  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) and another item such as  [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) or  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) .",
             "stats": {
-                "LIFE": 265,
+                "LIFE": 264,
                 "Armor": 25,
-                "Shield": 50,
+                "Shield": 0,
                 "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 340,
-                "Attack Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 20,
+                "Move Speed": 5,
+                "Total LIFE": 289,
+                "Attack Speed": 10,
+                "Weapon Power": 30,
+                "Ability Power": 10,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 15,
                 "Ability Lifesteal": 15,
@@ -166,315 +136,242 @@
             },
             "round_upgrades": [
                 {
-                    "id": "e3badab1-8833-42c1-85e8-0391c2c4b2bc",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "caab6869-33c3-439d-a300-b3a017ca17d5",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "9349fe36-e2ce-46e1-b3fc-4cdd2f698f2d",
+                    "id": "7d4a6120-9caa-4d27-b54f-7fe752c826f6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "70d86620-ce28-4dfe-9d33-2fff8cde46ad",
-                    "notes": "",
+                    "id": "0a259d30-e0b8-484e-84d0-b009af88bf41",
+                    "notes": "Ideally hold this until round 5.",
                     "action": "buy",
-                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "aa7f7412-39f4-4f1f-b350-66aed8714180",
+                    "id": "97cb077a-198a-420d-a4cf-5d237c5ee87a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "00197761-825f-422b-9957-af860025fa74",
+                    "notes": "Purchase round 3 or round 4.",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "44aa5397-c71b-4b3c-9165-12cfa3ee10e0",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "87a5cc4e-5924-4d12-8150-57347227b861",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "74d87915-9956-487c-b7bf-00a123070224",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
+                },
+                {
+                    "id": "8b11d838-96b8-4ff5-bf4b-09f70f2dc983",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
+                }
+            ]
+        },
+        {
+            "id": "be2e3c1b-b5d8-4be6-bfcf-5d013d736b09",
+            "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Finish your core with  [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f)\n\nUsing Barrage is nearly always a death sentence. Hold it for the Vanadium Inject perks, using it for clutches if absolutely needed.\n\nIf unable to get  [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) then get  [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) and  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054)",
+            "stats": {
+                "LIFE": 285,
+                "Armor": 75,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 410,
+                "Attack Speed": 0,
+                "Weapon Power": 15,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "d497041c-aae6-4ddb-a7fc-933a4abf50a7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "ff600a90-0216-4319-b6de-78549399d77a",
+                    "notes": "Ideally hold this until round 5.",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "fbeec95b-7bc3-4552-a3cf-6207686244b7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "0818b3ce-a17a-4086-bfed-77ee255a4780",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "cbb499f4-d866-41b3-9eb4-79fc35c4b3d8",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
                 },
                 {
-                    "id": "24320295-a948-49cc-9b51-d4c6f67930ab",
+                    "id": "2104d3d3-bbc7-4acd-9858-3bb23ff81418",
                     "notes": "",
                     "action": "optional",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                    "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "cae455e6-2da2-450c-8f34-246f810b70a5",
-                    "notes": "Can be helpful versus Cassidy and Reapers who hit their crits.",
-                    "action": "optional",
-                    "upgrade_id": "f16d03a7-f20e-4a1d-a1f6-55863e163c03"
-                },
-                {
-                    "id": "de29dd96-78a9-4cb4-a9eb-188e452ad286",
+                    "id": "e4d4be05-e6ed-4338-85d9-a19b54d08a22",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "ae908401-5fc3-4c9a-881d-da788c51cf6c",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
-                }
-            ]
-        },
-        {
-            "id": "6a01da1a-b5e5-4ff6-bf34-4d64934ddeeb",
-            "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
-            "round_number": 4,
-            "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "Pick appropriate epic Weapon item of choice, see notes under optional items. \n\n [Technoleech](item_cb7fd8bf-bdcc-439a-ad35-372f24a027a8)  or  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) are solid options with excess cash. \n\nFill out anything else with greens if you have extra.",
-            "stats": {
-                "LIFE": 265,
-                "Armor": 25,
-                "Shield": 50,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 340,
-                "Attack Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 20,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 0
-            },
-            "round_upgrades": [
-                {
-                    "id": "ac78d886-049b-4435-9391-83b8623a759d",
-                    "notes": "Helps melt those armor users.",
-                    "action": "optional",
-                    "upgrade_id": "caa96c7e-655f-4d03-9bd9-0f41937fec27"
-                },
-                {
-                    "id": "d86fda49-8a02-47d6-9590-1a0852b33f1d",
-                    "notes": "I'll be honest, this is just here because it is fun.",
-                    "action": "optional",
-                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
-                },
-                {
-                    "id": "25c08dd1-b452-4463-baf3-56f1cac97fb6",
-                    "notes": "Examine the enemy team: Lots of atk speed builders? Noice.",
-                    "action": "optional",
-                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-                },
-                {
-                    "id": "298ff311-8b52-4af5-8a5f-02d6a24e5233",
-                    "notes": "Grab against tanky comps. Winston, Reinhardt, Mei, Brigitte, etc.",
-                    "action": "optional",
-                    "upgrade_id": "396c0970-daa8-47e3-8049-e65f03fe5cec"
-                },
-                {
-                    "id": "1c4d3473-f767-452b-af92-5b1cb79bfc7c",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "032d5c24-8077-458f-9273-7c9ef3699c1a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "f35f0fdb-8b59-4d70-b0bf-520daa1c40c9",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "fceda9a0-6180-492b-98b4-75ab60b5dbc8",
+                    "id": "b830435e-5b23-442c-8f65-22c5b24539e5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
                 },
                 {
-                    "id": "2053c006-36c6-4d55-b53a-d9d147ba3afd",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
-                },
-                {
-                    "id": "ea6a6fa7-4546-4542-bb1a-688d99ac1214",
+                    "id": "06022860-a2a9-4099-8901-3e51444b6b71",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
+                },
+                {
+                    "id": "a640ad3f-afa1-4e6b-8c34-3b5d940baa36",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
                 }
             ]
         },
         {
-            "id": "a0fbb026-280f-4d7c-877c-3c407eff4b4b",
+            "id": "82481fd7-efe9-43b9-9aac-8d548f794632",
             "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "Take whichever you didn't take in Round 3 between  [Cyclic Salvo](item_624ac709-635c-418c-9848-52720e2bba70) and  [Heat Seekers](item_42f6c4c6-3420-4133-a2f5-d3805db39ebb)\n\nGrab  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)  every stat on it is great for us.\n\nImportant items:\n [Precision Targeting](item_13a91b39-de41-4550-9eb1-9a2ebadac940) \nYour round 4 pick.\n [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)",
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Did you get  [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) last round? \n\nIf you can afford it:  [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448)  next.\n\nOtherwise, fill out your items with an appropriate situational epic.\n\n[Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27) if they have enough armor users to warrant it or one really frustrating hero.\n [Salvaged Slugs](item_019d6c60-36eb-42ec-8d6e-5bbb44a0db61) underrated item, great vs  [Sigma](hero_646d9571-c40a-4403-b6c1-fb67adb6112d),  [Winston](hero_a0ebe5ef-69a6-4a8f-9360-7b7fed8bce88), and  [Reinhardt](hero_a3b6ca2c-6cbd-43dc-bb78-a728e42fba49).\n [Weapon Jammer](item_72386db6-753e-413d-aa2a-f1389842f47f) increases survivability.\n\nIf you did not get  [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) on round 4, purchase it now. Fill out your items with a blue of your choice. I'm fond of  [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) ,  [Aftermarket Firing Pin](item_2485b212-b286-42d0-a2bd-20eb4396b054) ,  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) , and  [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f).",
             "stats": {
-                "LIFE": 285,
-                "Armor": 50,
+                "LIFE": 318,
+                "Armor": 75,
                 "Shield": 50,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 385,
+                "Total LIFE": 443,
                 "Attack Speed": 0,
-                "Weapon Power": 20,
-                "Ability Power": 10,
+                "Weapon Power": 30,
+                "Ability Power": 25,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 15,
                 "Ability Lifesteal": 15,
-                "Cooldown Reduction": 0
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "d40df72e-0e68-40a5-b0ce-fe45c7aa5594",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "42f6c4c6-3420-4133-a2f5-d3805db39ebb"
-                },
-                {
-                    "id": "877f0a5d-69dd-4044-9f8a-07f7bc4ca4b4",
-                    "notes": "Whichever you picked in round 4.",
-                    "action": "buy",
-                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-                },
-                {
-                    "id": "46018e65-abb6-46a7-bcf1-9154820717c4",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "a0296526-119f-454d-a2dc-de4105f12498"
-                },
-                {
-                    "id": "4869ece7-de5e-46f6-8c2a-6b5516891c93",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "680e63ff-7b77-4101-a253-c7083a4557f0",
+                    "id": "39caebf8-ae80-42ae-9a94-ccabc40b5a25",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
                 },
                 {
-                    "id": "c89ef218-cbbf-4401-a037-4a0e209f9dab",
+                    "id": "c962ec99-dc40-473f-989f-7e9dae4f1e7f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "4cce3171-dbda-41c6-898f-c3e93003d577",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "c3bf4019-5287-4667-82bc-4ecac60fc611",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "91010101-4ce4-4e19-b521-7d35b0e7e2db",
+                    "id": "da0aa447-2b5b-4399-8686-df9784d6415e",
+                    "notes": "Ideally hold this until round 5.",
+                    "action": "buy",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "7e01c9b4-5fdb-4ff5-b9c2-9c43b619bcc7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "af019ba9-a6bc-43b2-b038-60c93ec8ccb6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
                 },
                 {
-                    "id": "25611197-c3d0-4755-aa5d-15aabc7f07e5",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
-                },
-                {
-                    "id": "b9e2f906-91df-430e-8f67-cba6756a879d",
+                    "id": "dc264693-4fb9-4c68-8ed7-ad180c0cf9ae",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
                 },
                 {
-                    "id": "c1f2a8df-3f89-40d5-b7b3-691b144aee37",
+                    "id": "ad1ef142-2ab6-4bee-97dd-f3106bcd404d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
+                },
+                {
+                    "id": "29612cb6-9ae2-4bcd-9076-e5a39807ddeb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 }
             ]
         },
         {
-            "id": "0f453146-8661-487a-8790-1076da8a6318",
+            "id": "ac0d6a11-81a0-40bf-8294-c399ea39cf2e",
             "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "",
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Grab  [Hardlight Accelerator](item_0390c8af-2a68-4da2-b876-93da32c3f448) if you don't already have it.\n\n [Blast Enhancer](item_02ca537d-0885-4b71-839c-6982ec5137dd)  or a situational item such as  [Codebreaker](item_caa96c7e-655f-4d03-9bd9-0f41937fec27)  if you already have Hardlight.",
             "stats": {
-                "LIFE": 285,
+                "LIFE": 329,
                 "Armor": 50,
                 "Shield": 50,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 385,
+                "Total LIFE": 429,
                 "Attack Speed": 0,
-                "Weapon Power": 20,
-                "Ability Power": 10,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 0
-            },
-            "round_upgrades": [
-                {
-                    "id": "4e67c9bf-faf2-46cd-b622-2fc2395f747d",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
-                },
-                {
-                    "id": "b45f1aea-0bc9-4a42-9a7f-6922bfac518e",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "87252e90-ff5d-4374-88c2-3e75609c4340",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "f23a8ad1-5fd4-4e69-822a-ed93f19ecbb0",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-                },
-                {
-                    "id": "456b078f-e891-4512-aff0-c374cfbc6c9b",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
-                },
-                {
-                    "id": "89db6754-ee79-484e-8c59-cce6f37f71ad",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
-                },
-                {
-                    "id": "908cf9d3-f4e3-4f18-9c3b-864b52625797",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
-                }
-            ]
-        },
-        {
-            "id": "88143c37-71ce-46a3-93fc-2e7e1a12a1d2",
-            "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
-            "round_number": 7,
-            "cash_earned": 0,
-            "created_at": "2025-08-28T09:57:37.847619+00:00",
-            "notes": "",
-            "stats": {
-                "LIFE": 307,
-                "Armor": 25,
-                "Shield": 50,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 382,
-                "Attack Speed": 0,
-                "Weapon Power": 30,
-                "Ability Power": 10,
+                "Weapon Power": 35,
+                "Ability Power": 25,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 15,
                 "Ability Lifesteal": 15,
@@ -482,55 +379,146 @@
             },
             "round_upgrades": [
                 {
-                    "id": "0314e84a-2ae5-4b9d-9790-a2c1c761409e",
+                    "id": "776e6a15-a914-4d85-9831-6a1bf4eaba73",
+                    "notes": "Ideally hold this until round 5.",
+                    "action": "sell",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "311e6bc2-c756-44a9-98f7-1f2771aed401",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "03e46849-d598-445d-bdc2-ca28c960237d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
                 },
                 {
-                    "id": "e31cc971-961c-47e5-a544-33b665908af7",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
-                },
-                {
-                    "id": "7ef12eb0-6602-490a-ac9b-87474550ac62",
+                    "id": "5a6645e8-9fb9-458a-8138-20be44e0e771",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "fdb30e3d-ad22-4486-b5de-abd3b4c947b9",
+                    "id": "eacb720e-1fe9-456d-87ad-c72a12f7f3b6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "92f0f235-7b1e-45c1-a8a1-6d8cdf09a458",
+                    "id": "5a831afc-c9f6-415a-b069-d8658e0b742e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
                 },
                 {
-                    "id": "a018ffbd-c360-4c34-ab3c-61767c3463dc",
+                    "id": "0dd14c79-7e30-4e94-a825-15d489c77ec0",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                    "upgrade_id": "02ca537d-0885-4b71-839c-6982ec5137dd"
                 },
                 {
-                    "id": "ebb81fe4-23df-4ed9-b744-ba526187f808",
+                    "id": "3586bf69-af4e-4dfb-84ae-26b140fed35e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
                 },
                 {
-                    "id": "db196375-4be4-4170-bb38-f35bdefe95ee",
+                    "id": "b1661d88-e959-4f07-8581-029e0f0baecb",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
                 },
                 {
-                    "id": "29fad26b-b93f-48f6-96ee-0104067b7a84",
+                    "id": "74904d6c-69e7-4e55-865a-4c7d2e929365",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                }
+            ]
+        },
+        {
+            "id": "207eeda6-d44f-44a6-a2d0-06da49b03809",
+            "build_id": "e9365ae8-aff6-4026-9712-bf33fcb688f7",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-29T08:01:48.616668+00:00",
+            "notes": "Coming soon.",
+            "stats": {
+                "LIFE": 349,
+                "Armor": 75,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 474,
+                "Attack Speed": 0,
+                "Weapon Power": 45,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 10
+            },
+            "round_upgrades": [
+                {
+                    "id": "a534670d-87a9-46dc-81e3-37c74c4264d6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "f6cd1742-898e-4bc3-a1a9-cf53e2a81714",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "9781b116-ffdb-4a3e-b271-675fda779714",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "15891b49-1f8a-4642-9692-834bc9f4c6a1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "db8585c6-5df1-49d9-84a5-92d7f46b58b8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "02ca537d-0885-4b71-839c-6982ec5137dd"
+                },
+                {
+                    "id": "3139b186-b242-4ab8-b0c6-79d5ff25bdd1",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "4dda14d5-37ad-4f4a-b719-817979c8cb4a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2ee0fb37-d15c-4f4c-bac5-26f04794fee9"
+                },
+                {
+                    "id": "6ee414b0-d901-4f7c-8b25-ed2738927495",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "71a776a8-7186-4cf9-859e-9baed9bafeb5"
+                },
+                {
+                    "id": "db9a4853-1f50-4727-8595-c1a2548c581b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
+                },
+                {
+                    "id": "bc34a873-a198-48b2-ac48-0a0039552a7d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "624ac709-635c-418c-9848-52720e2bba70"
