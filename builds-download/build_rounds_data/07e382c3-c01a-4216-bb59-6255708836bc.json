@@ -1,0 +1,577 @@
+{
+    "updated_at": "2025-08-30T19:42:41.068826+00:00",
+    "id": "07e382c3-c01a-4216-bb59-6255708836bc",
+    "rounds": [
+        {
+            "id": "0c9a42f7-df44-44cc-a729-f4ed8d565683",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 1,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "We get First Aid Kit for survivability this first round. Having it helps you stay alive longer, changing the \"I died\" to \"I did some poke dmg and ran back\". More surviving, killing and poke dmg means more money.",
+            "stats": {
+                "LIFE": 250,
+                "Armor": 0,
+                "Shield": 25,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 275,
+                "Attack Speed": 5,
+                "Weapon Power": 5,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "b9587fba-624d-470a-84e9-f979ff96a1fd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "baecd587-dd41-4358-8884-fd5541bdfa30",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "5e59fba9-416d-4591-a94a-73abda176086",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "19da98b8-bfbd-42cf-bf23-047c7ccbd7c3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                }
+            ]
+        },
+        {
+            "id": "a9335e74-074e-4656-9b6f-464bec767211",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 2,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "Depending on how much money you have, you can keep some of the earlier items but you want to get at least Talon (15% dmg) and Pulse Converter (5% attack speed, 5% cooldown reduction). Pulse helps you keep shooting and will help greatly next round. If you do get the extra attack speed from Aftermarket you will be deleting the squishies, be a little more aggressive.",
+            "stats": {
+                "LIFE": 277,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 277,
+                "Attack Speed": 15,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
+            },
+            "round_upgrades": [
+                {
+                    "id": "050ddc1a-471d-4547-9a24-cc567d6f2fee",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                },
+                {
+                    "id": "f91f2a2c-d0b1-4b3d-83df-1c3a48f6ffb3",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "0a4cf6a7-60ac-47f1-b331-928240d608e7",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
+                },
+                {
+                    "id": "3488a3c5-008d-4f25-b6b7-046a7e304dd9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "40ed6b57-789b-4823-b0ef-1e25414e443b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "52dff131-9bed-455b-9c31-df9f2465fe5b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "81a48eb6-83d2-4227-a176-dda804139758",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                }
+            ]
+        },
+        {
+            "id": "fd13a596-01f4-4b1a-9fd6-f96b83754d9a",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "This is where the fun begins. Running now restores your ammo, and with Commander's Clip you will have a max of 84 ammo in the clip after running for a bit. Shoot to your heart's content and delete those enemies. Technoleech isn't super necessary here if you don't have the money, but if you do absolutely get it for the lifesteal and weapon speed.",
+            "stats": {
+                "LIFE": 331,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 5,
+                "Total LIFE": 331,
+                "Attack Speed": 30,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 10,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 5
+            },
+            "round_upgrades": [
+                {
+                    "id": "67145a73-73ee-4409-8588-763ecba2d616",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "41b36a1b-023d-4c71-9cca-e47dd3caf9ac",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "fe2ebe9c-194f-4d29-94e4-1c7259618e72",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "6645146b-100a-412f-a9a9-52e53f34d653",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "a620bbbf-8207-494a-848c-d8086aa9e0c6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "cb7fd8bf-bdcc-439a-ad35-372f24a027a8"
+                },
+                {
+                    "id": "5bbb0943-7b8c-4b2b-99ad-502ad85f9534",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "1a50b71c-2822-40fc-94c1-24692028daf2",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                }
+            ]
+        },
+        {
+            "id": "ff307a61-c8ae-4b8f-8f75-d9189723eacc",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "More damage and cooldown for more tactical visor. Keep running laps around them!",
+            "stats": {
+                "LIFE": 323,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 40,
+                "Move Speed": 0,
+                "Total LIFE": 323,
+                "Attack Speed": 35,
+                "Weapon Power": 25,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
+            },
+            "round_upgrades": [
+                {
+                    "id": "850802d8-c928-47f6-a742-9c6756b86d89",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "a3d3276a-139c-4dd8-b9c0-44b855b1d314",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "cb7fd8bf-bdcc-439a-ad35-372f24a027a8"
+                },
+                {
+                    "id": "be3204c0-7c6e-4836-bd74-acca55453b67",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "9cf3a1d1-6f2d-45f8-926c-4250da41f91f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "2b9b6813-685b-4284-b8de-fdf26c0c980f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "680a2e20-2945-423c-aa46-baaf0581778a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "4ba98ce8-554a-4008-9948-be62597c85f8",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "dcdb646d-9066-4a03-9292-b3b81b76a75b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "adc18e01-38a4-4fce-a390-0a6ebe3dcdb6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                }
+            ]
+        },
+        {
+            "id": "86f96add-f3fa-4a8f-98a5-e80f23f27bb1",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "With this setup you now can have a max of 99 ammo in the clip and 50% attack speed. Also your new power keeps stacking your attack power the more you shoot. Spray and the enemy team prays they don't die.",
+            "stats": {
+                "LIFE": 347,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 65,
+                "Move Speed": 5,
+                "Total LIFE": 347,
+                "Attack Speed": 50,
+                "Weapon Power": 15,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
+            },
+            "round_upgrades": [
+                {
+                    "id": "6b97b87f-c3b8-400f-afbf-8bc05d07b2ed",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "e464b04f-a24a-4ed5-8cd9-4d26d5033e46",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
+                },
+                {
+                    "id": "666cc33a-81a1-4cce-aacf-6c06fc4355c6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "154c40ac-f3de-47d0-af3a-344621bfd625",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "3001f22d-9a01-42aa-bc5a-0517766b8afb",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "36d3396c-4bcf-497c-a6e0-612fd509b937",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "828ae1ae-a4fa-479f-a66d-dae78e80e918",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1fac002e-c9b0-4b6c-9230-dba23cdcca98",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "49be7d7b-719d-41db-ac89-5370f8fce5dc",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "b80ebc0a-589b-44bd-a5b9-5031a298812c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "50b25084-151e-48c9-8f88-08a8b5db9168",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "d64af7dc-f756-48d2-a6a0-0aa536a3ef63",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "0346be00-b316-4146-b5ae-fa151dfc6184",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                }
+            ]
+        },
+        {
+            "id": "908dc49f-7f9f-4ad7-8a47-628a150aeee0",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "Swapping these 2 out is the best move, you get 10% more attack speed the more you shoot the enemy team now. So it makes sense to get more attack power for the same attack speed while you hit them.",
+            "stats": {
+                "LIFE": 360,
+                "Armor": 25,
+                "Shield": 0,
+                "Max Ammo": 65,
+                "Move Speed": 0,
+                "Total LIFE": 385,
+                "Attack Speed": 40,
+                "Weapon Power": 25,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
+            },
+            "round_upgrades": [
+                {
+                    "id": "d731489d-5aeb-405a-bdf9-e8bbbf35657b",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "f5d20604-2a4a-4fec-b3bf-916ab8baf7f6",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "1c7d0671-0086-4913-84ab-02db54d1bc28",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "eaa9ab1c-7504-49ea-9d2c-3e762cf88fb7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "f36b33fc-ba4e-414a-b239-6f0bb76b26b4",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "f9f82b4b-5f5f-4bd7-b849-3382b4fea6ad",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "2ed57c61-c8dd-4dc4-80c8-8afccc0fd677",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "0d023871-76f0-4105-9c44-29769a500261",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "accb6e86-2ee0-4e72-bc71-05ec3e2ae05a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "38136fe1-1218-45b9-b34d-11957db8ff3e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                }
+            ]
+        },
+        {
+            "id": "7477e1c6-409b-4735-8021-e7b1ddafa415",
+            "build_id": "07e382c3-c01a-4216-bb59-6255708836bc",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-08-30T19:42:41.068826+00:00",
+            "notes": "Honestly any of these powers work for the end, just depends on your playstyle. I prefer the additional enemy shot during visor because you get ult so quick with this build if you hit your shots, then everyone dies in your ult every time.",
+            "stats": {
+                "LIFE": 368,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 65,
+                "Move Speed": 0,
+                "Total LIFE": 368,
+                "Attack Speed": 40,
+                "Weapon Power": 40,
+                "Ability Power": 0,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
+            },
+            "round_upgrades": [
+                {
+                    "id": "36ea2874-d166-42a5-a1c0-d0b251d87182",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a93a8a8e-28d1-4b02-8d80-3234f9eea3dc"
+                },
+                {
+                    "id": "40105ac6-38c7-4ea1-b58a-fc68efdf1c5e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ff7cad01-2065-4908-a2c1-3bdf1458c7a4"
+                },
+                {
+                    "id": "781b3609-15e6-4977-9586-18f1e1cf247c",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a291de85-b6d9-43cf-b5da-f3184a156f48"
+                },
+                {
+                    "id": "b946aff6-e68e-401f-8a3f-334225f049af",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "320a4dc8-4703-4aeb-a2be-6c95ab67002e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a113eb56-9999-4f22-9bd7-18f4dbd00cc2"
+                },
+                {
+                    "id": "9506f14b-1c73-4c8d-a64c-8bd121f5695c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "72386db6-753e-413d-aa2a-f1389842f47f"
+                },
+                {
+                    "id": "158aeebc-7ab6-4417-b0fc-fc6bb01603de",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5bb876bf-52b5-496c-a9ea-b68e72ed3be1"
+                },
+                {
+                    "id": "38d5be3a-2e7e-4b86-9011-cedad0479d9b",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "808afc07-1398-4962-bf2c-f8e3b74014e3"
+                },
+                {
+                    "id": "65ef2488-c917-4274-a42e-e00455a552db",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "396c0970-daa8-47e3-8049-e65f03fe5cec"
+                },
+                {
+                    "id": "42bf122b-3e69-4d5c-9fa6-18f04d2b460d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "0fcb9020-c729-49b9-b398-3223797b6204"
+                },
+                {
+                    "id": "cf9035d0-7671-4758-9c19-2ad9db979fef",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "019d6c60-36eb-42ec-8d6e-5bbb44a0db61"
+                },
+                {
+                    "id": "aff95506-dffd-4372-a97e-79e8b013b67f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
+                },
+                {
+                    "id": "5d681b61-14af-422a-b166-6621b7c2e55a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b3db0ab0-26b4-4d99-893d-175f6726c9e9"
+                },
+                {
+                    "id": "2f1d5cd8-e4b4-408f-8678-962ce7b7c75e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "26b054fc-d1f6-4361-8365-c632efe11582"
+                },
+                {
+                    "id": "1b9b43ab-8ffd-4465-919d-c11fe240aa1a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "311b58a8-4cdf-480a-ba7a-0b69e6b77e3d"
+                },
+                {
+                    "id": "e6a0657f-e8d3-4fad-99d7-6e395f344797",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "f024f11e-2fff-40cf-9e2d-fbaa21fa1371"
+                }
+            ]
+        }
+    ]
+}
