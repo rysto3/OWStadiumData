@@ -1,14 +1,14 @@
 {
-    "updated_at": "2025-09-02T18:48:45.58868+00:00",
+    "updated_at": "2025-09-04T00:41:02.53017+00:00",
     "id": "19b71f63-54c0-4083-8049-c7376a057c81",
     "rounds": [
         {
-            "id": "badee714-95b4-48bb-81ab-98717f6a257e",
+            "id": "854ccbdb-421e-43ab-995f-a4776ce10900",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "The first power is best to be Cross-Orbal - this is because it lets you do damage and heal yourself/others. With both healing and damage increased, it's easy to get the money you need to buy upgrades in later rounds.\n\nThis is what I always buy on Round 1.\nI wouldn't reccomend anything else for this build - just try to max out ability power with what you have.",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "The best power to get first is [Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) - this lets you do damage while healing yourself and others. With both healing and damage orbs increased (via ability power), it's easy to get the money needed to buy upgrades and snowball in later rounds.\n\n\nItems:\n- [Power Playbook](item_6d8803cf-baa7-46ee-af91-51e7f2301418) gives a small boost to Ability Power.\n- [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) kicks in after your ult giving bonus Ability Power and Shields.\n- [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) increases survivability but could be swapped out for another survivability item like [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6).",
             "stats": {
                 "LIFE": 235,
                 "Armor": 25,
@@ -26,25 +26,31 @@
             },
             "round_upgrades": [
                 {
-                    "id": "4467345b-a31f-4e9b-8c39-bc07f2a1d230",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "82f35043-0511-4dd2-857d-3944d0b9b603",
+                    "id": "54294e57-6e5f-44a5-b6bc-a2f6f0c4f991",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "4d0e9cc5-05c9-40cd-b2cb-98dbc7bd4d96",
+                    "id": "c21d5d22-8e9c-4983-b3fd-ae34f2cfe170",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "0a77e952-4c41-4b8c-824b-5f77c98600ed",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "2c97898f-a1e9-4ded-b115-ff918e413ea8",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
                 },
                 {
-                    "id": "9ca752a7-3ac2-4ac0-acff-8d44d7ce3211",
+                    "id": "018de049-f766-45e2-b34f-21ca2201dad0",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
@@ -52,12 +58,12 @@
             ]
         },
         {
-            "id": "d2f5a736-626d-4d9a-9d7c-274804f16c6d",
+            "id": "8ac78534-8fac-45bd-b287-b3ab3ab21a84",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "Smart Orbs is an amazing item and will help you out loads with this build.\nNano Cola is useful if you can afford it - just buy anything to help you increase the ability power stat.",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "- [Smart Orbs](item_47f5985c-9b63-40d2-938b-63a22154b9be) is an amazing item and will help you out loads with this build as it makes orbs move slower and let's you get the most out of them.\n\n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) is useful if you can afford it - just buy anything to help you increase Ability Power.\n\n- Sell [Shady Spectacles](item_ef9bb72f-a56c-4fb6-a552-5abce0b943d7) or [Charged Plating](item_b8ca58e7-6ae2-40ee-8618-fe2f32315295) if you need extra cash.",
             "stats": {
                 "LIFE": 245,
                 "Armor": 0,
@@ -67,7 +73,7 @@
                 "Total LIFE": 245,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 25,
+                "Ability Power": 35,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -75,37 +81,37 @@
             },
             "round_upgrades": [
                 {
-                    "id": "cade6897-3c70-46c6-b39d-cdcb5946018f",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "570b060f-b061-439f-bb68-132de66747e8",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "e54f8b5c-050e-4972-9b7a-c9201fcebcf9",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-                },
-                {
-                    "id": "e5919e98-073b-4828-a8ae-057bd274a44a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-                },
-                {
-                    "id": "b16c5b00-ad7a-452c-afdc-5d483a111648",
+                    "id": "ce49e524-fe01-4fa1-b322-4edb3b3675e8",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "0958117d-e550-45d2-8cc0-d7b38d1468d7",
+                    "id": "36164ce5-ee4a-4f21-b52a-6f7c69cfb239",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "4c729bac-6b1a-471b-9ffb-a39f958073e8",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "4b93bab8-43bf-475e-a2ff-b7d8771c9cba",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "2aa90fc4-a478-4b34-840c-93aec19151cb",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "6a81a318-d892-4e1f-9db7-cb703860445d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
@@ -113,12 +119,12 @@
             ]
         },
         {
-            "id": "dfd9600b-f301-4220-b77e-74ea16b97a6a",
+            "id": "8fb653a1-e60b-45f5-a779-97b2c792323f",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "Extendrils is another great item. It will help keep the orbs in your enemies vicinity for longer.",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "Power:\n- [Multiball](item_5d0e4135-f4e1-42fb-991a-417643064560) is the best power for this build. I rarely go for it on Round 1 because you need a lot of Ability Power to make the best use out of it.\n\nItems:\n- [Extendrils](item_138e73a2-6915-4ffc-bd89-029a85bf94b8) is another great item and essential for this build. It will help keep orbs in the vicinity of players for longer, increasing their efficacy.\n\nBuy anything else that you can afford to increase Ability Power.\nI like [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) or [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) if I have spare cash.",
             "stats": {
                 "LIFE": 267,
                 "Armor": 0,
@@ -128,7 +134,7 @@
                 "Total LIFE": 267,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 40,
+                "Ability Power": 50,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -136,49 +142,43 @@
             },
             "round_upgrades": [
                 {
-                    "id": "205252c6-7ea8-45af-b33e-40f61e068ce7",
+                    "id": "3c15e9db-53d2-4018-bbf6-8b22d950b3ba",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
                 },
                 {
-                    "id": "1e11859a-ea54-45c1-8120-d0e405286e51",
+                    "id": "e9f15e64-8e69-4345-8708-43a97570ae69",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
                 },
                 {
-                    "id": "3f2cbc25-29d7-41f1-a671-38a2c21b4df4",
+                    "id": "91c83cd6-90ef-4723-b0e8-be048e565be3",
                     "notes": "",
-                    "action": "optional",
+                    "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "efd85578-2b57-4792-9bbf-7b81ef29af84",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-                },
-                {
-                    "id": "98c1f598-8aa8-4941-9846-8a4d2bf03eb0",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-                },
-                {
-                    "id": "0ca72e72-3f6c-446a-a3a1-cff7becd3695",
+                    "id": "d7204052-f7fd-4f39-8543-4516844523e1",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "95d0dfc9-6f47-41a1-9550-e50fa81fee13",
+                    "id": "cac02eaf-994b-41be-958a-a72f21d56d9f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "32858454-1766-4714-acd7-21f442485d10",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "eea76081-7b5a-4644-8c11-b6bb83607742",
+                    "id": "5fa7bbdf-c727-49cc-8e77-de428b7002b5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
@@ -186,12 +186,12 @@
             ]
         },
         {
-            "id": "0ed49f52-e538-4fa2-b551-bcf3633b5250",
+            "id": "6ae0deae-cad0-4dbe-8bf4-4025bb770a8d",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "- [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) is a good item to grab, the boost in Ability Power and cooldown reduction gives a little boost in survivability.\n\n- If you have a lot of cash, go for [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) instead to maximise Ability Power.\n\n- If you are low on cash, consider selling [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) but only if it leads to a net increase in Ability Power.",
             "stats": {
                 "LIFE": 289,
                 "Armor": 0,
@@ -201,7 +201,7 @@
                 "Total LIFE": 289,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 60,
+                "Ability Power": 70,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -209,55 +209,49 @@
             },
             "round_upgrades": [
                 {
-                    "id": "3d2f9b10-7615-4f61-bad5-6bb3c5f0baa6",
+                    "id": "b40ec2cb-cd2c-4a49-9468-66072276d6bf",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "5c80b34f-e449-4b6d-afce-4acecb96ee0d",
+                    "id": "170ba187-ee31-45c2-874d-8d1d93fe5be4",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "0fe5671d-ffee-4b18-9352-0933fcf31c07",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
-                },
-                {
-                    "id": "c0aa85d5-a22e-4f3c-85ad-b4307228506f",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "3bedc54d-c526-4b0e-b87b-7c5426e03471",
+                    "id": "c6b9ad1d-2b55-4528-b869-6badec7bbc79",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
                 },
                 {
-                    "id": "04cc8080-51ee-4f08-9c98-89e5a121cccb",
+                    "id": "6e993211-d3f8-4897-a936-a13872c2ff56",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "412fcc87-8a38-4d69-80f1-d37c7cb24d5c",
+                    "id": "f431275b-6fc5-4e40-b5c4-5b48adf2411f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "378577aa-d740-4fc0-b10d-7c52043e6380",
+                    "id": "934b2f7d-6049-468e-96d5-ae6e65621ed3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "de71546d-1e15-44cf-be6d-636130c32e06",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "92df29dd-1663-4e8a-8699-b8ad538cff7d",
+                    "id": "96f24e6b-7a33-4e47-8c71-2f0cc2f1b0e6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
@@ -265,22 +259,22 @@
             ]
         },
         {
-            "id": "5d35f514-5ea6-46d3-9dbc-d6421b2ed27e",
+            "id": "4afe8da4-8d36-4575-ac92-6a6cff2e06d8",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "Power: \n- [Destruction's Divide](item_cb7be5fa-0098-4a3c-bf62-efb3738a97e6) is good if you are getting your ult quickly or plan to buy [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) next round.\n\n- [Optimal Overflow](item_9d85ca48-b27a-435a-8ef9-247440e0f97d) is also a solid power for Round 5 - It gives you some extra orbs which should be very powerful at this point in the game.\n\nItems:\n- [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is a good buy this round if you haven't already.",
             "stats": {
-                "LIFE": 305,
+                "LIFE": 317,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 305,
+                "Total LIFE": 317,
                 "Attack Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 75,
+                "Ability Power": 95,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -288,61 +282,61 @@
             },
             "round_upgrades": [
                 {
-                    "id": "1247f2fb-c791-415d-8754-e3ce73fa9855",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
-                },
-                {
-                    "id": "0825b3d2-09d5-4d5e-9c6f-1e882ccb7b62",
+                    "id": "62f05c6a-3af3-469a-89b1-88de9fd57d6a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "15388653-c7d5-457f-b388-dd1c85fd0bcf",
+                    "id": "8fcb72f4-bae7-41d9-a1e8-448b27600bf9",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "857c3cc1-bb3a-441d-8956-d23d6e2226eb",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
-                },
-                {
-                    "id": "eac4e78f-35f7-4e67-b327-ccf6c3f45a49",
+                    "id": "77c2d579-f98e-49a4-b5bd-e610eb5be359",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "604adcea-47e0-4f7a-8aff-d25640e0e7f2",
+                    "id": "dd6c587c-c8e5-473a-882a-db5b2d6498e6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
                 },
                 {
-                    "id": "c904cb06-b6dd-462b-999a-6152e8039b01",
+                    "id": "f183dcca-4358-4e4e-bafe-9245e351c48e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "ac19ae89-ce56-43af-9a15-27d93e20911c",
+                    "id": "f194bfa4-733b-4047-a604-2209a924e8f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "7832e6f9-050c-4831-bb1c-e1f871382743",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
+                },
+                {
+                    "id": "d930dd1e-d33f-4dd2-850f-10a02317bf61",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "a7506e42-17ff-4593-8d24-cec88f9beb71",
+                    "id": "f667038a-03f8-47e1-b12c-04f1ea281225",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
                 },
                 {
-                    "id": "2c94d666-5131-403c-b382-949f5fe77555",
+                    "id": "8e3cba17-af2d-49eb-bb56-473095e25ec3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb7be5fa-0098-4a3c-bf62-efb3738a97e6"
@@ -350,12 +344,12 @@
             ]
         },
         {
-            "id": "94e33edf-c2ca-4a16-a002-02e271a22d8d",
+            "id": "e1008c5f-64f8-4d09-9f25-4b8715d9eeb0",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "- [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) is good if you took Destruction's Divide as your third power.\n\n- [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) gives Ability Power and an increase in survivability which is useful if you are dying often.\n\nEither of these items are good and I'd reccomend buying the other one next round.",
             "stats": {
                 "LIFE": 325,
                 "Armor": 0,
@@ -373,67 +367,61 @@
             },
             "round_upgrades": [
                 {
-                    "id": "f425f60d-72d2-44db-84a6-736d4a8d9113",
+                    "id": "310d8552-6e72-492b-8d76-cdf35c3c728a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
                 },
                 {
-                    "id": "f42efdb9-b369-43f4-977a-09143166e489",
+                    "id": "8d8211f1-c038-46b8-83db-a10e8d74d8d3",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "78ccc6e2-5080-4428-a463-84bbc77a5413",
+                    "id": "e8839f81-70bc-4f34-ba27-049eeb444843",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
                 },
                 {
-                    "id": "c7ac0bb8-0b00-4281-b989-2ef52b194c20",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "ecacafbd-58f0-41f9-a5c7-da17b500728e",
+                    "id": "6e851e95-9b01-4494-8f34-64bd9aebb0c9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "46643fc5-684b-4dd2-b415-4fb0459a4af2",
+                    "id": "0bf65830-627a-4513-94b6-9cbe79482440",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "892f3acc-580a-4b22-afa4-8eb03777a791",
+                    "id": "fcdac15e-c195-4d85-8649-e977bb6b9963",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
                 },
                 {
-                    "id": "6c978b58-0e64-406e-81af-7921014719ef",
+                    "id": "83429583-e348-4b0a-bc0d-6a6af859875d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "06b15db1-013a-42dd-8b87-4931dd00b831",
+                    "id": "ce032bec-f566-4d89-9a2f-4b21e294ff51",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "8f96a52c-cf92-4906-9e95-9cafe73545c7",
+                    "id": "1a21fd0b-6048-4326-9d3c-5f4120f2522c",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
                 },
                 {
-                    "id": "2d1c913a-61e6-4ecc-a609-f20e134a2c00",
+                    "id": "a80915e9-cb31-42db-83a4-d25e35bf3f66",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb7be5fa-0098-4a3c-bf62-efb3738a97e6"
@@ -441,12 +429,12 @@
             ]
         },
         {
-            "id": "2c58ec83-bbcd-457e-8099-59c807de3670",
+            "id": "647b5f17-2841-4992-988c-c3136519d3d9",
             "build_id": "19b71f63-54c0-4083-8049-c7376a057c81",
             "round_number": 7,
             "cash_earned": 0,
-            "created_at": "2025-09-02T18:48:45.58868+00:00",
-            "notes": "",
+            "created_at": "2025-09-04T00:41:02.53017+00:00",
+            "notes": "Power:\n- For your final power I'd reccomend [Destruction's Divide](item_cb7be5fa-0098-4a3c-bf62-efb3738a97e6) if you haven't got it already or [Optimal Overflow](item_9d85ca48-b27a-435a-8ef9-247440e0f97d). There are also other options listed that you can choose based on how the game is going.\n\nItems:\n- Buy either [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) or [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4).\n- If you don't have enough cash for the reccomended items, try to maximise Ability Power with whatever you can, optimally [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6).",
             "stats": {
                 "LIFE": 345,
                 "Armor": 50,
@@ -464,91 +452,79 @@
             },
             "round_upgrades": [
                 {
-                    "id": "f2187cb5-c7be-4e59-aea4-f03ae973993a",
+                    "id": "67233641-2abe-4075-ad5a-89c2afb16a54",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "cc8c46cc-b4a3-4c0f-aeb6-f7837e0e8e7c"
                 },
                 {
-                    "id": "dc108bc7-7f1a-48cd-8890-1e2e91eb025d",
+                    "id": "deb27b39-77cd-4391-81fa-67e42725f037",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
                 },
                 {
-                    "id": "fdcd2a24-2ff4-4304-993b-ea838f3f41ec",
+                    "id": "27ea8231-bfef-46bb-8bea-5d51da243216",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "091603d8-f893-47d9-bd8c-664ad33072ae",
+                    "id": "0287286b-7bfa-499e-9a31-6f43012e67e2",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
                 },
                 {
-                    "id": "e73b29e9-5f91-4038-bda8-713be8759f19",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
-                },
-                {
-                    "id": "01fcdd3b-d326-4a97-8118-35ce80ab6eee",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-                },
-                {
-                    "id": "7cd1aa05-d6e2-4adc-9802-22eac42083b4",
+                    "id": "189b05ac-6cff-4a6b-8347-58271125ac39",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
                 },
                 {
-                    "id": "3700b6f7-582a-4be3-a136-b19e50e5d2f1",
+                    "id": "8f4ac8c0-fe17-4193-8363-6a3d503d6c53",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "f4009cde-4db7-46aa-961a-5e9add57cc67",
+                    "id": "c466950d-d87d-4876-9eb0-8f903b947ca6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "6ea10c63-7a4b-40e2-9a66-da69c90a1037",
+                    "id": "3e7423b6-4086-41ba-a410-4d26e96c4a6b",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "138e73a2-6915-4ffc-bd89-029a85bf94b8"
                 },
                 {
-                    "id": "2a4db441-659e-448f-b8f3-ef65fb2d77fb",
+                    "id": "dc71419d-d24a-4289-898b-72db91ac4f5e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "47f5985c-9b63-40d2-938b-63a22154b9be"
                 },
                 {
-                    "id": "9498959b-18b0-441f-b1fa-3d5c354bb9ad",
+                    "id": "ad197962-ed3c-49c6-96bc-34f589ce4c3a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "f6c6dc32-e684-4514-86d5-d3f068dd9e2d",
+                    "id": "15fd4c7d-f8a1-4fd1-badd-ad5ad1cb716d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
                 },
                 {
-                    "id": "23462385-d560-41c1-97b3-1aa227a72326",
+                    "id": "61db22dd-c1de-4d3d-867f-055c0fce54ed",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb7be5fa-0098-4a3c-bf62-efb3738a97e6"
                 },
                 {
-                    "id": "6fd8161e-c587-4fc8-9dbf-a3d4da9a6639",
+                    "id": "47a688d2-7391-43a6-9d34-2a5fde5ac2c5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "9d85ca48-b27a-435a-8ef9-247440e0f97d"
