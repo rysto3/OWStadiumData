@@ -1,22 +1,24 @@
 {
-    "updated_at": "2025-08-30T20:16:32.521126+00:00",
+    "updated_at": "2025-09-05T21:26:04.296656+00:00",
     "id": "238ca891-b0f0-4f16-aaca-648aee127269",
     "rounds": [
         {
-            "id": "538cc30a-6fbc-464e-a881-fad727668a67",
+            "id": "b4a67871-471e-4f30-b9b3-b6e76a525ecd",
             "build_id": "238ca891-b0f0-4f16-aaca-648aee127269",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-08-30T20:16:32.521126+00:00",
+            "created_at": "2025-09-05T21:26:04.296656+00:00",
             "notes": "### \ud83d\udcab POWERS\n\nWe are not using [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) just yet as it gets much better once you get some items with it.\n\n| Power | Description |\n| ------ | ------------ |\n| [Threads of Fate](item_cb61612b-9d83-49a9-989d-013bf084fbcb) | I think this is the best R1 Power. Great for cash and high support; Make sure to switch between two teammates often enough to heal or boost two people at the same time. |\n| [Triage Unit](item_fec0554c-2685-4b93-822d-bf0020e654b4) | This affects ALL of your healing (Weapon & Ability). Synergizes with [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) and [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5), which we will be using in Round 3. |\n| &nbsp; | &nbsp; |\n\n### \u2694\ufe0f ITEMS\n\n| Item | Description |\n| ---- | ------------ |\n| [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0) | **Healing** (5%) |\n| [Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) | **Healing** (5%) |\n| [Ballistic Buffer](item_40146dd3-a8cb-40ca-8917-c430bfa2be0e) | **NEW ITEM**. Great against long-range heroes ([Cassidy](hero_3dd63854-7558-4344-86e4-b506f807129b), [Soldier: 76](hero_e1ac7ef5-4648-4998-b8b0-9e3da3e60546), [Ashe](hero_37b42a2d-a82d-4a22-9df2-4c812c873b54), etc). Otherwise, pick [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) |\n| [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da) | Optional Survivability |\n| &nbsp; | &nbsp; |",
             "stats": {
-                "LIFE": 235,
+                "LIFE": 241,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 235,
+                "Total LIFE": 241,
                 "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 5,
                 "Ability Power": 0,
                 "Critical Damage": 0,
@@ -26,37 +28,37 @@
             },
             "round_upgrades": [
                 {
-                    "id": "1c888623-4a8f-4c6c-8e68-299809e681a5",
+                    "id": "2e68c321-05a8-480f-b245-1b7fee01fab5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "7061fae9-8321-44ce-8d96-0747486de006",
+                    "id": "55d22252-c0eb-44f5-b379-cb9feda6f142",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
                 },
                 {
-                    "id": "10859554-a661-454f-bdd0-c9a8a6646301",
+                    "id": "e68fe371-2945-4f00-9c9e-a4d64df5dd5b",
                     "notes": "If they have no long-range hero, pick First Aid Kit instead",
                     "action": "buy",
                     "upgrade_id": "40146dd3-a8cb-40ca-8917-c430bfa2be0e"
                 },
                 {
-                    "id": "714c30d7-816b-423b-8074-c6c2f6a3ec10",
+                    "id": "4dfb951c-4568-4827-ae9c-0c8183a770fe",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
                 },
                 {
-                    "id": "32ac014b-6d35-4a3a-b093-300eab99cd7d",
+                    "id": "0db792e3-dfa8-44e5-8e06-72bff0577d88",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
                 },
                 {
-                    "id": "db2cb31a-3182-4efc-a2b6-aa3464862822",
+                    "id": "0da71d12-98d1-449c-945a-42da036b30bf",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
@@ -64,11 +66,11 @@
             ]
         },
         {
-            "id": "ae5bd07a-0f19-4cde-8e6e-16ac7e8ab142",
+            "id": "c8fb1dc7-28fd-4b49-9983-cae12038b2ac",
             "build_id": "238ca891-b0f0-4f16-aaca-648aee127269",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-08-30T20:16:32.521126+00:00",
+            "created_at": "2025-09-05T21:26:04.296656+00:00",
             "notes": "### \ud83d\udcab POWERS\n\n| Power | Description |\n| ------ | ------------ |\n| [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) | \u2728 Core Power of this build; Allows you to burst heal and **damage boost** more often, since you have another source of healing. Make sure to get the mandatory items listed below. |\n| &nbsp; | &nbsp; |\n\n### \u2694\ufe0f ITEMS\n\n\u26a0\ufe0f Make sure to get the items marked with \u2728 first, in order.\n\n#### \ud83d\udcb2 IF YOU HAVE UNDER $22k \u2193\n- In this case, I would suggest getting [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) with some [Weapon Power](stat_weapon_power) or [Attack Speed](stat_attack_speed), and survivability. Without [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb), you are not boosting your Staff's healing output.\n\n#### &nbsp;\n\n| Item | Description |\n| ---- | ------------ |\n| [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) | \u2728 Movement / Survivability / CDR, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) & [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) | \u2728 Boost your Caduceus Staff's healing output, [Ability Power](stat_ability_power) |\n| [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) | Survivability, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9))  |\n| [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) | Survivability (weaker version of [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) | Survivability (damage reduction from armor)  |\n| &nbsp; | &nbsp; |\n\n#### &nbsp;\n\n#### Budget Items\n- [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) \n- [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) \n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n- [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e)",
             "stats": {
                 "LIFE": 269,
@@ -78,6 +80,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 269,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 25,
                 "Critical Damage": 0,
@@ -87,79 +91,79 @@
             },
             "round_upgrades": [
                 {
-                    "id": "09c14dce-b8b4-4c25-8fb9-ec5ac10b6ca0",
+                    "id": "424c1eca-a293-4999-b9a0-4bfd9237083e",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "17716f94-9828-4b19-8e5b-4b9d2c845ff7",
+                    "id": "b100a0bc-8f36-48bd-9f22-47f27953db91",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
                 },
                 {
-                    "id": "61554ba8-d574-4839-b3dd-54bfc10011d9",
+                    "id": "a9447cc0-3b1b-4928-84d1-7a578e3b6943",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "40146dd3-a8cb-40ca-8917-c430bfa2be0e"
                 },
                 {
-                    "id": "1947f019-474f-4096-b814-5c1023cda6e1",
+                    "id": "aef82ce7-fee5-4b82-b10b-79c23eb361c9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
                 },
                 {
-                    "id": "27685d66-9542-4260-b65b-02844e758a7d",
+                    "id": "730f9c7b-bdc0-400a-a404-a09708350762",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
                 },
                 {
-                    "id": "277f73e5-a595-4d82-b707-5ace3e062c1b",
+                    "id": "2a54cba9-0de7-437d-a161-33484222762e",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
                 },
                 {
-                    "id": "6e37f8e4-07ab-4df6-8bbd-3bfe1f23daab",
+                    "id": "53a1c58e-72cf-42c3-a3e3-7a36ff6a742d",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "5f6a48b6-119e-4a18-8736-82a40bb8e6e8",
+                    "id": "bc46c2d4-e1e3-47dc-9dbe-614dc772de41",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "26fcf7c9-b81a-4d8e-a459-b515519cb73e"
                 },
                 {
-                    "id": "afcafba3-0560-43bc-b0fc-0f0da4b8ac4b",
+                    "id": "f63b15d7-7f6d-4252-a710-6204a450728b",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
                 },
                 {
-                    "id": "86beaa40-8114-49b7-97b8-d36fd5a358b4",
+                    "id": "d2b1d394-dc98-42b9-8dc1-bf3a929f3199",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
                 },
                 {
-                    "id": "88c9b33a-0700-452e-a47b-ed304e5edac4",
+                    "id": "8c2e45f9-e5d4-4e5b-ba09-2d42fec4ca85",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "8494adad-e1a1-4b2a-b0a9-1b645f54f17d",
+                    "id": "d48fb063-65f0-4b21-ba96-4dfaf11273b9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
                 },
                 {
-                    "id": "98904a5d-f5c7-4d7e-9d52-08bb3986d8fd",
+                    "id": "e937b3b6-ac4f-4d98-af9c-93e09f9791b3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
@@ -167,11 +171,11 @@
             ]
         },
         {
-            "id": "35957445-4c90-4481-93c1-d0ef56d5823a",
+            "id": "b5d76e1d-2437-4114-a1ac-6f2c784aa8ff",
             "build_id": "238ca891-b0f0-4f16-aaca-648aee127269",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-08-30T20:16:32.521126+00:00",
+            "created_at": "2025-09-05T21:26:04.296656+00:00",
             "notes": "### \ud83d\udcab POWERS\n\n| Power | Description |\n| ------ | -------------|\n| [Triage Unit](item_fec0554c-2685-4b93-822d-bf0020e654b4) | This affects ALL of your healing (Weapon & Ability). Synergizes with [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) and [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) |\n| [Supply Surge](item_35d75d9e-66b7-426a-b92d-9dfd72ee5fbb) | Great supportive power, giving your teammates [Cooldown Reduction](stat_cooldown_reduction) and [Move Speed](stat_move_speed) |\n| [Renaissance](item_a460f234-6434-4d47-99f9-d4a0b15cd591) | Always a good power, assuring your survival after a Resurrect |\n| &nbsp; | &nbsp; |\n\n### \u2694\ufe0f ITEMS\n\n\u26a0\ufe0f Make sure to get the items marked with \u2728 first, in order.\n\n#### \ud83d\udcb2IF YOU HAVE $32k \u2191\n- If you have $11k left after buying [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) and [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb), I highly suggest [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)\n\n#### &nbsp;\n\n| Item | Description |\n| ---- | ------------ |\n| [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) | \u2728 Movement / Survivability / CDR, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) & [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) | \u2728 Boost your Caduceus Staff's healing output, [Ability Power](stat_ability_power) |\n| [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) | \u2728 ($32k ONLY!) Insane Survivability, [Ability Power](stat_ability_power) |\n| [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) | Survivability, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9))  |\n| [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) | Survivability (weaker version of [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) | Survivability (damage reduction from armor)  |\n\n#### &nbsp;\n\n#### Budget Items\n- [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) \n- [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) \n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)\n- [Advanced Nanobiotics](item_26fcf7c9-b81a-4d8e-a459-b515519cb73e)",
             "stats": {
                 "LIFE": 289,
@@ -181,6 +185,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 339,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 40,
                 "Critical Damage": 0,
@@ -190,73 +196,73 @@
             },
             "round_upgrades": [
                 {
-                    "id": "45a0f796-467d-40fa-af2a-19376b9cab3c",
+                    "id": "cc851ec1-98a4-4ad6-9994-e5d0d1142b31",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
                 },
                 {
-                    "id": "1d4c0350-5f63-4e5f-84ce-2e56c08f2334",
+                    "id": "184b0b65-9f04-4796-ac12-068a36d20090",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "c13e1166-712c-43ae-b8cf-f6c80cec6a89",
+                    "id": "c3a8d58b-1c48-42df-a6f7-3bc9340209ac",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
                 },
                 {
-                    "id": "2e2c16a3-146c-4cf7-99e4-74eef2534858",
+                    "id": "5a46d0b7-c9d3-4470-bbe6-7c2c2b4e7b18",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
                 },
                 {
-                    "id": "56e8f8d1-a412-4693-b971-1da57a430731",
+                    "id": "df9eb432-4991-4c82-9225-0508e7f9e16c",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
                 },
                 {
-                    "id": "301ffab3-088f-4b3a-8adc-7e8be130d9aa",
+                    "id": "3808fd5a-0609-4a7a-ae3c-372303249bac",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "9b9bffa5-97e7-41db-9563-dd9beea0cd05",
+                    "id": "659dc050-1bb7-4293-acb1-66d00016ea01",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "751357b9-e4f6-4491-8e3f-4ab7e01975da",
+                    "id": "f8ead87d-5b7d-4c1e-a651-ad6dbecffb9b",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "35d75d9e-66b7-426a-b92d-9dfd72ee5fbb"
                 },
                 {
-                    "id": "2bd3b901-7493-47ac-99b9-b6ca893a255f",
+                    "id": "16850bb7-30a5-45f4-907d-f537f1ca8f2c",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
                 },
                 {
-                    "id": "4bc96300-9c27-433a-b4cc-e8b1b66daa39",
+                    "id": "9aa17c68-1c11-4594-8486-86000e531788",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
                 },
                 {
-                    "id": "1e76f202-9b0d-46c6-bfb7-dc073dd9b950",
+                    "id": "d84f57fa-0612-4d1e-a9bf-0cb86ae18169",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
                 },
                 {
-                    "id": "86cd2de3-3c24-436d-873b-2cab7eacb0c1",
+                    "id": "cfc10cbf-afc6-4541-93e2-ba526e396a32",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
@@ -264,11 +270,11 @@
             ]
         },
         {
-            "id": "0e1683f2-9d4e-411a-b550-5a7baae7d84a",
+            "id": "ce8a2d0b-fa9c-4cbc-adce-7746a5872b4a",
             "build_id": "238ca891-b0f0-4f16-aaca-648aee127269",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-08-30T20:16:32.521126+00:00",
+            "created_at": "2025-09-05T21:26:04.296656+00:00",
             "notes": "### \u2694\ufe0f ITEMS\n\n\u26a0\ufe0f Make sure to get the items marked with \u2728 first, in order.\n\n#### &nbsp;\n\n| Item | Description |\n| ---- | ------------ |\n| [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) | \u2728 Movement / Survivability / CDR, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) & [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) | \u2728 Boost your Caduceus Staff's healing output, [Ability Power](stat_ability_power) |\n| [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) | \u2728 Insane Survivability, [Ability Power](stat_ability_power) |\n| [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931) | Movement / Survivability, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9),  [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88)) |\n| [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) | Survivability from Ultimate, [Ability Power](stat_ability_power), [Cooldown Reduction](stat_cooldown_reduction) |\n| [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) | Survivability (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931))  |\n| [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) | Survivability (weaker version of [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n\n### \ud83d\udcb2IF YOU HAVE $45k \u2191\n- In this case, I suggest picking [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931) and [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) after the mandatory items.\n- Otherwise, I would go for [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) alone and other blue items, as [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931) is best when used with [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88).\n\n#### &nbsp;\n\n#### Budget Items\n- [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) \n- [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) \n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6) \n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0)",
             "stats": {
                 "LIFE": 340,
@@ -278,6 +284,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 390,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 50,
                 "Critical Damage": 0,
@@ -287,67 +295,67 @@
             },
             "round_upgrades": [
                 {
-                    "id": "c4ee6a03-815f-4285-97ef-df164fe36ae9",
+                    "id": "24e1c4bb-5741-47e6-a4c4-1a466af7356e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
                 },
                 {
-                    "id": "173721ad-c391-42f8-8792-8b30ee6e757a",
+                    "id": "3e8653c2-b929-4af7-8c41-8dc644d629d9",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "75ee6a98-eab5-4594-a01e-d91feb05654c",
+                    "id": "ca954cc7-90c2-4f70-a2f1-aa9cbd9ee495",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
                 },
                 {
-                    "id": "b8e0826e-980b-4707-9e13-9c8e1ff20165",
+                    "id": "5ea88326-dfbd-49d3-b9a8-1174960b9636",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
                 },
                 {
-                    "id": "1902684e-4771-48d0-9884-8ece4f50f9ac",
+                    "id": "21e6d8c6-1deb-4858-9f15-e5d740f196cb",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "ff2e8980-ea2f-485e-911b-f339d33f4622",
+                    "id": "4c72fd7d-0667-4067-8975-0279547df7ec",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "0254d0b0-ee34-4bf0-803a-656a0ce1d465",
+                    "id": "8f36561a-93b1-4427-a3a7-298e02ac5001",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
                 },
                 {
-                    "id": "08d562c5-0346-4ebd-b7aa-0300707b92d4",
+                    "id": "d629a546-3b99-4f1a-b096-0e5d972fc507",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
                 },
                 {
-                    "id": "cfb583a4-219c-4ed8-8e00-b2676f979ab4",
+                    "id": "89699cd7-54b0-4dd8-8370-0f1ba7f462d3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
                 },
                 {
-                    "id": "22a4d416-1d58-4f0a-9d2a-05880b5f7423",
+                    "id": "a377d81a-f464-460a-a70a-7cf20e55b719",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
                 },
                 {
-                    "id": "a65b6547-566c-4c2c-a992-083641387a3e",
+                    "id": "ec943e75-23f8-4b04-a8dd-ef0fea31f80f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
@@ -355,11 +363,11 @@
             ]
         },
         {
-            "id": "3af96809-3e64-4eef-8d7c-12cfd19fc55c",
+            "id": "f2314649-5000-48a7-8a09-888939e6c66f",
             "build_id": "238ca891-b0f0-4f16-aaca-648aee127269",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-08-30T20:16:32.521126+00:00",
+            "created_at": "2025-09-05T21:26:04.296656+00:00",
             "notes": "### \ud83d\udcab POWERS\n\n| Power | Description |\n| ------ | -------------|\n| [Triage Unit](item_fec0554c-2685-4b93-822d-bf0020e654b4) | This affects ALL of your healing (Weapon & Ability). Synergizes with [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9) and [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) |\n| [Supply Surge](item_35d75d9e-66b7-426a-b92d-9dfd72ee5fbb) | Great supportive power, giving your teammates [Cooldown Reduction](stat_cooldown_reduction) and [Move Speed](stat_move_speed) |\n| [Distortion](item_5557e2f2-02df-4eac-8128-0c23b71183b1) | Great if you have good DPS and a lot of Damage Boost |\n| [Renaissance](item_a460f234-6434-4d47-99f9-d4a0b15cd591) | Always a good power, assuring your survival after a Resurrect |\n| &nbsp; | &nbsp; |\n\n\n\n### \u2694\ufe0f ITEMS\n\n\u26a0\ufe0f Make sure to get the items marked with \u2728 first, in order.\n\n| Item | Description |\n| ---- | ------------ |\n| [Angelic Acrobatics](item_baad85fc-3da5-43af-ad9d-f17885f59aa5) | \u2728 Movement / Survivability / CDR, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) & [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)) |\n| [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) | \u2728 Boost your Caduceus Staff's healing output, [Ability Power](stat_ability_power) |\n| [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) | \u2728 Insane Survivability, [Ability Power](stat_ability_power) |\n| [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931) | Movement / Survivability, [Ability Power](stat_ability_power) (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9),  [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88)) |\n| [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) | Survivability from Ultimate, [Ability Power](stat_ability_power), [Cooldown Reduction](stat_cooldown_reduction) |\n| [Long Distance Wings](item_8b4bafad-c8bc-4c77-bbe7-798b03920c88) | Survivability (Synergies: [The Whambulance](item_67e91029-d0fc-4c9d-9733-ec7e1cc064a9), [Blessed Boosters](item_957fd380-b7b4-40d4-8333-bb8c535ca931))  |\n| &nbsp; | &nbsp; |\n\n#### &nbsp;\n\n#### Optional Items\n- [Catalytic Crystal](item_3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4) \n- [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) \n- [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) \n- [Multi-Tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) \n- [Nano Cola](item_79b22609-8046-4a8a-a5a2-bb49cd7e11c6)",
             "stats": {
                 "LIFE": 362,
@@ -369,6 +377,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 412,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
                 "Ability Power": 70,
                 "Critical Damage": 0,
@@ -378,91 +388,91 @@
             },
             "round_upgrades": [
                 {
-                    "id": "e84a5036-85eb-4856-9996-dfa952ea263e",
+                    "id": "3d88a328-4669-49c8-b1e6-81d670d5fb00",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5557e2f2-02df-4eac-8128-0c23b71183b1"
                 },
                 {
-                    "id": "658cf67d-16c5-4185-8b46-5859b552d675",
+                    "id": "eae87688-13b5-497b-ba74-3043ac191189",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "3e3f4f77-cdf8-4dda-a5b0-2fb9390aefc4"
                 },
                 {
-                    "id": "eff994d8-86c7-4f83-b974-7ec26492affe",
+                    "id": "94642baa-8950-476e-a298-48a9e7ed72df",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "6f33b08e-cd4f-4316-af5c-6ee3e70f3727",
+                    "id": "710e0d18-de24-42ef-8859-b4a27ebe2880",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "c50d3426-b301-4e41-bddc-0425d9e22daa",
+                    "id": "12ff3b75-8fed-4be2-9a93-77ec5a1faa52",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "6a0d88df-076a-4637-8afc-68227c352f75",
+                    "id": "8971cc36-dff0-48c7-865a-1d228330dc18",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "80f48fcc-39d4-40f6-abf3-ee5a24dffccd",
+                    "id": "f4bb34fc-5dfc-43af-9a5a-ee84d2ea0c4a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "09a53e39-25aa-4f66-ba51-bedbc543a1eb"
                 },
                 {
-                    "id": "d3895723-4da5-476c-892f-69f49ba206e2",
+                    "id": "58172148-1630-406d-8720-8154cbf7e93e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "baad85fc-3da5-43af-ad9d-f17885f59aa5"
                 },
                 {
-                    "id": "ab1c4d35-e00f-4fa4-9a25-e1e73f6fd637",
+                    "id": "9f406544-70f2-4e6a-bfb8-58847c7c67dd",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8b4bafad-c8bc-4c77-bbe7-798b03920c88"
                 },
                 {
-                    "id": "23151579-c6c5-4609-8774-2df8ef2b8374",
+                    "id": "46fd7302-91ea-4b06-8749-26fcccc634a9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "957fd380-b7b4-40d4-8333-bb8c535ca931"
                 },
                 {
-                    "id": "1c91b905-ee95-4d9a-b207-5b7947466c52",
+                    "id": "28c7798e-e6b7-4c9e-845b-78aa701a9bb1",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "a460f234-6434-4d47-99f9-d4a0b15cd591"
                 },
                 {
-                    "id": "d0990414-2d0f-4d4f-b795-94ad233d9d67",
+                    "id": "52442afa-26bd-4eed-84d6-00c1640dcd07",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "cb61612b-9d83-49a9-989d-013bf084fbcb"
                 },
                 {
-                    "id": "dedb7acf-0283-4dc0-9be8-95abbac3fe90",
+                    "id": "54814b3c-d835-4649-a5d1-0ec6e7375e76",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "67e91029-d0fc-4c9d-9733-ec7e1cc064a9"
                 },
                 {
-                    "id": "98fc8fd1-2907-4abd-b8e9-09dc16e911dd",
+                    "id": "b583a068-3c7c-4f1a-814e-b8606e0875fc",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "fec0554c-2685-4b93-822d-bf0020e654b4"
                 },
                 {
-                    "id": "c0a45903-df0c-45d2-9fca-82eeb7283afb",
+                    "id": "74f132ea-ce20-49a9-9ddd-3b07d8ba4f5f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "35d75d9e-66b7-426a-b92d-9dfd72ee5fbb"
