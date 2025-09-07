@@ -1,22 +1,24 @@
 {
-    "updated_at": "2025-07-07T05:32:07.766368+00:00",
+    "updated_at": "2025-09-06T22:03:58.285594+00:00",
     "id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
     "rounds": [
         {
-            "id": "13d4fbc4-0a16-4bfc-8f14-248f839da149",
+            "id": "690f2bee-22ba-4b69-8c5c-7b1268f0b3fb",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
             "notes": "",
             "stats": {
-                "LIFE": 225,
+                "LIFE": 232,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
                 "Total LIFE": 257,
                 "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 5,
                 "Ability Power": 0,
                 "Critical Damage": 0,
@@ -26,46 +28,48 @@
             },
             "round_upgrades": [
                 {
-                    "id": "45486748-e4fe-422b-bc66-35e1a20a62df",
+                    "id": "5e844996-0799-4fad-9a15-0d853163474a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "61d0ff8f-fd9f-4e3e-ab75-a9283d2140a1",
+                    "id": "f4eac925-1c90-416b-8b2c-b78a1633018c",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "40566ff2-be55-41cf-953c-da7585d6c7fd",
+                    "id": "c72d5560-b377-4e0c-acdb-0658590e9734",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
                 },
                 {
-                    "id": "22e3af9f-0200-4bbb-97a4-b12783f0dc01",
-                    "notes": "",
+                    "id": "593d82e5-0b3d-4ab8-ade2-68521bd3f664",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 }
             ]
         },
         {
-            "id": "16407660-0d5c-4780-be2a-6f2a4074ab64",
+            "id": "a0ad90f0-ec07-4259-adff-2ab17b0aa2fd",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
             "notes": "",
             "stats": {
-                "LIFE": 247,
+                "LIFE": 249,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 272,
-                "Attack Speed": 0,
+                "Total LIFE": 274,
+                "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
                 "Ability Power": 0,
                 "Critical Damage": 0,
@@ -75,64 +79,66 @@
             },
             "round_upgrades": [
                 {
-                    "id": "bbd75338-f1b5-405a-bda8-30178eea1f0d",
+                    "id": "6686adbf-1e08-4c3e-b689-42d6522365fb",
                     "notes": "",
-                    "action": "sell",
+                    "action": "optional",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "745a4c9d-f260-4452-a048-98e78a143360",
-                    "notes": "",
-                    "action": "sell",
-                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-                },
-                {
-                    "id": "8205d87a-8245-4506-909b-3bbce2339a9f",
+                    "id": "aad749e3-b6e6-4999-a98d-beb93e8a0acc",
                     "notes": "CD reduction is a crucial part of a DPS clone Kiri build. Clone only lasts 2.5s, so having suzu and swift earlier is imperative.",
                     "action": "buy",
                     "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
                 },
                 {
-                    "id": "9de26649-39c3-4ff9-a7e9-4a9066167116",
+                    "id": "475b0085-af82-44e8-9706-d93696be803a",
                     "notes": "If you have the funds, get this too. AP boosts suzu effects, making you more durable. CD is also always welcome.",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "e844f89b-26f2-42d3-a609-9e502351e8b4",
+                    "id": "17f6174d-01cd-4ea3-8154-3c5e6f15aed3",
                     "notes": "25 overhealth after Swift Step keeps you alive--esp after clone nerf.",
                     "action": "buy",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "9df7ca5f-4303-4aa3-b2ae-04d5c3851002",
+                    "id": "91d932fe-7f84-43e3-946c-68a6c7734de0",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "02e88a41-05e3-4a7c-bf9d-87dd6d335b0b",
+                    "id": "924a2d6c-017c-4f51-8a7c-b322d0efceea",
                     "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "1b20d1a3-9133-468e-9c88-9a85d9841a59",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 }
             ]
         },
         {
-            "id": "03da4a66-a246-4048-9272-8343c59ecfa9",
+            "id": "17088dab-242f-4942-b815-e65f307a080c",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
-            "notes": "",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
+            "notes": "Begin light dives. Dive Zen, Juno, Ashe, Freja, Reaper, and Moira especially. You can dive Ana, Cassidy, and Soldier if they have used Sleep, Flashbang, Biotic Field respectively. If Ana and/or Cassidy are hindering you greatly, I suggest working in Cushioned Padding.",
             "stats": {
-                "LIFE": 264,
+                "LIFE": 273,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 264,
-                "Attack Speed": 0,
+                "Move Speed": 5,
+                "Total LIFE": 273,
+                "Attack Speed": 15,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
                 "Ability Power": 0,
                 "Critical Damage": 0,
@@ -142,183 +148,265 @@
             },
             "round_upgrades": [
                 {
-                    "id": "6729b319-475f-424f-8ed8-dc74bca288d4",
+                    "id": "39bd0174-fed6-48d8-adad-dca977f897dd",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "56020d6f-5625-46ad-9cba-d5c49e4b7162",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
-                },
-                {
-                    "id": "0e086590-dd2a-4b52-92f5-d7d599f6e6b0",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
-                },
-                {
-                    "id": "93c905de-1338-43c8-8f02-9379702e09c0",
+                    "id": "c52d5949-8490-45a2-9da0-076638cdc9c6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
                 },
                 {
-                    "id": "e59f519b-2043-4831-bd0b-0e2fcd5d2878",
+                    "id": "fb4f9da5-a1ae-41e6-aec4-9b8b38e91a7f",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
                 },
                 {
-                    "id": "c21164f1-e209-4680-af16-bd1456277d94",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
-                }
-            ]
-        },
-        {
-            "id": "79013a1f-d8d8-4816-968a-c6b2a27f2996",
-            "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
-            "round_number": 4,
-            "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
-            "notes": "",
-            "stats": {
-                "LIFE": 286,
-                "Armor": 0,
-                "Shield": 0,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 286,
-                "Attack Speed": 0,
-                "Weapon Power": 20,
-                "Ability Power": 0,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 30
-            },
-            "round_upgrades": [
-                {
-                    "id": "18ca21bc-b500-448d-9ebd-493a8dfdd523",
-                    "notes": "",
+                    "id": "bffb7e20-8451-41bd-88a6-a6f99707ab62",
+                    "notes": "If you have the funds, get this too. AP boosts suzu effects, making you more durable. CD is also always welcome.",
                     "action": "optional",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "7af18be2-f482-47a5-b580-f434bf338e22",
-                    "notes": "",
+                    "id": "9b426e3c-0de0-408a-ab9f-be21f7b26f2f",
+                    "notes": "CD reduction is a crucial part of a DPS clone Kiri build. Clone only lasts 2.5s, so having suzu and swift earlier is imperative.",
                     "action": "buy",
                     "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
                 },
                 {
-                    "id": "bb97384e-292e-4b8a-ad09-b196784f3371",
-                    "notes": "",
+                    "id": "0c874f7c-78c2-4139-9b61-c349f8f5ef95",
+                    "notes": "25 overhealth after Swift Step keeps you alive--esp after clone nerf.",
                     "action": "buy",
                     "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "f137477e-560e-4a7a-8a97-beededdaaa5c",
+                    "id": "9c60f49b-0570-4442-aafb-007485cbe81e",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
                 },
                 {
-                    "id": "82bcf761-7fb8-4a78-9907-c058222dc2fc",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-                },
-                {
-                    "id": "54dad6cd-3320-4dc6-9a5b-89598841d82f",
-                    "notes": "",
+                    "id": "41ed76e6-f64a-4993-8964-911c8eec79a9",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "9efb1a62-2b3d-4bec-9c11-1827f5d242a2",
-                    "notes": "",
+                    "id": "045cbd64-4bd3-4538-9f3d-3c6efc276877",
+                    "notes": "Use for dives and escapes. You should be trying to take out at least 1 support. Jumping back to your team will automatically help them, so you can yo-yo between dives and team.",
                     "action": "buy",
                     "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
                 }
             ]
         },
         {
-            "id": "c1eaa591-235e-4d14-9bd9-86cca8c5a4d9",
+            "id": "8223778a-4ac0-46a1-a94b-8281b1ecb168",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
-            "round_number": 5,
+            "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
-            "notes": "",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
+            "notes": "You need to start hard diving the enemy by this point. If Ana and/or Cassidy were hindering you greatly last round, I suggest working in [Cushioned Padding](item_20f2f4bc-4611-4d1f-b653-20f04d56b96f).",
             "stats": {
-                "LIFE": 308,
+                "LIFE": 290,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 308,
-                "Attack Speed": 0,
-                "Weapon Power": 20,
-                "Ability Power": 20,
+                "Move Speed": 5,
+                "Total LIFE": 290,
+                "Attack Speed": 20,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 30,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
-                "Cooldown Reduction": 30
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "d019ac81-585b-4870-885f-08c9a487b8e7",
+                    "id": "13ec7a81-c40f-41ad-b9e9-b803102bc8cc",
+                    "notes": "Add if you have extra cash.",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "99b3ebfb-cd49-4843-8261-987f37f8a465",
+                    "notes": "25 overhealth after Swift Step keeps you alive--esp after clone nerf.",
+                    "action": "sell",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "5022919d-7b5e-4475-9fd0-3f2a3d9349b2",
+                    "notes": "This is an AP item, but we have increased weapon damage during after Swift Step dives.",
+                    "action": "buy",
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
+                },
+                {
+                    "id": "99013a19-4771-48ca-a55e-d6b8f3326d6b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
+                },
+                {
+                    "id": "b953a79a-8fe6-4760-a1b3-52e226689470",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "03f63de2-d80a-4284-8dce-5caf327e51a4",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
+                },
+                {
+                    "id": "7070daea-924e-4176-b96b-57c71b4099a2",
+                    "notes": "Take if Ana/Cass are being hindrances.",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "03be84ad-28d5-4fe9-8297-62a776d71c6d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "c20322fa-ad5c-40e0-b5a3-01ba3aac6b4a",
+                    "notes": "Lots of extra money? Replace Aftermarket Firing Pin or Eye of Yokai.",
+                    "action": "optional",
+                    "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
+                },
+                {
+                    "id": "967916eb-60b8-47a4-9449-c0c578c9758c",
+                    "notes": "We are swapping to AP now, so goodbye Icy Coolant and hello Multi-Tool.",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "55c6c032-d2a2-4998-9e3a-d7fa609df268",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
+                },
+                {
+                    "id": "7f7a5a4c-5bf9-488e-b5df-b9d38bdb510e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "2847871a-8348-47b4-9d15-09b23ee50514",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
+                    "action": "buy",
+                    "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
+                },
+                {
+                    "id": "81a6837d-5fb9-44d4-9307-5d6cd982b8d2",
+                    "notes": "Use for dives and escapes. You should be trying to take out at least 1 support. Jumping back to your team will automatically help them, so you can yo-yo between dives and team.",
+                    "action": "buy",
+                    "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
+                }
+            ]
+        },
+        {
+            "id": "8aefa622-ff4f-4504-8a21-81d4ca28f5d8",
+            "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
+            "notes": "",
+            "stats": {
+                "LIFE": 312,
+                "Armor": 0,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 5,
+                "Total LIFE": 312,
+                "Attack Speed": 20,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 50,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 15
+            },
+            "round_upgrades": [
+                {
+                    "id": "f81036a8-ef8e-4128-98bb-c2037abd1509",
+                    "notes": "Take if Ana/Cass are being hindrances.",
+                    "action": "optional",
+                    "upgrade_id": "20f2f4bc-4611-4d1f-b653-20f04d56b96f"
+                },
+                {
+                    "id": "20df31aa-bf7d-47a6-9ee9-7c77e9fba684",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "e74f02b3-bdae-4edc-885e-6bd1b9765098",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
                 },
                 {
-                    "id": "6ac4bcb8-d2b8-430f-a34c-8e6896c21b26",
-                    "notes": "",
+                    "id": "5490a898-1125-4d51-8713-08e020445f1b",
+                    "notes": "Extra cash? Pick this instead of Aftermarket Firing Pin or Multi-Tool.",
                     "action": "optional",
-                    "upgrade_id": "a36d46c8-cee0-4c97-b6e4-72bb816c13dc"
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
                 },
                 {
-                    "id": "f2c786c9-1e17-4aff-b53a-19b02b3b2810",
-                    "notes": "",
+                    "id": "547bab99-2825-4a99-8719-6c9c53db7de4",
+                    "notes": "This is an AP item, but we have increased weapon damage during after Swift Step dives.",
                     "action": "buy",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
                 },
                 {
-                    "id": "5b963893-2e8c-43d3-afa9-04b44f6d923e",
-                    "notes": "",
+                    "id": "23ed55a5-d41e-4d17-bf3d-3cdfa9aeee15",
+                    "notes": "If you need to choose between this and Aftermarket Firing Pin, choose this.",
                     "action": "buy",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
                 },
                 {
-                    "id": "130878eb-9db0-4bce-87d8-07c87e746a2c",
+                    "id": "c59d71f5-7428-40f8-b080-100721f73a4c",
+                    "notes": "We are swapping to AP now, so goodbye Icy Coolant and hello Multi-Tool.",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "face8311-6be0-4404-8f8c-721fb51d41b3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
                 },
                 {
-                    "id": "d825663a-6247-4f63-ba9a-c2593d795f08",
+                    "id": "9a2fd092-9c04-4af9-8b4c-ca8d5eac1d56",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
                 },
                 {
-                    "id": "29f65b3c-0191-4462-b4ff-69d00b8c1fdc",
-                    "notes": "",
+                    "id": "370d4447-fb16-43d5-ad7a-8c0fb0797e56",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "b290bb0e-19fe-4f77-b934-d2bb2edc625f",
-                    "notes": "",
+                    "id": "7f81368c-a225-4aa5-8b4f-d2031f1af0e8",
+                    "notes": "Use for dives and escapes. You should be trying to take out at least 1 support. Jumping back to your team will automatically help them, so you can yo-yo between dives and team.",
                     "action": "buy",
                     "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
                 },
                 {
-                    "id": "8c3b4c57-7a4a-4cd4-9763-d245195783e7",
+                    "id": "13198d48-2107-4fb5-9600-aa52e5c6e954",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
@@ -326,84 +414,110 @@
             ]
         },
         {
-            "id": "dea570ae-ed5e-4cd0-aa48-431b5c5d6e73",
+            "id": "f9b81455-7be3-4ee8-8899-7d5d9739c9da",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
             "notes": "",
             "stats": {
-                "LIFE": 337,
+                "LIFE": 334,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 337,
-                "Attack Speed": 0,
-                "Weapon Power": 40,
-                "Ability Power": 20,
+                "Total LIFE": 334,
+                "Attack Speed": 10,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 50,
                 "Critical Damage": 10,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
-                "Cooldown Reduction": 30
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "dc760345-d2a8-4f6e-89d7-8ff2804e3660",
+                    "id": "fcbcb127-2e53-4db2-b02a-d192f216b972",
                     "notes": "Being able to see retreating enemies helps you finish the kill. Just Swift Step to their hiding place.",
                     "action": "buy",
                     "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
                 },
                 {
-                    "id": "dbd7c3c0-2c1d-4961-800c-c5c51a457c53",
-                    "notes": "If you're a lil low on cash, you can get this instead of The Closer.",
+                    "id": "a794b01f-a18b-4f7b-b8fd-39da3b402187",
+                    "notes": "You can do this instead of The Closer if you prefer increased dmg to low enemies instead of tracking them.",
                     "action": "optional",
                     "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
                 },
                 {
-                    "id": "19b340cd-4b3f-480d-912a-30250e2fbbc5",
+                    "id": "56da816f-8ea0-41c2-b1fb-0d111ade5bbb",
+                    "notes": "If you're extra low on cash, you can swap this in for The Closer.",
+                    "action": "optional",
+                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                },
+                {
+                    "id": "a33dbfa5-5462-4f8f-a350-b49d48da2efb",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "2485b212-b286-42d0-a2bd-20eb4396b054"
+                },
+                {
+                    "id": "1cac21bc-9711-4933-aa9a-bc87c4ac02fa",
+                    "notes": "If you have extra cash, buy this instead of Multi-Tool.",
+                    "action": "optional",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "f5489720-629a-4394-b789-573f4e53e171",
+                    "notes": "If you're low on cash, you can swap this in for The Closer.",
+                    "action": "optional",
+                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
+                },
+                {
+                    "id": "2fecabe9-fe79-43ce-8689-cd445beb3ae7",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
                 },
                 {
-                    "id": "7081d3a7-cac2-415c-9c35-753c92c2f481",
-                    "notes": "",
+                    "id": "43ff07e8-4df3-4c9a-84a1-b3c2d7362248",
+                    "notes": "This is an AP item, but we have increased weapon damage during after Swift Step dives.",
                     "action": "buy",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
                 },
                 {
-                    "id": "c2b2441f-d17d-4144-9440-d7d461c857b2",
-                    "notes": "",
+                    "id": "52dfe9df-392a-491e-8fad-600057d59a10",
+                    "notes": "If you need to choose between this and Aftermarket Firing Pin, choose this.",
                     "action": "buy",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
                 },
                 {
-                    "id": "6c021de9-80af-4c5c-bdc4-bdb856ec3ee3",
+                    "id": "adfd67d2-08d6-4aad-abe2-0f753edb5b2d",
+                    "notes": "We are swapping to AP now, so goodbye Icy Coolant and hello Multi-Tool.",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "a7dfa2ff-c502-4343-b188-0aba5681d823",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
                 },
                 {
-                    "id": "03bbf6f9-463e-48e3-867a-6180ddb58c24",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-                },
-                {
-                    "id": "088e66d6-df2d-43d2-8b51-d3aea21dfafd",
-                    "notes": "",
+                    "id": "7c660466-a3df-4f5b-b9af-b274f7c6f2a2",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "6456daae-1c07-41ed-9a4f-3847f061a1eb",
-                    "notes": "",
+                    "id": "3da78633-15b3-429c-bf80-777f4a395791",
+                    "notes": "Use for dives and escapes. You should be trying to take out at least 1 support. Jumping back to your team will automatically help them, so you can yo-yo between dives and team.",
                     "action": "buy",
                     "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
                 },
                 {
-                    "id": "4e2bfc1a-2fd5-431e-8104-53e5706f383c",
+                    "id": "0ccf7fde-e127-413d-b61f-7ce277d55657",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
@@ -411,108 +525,110 @@
             ]
         },
         {
-            "id": "37435151-7cea-4214-9403-2210f8c9b07a",
+            "id": "0876cb3e-0411-4899-9b63-125e1b80673a",
             "build_id": "e5e8e67a-5fc9-4830-a516-a9890924db66",
             "round_number": 7,
             "cash_earned": 0,
-            "created_at": "2025-07-07T05:32:07.766368+00:00",
-            "notes": "",
+            "created_at": "2025-09-06T22:03:58.285594+00:00",
+            "notes": "It looks like you have less AP, but in reality, you are guaranteed quite a bit of AP with [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b).",
             "stats": {
-                "LIFE": 374,
+                "LIFE": 371,
                 "Armor": 0,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 374,
-                "Attack Speed": 0,
-                "Weapon Power": 40,
-                "Ability Power": 20,
+                "Total LIFE": 371,
+                "Attack Speed": 10,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 30,
+                "Ability Power": 40,
                 "Critical Damage": 10,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
-                "Cooldown Reduction": 35
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "6bd1efdb-ac43-4937-8fc7-66533eb704a5",
+                    "id": "f74345a3-3f5c-4df7-b605-9c2f9bf82736",
                     "notes": "Only take this if you are getting wrecked by Ashe dynamite or other negative effects. Otherwise, Keen is the superior selection.",
                     "action": "optional",
                     "upgrade_id": "4721f307-30d2-4fc1-a10b-6de7141deb68"
                 },
                 {
-                    "id": "dc6c6192-b02c-4ef8-88c1-6b38e29f0c4b",
-                    "notes": "",
+                    "id": "f8ed75da-6347-4151-8d0c-db4c90a40f6a",
+                    "notes": "If you're super low on cash, this can be an alternative.",
                     "action": "optional",
-                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                    "upgrade_id": "60d1abaa-e0df-4911-b190-b663cfa3e0c7"
                 },
                 {
-                    "id": "1c417026-6555-4d49-967b-ee0534759b05",
-                    "notes": "",
-                    "action": "buy",
+                    "id": "3c510de7-f61d-4626-a59f-b22d81f0cf4e",
+                    "notes": "If you think you need more survival, you can pick this.",
+                    "action": "optional",
                     "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
                 },
                 {
-                    "id": "50911e6a-5706-4101-8736-3df61f1a7ed8",
-                    "notes": "",
+                    "id": "7ac431ed-4f52-486f-b8bf-093f3fa4c3de",
+                    "notes": "You can do this instead of The Closer if you prefer increased dmg to low enemies instead of tracking them.",
                     "action": "optional",
-                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                    "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
                 },
                 {
-                    "id": "0f94889c-0fd5-4664-9b68-b5e651139a0a",
+                    "id": "9df0df0e-a0d0-45f4-9739-4866af6158cd",
                     "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
                 },
                 {
-                    "id": "f8e5e7c6-e9fd-4f7f-968e-0a7efe485d7a",
-                    "notes": "",
+                    "id": "540caf7f-edcb-4580-a642-bd1bb28fe66a",
+                    "notes": "Being able to see retreating enemies helps you finish the kill. Just Swift Step to their hiding place.",
                     "action": "buy",
                     "upgrade_id": "173c6d0f-dbe6-440e-924f-0ce08189ddce"
                 },
                 {
-                    "id": "f9af0706-35b0-4c92-a973-dffd13ea3528",
+                    "id": "52f40d5c-2e4d-4cee-8b54-c3c4a442f267",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7ecfd3eb-d869-41fe-87eb-0bb2e82e5718"
                 },
                 {
-                    "id": "73c8c821-ebd3-429b-a445-359a2a3da832",
-                    "notes": "Short-on-cash alternative to Hardlight.",
+                    "id": "b8f7dc8b-0759-45ac-9e9c-a1ae342040e6",
+                    "notes": "This is an AP item, but we have increased weapon damage during after Swift Step dives.",
                     "action": "buy",
-                    "upgrade_id": "8b1c21e9-33e8-49a6-8277-a3a06d55a65f"
+                    "upgrade_id": "39c5d2a4-1db0-444f-86d9-2a1e9a331429"
                 },
                 {
-                    "id": "60d2f76a-f9f3-4e35-97e5-9e652a744b09",
+                    "id": "f9c2c6d8-bd01-453b-9aac-ac77470af6d1",
+                    "notes": "We are swapping to AP now, so goodbye Icy Coolant and hello Multi-Tool.",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "6dcd1281-a62b-4ca1-8b4d-1776db56e567",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "296adb69-d517-4885-903a-ef8f3a1d6a7b"
                 },
                 {
-                    "id": "522b25e2-b7f2-47a1-b40f-898c9b94887f",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "0390c8af-2a68-4da2-b876-93da32c3f448"
-                },
-                {
-                    "id": "fe3c28df-dc16-4380-978d-95f1b1cd965b",
-                    "notes": "",
+                    "id": "8a0e84d4-05f6-46af-b2b2-630f6d7b7cc7",
+                    "notes": "You should virtually be using this on cooldown, unless you are anticipating a retreat. You want the Clone to constantly be active for the extra heals and damage.",
                     "action": "buy",
                     "upgrade_id": "6c9f6be1-ab29-4f46-af24-34e4835f9af3"
                 },
                 {
-                    "id": "4d7e1818-5121-4577-9b27-ca851c178799",
-                    "notes": "",
+                    "id": "f8aa5c1c-999b-45ed-a55f-48970181ac16",
+                    "notes": "Use for dives and escapes. You should be trying to take out at least 1 support. Jumping back to your team will automatically help them, so you can yo-yo between dives and team.",
                     "action": "buy",
                     "upgrade_id": "1d58371c-71a9-44c2-8d5a-0663467599e9"
                 },
                 {
-                    "id": "c34ff9e4-c578-437e-9ce0-2259c7d48f66",
+                    "id": "cc2170bd-6688-49be-9f9c-67035757267e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "80f16d3e-a4c0-4fa8-90b1-a0f033a1a77b"
                 },
                 {
-                    "id": "f27ba52b-0166-4375-96a5-4414b8217ad2",
+                    "id": "b6ebc5c4-eba4-4e0d-a3c1-3f2dc8d87ba6",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "d5993121-8a5f-4c59-9145-19dc55265f48"
