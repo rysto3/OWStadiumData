@@ -1,67 +1,83 @@
 {
-    "updated_at": "2025-08-10T07:47:23.081362+00:00",
+    "updated_at": "2025-09-08T11:47:17.842523+00:00",
     "id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
     "rounds": [
         {
-            "id": "4b4a8f4f-08d5-4622-9992-b831eae47b08",
+            "id": "420b4fa6-0051-473a-86d5-8c0e77a8cbc6",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** Play normal genji.\n\n**Stat Priority:** Survival > Ability Power",
             "stats": {
-                "LIFE": 275,
+                "LIFE": 257,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 300,
+                "Total LIFE": 282,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 0,
+                "Ability Power": 10,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
+                "Ability Lifesteal": 10,
                 "Cooldown Reduction": 0
             },
             "round_upgrades": [
                 {
-                    "id": "9e6ffd4b-f38c-4c4e-909b-24be62dabc2d",
-                    "notes": "",
+                    "id": "d9d8f85c-ef1d-4dc5-bc63-70df515bb15c",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
-                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
+                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "4e260088-1b60-449c-be85-11afc9b213aa",
+                    "id": "4cdd500a-534c-47b3-ab59-30d948b3fde9",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "10dbf7d9-be31-4c8d-8c0d-926a5e00c864",
+                    "id": "767af386-3ef5-4341-a320-25a601df9d0c",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "45cbe49a-f5ac-4f42-bda5-6c0c05b02eef",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "d9ab8c82-0a9a-4aaa-be68-77c931af4233",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
                 }
             ]
         },
         {
-            "id": "5c24d835-721c-44d1-8d22-0cb449c2defa",
+            "id": "7da3d0b5-8bce-471b-8b91-c4e96ee33644",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** Now you have [[Anti-Beam Coating](item_1ab73e1c-aaa1-4026-89cd-68404db7fd93) you will keep it all game (ideally vs. TWO beam heroes). You can start to limit test with dash and getting resets with [Spirit of Sojiro](item_273ac0b7-f669-4641-bd77-2826aadd3218) but still generally weak.\n\n**Stat Priority:** Survival > CDR = Ability Power",
             "stats": {
-                "LIFE": 273,
-                "Armor": 75,
+                "LIFE": 270,
+                "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 348,
-                "Attack Speed": 0,
+                "Total LIFE": 320,
+                "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 0,
+                "Ability Power": 10,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -69,399 +85,487 @@
             },
             "round_upgrades": [
                 {
-                    "id": "18a80838-dab5-40f6-bcc1-6d7df59c56da",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "099f8177-c2a4-4e13-b321-99349f8b1eb7"
-                },
-                {
-                    "id": "ec635be2-4c74-4e29-a454-0ee1d8874f50",
-                    "notes": "",
+                    "id": "66f5304a-6336-427a-9040-2b5f95a8c06c",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
+                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "9321a1fa-c163-409e-8701-5eacd855ccc2",
+                    "id": "93f383ad-e0a9-4544-a1f4-952a3bb86174",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "5eaa42fb-a132-4b87-b7a4-e9c3a9335881",
+                    "id": "76dc95ce-027d-412f-b645-9fefb2cf0588",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "b9dbd844-1988-4a10-b8e8-26d9747a6c62",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "64902559-3fbf-49cf-8b0f-735f52179c2e",
+                    "notes": "Core as this build shines vs. beams",
+                    "action": "buy",
+                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
+                },
+                {
+                    "id": "515b5f5d-f2e6-4b54-abec-5e5d7198bf67",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "87cec8cc-4122-439f-a78c-3219b1518622",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "430c3ba7-e190-41f0-851f-d6c694de7769",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "19183386-c859-42ca-93f2-355d47d01e36"
+                },
+                {
+                    "id": "bb81af4a-a992-4f40-8085-db2ca8d70177",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
                 }
             ]
         },
         {
-            "id": "842c2fa0-a467-426a-a6c4-49443f5116a6",
+            "id": "e807e0a8-e164-44ba-9fb4-f398ba23a95c",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** \n\nIf you picked [Forged Under Fire](item_b60b1aa3-e69d-4d19-b3d8-43de1cce110c) then you can start to play like an off-tank. You can time your engage even just before the tank to bait CDs and stuff.\n\nPick [Laceration](item_ee831ad3-3921-4aca-a761-c6b93cc7e7fe) if you think you can survive without [Forged Under Fire](item_b60b1aa3-e69d-4d19-b3d8-43de1cce110c). Skip to Round 5 for power options if you chose this path.\n\n\n**Stat Priority:** Survival > CDR = Ability Power",
             "stats": {
-                "LIFE": 287,
-                "Armor": 75,
+                "LIFE": 186,
+                "Armor": 135,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 362,
+                "Total LIFE": 321,
                 "Attack Speed": 5,
-                "Weapon Power": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 10,
                 "Ability Power": 10,
                 "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 10
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
             },
             "round_upgrades": [
                 {
-                    "id": "1a16a120-8108-45f5-b661-c5c4d81cd239",
+                    "id": "7b3d2b36-9ff8-4c24-ad85-7f5048037769",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "8ae2b2d8-684a-4030-aa17-656c83076a85",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "f92061e1-6186-407d-aee3-7135d29642fb",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
-                },
-                {
-                    "id": "64afaea9-b3fc-46ed-9754-f8fcdcc57a5a",
-                    "notes": "",
+                    "id": "3bcd8133-ac83-4db7-8820-7c7385c83b78",
+                    "notes": "Core as this build shines vs. beams",
                     "action": "buy",
                     "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
                 },
                 {
-                    "id": "94220c04-9c10-4f1f-9fb6-21e2db183127",
+                    "id": "125d01bb-61e2-4f70-875c-9b660890435f",
                     "notes": "",
-                    "action": "buy",
+                    "action": "sell",
                     "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "5cdfab9b-2fe3-4d73-9f0f-a6bcfa5eb882",
+                    "id": "061cd46f-127f-4b01-80a7-04b720e82961",
                     "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "02ec6fd4-dc26-4d6b-914e-9a0d4a0c7a79",
+                    "notes": "Let's Forged Under Fire grant you overhealth",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "be8c2295-1b87-45f3-af8e-1de710272954",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "e85f38fc-c493-4b08-ad56-32405606040a",
+                    "notes": "Armor + Longer deflect for more heals",
+                    "action": "optional",
+                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
+                },
+                {
+                    "id": "19513c27-6f92-47d2-8140-fd49c71ff9ad",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
                     "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "41746ff7-c991-4ff3-9ac8-0acae2e2bf94",
-                    "notes": "",
+                    "id": "2f787b66-0b2d-417b-953c-ebdc0ac07e72",
+                    "notes": "Off-tankiness is online",
                     "action": "buy",
                     "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
                 }
             ]
         },
         {
-            "id": "89561a6d-ea66-423b-af18-1e17c1d5a116",
+            "id": "a555f6cd-6270-4964-bcb6-1674e93b20cd",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** Same as before.\n\n**Stat Priority:** Survival > CDR = Ability Power",
             "stats": {
-                "LIFE": 299,
-                "Armor": 75,
+                "LIFE": 206,
+                "Armor": 185,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 374,
+                "Total LIFE": 391,
                 "Attack Speed": 5,
-                "Weapon Power": 0,
-                "Ability Power": 10,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 25,
                 "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "862bcb9d-10d8-4f26-9363-37dc024755bc",
+                    "notes": "Great synergy and gives you Ability Power + Survival",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "770e378a-9cdd-4a1b-ac23-b4b2a6b77bc9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "7fb264f8-5d68-4df9-9f5e-c02e391ead0f",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "79b22609-8046-4a8a-a5a2-bb49cd7e11c6"
+                },
+                {
+                    "id": "4549a12b-5abc-4eca-b997-111041faebff",
+                    "notes": "Core as this build shines vs. beams",
+                    "action": "buy",
+                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
+                },
+                {
+                    "id": "d660621c-02f0-4445-a123-ed99262593c7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "d358def2-b410-4947-bdb4-96b990eecc38",
+                    "notes": "Let's Forged Under Fire grant you overhealth",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "bbb1952b-52e0-4cdc-a0e0-b0159fe07a51",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
+                },
+                {
+                    "id": "4dc90439-187c-4962-8bef-0fc5aaea99da",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
+                    "action": "buy",
+                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
+                },
+                {
+                    "id": "23233291-a551-4b70-afb8-e94bada99b97",
+                    "notes": "Off-tankiness is online",
+                    "action": "buy",
+                    "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
+                }
+            ]
+        },
+        {
+            "id": "7c319815-bb39-48ab-a6d4-f858cb7db0cc",
+            "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
+            "round_number": 5,
+            "cash_earned": 0,
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** Now you start to add some lethality to your build.\n\n**Stat Priority:** Should have sufficient survivability now. Add more damage utility + Ability Power",
+            "stats": {
+                "LIFE": 228,
+                "Armor": 185,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 413,
+                "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 10,
+                "Ability Power": 45,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
                 "Cooldown Reduction": 10
             },
             "round_upgrades": [
                 {
-                    "id": "cae1dc97-c449-4cac-82e3-a2c250ae93aa",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
-                },
-                {
-                    "id": "4b34f03e-2f92-4895-a9cc-91bc2b2553ea",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-                },
-                {
-                    "id": "d81e5377-515b-44f0-ac29-226900001087",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
-                },
-                {
-                    "id": "76f58829-a1de-4836-8a43-ff04b25a6b95",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
-                },
-                {
-                    "id": "cabdc1a5-9f29-41d5-8789-fb2dfe4e7783",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
-                },
-                {
-                    "id": "d67d74ae-e8ba-411b-88a1-eaf6e7413f89",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
-                }
-            ]
-        },
-        {
-            "id": "2334161e-89f5-42d6-b812-fe8528de70b3",
-            "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
-            "round_number": 5,
-            "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
-            "stats": {
-                "LIFE": 321,
-                "Armor": 75,
-                "Shield": 0,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 396,
-                "Attack Speed": 5,
-                "Weapon Power": 0,
-                "Ability Power": 30,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 20
-            },
-            "round_upgrades": [
-                {
-                    "id": "2a12b9ce-df5e-4b67-acfa-b369282183ae",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
-                },
-                {
-                    "id": "4529e5ca-1ba1-4391-9c03-2797f9001e31",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
-                },
-                {
-                    "id": "6cf570f9-b2f6-47df-a059-30473d29100f",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-                },
-                {
-                    "id": "60b84e78-99fa-4be4-ab14-3980b806f4b5",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "698a6929-22b8-4c39-95d8-43792d126c10"
-                },
-                {
-                    "id": "6cbd123e-3cb1-4a16-ab69-48589581dbb3",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
-                },
-                {
-                    "id": "86bda3b7-e5a2-451c-9d2f-15a56b0fa0d1",
-                    "notes": "",
+                    "id": "ba71a840-a76e-481c-a4b4-9023bf1f4c32",
+                    "notes": "More Ability Power + CDR",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "e57e03b0-3ab4-453a-ab69-3da5e6e9752b",
+                    "id": "1aef2678-908a-40a7-b7be-97baab472227",
+                    "notes": "Great synergy and gives you Ability Power + Survival",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "9c71f9a7-5016-4b14-979d-9812ee8c0fbc",
+                    "notes": "Core as this build shines vs. beams",
+                    "action": "buy",
+                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
+                },
+                {
+                    "id": "19f52ba2-be52-4311-8215-153c765b247c",
                     "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "02ef596a-c573-4294-8ae5-0c3ebc457f3a",
+                    "notes": "Let's Forged Under Fire grant you overhealth",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "92fec4a1-8b31-4ad9-9a10-9e241d7f54b9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
+                },
+                {
+                    "id": "8f556010-ef02-4dcb-b3c5-6470a52263ca",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
                     "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "16a8ad01-e232-41c7-aa05-cbf9060f7148",
-                    "notes": "",
+                    "id": "ed3b3fa9-1edc-47e8-962e-681effdb8ba3",
+                    "notes": "Off-tankiness is online",
                     "action": "buy",
                     "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
                 },
                 {
-                    "id": "f1547dc3-a610-428d-8ec3-cb5a790d667f",
-                    "notes": "",
+                    "id": "962f2c25-f72d-4bf6-b2e9-e286b2682639",
+                    "notes": "Start to create chaos",
                     "action": "buy",
-                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
                 }
             ]
         },
         {
-            "id": "0d8c52e9-d43e-4c11-a44a-579c7839ecfb",
+            "id": "8553642c-f64e-4d03-a697-d333cfc1aefc",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "**Playstyle:** Same as before. Keep adding Ability Power and dash as much as you can.\n\n**Stat Priority:** Should have sufficient survivability now. Add more damage utility + Ability Power",
             "stats": {
-                "LIFE": 366,
-                "Armor": 75,
+                "LIFE": 249,
+                "Armor": 185,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 441,
+                "Total LIFE": 434,
                 "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
-                "Ability Power": 30,
+                "Ability Power": 55,
                 "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 20
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "1c98c3c9-3cdd-41c5-a6d6-22e5cb898ef6",
-                    "notes": "",
+                    "id": "03817b18-2b78-4ae1-86ca-e7f86e8262e4",
+                    "notes": "More Ability Power + CDR",
                     "action": "buy",
-                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "b5f5af24-5bfb-4423-aca7-fafa12ca1da2",
-                    "notes": "",
+                    "id": "b01368e9-0e6a-4efc-9385-90e6eeb4ce12",
+                    "notes": "Great synergy and gives you Ability Power + Survival",
                     "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "2018cc5a-f284-4627-89b7-c6c9a90a2d52",
-                    "notes": "",
+                    "id": "a1783fc9-d6c4-431e-8458-968e4dcdb113",
+                    "notes": "Core as this build shines vs. beams",
                     "action": "buy",
                     "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
                 },
                 {
-                    "id": "8976b0e1-bfe5-4751-baf3-a5a68b605296",
+                    "id": "746ace83-e7e5-4d6a-879e-5b85c0f8bfc7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "31c83497-66ae-46d9-9cfe-30b610351763",
+                    "notes": "Let's Forged Under Fire grant you overhealth",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "02ac8731-49bb-4f3a-9bc4-848b5135efb3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
                 },
                 {
-                    "id": "8e5fa158-f7d0-4597-96ec-2d79ae7e7fd4",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "2dfa583a-46e1-4e0e-81d1-883d336649e1",
-                    "notes": "",
+                    "id": "4a79ca3e-fc3e-4355-a426-166a3dd96cb8",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
                     "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "0f581975-5de0-4a19-ab04-5bd0f78d5190",
-                    "notes": "",
+                    "id": "a85c2c2b-380c-4a2d-a3d1-8265c6f58e0b",
+                    "notes": "Off-tankiness is online",
                     "action": "buy",
                     "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
                 },
                 {
-                    "id": "622addd8-d95f-4605-b1d0-7757efdd8534",
-                    "notes": "",
+                    "id": "5141f63c-12dd-4658-8d59-0bd418ea4b37",
+                    "notes": "Start to create chaos",
                     "action": "buy",
-                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
+                    "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
                 }
             ]
         },
         {
-            "id": "2ae2018f-3bdb-4c40-8034-908d61ff1c8e",
+            "id": "64217147-4f47-4246-8c46-6ea1d792331c",
             "build_id": "8a572896-5733-4c79-a6da-f0a14a89d2bf",
             "round_number": 7,
             "cash_earned": 0,
-            "created_at": "2025-08-10T07:47:23.081362+00:00",
-            "notes": "",
+            "created_at": "2025-09-08T11:47:17.842523+00:00",
+            "notes": "Congratulations on making it to the end, against all odds! Good luck and hope you managed to clutch it out.",
             "stats": {
-                "LIFE": 394,
+                "LIFE": 369,
                 "Armor": 75,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 469,
+                "Total LIFE": 444,
                 "Attack Speed": 5,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
-                "Ability Power": 65,
+                "Ability Power": 90,
                 "Critical Damage": 0,
-                "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
-                "Cooldown Reduction": 20
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 15
             },
             "round_upgrades": [
                 {
-                    "id": "7afe0a36-e47f-46fd-a267-e52ccec00c8c",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "34b028be-d9bc-437b-94c5-a12ae4a63f6a"
-                },
-                {
-                    "id": "37308c1f-7ccd-4083-ba1e-39ba2ef8c789",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
-                },
-                {
-                    "id": "63e90ad7-0dca-4ce6-9626-c1182483435b",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-                },
-                {
-                    "id": "c99f05a3-7030-4902-bc53-0afa9d178f11",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-                },
-                {
-                    "id": "d5d11f8d-2a6e-40dc-bd3d-4ce4a2029947",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
-                },
-                {
-                    "id": "b71011d6-aa67-4842-9951-1393ba4ae821",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
-                },
-                {
-                    "id": "f5a9ccd1-00c4-4011-b314-2855e192e95f",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "698a6929-22b8-4c39-95d8-43792d126c10"
-                },
-                {
-                    "id": "be4d524f-49e4-449a-966d-466d7e9b39d8",
+                    "id": "de7a1dbf-e865-47be-adad-d9942124f489",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "ce62b10d-88d4-4166-9fbc-35bb71ec6582",
+                    "id": "571c8283-e02e-4adc-97bb-f8458cf7ad0d",
                     "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "cde2fd30-43ac-46a8-9888-a07204b1c795",
+                    "notes": "More Ability Power + CDR",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "66521a02-97ce-43c1-bf7a-28ec5c39c2b0",
+                    "notes": "Great synergy and gives you Ability Power + Survival",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "dedbcd28-9334-4b66-ba46-c4501f3b6a12",
+                    "notes": "Core as this build shines vs. beams",
+                    "action": "buy",
+                    "upgrade_id": "1ab73e1c-aaa1-4026-89cd-68404db7fd93"
+                },
+                {
+                    "id": "61970287-9ef9-403a-8d44-5b282eb31032",
+                    "notes": "Let's Forged Under Fire grant you overhealth",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "de3b3f5b-ce15-45fd-b077-3f0ee1784109",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                },
+                {
+                    "id": "9c7f4680-eaf4-4c2d-a85c-eb9ef7160805",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "a8d99526-05a3-4405-babb-b025479b1b98"
+                },
+                {
+                    "id": "1f5124c5-a504-4e34-8e69-cb3e7a912935",
+                    "notes": "Good with anti-beam coating vs. Zarya/Moira",
                     "action": "buy",
                     "upgrade_id": "273ac0b7-f669-4641-bd77-2826aadd3218"
                 },
                 {
-                    "id": "6c7e7381-9f12-441b-9825-6e95357eea24",
-                    "notes": "",
+                    "id": "ee54c01a-9af6-478f-98cb-50ef6bff2d76",
+                    "notes": "Off-tankiness is online",
                     "action": "buy",
                     "upgrade_id": "b60b1aa3-e69d-4d19-b3d8-43de1cce110c"
                 },
                 {
-                    "id": "411d6e39-b8cc-46d1-9f39-f200dd412bd5",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
-                },
-                {
-                    "id": "fe4e2df5-4321-40de-bfe7-e05b3f40a6b2",
-                    "notes": "",
+                    "id": "efe9acf5-8ead-4c60-b1dc-2b28540aa05a",
+                    "notes": "Start to create chaos",
                     "action": "buy",
                     "upgrade_id": "ee831ad3-3921-4aca-a761-c6b93cc7e7fe"
+                },
+                {
+                    "id": "cce19b42-a91b-4a8a-b1c8-41248810f6ed",
+                    "notes": "Natural pairing with Laceration",
+                    "action": "buy",
+                    "upgrade_id": "5d8c3488-13a9-432a-987e-275522f68cc4"
                 }
             ]
         }
