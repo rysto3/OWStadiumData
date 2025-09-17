@@ -1,22 +1,24 @@
 {
-    "updated_at": "2025-09-03T15:17:05.35737+00:00",
+    "updated_at": "2025-09-16T20:34:09.302803+00:00",
     "id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
     "rounds": [
         {
-            "id": "e9e66afc-0357-4a07-babd-584515b3f1e1",
+            "id": "7f3ee5c0-35db-465a-9d44-2053975c55dc",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
             "notes": "**The starred items will be the important things to have at each round, if the surrounding stuff is too expensive that's fine.**\n\n## Items\nThis is the most consistent start in my opinion. We will be scaling wp and ap, so grabbing both here is good. \n\n [Launch Vector](item_7d4ef8eb-a008-4f63-802d-a67bd9d6989e) gives you a cooldown that does over 100 damage to each person hit, you should always take it\n\n## Playstyle\n- Find high value conc mines as often as you can. Whether its using the combo from the tips section to burst someone down, or trying to hit multiple enemies with a conc and get some big aoe damage. \n- Also don't forget about rocket jumps to surprise people with your burst. Finally, try to die as little as possible, while still taking enough risk and going for enough plays to actually win the round.",
             "stats": {
-                "LIFE": 225,
+                "LIFE": 231,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 250,
+                "Total LIFE": 256,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 5,
                 "Ability Power": 10,
                 "Critical Damage": 0,
@@ -26,37 +28,37 @@
             },
             "round_upgrades": [
                 {
-                    "id": "cb773713-61e2-4545-a08f-41e96f82db63",
+                    "id": "81e2c172-58a7-464a-a81f-9d6effd2e79d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "5218332e-26e6-41b5-861c-8c60ca2b1b8b",
+                    "id": "6c75ead6-ca7b-4a60-85e5-1a3d94f804f5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "a7947528-5771-48a9-9d47-8cab0f88dfd2",
+                    "id": "6f766e0c-55fb-41e4-9791-e8cbcaf7099e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "1490ce56-0efc-49b1-bb90-1f50e85004a3",
+                    "id": "8e03b6dd-6570-4974-b59a-bd3ec67114cf",
                     "notes": "You can experiment with this and see if you like being able to secure kills better, at the cost of some survivability.",
                     "action": "optional",
                     "upgrade_id": "2a4ffaf4-f14b-47d2-a267-0a0e83e87418"
                 },
                 {
-                    "id": "3b6227ad-25c4-4170-bceb-96ebd4eeca21",
+                    "id": "bb178e38-0ab2-4354-9bd5-4b19873ef8cf",
                     "notes": "This can also work as the survival green. Value is similar to the 25 armor, but I could see the value being slightly higher.",
                     "action": "optional",
                     "upgrade_id": "40146dd3-a8cb-40ca-8917-c430bfa2be0e"
                 },
                 {
-                    "id": "9c815fdd-c758-4ab0-91d0-0c3070bca226",
+                    "id": "601791ac-f6aa-4963-8242-5a975cfdc07b",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
@@ -64,20 +66,22 @@
             ]
         },
         {
-            "id": "f77d09c8-cebb-4c2e-8a97-8c56eec457e4",
+            "id": "0a8f0e18-a04d-4647-940f-b354530160c5",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
-            "notes": "## Items\n[Overcharged Ordnance](item_f261877b-39e5-4248-aeca-7fe34de8ce10) almost doubles the volume/size of each mini explosion, so we always take it second round and keep it till the end of the match. It might be worth getting rid of round 7 if you can afford a 6th purple, I haven't tested it enough though.\n\n [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) is our next buy as we want to keep scaling both wp and ap.\n\n[Skyline Nanites](item_0b334927-da04-42d6-8dfd-96e7b6c1cd51) is especially good in the pharah mirror and if they have heroes like juno and mercy. You can experiment taking it in other scenarios instead of custom stock for a damage over time on your concussive blasts, but I prefer custom stock slightly. Skyline Nanites is more value if you use more close range concs, but if you feel you are using more medium-long range ones, the missiles wont land before they hit the ground and so you wont get the d.o.t.\n\nIf I have leftover cash, I like buying another green survival item such as  [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da).\n\nThe only true non-negotiable is [Overcharged Ordnance](item_f261877b-39e5-4248-aeca-7fe34de8ce10), you can take whatever ap blues feel best to you.\n\n## Playstyle\n\nThe same as round one, but now your missiles are more consistent, so especially when you conc some people stacked together, the damage will be nuts.",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
+            "notes": "## Items\n[Overcharged Ordnance](item_f261877b-39e5-4248-aeca-7fe34de8ce10) almost doubles the volume/size of each mini explosion, so we always take it second round and keep it till the end of the match. It might be worth getting rid of round 7 if you can afford a 6th purple, I haven't tested it enough though.\n\n**Since this cost got increased it could be more worth it to take skyline nanites and custom stock round 2**\n\n [Custom Stock](item_17d633af-8bcc-4893-b865-be0a7bc66fe2) is our next buy as we want to keep scaling both wp and ap.\n\n[Skyline Nanites](item_0b334927-da04-42d6-8dfd-96e7b6c1cd51) is especially good in the pharah mirror and if they have heroes like juno and mercy. You can experiment taking it in other scenarios instead of custom stock for a damage over time on your concussive blasts, but I prefer custom stock slightly. Skyline Nanites is more value if you use more close range concs, but if you feel you are using more medium-long range ones, the missiles wont land before they hit the ground and so you wont get the d.o.t.\n\nIf I have leftover cash, I like buying another green survival item such as  [First Aid Kit](item_0172eaaa-1902-44a3-b989-d12f0f7301da).\n\nThe only true non-negotiable is [Overcharged Ordnance](item_f261877b-39e5-4248-aeca-7fe34de8ce10), you can take whatever ap blues feel best to you.\n\n## Playstyle\n\nThe same as round one, but now your missiles are more consistent, so especially when you conc some people stacked together, the damage will be nuts.",
             "stats": {
-                "LIFE": 250,
+                "LIFE": 259,
                 "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 275,
+                "Total LIFE": 284,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
                 "Ability Power": 30,
                 "Critical Damage": 0,
@@ -87,49 +91,49 @@
             },
             "round_upgrades": [
                 {
-                    "id": "f544dadb-2e25-43c0-b83b-0e10724a400f",
+                    "id": "d0354344-eafb-4692-b420-d2e245bfe51b",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "f77eaf00-8a24-4994-b710-7dc1e9c3c99f",
+                    "id": "69dcc2da-c60f-491b-8ae2-aef04441aa32",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "ba341337-0c08-4c3c-817f-41cb84ff9542",
+                    "id": "1eec9d9d-0d27-4805-bd03-07bd057675d2",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "0172eaaa-1902-44a3-b989-d12f0f7301da"
                 },
                 {
-                    "id": "2ed260ff-2f6f-4c5e-a08e-6a2ee1a1f09c",
+                    "id": "256dc90e-9cc7-45c7-b736-301ccea4a214",
                     "notes": "This could work instead of custom stock as well, less consistent, but higher highs, as the conc mine knockback triggers it.",
                     "action": "optional",
                     "upgrade_id": "0b334927-da04-42d6-8dfd-96e7b6c1cd51"
                 },
                 {
-                    "id": "7310e8c5-6a9f-4afe-9c76-c2e71721a9b1",
+                    "id": "86053fba-85a5-4f77-9aa9-dfd83212a25a",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "3200d07e-97c6-49ec-8afc-dbd07c3af722",
+                    "id": "28bfbcde-9d9a-40c8-971a-cd007d7dc521",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "5589265e-7f39-4b21-bccb-3aa1f9c164fd",
+                    "id": "ba52272d-fff9-4135-953b-18c7038f9c6d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "000310a6-76d0-4351-9e8f-32881d349b85",
+                    "id": "7acc16aa-3b8f-449b-a26d-9f3d4f7c974d",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
@@ -137,20 +141,22 @@
             ]
         },
         {
-            "id": "1316da01-7504-4b11-b550-4037513f95b0",
+            "id": "32b36967-f297-460b-8090-529e8bdff44f",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 3,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
             "notes": "## The Build Truly Begins - Items\nI always go [Extra Charge](item_a5aa16ee-5a80-4e1b-b585-2c4d12575b7a) as my \nsecond power. Having a second mine opens up so many options and allows for so much creativity. \n\n## Playstyle\nHaving a second mine gives you sooo many more options\n- You can now conc mine yourself in, and then also conc mine offensively right after. \n- You can boop an enemy into your team, and then if they use a movement cooldown to escape, you can boop them right back in again.\n- You can even simply shoot, mine, shoot, mine for disgusting damage if you get a good angle on their backline.\n\nI have found success getting  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)  as my first purple every game, since it gives a lot of survivability and ap which is our main damage.\n\nGetting  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) as your first purple may also work well, but I find it slightly less consistent. I think its personal preference which one you choose to take first.\n\nIf you have some extra cash, you can invest in a blue weapon power item of your choice, prioritizing  [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) or  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a) if you can afford them\n\n## What I DON'T like\n-  [Evasive Maneuvers](item_3725ca88-f12a-4a00-8878-4fa39a18a394) This stops your ability to control where you push the enemies with your conc mine, it will just lock on and push them back. Even against flyers, the hinder barely makes them drop, and we would much rather have 2 mines to try and outplay them with.\n-  [Helix Inhibitor](item_0cdf922e-b43f-4b8f-bf2b-0127d1ed2f7d) The slowing mine *sounds* good, but we very often want to crash our enemies into walls and hit them with follow up shots. In that case, the slow is meaningless, and we would much rather have the survivability from either of  [Lumerico Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8)  or  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)",
             "stats": {
-                "LIFE": 270,
+                "LIFE": 278,
                 "Armor": 75,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 345,
+                "Total LIFE": 353,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 10,
                 "Ability Power": 45,
                 "Critical Damage": 0,
@@ -160,61 +166,61 @@
             },
             "round_upgrades": [
                 {
-                    "id": "64929c89-ed19-417f-a4e6-4db06dc1a63b",
+                    "id": "d3c1b0f6-3559-4c04-b97c-9fd17938c5eb",
                     "notes": "50 armor while not sacrificing damage is VERY good for us. Pharah tends to take poke too, so the passive effect of regenerating armor is also very good.",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "7e2b0f24-9fc4-486d-a39d-771a19a84d4d",
+                    "id": "ad186175-1b72-488f-a094-024a0fe304d9",
                     "notes": "You can see which of this or lumerico you prefer first as your first purple item, we will be getting the other next round anyway.",
                     "action": "optional",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "ab8ff6e8-083b-4b23-8b53-3575186930b5",
+                    "id": "a34ad794-5464-437d-a74e-6e4272a37657",
                     "notes": "If you can afford this or Icy coolant without selling too much, go ahead. We want to keep the wp up as well.",
                     "action": "optional",
                     "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
                 },
                 {
-                    "id": "6b3d5a17-c24c-4033-bbd0-2932ef82f2e0",
+                    "id": "35f9f31a-af68-4f6b-8fdf-5a7152bfede0",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "b4667e7c-1088-4fcd-8522-c120b583db77",
+                    "id": "f0e09397-c167-4fbc-abf4-ed176f5664d7",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "12bc9a31-ba02-4920-90ca-0df8b7800f4d",
+                    "id": "05c6244a-1dff-4473-a699-ec8976ffa19d",
                     "notes": "can sell this if you can't afford the purple survival and two blues",
                     "action": "buy",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "b57751ea-0073-414d-916e-e002406989fe",
+                    "id": "7f579438-6e5c-4674-9a98-7c699e06afd4",
                     "notes": "You can sell the non-wp greens to afford lumerico this round",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "0e1b1463-0287-4138-bde4-e6052b62deaf",
+                    "id": "e4b39557-c896-4419-940b-0ee8c7e87821",
                     "notes": "can sell this if you can't afford the purple survival and two blues",
                     "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "ef6305d5-1738-4208-9bab-914bbfc3e624",
+                    "id": "d2a730ec-a5ad-4b58-b59d-e9775a73965f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 },
                 {
-                    "id": "811cdeff-f5fb-4664-8b28-4a2b6bc66a5b",
+                    "id": "c0dc5b9c-a8ae-453e-b6eb-ff28d1c9f396",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a5aa16ee-5a80-4e1b-b585-2c4d12575b7a"
@@ -222,20 +228,22 @@
             ]
         },
         {
-            "id": "3fafe6af-0cc2-4565-a1d8-917da5e240f2",
+            "id": "8f683506-9435-4d92-85a3-1bad897f14e0",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 4,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
             "notes": "## Items\nHere we get the other purple survival item that we didn't get the round before. In most of my games, this is where I buy  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643). You are now so tough to kill with over health and regenerating armor, while still outputting great burst, aoe damage, and primary fire damage.\n\nWe benefit from every stat this gives us, and the survivability lets you poke better, duel better, and rotate better. This round here is when the build truly takes form, and you can get away with so much with this extra survivability.\n\nWe also want to make sure our weapon power keeps up a bit to our ability power. It should be below it, but not low like 10% or below. One blue wp item should be enough, such as  [Talon Modification Module](item_c0ca1795-a3ea-4dc9-ae17-f34122574b3a)  or  [Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f)\n\n## Playstyle\nWith this build, you aren't locked in for one way to play.\n- You might need to land a bunch of direct hits on their tank to win the fight, and you can do that. \n- You might have to play aggressive and look for chances to chunk their backline with conc mines, and you can do that.\n- You might have to sit back and let your team do things while you just stay alive, and you can do that too.",
             "stats": {
-                "LIFE": 302,
+                "LIFE": 304,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 352,
+                "Total LIFE": 354,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 30,
                 "Ability Power": 55,
                 "Critical Damage": 0,
@@ -245,61 +253,61 @@
             },
             "round_upgrades": [
                 {
-                    "id": "285cfefb-f6d0-4a8c-99a5-bace1edec06f",
+                    "id": "0708dba1-8003-4f38-8e23-75c98a859cce",
                     "notes": "Sell if you can afford an ap blue, hopefully nano cola",
                     "action": "optional",
                     "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
                 },
                 {
-                    "id": "0a386e19-d1d5-44d7-b93a-0388cedac47b",
+                    "id": "54827f7d-73ba-481f-97d2-3bb22a38baec",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "29079390-b4ed-4bc7-b835-a6d9480125a5",
+                    "id": "c9323317-a4a3-46a8-b148-6bdb4cdef452",
                     "notes": "We benefit from every stat, and the overhealth is especially good on us since we are constantly poking and building it up, not to mention the survivability it gives us during our barrages.",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "e6df12a2-1c10-4c26-b10f-a268dfc1b9f8",
+                    "id": "1cfeca6a-4c2e-4a33-8209-6a78e7906ba1",
                     "notes": "If this is too expensive thats fine, you just need the two purples, and overcharged ordiance",
                     "action": "buy",
                     "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
                 },
                 {
-                    "id": "6a5fab84-14f5-48b4-bf4d-1615e650854b",
+                    "id": "ffc55b1a-c62e-4fcd-a4c1-acc8d582ecfa",
                     "notes": "50 armor while not sacrificing damage is VERY good for us. Pharah tends to take poke too, so the passive effect of regenerating armor is also very good.",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "d0ebbd22-ec01-4630-a4e1-93874e8ec0e4",
+                    "id": "12ec5e0d-7dac-469a-8995-0dd713e23e7a",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "54344702-de68-4bce-9a63-744c4581443f",
+                    "id": "a97595f2-5cbe-4266-8150-f2aa37322ad7",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "3be162b7-4140-4cc5-bbfb-fa78b08d27f5",
+                    "id": "90d755cd-79c0-4a26-ac1b-8c2274a3ae2f",
                     "notes": "You can sell the non-wp greens to afford lumerico this round",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "f6a2bea0-1bc2-4b00-8dd2-b9587768c0c5",
+                    "id": "97b7afbc-3600-4422-9c98-0caa24d0248f",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 },
                 {
-                    "id": "2354ad8c-11e0-4edd-a3c7-93c615cc8cc9",
+                    "id": "c23692b7-bb3c-4bd0-a9b6-f4e8b3366592",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a5aa16ee-5a80-4e1b-b585-2c4d12575b7a"
@@ -307,12 +315,12 @@
             ]
         },
         {
-            "id": "6e58c872-1f36-4fb4-b351-03c7484b0768",
+            "id": "28272a64-a132-4701-8677-ca4917dcfea7",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
-            "notes": "## Items\n[Recursion Battery](item_88c3fb1a-2d38-4d2c-b439-6aadd038fd1a) synergizes extremely well with [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643), making us really hard to kill and having a whole **50%** ability lifesteal to give us overhealth.\n\n[Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)  is our next pickup which I get in most of my games. Your poke is much more meaningful now that the homing missiles apply heal reduction, and it helps a lot in securing kills.\n\nWe don't need  [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98)  for the same reason we didn't need  [Helix Inhibitor](item_0cdf922e-b43f-4b8f-bf2b-0127d1ed2f7d). The cc from our concs should be plenty of value, and we would rather spend that cash elsewhere.\n\nFor **kiriko specifically** I don't bother with  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) as it too often gets suzued making the effect worthless. In this case I go  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) so the few that hit really hurt.\n\nYou can also try  [Blitz Barrage](item_b6bd0c8f-9bd2-4d3d-a353-1e70f74e131b) into certain tank matchups like winston and rein, but against other tanks I think the risk/reward is not in our favor. This also feels really bad into kiri.\n\n## Playstyle\n- You'll notice that you get overhealth from  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)  way easier now, so you now have the option to farm your overhealth first before going for an aggresive play.\n- Another thing to note is that you are way more survivable going for barrages, so you can get away with riskier ones that you wouldn't be able to in earlier rounds.\n- You can also just try to constantly poke and proc your cybervenom, instead of only going for burst damage kills.",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
+            "notes": "## Items\n[Recursion Battery](item_88c3fb1a-2d38-4d2c-b439-6aadd038fd1a) synergizes extremely well with [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643), making us harder to kill and having a whole **25%** ability lifesteal to give us overhealth.\n\n[Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505)  is our next pickup which I get in most of my games. Your poke is much more meaningful now that the homing missiles apply heal reduction, and it helps a lot in securing kills.\n\nWe don't need  [Liquid Nitrogen](item_a8d99526-05a3-4405-babb-b025479b1b98)  for the same reason we didn't need  [Helix Inhibitor](item_0cdf922e-b43f-4b8f-bf2b-0127d1ed2f7d). The cc from our concs should be plenty of value, and we would rather spend that cash elsewhere.\n\nFor **kiriko specifically** I don't bother with  [Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) as it too often gets suzued making the effect worthless. In this case I go  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) so the few that hit really hurt.\n\nYou can also try  [Blitz Barrage](item_b6bd0c8f-9bd2-4d3d-a353-1e70f74e131b) into certain tank matchups like winston and rein, but against other tanks I think the risk/reward is not in our favor. This also feels really bad into kiri.\n\n## Playstyle\n- You'll notice that you get overhealth from  [Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643)  way easier now, so you now have the option to farm your overhealth first before going for an aggresive play.\n- Another thing to note is that you are way more survivable going for barrages, so you can get away with riskier ones that you wouldn't be able to in earlier rounds.\n- You can also just try to constantly poke and proc your cybervenom, instead of only going for burst damage kills.",
             "stats": {
                 "LIFE": 306,
                 "Armor": 50,
@@ -321,6 +329,8 @@
                 "Move Speed": 0,
                 "Total LIFE": 356,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 25,
                 "Ability Power": 55,
                 "Critical Damage": 0,
@@ -330,73 +340,73 @@
             },
             "round_upgrades": [
                 {
-                    "id": "bda244cb-cd1f-4267-8610-d24f0290b80a",
+                    "id": "03c279ae-9342-47fa-807b-2d13f537dee8",
                     "notes": "You can experiment with this in specific matchups like winston or rein to blow them up. Against others, the value will be much less and may not be worth the added risk.",
                     "action": "optional",
                     "upgrade_id": "b6bd0c8f-9bd2-4d3d-a353-1e70f74e131b"
                 },
                 {
-                    "id": "88e4dfd0-3910-48e0-91b4-dd9dab5704bb",
+                    "id": "1756c439-bbbe-4f95-b017-bda9cacb304f",
                     "notes": "If you have the cash, custom stock can be replaced with nano cola.",
                     "action": "optional",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "65f0883a-1cfb-4685-810f-df76d5904936",
+                    "id": "8ecba591-ceb1-4e76-83d9-312e87aa1d27",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
                 },
                 {
-                    "id": "7f8ca3ca-1477-4d17-bb58-e9d013d9e78b",
+                    "id": "414355db-12b4-43da-91fd-faa447ad8e63",
                     "notes": "If they have kiri, cybervenom is not worth it and I suggest just taking the bonus damage.",
                     "action": "optional",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "6eda1e60-6f2e-4c48-ae20-d6adb8a1a134",
+                    "id": "3e1b8156-a544-41e9-87c7-3b4f1cf7a566",
                     "notes": "We benefit from every stat, and the overhealth is especially good on us since we are constantly poking and building it up, not to mention the survivability it gives us during our barrages.",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "33106f36-fe57-4cbc-8ab9-d687b4bbce2b",
+                    "id": "256d813f-259b-49ba-9417-2f1e75fdde28",
                     "notes": "If this is too expensive thats fine, you just need the two purples, and overcharged ordiance",
                     "action": "buy",
                     "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
                 },
                 {
-                    "id": "e992ecb0-c1d5-4524-a1f2-d89477fa95af",
+                    "id": "7741b9e9-fc99-4661-aabb-d4715b56aa94",
                     "notes": "50 armor while not sacrificing damage is VERY good for us. Pharah tends to take poke too, so the passive effect of regenerating armor is also very good.",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "00ca6035-cb48-47cd-86fa-7cfd3f0847b6",
+                    "id": "ea65c9d2-6b22-4142-84b0-4f171ce3f89b",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "927f9475-e759-41c1-9001-6fd6fb9bcb57",
+                    "id": "a98f20f0-696f-4f30-97bb-db44e2416fb1",
                     "notes": "You can sell the non-wp greens to afford lumerico this round",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "d097cf8c-91ff-4e45-a3c2-8a854cedc788",
+                    "id": "26819a5b-4e88-4d25-b16f-1b5f3105382b",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 },
                 {
-                    "id": "dbd9ed7b-b5f8-47a7-aa9c-074e42811b80",
+                    "id": "69873969-238a-4d16-bc06-6e36da4fd151",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a5aa16ee-5a80-4e1b-b585-2c4d12575b7a"
                 },
                 {
-                    "id": "9f81d748-285e-4f40-a3a3-3107f809df53",
+                    "id": "9460a1bd-1c69-478a-8cc6-3c0572ae0333",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "88c3fb1a-2d38-4d2c-b439-6aadd038fd1a"
@@ -404,20 +414,22 @@
             ]
         },
         {
-            "id": "d444ae81-d74a-431e-b633-db29c2f9cdd8",
+            "id": "3bc48c30-9c5f-482d-83d7-820e24066acb",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 6,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
             "notes": "## Items\nIn this round we keep our weapon power respectable and get a purple item. \n\nA good default choice is  [Eye of the Spider](item_bbaf01d7-340d-4199-b738-86a98d68fe9b), but getting either of the pharah specific ones is not bad either.\n\nIf its a game where you feel you need to hit a lot of directs on their tank to win,  [Precision Targeting](item_13a91b39-de41-4550-9eb1-9a2ebadac940) is very good.\n\nIf you are really struggling getting direct hits in a game, you can consider  [Blast Enhancer](item_02ca537d-0885-4b71-839c-6982ec5137dd).\n\n## Playstyle\n- Note that getting weapon power really doesn't hurt our burst that much, since we are almost always comboing our main weapon shots and conc mine missiles.\n- With wp, we have the added flexibility to continue being valuable, even if concs get sheilded or suzued, or you just need direct hits on tanks and divers to win.",
             "stats": {
-                "LIFE": 339,
+                "LIFE": 337,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 389,
+                "Total LIFE": 387,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 40,
                 "Ability Power": 55,
                 "Critical Damage": 0,
@@ -427,79 +439,79 @@
             },
             "round_upgrades": [
                 {
-                    "id": "66f0d8da-2ad5-4290-92e8-76ce7a887dee",
+                    "id": "29602eb7-7063-4d3d-b775-331ded1bd916",
                     "notes": "You can sell the non-wp greens to afford lumerico this round",
                     "action": "sell",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "bf6cf18f-8423-4480-afd0-bce9b88332bb",
+                    "id": "74cd4383-e2c4-4ce6-b081-f9431698b5e1",
                     "notes": "",
                     "action": "sell",
                     "upgrade_id": "c0ca1795-a3ea-4dc9-ae17-f34122574b3a"
                 },
                 {
-                    "id": "fdf237dc-7400-40b3-84b3-185ec475c8b4",
+                    "id": "2a5b78af-d35c-4b66-9654-e8dfc4ca9aa9",
                     "notes": "You can also go for the pharah specific purple wp items if this is too expensive.",
                     "action": "buy",
                     "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
                 },
                 {
-                    "id": "d5b291e4-c602-4dfd-a339-e29fbcdea4eb",
+                    "id": "7e94679d-ba7f-4225-b3b9-e2ba591f9348",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "02ca537d-0885-4b71-839c-6982ec5137dd"
                 },
                 {
-                    "id": "4cb22757-edce-4a3c-81d2-8edd6291dbb6",
+                    "id": "40684b85-5bab-4de9-ab39-b1b30944c212",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "13a91b39-de41-4550-9eb1-9a2ebadac940"
                 },
                 {
-                    "id": "d0803a50-21e6-4ac3-8d04-fce71919b89d",
+                    "id": "f1dc2c5c-0e49-48fc-a326-02cf54be2f62",
                     "notes": "If you have the cash, custom stock can be replaced with nano cola.",
                     "action": "buy",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "4b9e6009-9958-4107-8f5b-8e5e4a963881",
+                    "id": "6139e3cf-73e4-4e37-9afb-32f5f3f77aab",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
                 },
                 {
-                    "id": "60ac79cc-141c-4079-8568-48c966fbe63e",
+                    "id": "d6e1d056-637f-4abc-b4c0-1f195182784f",
                     "notes": "We benefit from every stat, and the overhealth is especially good on us since we are constantly poking and building it up, not to mention the survivability it gives us during our barrages.",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "a897079b-dd1e-44d9-9da5-722baf543a17",
+                    "id": "76138094-00b3-4fef-9abb-e951daee16b3",
                     "notes": "50 armor while not sacrificing damage is VERY good for us. Pharah tends to take poke too, so the passive effect of regenerating armor is also very good.",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "54af9843-26f2-47a8-9aca-2ec7c5a737c1",
+                    "id": "cc084a9b-3b6b-44c3-b1ce-485678aaa4cd",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "e2c8ed50-f1a2-4884-8318-3b11c69ae0c0",
+                    "id": "b3fa6a8d-15e4-4b50-b35a-648b98380e74",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 },
                 {
-                    "id": "7bb2bc62-4609-40b8-aa0b-c42e2f2e04e6",
+                    "id": "a4409163-ce1d-45a3-aee8-7d1bd5ca328e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a5aa16ee-5a80-4e1b-b585-2c4d12575b7a"
                 },
                 {
-                    "id": "693e8c9c-58d1-4690-8124-60596d1a6ba7",
+                    "id": "b10b6ebd-5b6b-4701-88ee-89cca815cadd",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "88c3fb1a-2d38-4d2c-b439-6aadd038fd1a"
@@ -507,20 +519,22 @@
             ]
         },
         {
-            "id": "63c52bbb-833a-4d63-a809-431636bb42e3",
+            "id": "e1376d6b-5b4d-48b9-aebe-ea92069caf24",
             "build_id": "1986051d-c6c8-4bc6-b3b8-5d897a545017",
             "round_number": 7,
             "cash_earned": 0,
-            "created_at": "2025-09-03T15:17:05.35737+00:00",
+            "created_at": "2025-09-16T20:34:09.302803+00:00",
             "notes": "## Items\nWe take one more ap item to finish off the build, and  [Champion's Kit](item_8682f8c7-8811-439b-8d50-fa81cd43ddce) is perfectly fine.  [Mark of the Kitsune](item_09a53e39-25aa-4f66-ba51-bedbc543a1eb) may be slightly better or worse math wise, but its honestly very close with champion's kit.\n\nNone of Pharah's final powers are especially as impactful as the first 3, so its really not that big of a deal which you pick. I like  [Cyclic Salvo](item_624ac709-635c-418c-9848-52720e2bba70) as we can get our conc mines up slightly faster.\n\nHowever, there is very little wrong with going  [Blitz Barrage](item_b6bd0c8f-9bd2-4d3d-a353-1e70f74e131b) or  [Carpet Bomb](item_3c2ba051-0447-4a1c-8e07-8948136dff94)  if you use your barrages well.\n\nIf they play VERY spread out and it feels like you will never get multiple people with a conc mine, it might be worth selling  [Overcharged Ordnance](item_f261877b-39e5-4248-aeca-7fe34de8ce10) for [Helix Inhibitor](item_0cdf922e-b43f-4b8f-bf2b-0127d1ed2f7d).\n\n## BAD powers\n-  [Evasive Maneuvers](item_3725ca88-f12a-4a00-8878-4fa39a18a394) takes away control from you, and makes your hero worse.\n-  [Triple Volley](item_71a776a8-7186-4cf9-859e-9baed9bafeb5) slows down your burst and makes you worse.\n-  [Heat Seekers](item_42f6c4c6-3420-4133-a2f5-d3805db39ebb) often times doesn't work and you will get put in bad spots for assuming it will work.",
             "stats": {
-                "LIFE": 350,
+                "LIFE": 346,
                 "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 400,
+                "Total LIFE": 396,
                 "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
                 "Weapon Power": 35,
                 "Ability Power": 80,
                 "Critical Damage": 0,
@@ -530,85 +544,85 @@
             },
             "round_upgrades": [
                 {
-                    "id": "23a03e65-713b-49bc-9727-8e1b9cc734ed",
+                    "id": "e63a820b-5488-490f-b53c-6384bd3bac15",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "b6bd0c8f-9bd2-4d3d-a353-1e70f74e131b"
                 },
                 {
-                    "id": "95676f03-8663-4cab-9004-9f3f5111b78b",
+                    "id": "5ed9ef50-f866-4d3c-bc92-d83f6e012214",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "3c2ba051-0447-4a1c-8e07-8948136dff94"
                 },
                 {
-                    "id": "4a84d8bb-9df2-48e5-8cfa-16c23aac72f2",
+                    "id": "f1b202c4-5b0c-4456-a516-8a96cada5da6",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "17d633af-8bcc-4893-b865-be0a7bc66fe2"
                 },
                 {
-                    "id": "90c1a546-19bd-4dc2-80ef-7516efa27bc4",
+                    "id": "cfb49004-c9f9-4cf2-8fc4-790691cdbc52",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "8682f8c7-8811-439b-8d50-fa81cd43ddce"
                 },
                 {
-                    "id": "0ded481c-9adc-4b2e-bbd4-7b0af938e49c",
+                    "id": "2921570c-1452-470b-859d-d8c967cb66c3",
                     "notes": "Consider selling Overcharged Ordnance for this if you feel like you will NEVER hit two or more people into a wall with a mine.",
                     "action": "optional",
                     "upgrade_id": "0cdf922e-b43f-4b8f-bf2b-0127d1ed2f7d"
                 },
                 {
-                    "id": "7b905708-9ce3-438b-b87f-fff85c00275a",
+                    "id": "13c421c1-fae5-4652-a919-f9cb5eb4ea88",
                     "notes": "You can also go for the pharah specific purple wp items if this is too expensive.",
                     "action": "buy",
                     "upgrade_id": "bbaf01d7-340d-4199-b738-86a98d68fe9b"
                 },
                 {
-                    "id": "57cd0607-45ad-41bc-a168-0b0ce86aa680",
+                    "id": "3be96bb3-3c17-47cb-a9a5-1063b4974d91",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
                 },
                 {
-                    "id": "809b03ca-b1e7-4ce1-b7b9-5d4e283cf3fb",
+                    "id": "b0d5966d-b49c-4ff0-9aee-3c5e4e1ccf41",
                     "notes": "We benefit from every stat, and the overhealth is especially good on us since we are constantly poking and building it up, not to mention the survivability it gives us during our barrages.",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "14998dee-c01d-4bed-9821-5ea8eccb4fe2",
+                    "id": "f69fd049-d404-41d5-8fe8-84a4ba30c7f4",
                     "notes": "50 armor while not sacrificing damage is VERY good for us. Pharah tends to take poke too, so the passive effect of regenerating armor is also very good.",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "233012ae-3a57-4310-b9ee-9daa3de902cd",
+                    "id": "6c1319fd-6281-41d5-8577-4283f1821e7e",
                     "notes": "This blue item will stay with us up through round 7.",
                     "action": "buy",
                     "upgrade_id": "f261877b-39e5-4248-aeca-7fe34de8ce10"
                 },
                 {
-                    "id": "fee5ee4b-88b9-41bd-b527-96a9fcec5725",
+                    "id": "9498325a-a627-43a2-9273-b768b4de49ed",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "7d4ef8eb-a008-4f63-802d-a67bd9d6989e"
                 },
                 {
-                    "id": "4ea3ef3a-a29d-4835-a5c4-2f65e0b25cd7",
+                    "id": "b3ddc7df-7034-48a4-b524-83a84d0b18a5",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "a5aa16ee-5a80-4e1b-b585-2c4d12575b7a"
                 },
                 {
-                    "id": "abc0f239-9933-4af3-9656-fc3d95b80c17",
+                    "id": "8df4e577-66f3-4ad3-b276-2b8e2fedacbc",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "88c3fb1a-2d38-4d2c-b439-6aadd038fd1a"
                 },
                 {
-                    "id": "485d25fd-6c8c-49ab-8ac2-6c7223f2341b",
+                    "id": "6d6174b2-1578-4c8c-b1f6-fb2167a1ed50",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "624ac709-635c-418c-9848-52720e2bba70"
