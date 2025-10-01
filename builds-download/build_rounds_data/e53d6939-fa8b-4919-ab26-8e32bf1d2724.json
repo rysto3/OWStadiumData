@@ -1,21 +1,21 @@
 {
-    "updated_at": "2025-09-19T06:56:01.205845+00:00",
+    "updated_at": "2025-09-30T22:05:17.155794+00:00",
     "id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
     "rounds": [
         {
-            "id": "66ed0922-a0af-4ee2-aa25-06af9e5ae371",
+            "id": "8b561d91-734f-4c76-8df2-86c6f716ed9a",
             "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
             "round_number": 1,
             "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "[Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) Is a decent start here, as it allows you to get off decent heals and damage. [Chain Grasp](item_17b85f3e-1b10-410d-8e02-c7ff61f502a0) is solid vs teams that hide behind shields and [Ethereal Excision](item_a2359da3-1aa5-406f-a82f-4a0bd66266ac) great vs Dva and Queen.\n\n**If you start with [Chain Grasp](item_17b85f3e-1b10-410d-8e02-c7ff61f502a0) or [Ethereal Excision](item_a2359da3-1aa5-406f-a82f-4a0bd66266ac) then start with [Compensator](item_2a354f80-610c-4661-9bdd-8960ae1a60b0)[Weapon Grease](item_961ae72f-434f-406b-a89b-ab8efec806bf) and [Armored Vest](item_358361e2-59be-4c81-b221-8a87f37809e6).",
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "[Phantasm](item_21ed9c3d-7a54-438f-9188-f21fd7a7dbfb) Is a solid start for round one, as it opens up your kit for an extra heal or damage orb.\n\nYou want to use [Phantasm](item_21ed9c3d-7a54-438f-9188-f21fd7a7dbfb) defensively for the early rounds however if your team has to retreat or you want to secure a kill, use it offensively. You can even use it to block entrances to your backline.",
             "stats": {
-                "LIFE": 266,
-                "Armor": 0,
+                "LIFE": 231,
+                "Armor": 25,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 266,
+                "Total LIFE": 256,
                 "Attack Speed": 0,
                 "Melee Damage": 0,
                 "Reload Speed": 0,
@@ -23,85 +23,73 @@
                 "Ability Power": 10,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
-                "Ability Lifesteal": 0,
+                "Ability Lifesteal": 10,
                 "Cooldown Reduction": 0
             },
             "round_upgrades": [
                 {
-                    "id": "35ddf917-ecd9-489f-8b83-d5042a1f5344",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "80fa34db-7535-4f7c-af51-d18e57cde74e",
+                    "id": "02da4224-31f1-4552-9e5b-2bd979d52b6e",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "953c67b6-624c-4c2e-9bca-8e3c74899685",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "2a354f80-610c-4661-9bdd-8960ae1a60b0"
-                },
-                {
-                    "id": "9f9a6a9a-ffc7-42a9-bfe9-31877d7130b4",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "961ae72f-434f-406b-a89b-ab8efec806bf"
-                },
-                {
-                    "id": "9a49a836-e9ba-443a-8f25-ed637f00660a",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "5d0e4135-f4e1-42fb-991a-417643064560"
-                },
-                {
-                    "id": "bd76e485-fa62-4089-882e-974b45a0b080",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
-                    "action": "optional",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
-                },
-                {
-                    "id": "5ed4a028-c526-46ec-9050-2105a37c522d",
+                    "id": "0e096272-3efa-42cf-aeba-54354ee1a7d6",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
                 },
                 {
-                    "id": "576ec457-4fa7-46f5-aabf-d1755189057d",
+                    "id": "f0173823-68ce-4390-b01c-7c62e274f666",
                     "notes": "",
-                    "action": "optional",
+                    "action": "buy",
                     "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "848c835d-ddbd-4019-b651-78dd8874068b",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
+                    "id": "d283f3fd-8ac8-4f09-9c08-6c7b3eb28f7a",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                },
+                {
+                    "id": "5309173d-13c8-4669-8e9a-6fed315193cf",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+                },
+                {
+                    "id": "d8787d27-1fd6-4856-b182-0e7a92b328d4",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "d4ce0c76-2500-40d6-b066-dca303be097f"
+                },
+                {
+                    "id": "de9c3553-5aac-4fdd-a16b-2c30116dc194",
+                    "notes": "",
                     "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
                 }
             ]
         },
         {
-            "id": "5aca647c-8299-4221-9ebc-1ea98b955746",
+            "id": "806bb389-1ffc-499c-9f6b-9ce6c9d4fa89",
             "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
             "round_number": 2,
             "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "I pick up [Alternative Energy](item_c3e816b3-9c39-4528-9578-e3fa610b6cc6) here as it allows us to keep heals up when fading. Focus attack speed.",
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "[Lum\u00e9riCo Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) Is highly underrated in early rounds. It is the best defensive item for AP Moira! Constant armor regen with healing orbs makes it very hard for the enemy team to secure a kill on you.",
             "stats": {
                 "LIFE": 244,
-                "Armor": 0,
+                "Armor": 50,
                 "Shield": 0,
                 "Max Ammo": 0,
                 "Move Speed": 0,
-                "Total LIFE": 244,
-                "Attack Speed": 15,
+                "Total LIFE": 294,
+                "Attack Speed": 0,
                 "Melee Damage": 0,
                 "Reload Speed": 0,
                 "Weapon Power": 0,
-                "Ability Power": 10,
+                "Ability Power": 15,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 0,
                 "Ability Lifesteal": 0,
@@ -109,170 +97,194 @@
             },
             "round_upgrades": [
                 {
-                    "id": "f157a604-55c5-4bd5-9196-6cbd51fcc879",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
-                },
-                {
-                    "id": "b0cfb4eb-db1b-44a1-abe0-0d706ec8791e",
+                    "id": "4aeef1a7-ad31-4924-8408-489861c7dfa2",
                     "notes": "",
                     "action": "optional",
                     "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
                 },
                 {
-                    "id": "08027d64-f3a0-491b-bac4-fd92063eed0b",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-                },
-                {
-                    "id": "81c3731f-7b97-466c-a032-80d2394321fb",
+                    "id": "1c4fdbdb-c562-4f00-a908-223da1c4c723",
                     "notes": "",
                     "action": "optional",
-                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
                 },
                 {
-                    "id": "0df2631c-7d3e-40de-bbc2-617547ce3310",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
-                    "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-                }
-            ]
-        },
-        {
-            "id": "801a26cf-b473-484b-bb4a-80db19c535ff",
-            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
-            "round_number": 3,
-            "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "",
-            "stats": {
-                "LIFE": 263,
-                "Armor": 0,
-                "Shield": 0,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 263,
-                "Attack Speed": 15,
-                "Melee Damage": 0,
-                "Reload Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 20,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 0
-            },
-            "round_upgrades": [
-                {
-                    "id": "fb4fc003-cc48-41b0-8e7a-c382871a8ef2",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-                },
-                {
-                    "id": "e463f36b-ac2b-4b36-a79b-5ffff3d5c5fc",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "8c990b5f-1559-45d8-aa4e-e3ca11b5f993",
+                    "id": "70d07e14-2619-477d-8578-c04dbee55c77",
                     "notes": "",
                     "action": "optional",
-                    "upgrade_id": "b8ca58e7-6ae2-40ee-8618-fe2f32315295"
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
                 },
                 {
-                    "id": "b01c6555-1684-4916-ab6b-bf3b10c353aa",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
-                },
-                {
-                    "id": "5fc40d9d-4e19-47b9-b160-22d91915b523",
-                    "notes": "",
-                    "action": "optional",
-                    "upgrade_id": "8714087c-c078-4619-a2ef-327bc6edaa69"
-                },
-                {
-                    "id": "ce671651-b60f-42b4-9829-1c987093fc17",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
-                    "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-                },
-                {
-                    "id": "2191f306-4151-4769-800b-36832803e09d",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
-                    "action": "buy",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
-                }
-            ]
-        },
-        {
-            "id": "a5657be2-50ae-49ef-858b-dbad99107105",
-            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
-            "round_number": 4,
-            "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "[Icy Coolant](item_8b1c21e9-33e8-49a6-8277-a3a06d55a65f) and [Multi-tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) are good here as it gives some sustain with cooldown reduction, which will allow more orbs that will allow more grasp damage.",
-            "stats": {
-                "LIFE": 282,
-                "Armor": 50,
-                "Shield": 0,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 332,
-                "Attack Speed": 15,
-                "Melee Damage": 0,
-                "Reload Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 35,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 0
-            },
-            "round_upgrades": [
-                {
-                    "id": "1347a5c9-2935-4671-9ced-781bc222a34f",
+                    "id": "ab112ebf-7350-467b-b83b-77e168a279cc",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
                 },
                 {
-                    "id": "53a3b3db-b301-4176-92cb-539da9fb3c6e",
+                    "id": "93ff4850-fa1c-47ab-ac00-d4c244c28056",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-                },
-                {
-                    "id": "a5566aba-7e94-499d-8683-fa8f358dc797",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "259cd064-8146-4975-8e51-40c40bd2efd5",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
-                    "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-                },
-                {
-                    "id": "9f188135-d6ce-4293-8bc3-8b4d0151afe4",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
-                    "action": "buy",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
                 }
             ]
         },
         {
-            "id": "8c1b0ebd-70f7-4fe3-9b36-1434fe6f1bfb",
+            "id": "bb16622e-c318-4000-a23e-60a24368418c",
+            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
+            "round_number": 3,
+            "cash_earned": 0,
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "[Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) is our go to here as it allows you to play aggressive while keeping you and your team healed. Damage and Healing is what gets us that MVP bonus.\n\nWe pick up some much needed CDR with [Multi-tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) and [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0). 10% AP and 25 Overhealth with each skill use is a plus. The CDR is what allows us to keep constant pressure with our abilities.",
+            "stats": {
+                "LIFE": 270,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 320,
+                "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 10
+            },
+            "round_upgrades": [
+                {
+                    "id": "7c7ee07f-03b8-44ac-9860-0aee5999f642",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "4e7a9e87-8ed8-44de-b915-299d2bb3c72f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "9da6e5b2-973a-4cdc-819a-4631f3e7a17c",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "358361e2-59be-4c81-b221-8a87f37809e6"
+                },
+                {
+                    "id": "dc1e5c8d-c388-4bd5-9ce0-f7e0e1919f92",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "6d8803cf-baa7-46ee-af91-51e7f2301418"
+                },
+                {
+                    "id": "ee677fcf-6acf-412c-a4d7-7e0ef3ef4466",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "ef9bb72f-a56c-4fb6-a552-5abce0b943d7"
+                },
+                {
+                    "id": "6fdfc742-79ce-4899-94d4-8c4b5f1efebd",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "f780e3a7-8fc2-4fa3-9ef5-582c01b65921",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "0c775e3e-d127-498c-ac7c-ad27731154d5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
+        },
+        {
+            "id": "55738a7b-2261-4e54-bfae-7b2c9100f5f8",
+            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
+            "round_number": 4,
+            "cash_earned": 0,
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "[Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) Gives us 20% more AP and 10% CDR. These are prime stats for this build as the faster you can use your abilities the better your armor sustain with [Lum\u00e9riCo Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8) along with healing and killing.\n\nI added [Vital-E-Tee](item_b92e6f1d-3aac-4eec-b027-00c8e1529016) and [Energized Bracers](item_f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e) bracers here incase you feel as though you need a little more sustain. However I rarely pick these up over [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e).",
+            "stats": {
+                "LIFE": 291,
+                "Armor": 50,
+                "Shield": 0,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 341,
+                "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 0,
+                "Ability Power": 45,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 0,
+                "Ability Lifesteal": 0,
+                "Cooldown Reduction": 20
+            },
+            "round_upgrades": [
+                {
+                    "id": "b7ae36ce-4ba7-4e71-8cf8-d0dd3e2adb1e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "4af7d6ba-f112-4ad2-ace8-f35d296711b9",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "b92e6f1d-3aac-4eec-b027-00c8e1529016"
+                },
+                {
+                    "id": "a628a9a9-177c-47bc-a3ca-5be91282631d",
+                    "notes": "",
+                    "action": "optional",
+                    "upgrade_id": "f83a1d9e-91f8-4d2c-bd62-c673b8d9fd2e"
+                },
+                {
+                    "id": "889d6077-f6b0-4a3a-9ad9-4297ca7b9913",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "b6063101-38d4-4b91-8b31-f0b7b65127d7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "5b9ffcd7-d790-4906-a01b-344b090714c3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "55e51ac9-5a12-48fb-a1c6-c08cafcc87f3",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "9071b3a8-5ec5-4f87-b077-26b02e44000b",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                }
+            ]
+        },
+        {
+            "id": "fc2ad2b9-90b2-4066-8d67-91324229c808",
             "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
             "round_number": 5,
             "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "[Ethereal Excision](item_a2359da3-1aa5-406f-a82f-4a0bd66266ac) works wonders with our build as it increases our lifesteal from both secondary fire grasp and orb damage. Along with movement speed to keep bursting squishies.\n\n**Make sure to not use your ultimate once fully charged**",
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "**Time for the hunt!** Pick up [Ethereal Excision](item_a2359da3-1aa5-406f-a82f-4a0bd66266ac) and sell everything but [Lum\u00e9riCo Fusion Drive](item_3da81000-333c-460a-a1a2-09441bfda9c8). We then pick up [Superflexor](item_580b77b4-0d63-469b-99a8-5372c55dfc1b)[Phantasmic Flux](item_5e644a79-cf6e-4196-8d0a-232f75004643) and [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f).\n\nNow you can harass the enemy backline as you have solid self sustain with **Lifesteal**. Utilize [Ethereal Excision](item_a2359da3-1aa5-406f-a82f-4a0bd66266ac) movement speed to engage the enemy by right clicking their heads. Your damage orbs and secondary fire both give you Lifesteal, while [Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) also heals you and damages enemies.\n\n**Make sure to not use your ultimate once fully charged**",
             "stats": {
                 "LIFE": 326,
                 "Armor": 50,
@@ -283,8 +295,95 @@
                 "Attack Speed": 0,
                 "Melee Damage": 0,
                 "Reload Speed": 0,
-                "Weapon Power": 10,
+                "Weapon Power": 20,
                 "Ability Power": 25,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 0
+            },
+            "round_upgrades": [
+                {
+                    "id": "5d9a0dd1-219c-41d8-b1db-e3266ee74687",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
+                },
+                {
+                    "id": "a47f5bf3-c90e-48ef-9645-f3fdc7cf1a13",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
+                },
+                {
+                    "id": "91a3dff3-2878-4f61-9ec5-ae5026f689c0",
+                    "notes": "",
+                    "action": "sell",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "e0440518-8089-4832-9c37-f32117b7f864",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "984194de-3e22-4f49-90a4-c3bd787b6afe",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "b165ba67-1d33-4edc-8125-68166e420d9d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "0b97aa04-6b3f-40dd-ae9e-a5a42812c247",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "524ac411-f7f7-42d8-8915-a1ee6123924a",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "aa9d059b-01b7-4a8b-835a-fab51fb05060",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "51a2f91d-9901-412a-a97f-0b66069a98c5",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "a2359da3-1aa5-406f-a82f-4a0bd66266ac"
+                }
+            ]
+        },
+        {
+            "id": "8f6959d5-3f90-4cef-b373-bb639e87a91e",
+            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
+            "round_number": 6,
+            "cash_earned": 0,
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "Pick [Iridescent Iris](item_b7fb28ef-ce82-416b-8693-01c274f8df4e) back up now. Or [Multi-tool](item_5ba8d94e-f2f3-44b7-8773-025fc6ed7c56) and [Ironclad Exhaust Ports](item_2d085fa5-ace6-4fab-9323-b7a06268bcd0) if you can not afford it.",
+            "stats": {
+                "LIFE": 347,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 447,
+                "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 45,
                 "Critical Damage": 0,
                 "Weapon Lifesteal": 15,
                 "Ability Lifesteal": 15,
@@ -292,217 +391,154 @@
             },
             "round_upgrades": [
                 {
-                    "id": "7f0d48b4-e689-4a0e-be98-228a4f06525f",
-                    "notes": "",
-                    "action": "sell",
-                    "upgrade_id": "c3e816b3-9c39-4528-9578-e3fa610b6cc6"
-                },
-                {
-                    "id": "f826e59d-4430-4d10-8fe2-8d6277bc9690",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-                },
-                {
-                    "id": "167ca8ca-9725-4d9b-b67e-25c739d262d6",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-                },
-                {
-                    "id": "e9216d49-ca5e-48ca-bfae-c2ce83f9dc54",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-                },
-                {
-                    "id": "77552fc6-9bde-4995-a70a-a3e7805499f1",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "4cabee98-de0b-48e3-96eb-986b075352e8",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
-                    "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-                },
-                {
-                    "id": "0f2886ba-e2c3-436f-ac70-398c4803e72f",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
-                    "action": "buy",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
-                },
-                {
-                    "id": "4dec8538-e818-4197-b0bc-f8a59e8b016e",
-                    "notes": "Good start vs Dva and Queen.",
-                    "action": "buy",
-                    "upgrade_id": "a2359da3-1aa5-406f-a82f-4a0bd66266ac"
-                }
-            ]
-        },
-        {
-            "id": "69de0a7f-691d-4f93-9349-2fb0434b8d34",
-            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
-            "round_number": 6,
-            "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "[Cybervenom](item_210a8582-91ec-4cf3-968a-a443f3a0c505) with [Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) helps secure squishies, while keeping you healed along with lifesteal.",
-            "stats": {
-                "LIFE": 346,
-                "Armor": 50,
-                "Shield": 50,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 446,
-                "Attack Speed": 0,
-                "Melee Damage": 0,
-                "Reload Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 35,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 15
-            },
-            "round_upgrades": [
-                {
-                    "id": "62fc92cc-b99f-4d05-8882-f939bd2bb0b5",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
-                },
-                {
-                    "id": "390857c7-65de-4973-81cc-cab6f961795f",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
-                },
-                {
-                    "id": "ff064d69-b778-4d3e-8254-28eda01ee5b7",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
-                },
-                {
-                    "id": "26d0c2ba-5d4c-4790-8ffe-f3efc1464174",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-                },
-                {
-                    "id": "1351ca98-3a17-4aff-a972-fcc40fd302d8",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
-                },
-                {
-                    "id": "296e1f12-64ba-431e-82ca-cea17b178884",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
-                    "action": "buy",
-                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
-                },
-                {
-                    "id": "6a3ea0b2-2fe3-4b98-b843-99b18bd0fc8e",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
-                    "action": "buy",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
-                },
-                {
-                    "id": "2af519c3-e475-4b41-a534-dc733ebbe229",
-                    "notes": "Good start vs Dva and Queen.",
-                    "action": "buy",
-                    "upgrade_id": "a2359da3-1aa5-406f-a82f-4a0bd66266ac"
-                }
-            ]
-        },
-        {
-            "id": "8b27fe1e-c85c-4b8a-a9ea-20bdd7763ddb",
-            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
-            "round_number": 7,
-            "cash_earned": 0,
-            "created_at": "2025-09-19T06:56:01.205845+00:00",
-            "notes": "[[Scientific Deathod](item_d61c724d-0a3e-4a28-bfb5-a7859b799981) Is where this build shines and allows you to harass the backline, all while standing in the middle of the enemy team.. if you so choose. Shoot [Cross-Orbal](item_e567bb63-527f-4c72-8ba1-dc59be1a0dc1) wait a second, then fade through enemy frontline to stack Overhealth. Once your fade ends your healing orb would have caught up to you and you just right click enemies to transfer their life force to yourself. Then you can just keep repeating, keeping in mind to fade through enemies with each fade. I have stood against teams and been able to hold points solo doing this.\n\n**Make sure to have your ultimate up before hard diving for the extra sustain from [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f)**",
-            "stats": {
-                "LIFE": 367,
-                "Armor": 50,
-                "Shield": 50,
-                "Max Ammo": 0,
-                "Move Speed": 0,
-                "Total LIFE": 467,
-                "Attack Speed": 0,
-                "Melee Damage": 0,
-                "Reload Speed": 0,
-                "Weapon Power": 10,
-                "Ability Power": 55,
-                "Critical Damage": 0,
-                "Weapon Lifesteal": 15,
-                "Ability Lifesteal": 15,
-                "Cooldown Reduction": 25
-            },
-            "round_upgrades": [
-                {
-                    "id": "dc6cd30e-9c06-4eef-99e6-02793f8db223",
-                    "notes": "You can take this if enemy team has lots of debuffs. If you do, play closer to team as you lose a lot of sustain without Scientific Deathod.",
-                    "action": "optional",
-                    "upgrade_id": "d4ce0c76-2500-40d6-b066-dca303be097f"
-                },
-                {
-                    "id": "3fecdc58-3b4f-4219-971a-66601eb4e63a",
+                    "id": "cbc4b3e2-1dd9-47fb-876a-ba6c208bf1cf",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
                 },
                 {
-                    "id": "b3da4d02-a4b9-4208-a5c7-a6b12fec46a7",
+                    "id": "1ca2f72b-8880-42b4-b0f4-8ae93e1c94d8",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "210a8582-91ec-4cf3-968a-a443f3a0c505"
+                    "action": "optional",
+                    "upgrade_id": "5ba8d94e-f2f3-44b7-8773-025fc6ed7c56"
                 },
                 {
-                    "id": "3ead4a9b-0803-4d7b-87ea-e8dc845148ef",
+                    "id": "49201611-940d-49da-b6f1-dd4ea5781eab",
                     "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                    "action": "optional",
+                    "upgrade_id": "2d085fa5-ace6-4fab-9323-b7a06268bcd0"
                 },
                 {
-                    "id": "6d7bf25c-304f-4d22-9acf-c1a24fcdf534",
+                    "id": "b1a71bb0-4d5c-429e-91aa-e2aa1451e429",
                     "notes": "",
                     "action": "buy",
-                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
                 },
                 {
-                    "id": "5439f7cf-b2b8-4418-8856-2cd53f335e7a",
-                    "notes": "",
-                    "action": "buy",
-                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
-                },
-                {
-                    "id": "e8020e08-d095-47ab-9091-219109a5e1b1",
+                    "id": "b5fa9e07-c3ab-42a1-b1bb-f916469b8adb",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
                 },
                 {
-                    "id": "77505357-0700-4480-91a4-13b71650d1ae",
-                    "notes": "This is crucial for end game antihalation, even though you may be tempted for Multi-Ball.",
+                    "id": "227ebac3-067a-4fba-823f-743d4b420eed",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "064b3f9e-0c55-4075-b1f2-224bb5842949",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "0b3fa378-7e4c-414b-8ff5-215a8d216cd9",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "0d0bb7f6-9be0-434b-9cbe-5c7046e34b91",
+                    "notes": "",
                     "action": "buy",
                     "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
                 },
                 {
-                    "id": "96453915-3217-4bfc-b95c-11b471e21653",
-                    "notes": "Good start vs Dva and Shield tanks, where the enemies stand behind tank.",
+                    "id": "e5ad2927-6572-4ab7-9e18-7479f71dfc23",
+                    "notes": "",
                     "action": "buy",
-                    "upgrade_id": "17b85f3e-1b10-410d-8e02-c7ff61f502a0"
+                    "upgrade_id": "a2359da3-1aa5-406f-a82f-4a0bd66266ac"
+                }
+            ]
+        },
+        {
+            "id": "aa7ffc0e-83e5-4d25-a9a3-cfd1db913c67",
+            "build_id": "e53d6939-fa8b-4919-ab26-8e32bf1d2724",
+            "round_number": 7,
+            "cash_earned": 0,
+            "created_at": "2025-09-30T22:05:17.155794+00:00",
+            "notes": "[Scientific Deathod](item_d61c724d-0a3e-4a28-bfb5-a7859b799981)is what I usually run here, as it helps us get to [Vanadium Injection](item_57953fbc-11ff-4e92-9928-fc59b7be668f) faster, while giving us chunks of Overhealth when fading through enemies to engage the backline.\n\n[Martian Mender](item_0099632b-4e18-450e-844f-22c40e51bc98) is just the topping on the cake, as you now have 30% CDR and 3% heath restore per second. Just spam damage orbs while grasping the enemies heads to close ground and fade more damage orbs to keep up the pressure.",
+            "stats": {
+                "LIFE": 391,
+                "Armor": 50,
+                "Shield": 50,
+                "Max Ammo": 0,
+                "Move Speed": 0,
+                "Total LIFE": 491,
+                "Attack Speed": 0,
+                "Melee Damage": 0,
+                "Reload Speed": 0,
+                "Weapon Power": 20,
+                "Ability Power": 45,
+                "Critical Damage": 0,
+                "Weapon Lifesteal": 15,
+                "Ability Lifesteal": 15,
+                "Cooldown Reduction": 20
+            },
+            "round_upgrades": [
+                {
+                    "id": "b273b1e3-043f-4e5d-bae5-f9f96b8f04c2",
+                    "notes": "You can take this if enemy team has lots of debuffs. If you do, play closer to team as you lose a lot of sustain without Scientific Deathod.",
+                    "action": "optional",
+                    "upgrade_id": "d4ce0c76-2500-40d6-b066-dca303be097f"
                 },
                 {
-                    "id": "f348fb9b-2b99-4ce6-b50a-6cfc641a4003",
-                    "notes": "Good start vs Dva and Queen.",
+                    "id": "ae1889a3-e1a5-40d6-8139-0dc706b25364",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "b7fb28ef-ce82-416b-8693-01c274f8df4e"
+                },
+                {
+                    "id": "39c01b38-95b2-4bd4-8716-07aa044bb040",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "0099632b-4e18-450e-844f-22c40e51bc98"
+                },
+                {
+                    "id": "9571ebe3-6187-47ad-8a8a-b8fd1b293e6e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "580b77b4-0d63-469b-99a8-5372c55dfc1b"
+                },
+                {
+                    "id": "13f5e0c7-17bd-42d5-99c1-70978fed4d58",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "5e644a79-cf6e-4196-8d0a-232f75004643"
+                },
+                {
+                    "id": "b4c1dddc-be3a-4f67-9ce1-a8048bb76bf7",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "57953fbc-11ff-4e92-9928-fc59b7be668f"
+                },
+                {
+                    "id": "4e1117d4-b3d9-453b-87bb-b90b61ba2e2f",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "3da81000-333c-460a-a1a2-09441bfda9c8"
+                },
+                {
+                    "id": "d109f1f4-6d97-4430-ba9d-e36b1cd2f93e",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "21ed9c3d-7a54-438f-9188-f21fd7a7dbfb"
+                },
+                {
+                    "id": "59cf3651-113b-4f67-89e0-7d11f2600d7d",
+                    "notes": "",
+                    "action": "buy",
+                    "upgrade_id": "e567bb63-527f-4c72-8ba1-dc59be1a0dc1"
+                },
+                {
+                    "id": "5d56170a-5cd1-4273-a972-5d036066630c",
+                    "notes": "",
                     "action": "buy",
                     "upgrade_id": "a2359da3-1aa5-406f-a82f-4a0bd66266ac"
                 },
                 {
-                    "id": "1dba6700-204f-4d0a-829a-fad23d2e0e63",
+                    "id": "01c63ae7-59c2-46af-b28b-f8751cd647e3",
                     "notes": "",
                     "action": "buy",
                     "upgrade_id": "d61c724d-0a3e-4a28-bfb5-a7859b799981"
